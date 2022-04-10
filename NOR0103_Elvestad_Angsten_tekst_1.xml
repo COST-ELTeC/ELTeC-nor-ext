@@ -1,0 +1,3411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="NOR0103" xml:lang="nb" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Angsten ELTeC-utgaven
+    </title>
+    <author ref="47005668 https://www.wikidata.org/wiki/Q3498167">
+     Elvestad, Sven (1884-1934)
+    </author>
+    <respStmt>
+     <resp>
+      ELTeC encoding
+     </resp>
+     <name>
+      Michael Preminger
+     </name>
+    </respStmt>
+   </titleStmt>
+   <extent>
+    <measure unit="words">
+     28864
+    </measure>
+    <measure unit="pages">
+     0
+    </measure>
+   </extent>
+   <publicationStmt>
+    <p>
+     Incorporated into the ELTeC
+     <date>
+      2022-04-10
+     </date>
+    </p>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <ref target="Bokselskapet.no">
+      Teksten i bokselskap.no følger 1. utgave, 1910 (Kristiania/Aschehoug) 
+og er basert på digital tekstversjon ved Øystein Tvede.
+     </ref>
+     <author>
+      S. Elvestad
+     </author>
+     <title>
+      Angsten
+     </title>
+     <pubPlace>
+      Kristiania
+     </pubPlace>
+     <publisher>
+      H. Aschehoug  &amp;amp; co (W. Nygaard)
+     </publisher>
+     <date>
+      1910
+     </date>
+    </bibl>
+    <bibl type="digitalSource">
+     <ref target="https://www.nb.no/items/URN:NBN:no-nb_digibok_2008072900072">
+      Faksimilie i Bokhylla
+     </ref>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc n="eltec-1">
+   <p/>
+  </encodingDesc>
+  <profileDesc xmlns:e="http://distantreading.net/eltec/ns">
+   <langUsage>
+    <language ident="nb" usage="100"/>
+   </langUsage>
+   <textDesc>
+    <e:authorGender key="M"/>
+    <e:size key="short"/>
+    <reprintCount key="low" xmlns="http://distantreading.net/eltec/ns"/>
+    <e:timeSlot key="T4"/>
+   </textDesc>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2022-04-10"/>
+  </revisionDesc>
+ </teiHeader>
+ <text type="novel" xml:id="BS_Elvestad_Angsten_tekst_xml_text">
+  <body>
+   <p>
+    bokselskap.no, Oslo 2020
+    Sven Elvestad:
+    Angsten
+    Teksten i bokselskap.no
+følger 1. utgave, 1910 (Kristiania/Aschehoug) og er basert på digital
+tekstversjon ved Øystein Tvede.
+    ISBN: 978-82-8319-507-1 (digital,
+bokselskap.no),
+    978-82-8319-508-8 (epub), 978-82-8319-509-5
+(mobi)
+    Teksten er lastet ned fra
+    <ref target="http://bokselskap.no/">
+     bokselskap.no
+    </ref>
+   </p>
+   <p>
+    Sven Elvestad
+   </p>
+   <p>
+    Angsten
+   </p>
+   <p>
+    bokselskap.no
+    Oslo 2020
+   </p>
+   <p/>
+   <p/>
+   <div type="chapter" xml:id="i.">
+    <head>
+     I.
+    </head>
+    <p>
+     [1] Han var netop kommet med Dampbaaden og gik henad Gaden med en
+  duvende Følelse i Benene efter Sjøgangen. Idet han skulde skraa over
+  et Gadekryds, blev han stanset af en vældig Flytteomnibus, som vagget
+  forbi ham med en dump Rullen mod Asfalten. Vognen var tom; han saa ind
+  i dens mørke Indre, det var som han stirret i en Tunnel. Efter
+  Omnibussen kom en Cyclist, saa hoppet en Automobil forbi lig en
+  gjøende Hund. Saa kom en Sporvogn. Han saa i disse tilfældige Træf et
+  særligt Uheld, som rammet akkurat ham. Hvorfor drev al denne Trafik
+  gjennem Gaden, just idet han skulde skraa over? – Saa kom nok en
+  Sporvogn, den hadde et Skilt foran, et ildrødt Skilt, som fænget i
+  hans Blik. Zoologisk Have, stod der. Han steg paa Vognen. Og saaledes
+  gik det til, at han slet ikke kom over paa den anden Side af Gaden.
+  Det var en Dag i Mai i en stor By.
+    </p>
+    <p>
+     [2] Dér han stod bag paa Vognen gjennemlevet han atter igjen alle
+  de smaa Ærgrelser, som bestandig styrtet over ham i en Sporvogn:
+  Naturligvis var de fleste Siddepladse besat. Der var et lidet Rum ved
+  Siden af den tykke Damen derhenne. Men saa maatte hun flytte sit
+  besværlige Legeme. Og saa maatte hun flytte Kurven hun sad med. Og den
+  lille Pige ved Siden af maatte flytte sig. Nei, saa vilde han heller
+  bli staaende. Men hvorfor kjørte ikke Vognen videre straks? Først
+  skulde Forgjængeren ind paa et Sidespor. Og Forgjængeren stod længe
+  stille, fordi saa mange Passagerer skulde af og paa. En gammel Dame
+  med Stok i Haanden banet sig under Smaaklynk frem fra det
+  allerinderste af Vognen. Hun strævet fremover med Armene dirrende
+  under den falmede Silkecape. Aa, – hvor det tog Tid, før hun stod nede
+  paa Gaden, lidt rød og anstrængt, smilende forlegent om Undskyldning
+  for Uleiligheden. Der stod hun midt i en dundrende Larm med sin
+  fattige Gammelkrop og med sine forvirrede Tanker, som bragte hele
+  Hovedet i Uorden. Det isgraa Haar flagret ned i hendes Øine, og Hatten
+  gled skjævt. Men saa dukket et messingknappet Bryst op ved hendes Side
+  og en Politistav gik iveiret, blinkende som et Lyn, befalende som et
+  Kommandoraab. Hestehoverne slog Gnister omkring hende, og det flammet
+  blaaligt i Automobilernes rystende Bremser. Det var [3] som om hele
+  Færdslen grundstødte paa denne lille vaklende Skikkelse. Det gav et
+  Rykk gjennem den mægtige, bredt henrullende Gadelarm. – Men saa kom
+  Kvinden over, Stokken og det Hele, Capen, som hang om det krumme
+  Benbryst, de forskræmte Øine under den skjæve Hat, alt bjergedes ind
+  paa Fortouget. Og det store dundrende Liv bredte sig frydefuldt
+  videre, mens Asfalten knurret dyrisk, brølte under Vognhjulene, skreg
+  i Skinnegangene og mumlet uendelig under Tusinders Fodslag.
+    </p>
+    <p>
+     Sporvognen rykket, saa nu kunde den gaa. Han stod der og hvilte
+  Ryggen mod Vognens Ramme. Straks kom Konduktøren og skjøv ham tilside;
+  det var Konduktørens Plads. Han maatte staa midt paa Platformen og
+  holde sig i Staalstangen og føle de andres Aande og Øine i sin Nakke.
+  Saadanne Ærgrelser hadde han bestandig paa Sporvognen. Og naturligvis
+  hadde han ingen Smaapenge … Han svedet ved Tanken paa det mægtige
+  Bryderi han vilde afstedkomme med Vekslingen. Hvad vilde han ogsaa paa
+  denne Sporvogn? Hvorhen kjørte den? Zoologisk Have; det var et rent
+  Tilfælde, et Skjæbnetræf, han kunde ligesaa godt ha tat et andet Sted.
+  Hans Blik opfanget en Urskive i den lysende Façaderække, som gyngende
+  svinget forbi under Vognens Fart. Klokken var fire. Ikke mere end
+  fire. Han hadde Uro i Kroppen. De uafladelige Holdepladse irriteret.
+  Vognen stanset i pludselige [4] Rykk, og hvergang duvet han blidt ind
+  mod de andre Passagerer. Endelig blev der saa rummeligt, at han kunde
+  faa en bedre Plads, et Rygstød mod Skjærmen. Han følte sig vel ved, at
+  han ikke længer hadde Folks Øine bag sig, Vognen var nu kommet ind i
+  roligere Strøg.
+    </p>
+    <p>
+     I en gammel Gade, hvor Husene med utallige Vinduer stod skjævt og
+  hang sig paa hinanden. Han saa intet vakkert i denne besynderlige
+  gamle Huskolonnade, som han nu var nødt til at se paa; men den
+  ensformige, tidsgraa Farve virket beroligende paa ham. Og ved Synet af
+  de bratte Tagskraaninger med de smaa Karnapper viftet der gjennem hans
+  Sind et løst Minde om hans egen Barndomstid i Norge. Han hadde ingen
+  Sans for vakre Bygninger i almindelig Forstand. Det ærgret ham, naar
+  en af hans Venner stanset og gjorde en blændende Haandbevægelse i
+  Luften hen mod et Bygværk og sa, nei se. Han hadde Ord for at være
+  ganske blottet for Kunstforstaaelse og var det sikkert ogsaa. Men han
+  kunde dog enkelte Gange i sit Liv føle sig grebet ved at se en Kirke
+  eller et Hus. Men han maatte kanske være i en særlig Stemning i
+  saadanne Stunder. Og han følte det heller ikke som andre Mennesker.
+  Han kunde løfte Hodet, mens han gik, se en rød Kvældshimmel hvile over
+  en Kirkekuppel og bli grebet af en dirrende og vemodsfuld Stemning,
+  Hjemlængsel eller Udlængsel, eller bølgende Savn efter et Menneske,
+  som var [5] langt borte fra ham. Saadan var hans Glæde ved at se
+  smukke Ting, han omsatte bestandig Udtrykket til en personlig
+  Stemning.
+    </p>
+    <p>
+     Nu følte han sig lidt efterhvert roligere og mærket, hvordan
+  Trætheden sank ned i ham. Fjernt i hans Bevidsthed suste det endnu af
+  Sjøen. Han kunde høre det, naar han lyttet, som naar man lytter længe
+  mod Stilheden og mærker at selve Tausheden fylder Hørslen. Hans Sanser
+  var i en langsom Vuggen, hans Legeme mat. Han hadde ikke sovet i det
+  sidste Døgn.
+    </p>
+    <p>
+     Og nu stod han her og hvilte Knærne møre. Han syntes, han hadde Tid
+  til at se sig om, se efter Ansigter, som han pleiet. Hans Blik søgte
+  ud enkelte Mennesker, som han jog forbi: Et Menneske, som gik den
+  modsatte Vei og som glippet med Øinene mod Solen, et Menneske, som
+  stod og ventet ved en Lygtestolpe og som for Tidsfordriv lod Øinene
+  hvile mod Sporvognen, idet den raslet forbi. Et Menneske, som rullet
+  henad Gaden i en Drosche. Et Menneske, som aabnet et Vindu for at tale
+  med nogen udenfor. Saaledes fæstet hans Blik sig ved et eller andet
+  enkelt Menneske i den store Sværm, det fænget i etpar Øienvipper,
+  eller kanske i en fin og blank Ansigtshud, som Sollyset
+  gjennemskinnet. Han mærket han var kommet til en anden By. Der var
+  andre Klær paa Menneskene, et andet Præg. En Forandring. Ligesom et
+  andet Lys omkring [6] dem. Han løftet Hovedet … Og nu saa han i et
+  Vindu høit oppe i et Hus et Ansigt.
+    </p>
+    <p>
+     Ansigtet stod ganske stille bag den lukkede Rude og ganske tæt ind
+  paa den. Ansigtet var en Mands, et rundt, skjægløst og farveløst
+  Ansigt og unaturlig stort. Det var som skulde han se det gjennem et
+  Forstørrelsesglas. Sporvognen løb hurtig forbi, men han maatte vende
+  sig om og se længere paa Ansigtet. Der stod det endnu, ubevægeligt, og
+  præget af et forfærdeligt Alvor. Øinene var to graa Pletter, som saa
+  ret frem og hvori intet Syn speilet sig. Han gyste uvilkaarlig, en let
+  Frysen i Skuldrene. En Mand som stod ved Siden af ham og mærket hans
+  Bevægelse sa: Det er en Vanvittig, som har siddet mange Aar bag det
+  Vindu.
+    </p>
+    <p>
+     Sporvognen svinget ind i en anden Gade og Ansigtet blev borte for
+  ham, men Synet af det sad længe igjen i hans Bevidsthed.
+    </p>
+    <p>
+     Han hørte Klokkeslag langt borte og forstod, at han nu var naaet
+  til den ydre By. Han var fremdeles omgit af Huse, en Vrimmel af
+  Stenhuse og nye og atter nye, graa og ensformige Asfaltgader gled
+  under Vognhjulene som Drivremme i en Fabrik. Men der var noget i
+  Kirkeklokkernes Slag, som betød, at de kom fra Byens Centrum, og
+  fjernt derhenne steg et surrende Kok mod Himmelens Laag fra en
+  blændende [7] Hvirvel af Vogne og Mennesker. Han var udenfor
+  Støien.
+    </p>
+    <p>
+     Men var han ikke fremme forlængst? Kanske havde han allerede kjørt
+  forbi. Men om han nu spurgte Konduktøren, saa blev der bare nyt Opstyr
+  og nye Bryderier. Saa vilde han heller stige af og vandre omkring paa
+  det Uvisse. Sporvognen strøg netop forbi en lang graa og trist
+  Bygning. Det maatte være et Hospital. Bygningen kastet Skygge og
+  mørknet Speilglasruderne i Vognen. Det var ligesom Hospitalet dugget
+  Glasset med en Aande af Uhygge. Han steg af og stod med en Gang
+  udenfor en Portal, som bar en forgyldt Inskription: Zoologisk Have.
+  Det var saaledes ikke noget Hospital.
+    </p>
+    <p>
+     Straks da han kom ind i Haven maatte han stanse og lytte forundret
+  efter Stilheden. Den graa Mur bag ham lukket for Byens Larm og bar den
+  langt væk. Luften, som hadde Sommerens blændende Klarhed,
+  gjennemdryssedes af Fuglerøster. Nu og da blev en menneskelig stemme,
+  et Barns Klynken baaret med i Sværmen. Men ingen Støi fra Dyrene, ikke
+  Løvens truende Raab, ikke Gnuens rystende Klage, ikke Hyænens Skrik.
+  Han var i en Dyrepark, men der var stille, som paa en Kirkegaard.
+  Ogsaa i Kirkegaardsstilheden ligger det store, forunderlige Savn. Men
+  ogsaa over Kirkegaarden pibler Fuglekvidret under hver Gren.
+    </p>
+    <p>
+     Han gik en Stund omkring i det blide Sollys [8] og mærket paa saa
+  meget og mangt, at han var midt i Sommerens Frembrudd. Derhenne
+  skyllet en grøn Plæne mod ham som en Bølge, skummende i Toppen af
+  hvide, nysatte Roser. Trærne stod overstrømmende lysegrønne og viftet
+  op mod Luftens farende Sky-Riger. Han skjalv. Han følte det lyse Løv
+  som Ild, Skogbremmen derhenne var som et Fakkeltog for hans Øine. Nu
+  kom han forbi en Fontæne. Vandet stod i blanke, fugtige Bregner,
+  duvende sagte i Blæsten, en Skygge af Væde kastedes henover
+  Singelen.
+    </p>
+    <p>
+     Jo, nu var der Sommer igjen paa denne Del af Jorden. Andre Steder
+  skulde Skogen visne og den milde Varme vige under en kold Aande fra
+  Verdensrummet. Jorden, som med sine flagrende Skygevanter hvirvler
+  gjennem Solsystemet som en Serpentinedanserinde, har vendt et andet
+  Ansigt mod den store Blænder. Farverne skifter ustanselig foran Solens
+  Lyskast, Sommerens grønne, Høstens heftige røde, Vinterens isblaa.
+    </p>
+    <p>
+     … Bag et Jerngitter reiste en levende, graa Masse sig. Det var
+  Elefanten. Det store Dyr bevæget langsomt sine Høidedrag. Ovenpaa dens
+  Hode laa endnu Resterne af den sidste Mødding, som det hadde behaget
+  den at nedblæse over sin Forstands Hvælving. Og ovenpaa dens Ryg laa
+  et Ras af Sand og Støv. Der kommer det store Dyr fremover i uhyre
+  Tyngde, men med myge, varsomme Bevægelser. Den gaar som paa lange
+  [9] Dønninger helt hen til Gitteret, hvor den lægger til. I sin
+  krøgede Snabel har den et Fang Hø. Den lar Høet falde og roder i det.
+  Elefanten ønsker at spise ude, den vil frem i Lyset med Føden, den er
+  paa Landtur. Den langer et Fang Hø ind i Svælget men glemmer at sluge
+  det, og Høet stritter gult frem i den røde Kjødgrube. Hvad nu? Har
+  nogen talt haardt til den? Eller lytter den efter, hvad Manden
+  derhenne paa den solvarme Bænk læser halvhøit af Dagens Smudsblad?
+  Ingenlunde; men en Konfirmand er kommet hen til Gitteret. Der er
+  altsaa Konfirmation i Byen.
+    </p>
+    <p>
+     Han staar og tænker paa, at Konfirmanderne blir mindre og mindre
+  for hvert Aar. Elefanten kunde naarsomhelst knibe den lille Fyr der
+  med Snablen og latterliggjøre ham høit oppe i Luften, hvor han vilde
+  sprælle som et Insekt med Paraplyen, Ravrøret og Benene sprikende ud i
+  Solskinnet. Men istedet spidser Elefanten Øren efter Fyrens spæde
+  Stemme, som forlanger Kunster af Dyret. Og Kolossen gjør nogle enkle,
+  men besværlige Kunster og faar sin Belønning, en halv Hvedebolle, som
+  fordamper paa Randen af det store Svælg. Men da Konfirmanden holder
+  ved og tilmed skjælder ud, klemmer Dyret Snablen om de øverste
+  Jernstænger og trækker til, saa det knaker i Naglerne. Og saa støder
+  den ud et Brøl, det er som en rusten Hulken, et tungt Host, som synes
+  at [10] komme fra selve Jorden. Den vil ikke mere. Og Konfirmanden
+  løber hen til Abeburet for at se, hvordan den farlige Alder udfolder
+  sig i Dyreriget.
+    </p>
+    <p>
+     Saa hæver Elefanten Hodet og lægger det tungt og digert tilrette
+  ovenpaa Gitteret. Slig blir den længe staaende og se udover Havens
+  flammende Trær. Dens Øine har en underlig Dybde. Blikket søger ikke
+  noget nærværende, det fjerner sig og gaar langt udover og bærer med
+  sig det gaadefulde Instinkt inde fra den vældige Skalle. Der, hvor
+  Blikket ikke længer kan strække, fortsætter Instinktet langt ud. Og
+  over hele det store Hode kommer noget forunderligt og dovent,
+  Mundtæpperne udtrykker Træthed, kanske drar der gjennem dens
+  Bevidsthed en Erindring om vaade, dampende Skoge og vilde
+  Græsgange.
+    </p>
+    <p>
+     Men nu løsner den sig fra Gitteret og gaar ud paa en langsom
+  Vandring. Den stanser foran Indgangen til sit Hus, hvorover en Klokke
+  skinner. Den løfter Hodet og ser paa Klokken. Klokken er fem.
+  Elefanten gaar ind i sit Studérkammer.
+    </p>
+    <p>
+     Men den gaar ikke helt ind, den stopper op midt i Døren og fylder
+  Dørhvælvingen med sin Bagdels Arealer. Der ligger en Betydning af høi
+  Foragt i denne Stilling. Ikke bare mod
+     ham
+     , den ene Tilskuer, det er
+  ligesom den med sin svære Bag hilser en større Kreds. Og ikke
+  [11] bare Byen og Landet, dens Foragt gaa videre og omfatter i en
+  udtryksfuld Form Begrebet Europa, dette geografiske Omraade, hvorfra
+  Jordlivet er tilført saamange nye Værdier.
+    </p>
+    <p>
+     … Han vidste, at han længe vilde huske Elefantens Øine, som var saa
+  forunderlig smaa i det store Hode. Han gik nedgjennem Haven under det
+  skyllende Løv og han mærket, hvordan en Følelse af Savn og Medynk
+  vokste inde i hans Bryst. Aa, denne Stilhed midt i Sommerens
+  Frembrudd, under dette fykende Solskin. Han hadde ikke tænkt sig
+  Sommeren slik i en Dyrepark; han hadde trodd den maatte være fuld af
+  Larm og Bevægelse, af Raslen og Brøl. Men kanske om Natten, kanske om
+  Natten, naar Solen ved Firetiden brød op af Horisonten, stor og rund,
+  kanske var det da, at Sommeren slog sin Aande over Dyrene, kanske
+  hørtes da Løvens Skrik. Mon ikke Elefanten traadte ud af sit Hus paa
+  duvende Dønninger, vendte sit Hode mod Himmelhvælvingen og trompeterte
+  skarpt og klingende mod det siste vigende Skjær af Hundestjernen?
+    </p>
+    <p>
+     Men nu var alt saa menneskeligt smaat omkring de store Dyr;
+  sammenkrøllet Madpapir i Gangene, en skrikende Unge opi en Barnevogn,
+  en gjæspende Kellner faldefærdig mod en Solvæg.
+    </p>
+    <p>
+     Omsider kom han ind i en stor Bygning. En stram, lodden Dyrestank
+  drev ned i hans Hals. Langs Væggene yret det af smaa Væsener. Hundrede
+  [12] Øine glimtet, det var store, runde, vandklare Øine, smaa
+  stikkende Øine, grønne Øine, røde Øine. Men i alle Øine laa det samme
+  Blik, et opjaget og ventende Blik, som ikke lod et Sekund glide væk;
+  for i næste Sekund, eller i næste, eller i næste igjen maatte det jo
+  komme dette andet, som ikke var den meningsløse og uforstaaelige
+  Tilværelse inde i Burene. Saaledes sigtet alle disse Øine vagtsomme
+  mod hvert Sekund, som randt ud af Evighedens umaadelige Hvælving. Og
+  der var en ustanselig Jagen bag Jernstængerne, en summende Snusen og
+  Snøften, en vandrende Hvirvel af Dyrekropper, af glinsende Pelse og
+  lydløst glidende Poter. – Han skyndte sig ud. Alle disse Øine styrtet
+  imod ham og samlet sig i hans Sjæl som i et Brændglas. Det gjorde ham
+  angst.
+    </p>
+    <p>
+     Nu var han igjen ude i fri Luft. Foran ham laa en buet, sandet
+  Plæne. En Paafugl bredte sin Hale ud i et stort Hjul, som syntes
+  flettet ud af selve Regnbuen; de dybe blaa Aarer i denne Farvemængde
+  skinnet fosforagtig og hadde Lynildens Glans. Han tænkte, at disse
+  Fugle hører ikke Jorden til, de virker fremmede mod alle Omgivelser,
+  selv i en Tropeskog. Det er Himmelfugle. Derhenne hadde en Paafugl
+  slaaet sit Hjul sammen til et Slæb, den gled over det graa Sand som en
+  farverig Komet. Han blev omsider træt af Vandringen omkring i
+  Haven.
+    </p>
+    <p>
+     Han blev tør og rusten i Halsen [13] som efter en lang Graad, og
+  hans Uro steg. For disse Øine var mod ham bestandig, disse Øine som
+  alle hadde det samme fjerne Blik, ligesom de kunde se noget langt ude,
+  noget, som var i Anmarsch, en stor Fare eller en stor Befrielse.
+  Flodhesten laa urørlig stille, begravet i det lunkne Vand; kun
+  Næseborene og det ene Øie laa over Vandskorpen. Og dette ene store,
+  runde Øie var som en gaadefuld Brønd. Inde i en lummer Glaskiste laa
+  tre Krokodiller, nu og da rørte én sin underlige Krop, ellers laa
+  ogsaa de stille i Stilheden. De hører til en Dyreform fra længst
+  forsvundne Aar, da der ingen Angst var og alt hadde bedre Tid, da
+  Jorden tyngedes af en svulmende Frugtbarhed og Solen brændte med et
+  andet Lys, da Bregnerne stod i store vaiende Skoge for sig selv … Inde
+  i et skumrende Rovdyrbur laa en Tiger og hvæset, dens gule Tænder
+  aabnet for et varmt pustende Blodsvælg. Løven, Kongedyret, vendte sit
+  Hode bort fra Mennesket, det var en Foragt som Spy. Og saa Ørnene,
+  disse Himlens blanke, farlige Projektiler. Nu og da løftet de Hodet
+  med et Gisp, saa Nakkefjærene strittet ud … Men der var ingen Larm.
+  Ingen Glans mod Solen. Bare Stilhed.
+    </p>
+    <p>
+     … I Restauranten slugte han en stram Whisky. Saa gik han.
+    </p>
+    <p>
+     Hvor skulde han lægge Veien?
+    </p>
+    <p>
+     Ned mod Sjøen, tænkte han. For Sommeren kommer bestandig
+  Sjøveien.
+    </p>
+    <p>
+     [14] Men da han kom ned mod Sjøen, mærket han, at det skumret i
+  Luften og en kold Vind ilte mod hans Bryst. Boulevardens Trær vrængte
+  sine Blade. En dynamitfarvet Himmel varslet Regn. Solen var borte. Det
+  bar mod Kvældsheldingen.
+    </p>
+    <p>
+     Der var pludselig kommet Taake i Luften. Han kunde høre det paa
+  Klokkeringningen. Et tungt Malmslag fra et Kirketaarn i Nærheden ramte
+  ham som et Skudd og sank gjennem ham. Saa rystet Taarnet udover Byen
+  et durende Bulder.
+    </p>
+    <p>
+     Men det var ligesom det nære Regntykke allerede hadde strukket sin
+  Arm over Byen og lagt sin Finger paa Malmklokken. Og han kunde se paa
+  Asfalten, som laa der skimlet og graa, at den ventet Regn. Han gik ind
+  i et Hotel, det første han stødte paa. Gjennem en kobberhvælvet Portal
+  naadde han ind i Hotellets Vestibule. Han fandt en Kurvstol og satte
+  sig magelig tilrette.
+    </p>
+    <p>
+     Nu først mærket han Trætheden, en langsomt bedøvende Træthed, som
+  gik gjennem hans Nerver. Han hadde denne behagelige Følelse, at han
+  bare kunde slaa Armene ud og lægge sig ned og hvile hele sin Tyngde,
+  saa vilde Søvnen bære ham udenfor mange Timers Liv. Nu hadde han ikke
+  sovet i to Døgn. Han tænkte paa den sidste Nat i den anden By, han
+  hadde gjennemlevet en stor Skræk, forinden han kom [15] ombord i
+  Dampbaaden, opspilet af Nervøsitet, gjennemtrukket af Whisky. Saa var
+  der ikke blit nogen Søvn ombord heller. Men nu sad han og nød
+  Trætheden og glædet sig til den kommende Hvile. Han hadde endnu Sjøens
+  Vuggen i Hjernen, og Bølgernes evindelige Dyssen summet etsted dybt i
+  hans Bevidsthed.
+    </p>
+    <p>
+     Mange Mennesker gled forbi ham. Et tykt Tæppe kvalte Lyden af
+  Skridtene. Tjenerne talte hviskende sammen, inde fra Læserummet knaste
+  det regelmæssig i Aviserne, Dørene knakk varsomt op og igjen mellem
+  myge Filtre. Al Støi og Bevægelse samlet sig og gled forbi ham i et
+  Flimmer, som lukket hans Øine. Han var allerede inde i Søvnen og saa
+  en liden gyngende Baad paa et umaadeligt Hav. Et hvidt Lys skinnet mod
+  Baadens Raaseil; men saa gled Lyset væk og en Skygge stanset foran ham
+  og spurgte:
+    </p>
+    <p>
+     Herren ønsker!
+    </p>
+    <p>
+     Han kvakk op og hadde Hjertebanken, som man bestandig faar, naar
+  man pludselig rives ud af Søvnen.
+    </p>
+    <p>
+     Han ønsket et roligt Værelse.
+    </p>
+    <p>
+     Bagagen?
+    </p>
+    <p>
+     Paa Toldboden. Han leverte Beviset.
+    </p>
+    <p>
+     Om et Øieblik kan de faa Numer 43, sa Portieren, det eneste ledige
+  Værelse. Herren paa 43 er netop reist. Jeg skal si fra.
+    </p>
+    <p>
+     Saa blev han siddende imens. Men nu vilde [16] han ogsaa holde sig
+  vaagen, til han fik sin Seng. For at ha noget at beskjæftige sig med,
+  la han Mærke til alle de Mennesker, som gled forbi ham; det var unge
+  og gamle om hinanden, Kellnere og Gjæster.
+    </p>
+    <p>
+     Derhenne stod en ældre Herre og ventet paa sin Regning. Han var
+  liden og tyk, hadde paafaldende korte Ben, men en rummelig Overkrop.
+  Hans Haar var begyndt at falde af, Skjægget ogsaa. Det var graanet
+  omkring Munden og det tynde graa Skjæg skjulte ikke Munden omkring
+  Læberne. Hvor den Munden blev styg, gammel og brugt. Manden maatte ha
+  levet stærkt, hans Øine laa halvt skjult mellem tykke, blaalige Poser
+  og Ørene søgte at klemme sammen en altfor svulmende og rød Nakke. Han
+  var paa Livsheldingen, han var et oplagt Slagtilfælde, og nu stod han
+  her og talte efter nogle Sølvpenge, mens hans gjennembrugte og stygge
+  Mund fortrak sig af Misfornøielse.
+    </p>
+    <p>
+     Med Ryggen mod ham sad en høi, mager Skikkelse. Han kunde blot se
+  Baghodet, Ørene og Nakken. Men dette var selve Tæringsnakken. Haaret
+  laa sort og klamt ved den murstensfarvede Hud, som allerede var
+  udtørret af Dødens gustne Pust. Nakkesenerne stod som to spændte
+  Strænge, men Ørene spriket tørre og store i kjødløs Brusk.
+    </p>
+    <p>
+     Og se der kom en ældre Videnskabsmand nedover Trappen. Det maatte
+  være en Videnskabsmand. [17] Det lille Hode bar Præg af megen Lærdom
+  og omfattende Tænkning. Der var næsten intet Kjød tilbage i Hodet,
+  Huden laa mumiestram om Benbygningen, Kinderne var dybe Groper, Næsen
+  skarp som en Stævn, Tindingerne som to Skaale med Bunden indad. Alt
+  Liv og Blod syntes forlængst trukket bort fra dette Hode, sivet ned
+  gjennem Halsen, kanske naadde det ikke længer end til Brystkassen og
+  gik i svage Rykk om Hjertet …
+    </p>
+    <p>
+     Men nu kom en Mand og bukket for Mumien. Denne Mand hadde han set
+  flere Gange vimsende frem og tilbage paa myge Fødder. Han forstod, at
+  det maatte være Hotelværten selv, han var i fodsid Diplomatfrakke og
+  hilste smilende til alle Sider, mens Tjenerne stod stive af Skræk
+  under dette Smil –
+    </p>
+    <p>
+     Aa, hvor han syntes alle Mennesker var lige stygge, naar han saa
+  rigtig paa dem. Men som Regel undgik han villig at se Menneskenes
+  Ansigter, hans Blik veg uvilkaarlig tilside, for han kunde ikke undgaa
+  at se paa
+     Ørene
+     . Og netop naar man
+  lægger mærke til Ørene i et Menneskehode, ser man, hvor stygt Hodet
+  er, styggere end de fleste Dyrs.
+    </p>
+    <p>
+     Han hadde længe lyttet til en Larm inde fra Hotellet, en dump, let
+  rystende Larm, som gjorde ham søvnig paany. Nu forstod han, hvad det
+  var: Elevatoren. Og med en Gang syntes han at se Hotellets Indre,
+  denne underlige Menneskebolig, [18] saa mange, mange Værelser;
+  saamange Dyner, alle de nedliggede Senge og Divaner. Korridorerne gik
+  som Aarer paa Kryds og Tvers. Elevatorschakten var den store
+  Hovedaare, som gulpet Mennesker ud i alle Retninger. Og som et
+  tusindstrænget Nervenet var Bygningen gjennemsyret af Ringeledninger.
+  En stadig raslende Larm af Stemmer, et uendelig Traakk og Dras gjennem
+  Etagerne. Men overalt laa Tæpper, lumre, tykke Tæpper, som døvet
+  Støien. Disse lange, seige Tæpper laa som Baand omkring i Etagerne og
+  holdt alt sammen i dette gjennemhullede, gjennemtraakkede, rystende
+  Hus. Og ovenpaa Tæpperne fløi Hotelværten som en Væsel, overalt var
+  han, tilhøire og venstre, høit og lavt i sin vaiende Diplomatfrakke –
+  –
+    </p>
+    <p>
+     Han sad der og sammenblandede denne lille Skikkelse med den
+  hviskende Gang med Erindringen af sit Besøg i Dyrehaven og Synet af
+  alle de lydløst glidende Poter. Trætheden drysset en umærkelig
+  Forvirring ind i hans Forestillingskreds og han var nærved Søvnes
+  rolige og deilige Hav igjen, da han blev vækket op af en Stemme:
+    </p>
+    <p>
+     Færdig, Herre.
+    </p>
+    <p>
+     Han fôr op. Nu hadde han i et Sekund igjen været i Nærheden af alle
+  de opjagede, ventende Dyreøine. – En fin og stille Angst rykket
+  gjennem ham i Takt til hans Hjertes Slag.
+    </p>
+    <p>
+     Nei, nu skulde han ogsaa hvile. Hans Nerver var angrebne. Han
+  trængte til Hvile. Trætheden [19] prikket omkring i hans Krop og
+  Blodet gik i langsomme Bølger og samlet sig tungt og trykkende ved
+  Haandledene.
+    </p>
+    <p>
+     Han fulgte Portieren ind i Elevatoren. Portieren saa paa ham med
+  kolde og værdsættende Øine. Han kjendte dette Blik, men det var længe
+  siden det hadde skræmt ham.
+    </p>
+    <p>
+     Han sa irriteret:
+    </p>
+    <p>
+     Naa?
+    </p>
+    <p>
+     Herren ønsker? En let forbauset Bevægelse med venstre Øielaag.
+    </p>
+    <p>
+     Men Herren sa ikke noget mer, og Elevatoren sattes i Bevægelse. Han
+  hadde ingen Følelse af at stige, – men Etagerne kom ned til ham og ved
+  fjerde Etage gik han ud.
+    </p>
+    <p>
+     Gjennem en lang tæppebelagt Korridor (aa denne lumre Lyd af Skridt
+  paa Tæpper, den gjorde ondt i hans Hjerne) – naadde han frem til det
+  Værelse, hvor hans Skjæbne ventet ham.
+    </p>
+    <p>
+     Og saa steg han ind. Døren lukkedes efter ham. Portieren forsvandt
+  lydløst, henveiredes (Tæppet!). Pludselig, mens han stod der og saa
+  sig om i Værelset, mærket han, hvordan en brændende Frysning ilte
+  gjennem hans Rygrad som gjennem en Lunte, – en heftig Skræk
+  eksploderte i hans Hjerne. Men det varet kun et Øieblik, og efterpaa
+  kunde han slet ikke forstaa, hvorfor denne voldsomme Angst var kommet.
+  Han hadde intet at være bange for i denne By, han hadde Penge nok og
+  skulde ikke møde nogen Fare.
+    </p>
+    <p>
+     [20] Han gik frem til Vinduet og saa ud. Der var ingen blaa Tegn i
+  den fugtige regntunge Taakedyne, som nu væltet sig over Byen og
+  forløste sig med et stille og ustanseligt Sipregn. Regnet var saa
+  fint, at han slet ikke kunde se det mod den graa Stenvæg ligeoverfor,
+  men det stod i tætte og glinsende Striber mod Bomuldshimlen som en
+  uhyre Harpe spændt fra Horisont til Horisont. Og det suste af Regnet.
+  Men Luften var alligevel ikke uden Lys. I det graa Skydække glinset en
+  blind Lystone, som speilet sig i Skifertagene.
+    </p>
+    <p>
+     Han gik indover i Værelset igjen. Det var ganske mærkeligt, men han
+  følte sig ikke vel. Han ønsket at ha et hvilketsomhelst andet Værelse
+  end netop dette. Han kunde ikke opvise nogen Grund for et saadant
+  Ønske, men Ubehaget laa i Luften omkring ham, det slog ned fra Taget,
+  der var hvidt som et Kistelaag, det svævet henover de dunkle sjøgrønne
+  Vægge. Han aabnet Døren og saa gjennem Korridoren. Ingen Mennesker i
+  Korridoren. Med en Gang var Stilheden sunket over dette Hus. Da han
+  igjen stod fremme i Værelset i den skiferblinde Lysning fra Vinduet,
+  hadde han en Følelse af at være forfærdelig alene. Han fjernet
+  Sengetæppet og kastet det i en Bunke paa Gulvet. Det kvakk i ham. Se
+  paa den Puden, den laa der i svag Høining som en tilsneet Barnegrav.
+  Han klemte den varsomt ned. Han følte nu Trætheden saa voldsomt, saa
+  døvende, at [21] han hadde mest Lyst til at lægge sig ned i fulde
+  Klær, strække Hodet godt bagover, kjende Pudens myge Dun mod Nakken og
+  saa lade sig bære ind i Søvnens store og rummelige Vederkvægelse. Men
+  han hadde havt Støvlerne paa en hel Dag og en halv Nat, og de klemte
+  ham om Vristen, og hans Kravetøi føltes varmt og gammelt. Mens han sad
+  bøiet paa en Stol og trak Støvlerne af, maatte han pludselig reise sig
+  og se sig om. Han hadde en bestemt Fornemmelse af, at der
+     var
+     noget. Det kunde jo ikke være
+  et Menneske eller noget levende. Han var ganske alene i Værelset. Men
+  alligevel var det, som om noget var gledet forbi ham, en Pusten, en
+  Hvisken henne fra det hvide Sengetæppe, en svag Strygen, som om to
+  Hænder hadde berørt hinanden. Og idet han nu igjen lyttet uden at høre
+  en Lyd, forekom det ham, at selve Stilheden blev truende; den stod
+  hvid omkring ham i det spøgelsesagtige Lys fra Vinduet. Han sa til sig
+  selv: Du er nervøs af Træthed, dine Øine og Øren trænger til Hvile,
+  dine Sanser er udslidte. Han kastet Støvlerne i Gulvet med et Brag og
+  gav sig til at trave frem og tilbage. Men hans Skridt gav ingen Lyd
+  mod Tæppet. Saa aabnet han Døren igjen, langt borte hørte han en svagt
+  skjælvende Dur, det var Elevatoren som gik. Hadde han bare et andet
+  Værelse, men dette var det eneste ledige over hele Hotellet, og nu
+  orket han ikke at opsøge et andet Sted for at faa sove.
+    </p>
+    <p>
+     [22] Med en Gang husket han, hvad Portieren hadde sagt: Herren paa
+  Nummer 43 er netop reist. For mindre end en Time siden gik altsaa et
+  andet Menneske omkring herinde. Det moret ham at tænke efter,
+  hvorledes denne Mand kunde ha set ud. Han hadde straks hans Alder paa
+  det Rene, 35 Aar,
+     omkring
+     fem og
+  tredive Aar. Pludselig saa han i Tankerne en Mand saa levende, saa
+  tydeligt som om han skulde staa der foran ham: En høi, lys Mand. Han
+  saa straks hans Øine, de var runde som Glaskugler og stod vaade ud fra
+  Hodet. Manden var skaldet, men over Issen laa et fint Dun af nyt,
+  spirende Haar. Han hadde lyst Overskjæg, som var vikset op med Voks.
+  Manden var velklædt, mørk Jaket, graa Vest med sorte Kantebaand, tyndt
+  Guldurkjede om Halsen. Du store Gud, hvor han saa ham ganske tydelig.
+  Han hadde en Fornemmelse af at Manden
+     var
+     inde i Værelset. Han tænkte sig
+  ham staaende derhenne ved Servanten, hvor lysskinnet fra Vinduet kunde
+  naa hans Isse og virre i de tynde Dun. Det var et Menneske, som han
+  aldrig hadde set tidligere, det var ingen af hans Venner, ingen han
+  hadde mødt paa Reiser. Ellers, naar han fantaserte frem et Menneske,
+  fæstnet Trækkene sig lidt efter lidt, først Hodet, saa Øinene, saa
+  Klærne, Hænderne, Stillingen. Men her var alt færdig med en Gang. Og i
+  hans Bevidsthed stod denne Skikkelse saa rammende tydeligt, at han
+  ikke kunde tvile paa, at det var et levende Menneske. Det kom
+  pludselig [23] som paa et laterna magica Billede. En løs Tanke var
+  gaaet ud fra hans Hjerne: Hvorledes mon det Menneske saa ut, som hadde
+  boet her før ham. Og saa i denne Tankes Kjølvand kom Synet styrtende
+  overrumplende mod ham. Han blev staaende et Øieblik forundret og
+  forvirret fremme paa Gulvet. Han tænkte igjen paa Manden, og han
+  syntes paany han saa ham ganske tydelig. Nu syntes han ogsaa, at han
+  saa hans Støvler, de var støvet som efter en lang Vandring henad en
+  sandet Landevei. Pludselig faldt det ham ind, at det Menneske, som han
+  tænkte paa, ikke længer befandt sig i Nærheden, han var i dette
+  Øieblik langt borte fra Hotellet og Byen. Han stod ved Veikanten og
+  saa udover en flad Græsmark. Et Kjøretøi hadde netop faret forbi ham,
+  og Støvet drev henover Græsmarken. I Nærheden laa et lavt Hus med
+  hvide Kalkvægge og sort Tag. Saa tydeligt syntes han at se Manden ved
+  Landeveien, at han ligesom mærket Støvlugten og hadde Solens Flimmer
+  for Øinene. Derude, hvor det fremmede Menneske stod, var Himlen blaa
+  og Solen skinnet.
+    </p>
+    <p>
+     Det stod alt for ham som en Hallucination. Han hadde ikke tidligere
+  havt et saa stærkt og nærværende Indtryk af noget uvirkeligt. Han
+  hadde en Følelse af baade at være her tilstede i denne underlige
+  Stilhed og samtidig være et andet Sted. Han hørte intet, han bare saa
+  med [24] Sjælens Øine, alt var lydløst og spøgelsesagtig stille.
+    </p>
+    <p>
+     Dirrende af Nervøsitet fortsatte han sin Afklædning. Han tvang sig
+  til at tænke paa noget andet, paa Sporvognsturen, paa den vanvittige
+  Mand med det unaturlig store Hode og de forfærdelig tomme Øine. Han
+  saa igjen Blinket i alle Vinduerne, mens Husfaçaderne gynget forbi.
+  Men Tanken bar ham hurtig ind i Dyrehaven, og Erindringen om alle
+  Dyrene blusset frem igjen. Han syntes han saa de vaate Dyreøine
+  indimellem Havens Trær, de stirret paa ham allesammen. Men saa gled
+  Billedet af Trærnes langsomme grønne Vaien over i et blikstille Syn af
+  en tufset Græsmark, hvorover Veistøvet gled gyldent og gjennemdrysset
+  af Sol. Nu var han igjen derhenne. Han fôr sammen og forskrækkedes
+  over de yre Svingninger i Hjernen. Han trodde han var syg, han ønsket
+  sig bort fra denne Tilstand. Han længtet efter nogen at tale med,
+  eller en Larm, Skudd, et Dunk i Væggen, eller Søvnen. Eller
+  Søvnen.
+    </p>
+    <p>
+     Det er Trætheden, sagde han til sig selv og aandet lettet, du
+  mangler Hvile og Søvn. Naar du vaagner igjen om nogle Timer, er du
+  like saa frisk som tidligere og din Hjerne like klar.
+    </p>
+    <p>
+     Da han endelig var under Dynen, kom Hvilens Velvære over ham. Han
+  trak Dynen helt op til Hagen, som han pleiet, da han var Barn. I dette
+  Øieblik var det som om han følte sin [25] egen Krop. Blodet hadde
+  gaaet i altfor hidsige Slag, nu sank det gjennem hans Legeme i mere
+  dulmende Regelmæssighed og Nerverne glødet roligere. Han hadde en ren
+  fysisk Fornemmelse af, hvordan Ophidselsen i hans Krop lidt efter lidt
+  lagde sig, som naar Gløderne knaser sammen over en Brand. Det prikket
+  og rykket endnu i hans Muskler, og hans Tanker svævet famlende omkring
+  de sidste Timers Oplevelser, men han vidste, at han alligevel var like
+  over Søvnens deilige Afgrund. Skjønt han laa og stirret med vidtaabne
+  Øine mod det sjøgrønne Tapet. Han syntes, han saa sig selv der i
+  Sengen, den hvide Pude, det hvide Laken opunder hans Hals og saa hans
+  store stirrende Øine.
+    </p>
+    <p>
+     Men saa lukket han Øinene. Hvordan kommer Søvnen? Den er ingenting.
+  En Hede ved Ørene, en Strygen af varme Poter over Øienlaagene.
+  Usynlige Folder af Træthed som skyller over en. Den er som Tidevandet,
+  der begynder med en Smuldren i Stranden. Saa gaar den første Bølge
+  over Skjærene, de blir dukket en Gang, og de stiger op igjen, men i
+  dyssende Regelmæssighed kommer Bølgerne igjen, og snart ligger
+  Skjærene med roligt Vand over sig, og Sjøen er gaaet længere ind med
+  sin ensformige Skyllen. Ligesom det er Maanen, som trækker Tidevandet
+  over Strandbredderne, er det en forunderlig Magt udefra, som lar
+  Søvnen glide i graa Folder henover Menneskene. Den kommer ovenpaa
+  Dagen [26] og Timernes Liv og bæres bort igjen med Mørket. Men under
+  Søvnens Dække gaar Menneskesjælen besynderlige og gaadefulde Veie og
+  finder frem mod fjerne og tidløse Tilværelser. Eller ogsaa synker den
+  ned paa Bunden til det absolute og tætte Mørke, hvor alt er stille som
+  Døden –
+    </p>
+    <p>
+     Han kvakk op, som om nogen hadde kaldt paa ham, og var vaagen. Han
+  hadde ikke sovet mere end nogle faa Minutter. Hvad som hadde vækket
+  ham, forstod han ikke rigtig, men en ubestemt Angst laa over ham; den
+  samme Angst, som han hadde følt, da han kom ind i Værelset. Kanske var
+  det den som hadde vækket ham? Han reiste sig halvt op i Sengen og saa
+  sig omkring, alt var som før i det lille Værelse, kun forekom det ham,
+  at der var blit noget mørkere. Lyset var ved at svinde. Det var jo
+  ogsaa i Aftenheldingen nu, Klokken maatte være 9. Men denne Angst
+  –
+    </p>
+    <p>
+     Den laa inde i Brystet lige under Hjertet, og den vokste til en
+  Byld som trykket Blodet ud gjennem Aarerne i heftigere Slag. Han hadde
+  slet intet at være bange for, og dog var han nu midt i Angstens Pine,
+  Angsten for noget som var hændt eller som skulde komme. Han vendte sig
+  om paa Siden, krøget sig sammen og hvisket: Gud i Himlen, Gud i Himlen
+  …
+    </p>
+    <p>
+     Denne Angst var mærkelig. Den gik i Bølger, i Rykninger. I et
+  Sekund var han fri den, [27] saa kom den mod ham igjen som en Magt,
+  som en Knytnæve. Saa var han igjen fri den. Han fik Lyst til at
+  springe ud paa Gulvet, han vilde bevæge sig, han vilde begaa en
+  Handling, aabne Døren og raabe ud. – Han laa saadan i mange Minutter
+  og sled med denne Angst, hvis Aarsag han slet ikke kunde forklare. Saa
+  gled han ind i Søvnen igjen, men kun for et Øieblik. Angsten drev ham
+  atter ubarmhjertig op. Til sine Tider var han ganske lys vaagen, og
+  han kunde da reflektere over det besynderlige Ubehag, som saa
+  pludselig og aarsagsløst hadde bemestret sig ham. Han husket, at han
+  en Gang efter mange Dages forbitret Rangel, hvorunder han hadde
+  søndertrampet sin egen og andres Lykke, hadde kjendt noget lignende en
+  tidlig Morgen han vaagnet. Hver Gang han sovnet, kom Angsten knivskarp
+  og skar ham vaagen, saa følte han intet i en Brøkdel af et Sekund, men
+  derefter kom Angsten som en Hutren gjennem ham. Ogsaa den Gang hadde
+  han den heftigste Trang til at krøge sig sammen som i en stor legemlig
+  Smerte, si noget, ynke sig, udstøde et rystende Raab af Smerte. Men nu
+  hadde han jo intet at være bange for. Han kunde slet ikke glemme
+  dette, at Rædslen var uden Aarsag. Kanske var det bare Træthed
+  alligevel. Denne Træthed, som kjælte lummert om hans Øienlaag og
+  løsnet Musklerne omkring Kjæverne. Den listet ham ind i Søvnen paany,
+  men han bar med sig et Sanseindtryk [28] fra Virkeligheden; det sidste
+  han saa, før han søvnet, var Døren ud mod Korridoren, og i en
+  spøgelsesagtig Lysning førtes nu Synet af denne Dør ind i Søvnen. Han
+  drømte om den og syntes han var et ganske andet Sted, i Drømmen tænkte
+  han ikke engang paa Hotelværelset. Han var paa et fremmed og fjernt
+  Sted. Han syntes han laa fuldt paaklædt paa en Divan, han laa med
+  Armene under Nakken og stirret mod Døren. Han vidste, at Døren var
+  laaset, han tænkte paa det, og Overbevisningen om, at ingen kunde
+  komme ind til ham, gjorde ham besynderlig tryg og veltilfreds. Saa ser
+  han – dette drømmer han fremdeles – at Dørhaandtaget langsomt trykkes
+  ned. Der er en udenfor, som forsøger at aabne Døren. Han kan se,
+  hvordan det sorte Haandtag overordentlig langsomt bøies foran den
+  hvidlakerte Dørplade. Mennesket udenfor gaar forsigtig tilværks,
+  umaadelig forsigtig, og der høres da heller ingen Knirken i Laasen.
+  Visheden om at et Menneske er ifærd med at trænge ind til ham, gjør
+  ham urolig, men han
+     ved
+     jo, at
+  Døren er laaset. I dette Øieblik har han slet ikke nogen Forestilling
+  om,
+     hvorfor
+     dette Menneske vil ind
+  i hans Værelse, men han er heller ikke forbauset over det. Hændelsen
+  forekommer ham naturlig, ligesom den vilde være ventet. Nu staar
+  Dørhaandtaget stille i skraa Retning. Det trykkes altsaa ned af
+  Haanden udenfor. Denne Haand forestiller han sig som [29] en bred og
+  kraftig Mandsnæve, der tar saa haardt omkring Dørhaandtaget, at
+  Knokerne blir hvide. Nu, tænker han, nu maa der komme et Knækk i
+  Døren, og saa vil Dørhaandtaget glide op igjen, for Døren er jo
+  laaset. Men Haandtaget blir staaende længe i den samme skraa Retning.
+  Pludselig er det, som om hans Hjerte holder op at slaa, og han
+     kjender,
+     hvorledes hans Ansigt blir
+  stivt og hvidt af Skræk. Han ser tydelig, at den sorte Streg, som
+  skiller Døren fra Væggen, den er blit bredere. Og langsomt og
+  forfærdelig sikkert blir den stadig bredere. Der er ingen Lyd i Døren,
+  og Haandtaget holdes fremdeles nede i den skraa Stilling. Og nu kan
+  han se, at Døren bevæger sig, den er aaben.
+     Døren er aaben.
+     Han kan se Mørket
+  udenfor og skimter en graa Kappe. Midt i den forfærdelige Rædsel, som
+  nu stivner ham, synes han ogsaa at høre en Stemme. Han vil reise sig,
+  men magter det ikke. Han vil skrige, raabe høit om Hjælp. Og saa
+  vaagner han.
+    </p>
+    <p>
+     I et lidet Atom af Tid synes han fremdeles han er et andet og
+  fjernt Sted, men saa spærrer han Øinene op og ser Hotelværelset. Der
+  er ingen i Værelset uden ham, og Døren er lukket. Men i hans Hjerte
+  dirrer Rædselen, og i hans Øre klinger endnu Stemmen, som han hadde
+  hørt. Det var ikke et Raab, ingen Kalden. Det var nogle rolige Ord, en
+  løsreven Sætning, en leende Kvindestemme. Han vidste, at han hadde
+  [30] hørt Ordene, hvert eneste et ganske klart, og at Betydningen af
+  disse Ord med en Gang hadde staaet for ham i en forunderlig Anen. Det
+  var endnu mens han sov, at han hadde hørt Ordene, eller kanske var det
+  paa Grænsen af Søvnen, i Opdriften fra den. Men nu kunde han ikke for
+  alt i Verden huske disse Ord, ikke et af dem. Han vidste, han følte,
+  at de var hørt, og han soknet i sin Bevidsthed efter dem, men han
+  fandt dem ikke.
+    </p>
+    <p>
+     Saa nu var han vaagen igjen. Han hadde drømt; men var den leende
+  Kvindestemme en Del af selve Drømmen? Han hadde hørt Ordene lige ind i
+  Øret, de maatte være sagt her i dette Værelse … Aa, nu gled igjen den
+  hutrende Følelse af Ubehag gjennem ham, i hans Bryst vokste det op til
+  en Stønnen. Det var ligesom Skrækken begyndte et Sted udenom ham og
+  gled ind i hans Hjerne, hvor den blusset ud i tyste og grusomme
+  Eksplosioner.
+    </p>
+    <p>
+     Han reiste sig op i Sengen og saa mod Vinduet. Du store Gud, det
+  var endnu ikke blit mørkt. Der var ikke gaaet en Time, og hvorlænge
+  skulde dette vare ved, før han fik hvile? Han vilde forsøge at sove
+  paa Divanen. Kanske var det Sengen, som var for varm i denne lumre og
+  trykkende Aften. Han stod op og gik frem paa Gulvet. Han saa ned paa
+  Puden, hvor der var en Grop efter hans Hode. Der stod ligesom et Gys
+  op fra dette hvide Pudevar, hvor han [31] hadde hvilt med al sin
+  farlige Lidelse. Han tog Tæppet op. Sengen lignet nu en Baare, han
+  hadde en Følelse af at være kommet tilbage fra en Reise, han var blit
+  baaret ind i en fjern eller nær Fortid til Begivenheder, som ikke
+     han
+     hadde oplevet. Han hadde hørt
+  en Stemme, en Kvindestemme inde i et Værelse etsteds. Og han hadde en
+  Anelse om selve Værelset: Mange og tykke Tæpper overalt, Gobeliner paa
+  Væggene, svagt, rødligt Skjær fra en Lampet. Han syntes alt dette
+  passet til den Stemme, som hadde puslet saa kjælent i hans Øre.
+    </p>
+    <p>
+     Nu, da han stod opreist, følte han ikke længer Angsten saa
+  trykkende. Men selve Tausheden omkring ham, den blinde Stilhed i
+  Halvlyset jaget en gaadefuld Uro frem i ham. I Skyndsomhed aabnet han
+  Vinduet, han vilde ha en ny Luftstrømning gjennem det skifergraa Lys
+  herinde i Værelset; – en svag Dur fra Gaden, en Summen fra
+  Sporvognslarmen drog ind ad Vinduet, og Gardinet virret svagt som
+  under en venlig Haands Strygen.
+    </p>
+    <p>
+     Saa la han sig paa Divanen, indunder Tæppet. Han laa paa venstre
+  Side, hvilte Hodet i Armene og lyttet efter sit Hjertes Slag, som blev
+  stærkere jo længere han lyttet. Han syntes han saa Hjertet inde i
+  Kjødgruben som en rød, pustende Blodmanæt. Hans Tanker tumlet med
+  dette Hjerte, han saa det i Sjøen; er ikke Blodmanæterne som udrevne
+  Hjerter pustende i Bølgeslaget, [32] med Aaretraadenes Slæb omkring
+  sig … Han vendte sig braat til den anden Side. Og med en Gang kom
+  Angsten igjen blussende –
+    </p>
+    <p>
+     Han dækket Ansigtet til med Hænderne, og – et Stønn af Smerte
+  hostet i hans Strube. Han bed Munden sammen af Forbittrelse, – skulde
+  han da aldrig faa Hvile? –
+    </p>
+    <p>
+     Men Hvilen kom igjen, før han vidste af det. Pludselig dulmedes den
+  jevne Støi fra Gaden, en Sporvogn jog forbi langt henne, og Duren
+  randt bort med den. I et lidet Sekund var alt fuldkommen stille, selv
+  Hjerteslaget blev borte, og i dette Øiebliks Stilhed løftedes han op i
+  en stor og aaben Ro, ovenover Livets Pulsslag; det var Søvnen.
+    </p>
+    <p>
+     I Begyndelsen var Søvnen drømmeløs. Men saa syntes han, at han kom
+  ind under et besynderligt Mørke. Det lagde sig omkring ham og vilde
+  kvæle ham, og han maatte krafse med Fingrene omkring i dette Mørke,
+  skyve det bort, som en Svømmende skyver Vandet tilside. Et Mareridt
+  var i Anmarsch, en levende og uhyre Tyngde, som trykket og trykket og
+  kom nærmere mod ham. Han kunde ikke puste, for han var naaet ind i en
+  fremmed og forfærdelig Dyrestank. Et Fabeldyr var i Nærheden, han
+  kunde ikke se det, men han vidste, at det var der, et
+  hemmelighedsfuldt Dyr, som endnu ikke var seet af noget Menneskeøie.
+  Det kom fra et Sted fjernt ude. Det blev af Mørket løftet op fra
+  Horisonten [33] og bredte sig over Jorden, nu var det over ham i en
+  bjergtung Trykken, dette umaadelige Væsen var selve Rædslen. Han
+  klavret og grov i Mørket og gispet efter Luft. Men det voldsomme og
+  tætte Mørke, som han kunde føle i Fingertuppene la sig fastere om ham,
+  gik ned langs hans Hals, indunder Klærne og krøb ind i hans Næsebor.
+  Endelig kom der en Lysning, det var et uhyre Øie, en rød, udkogt Sol,
+  som rullet inde i Mørket og som lyste stikkende og frygtelig. Men
+  dette Lys skar gjennem Mørket og gav ham Luft. Mareridtet gled af ham
+  lidt efter lidt, han blev baaret ind i en anden Tilværelse, og den
+  røde Lysning fulgte med ham.
+    </p>
+    <p>
+     Nu var det han hørte Stemmen igjen. Han saa et Værelse og vidste,
+  at her hadde han været mange Gange tidligere. Det var et lunt og
+  stille Værelse med bløde, tykke Tæpper og brede Divaner oversvømmet af
+  Silkepuder. Han saa i Drømmen kun den ene Halvdel af Værelset, men
+  alle Enkeltheder stod skarpt for ham. Han saa det halve af Vinduet,
+  som dækkedes af folderige violette Gardiner. Paa et lidet Mahognibord
+  stod en Telefon. Der var Malerier paa Væggen. Over det hele svævet et
+  blundende, rødligt Lys fra en Lampe, som han ikke kunde se. Saa kom
+  Stemmen, en Kvindestemme, den samme, som han hadde hørt tidligere. Den
+  lød overordentlig tydelig tæt ved hans Øre. Den begyndte med en
+  Puslen, som i en Trakt. Saa blev der sagt etpar [34] Ord, ganske
+  ligegyldige, og derpaa hørte han en nølende Latter. Ordene, der blev
+  sagt, slog ned i ham som en Selvfølgelighed; han var med en Gang inde
+  i en anden Tankegang, han syntes han var midt i en Samtale med nogen.
+  Han hørte flere Ord. Og saa kom en anden Stemme, en grov Mandsstemme,
+  som sa: ligesaa,
+     ligesaa
+     … Han
+  kunde ikke se dem som talte, men han vidste, at de befandt sig i
+  Værelset, og
+     han var ogsaa
+  tilstede.
+     Det hele var ham kjendt og almindeligt. Saa blev der
+  ikke sagt noget mere, men i den Stilhed som nu fulgte, fik han en
+  dirrende Anelse om, at noget skulde foregaa. Saa hørte han en Hvisken
+  og en let Skraben, som om en Stol blev flyttet, og derefter lød
+  Stemmen, Kvindestemmen, for sidste Gang. Men dennegang var den
+  anderledes, der var en jagende Skræk i den, og den raabte et Navn to
+  Gange, hurtigt, i dødelig Hast, som røbet en stor og overhængende
+  Fare, et Sekund, hvori al menneskelig Rædsel syntes fortættet:
+  William, William!
+    </p>
+    <p>
+     Derpaa blev alt stille.
+    </p>
+    <p>
+     Han saa fremdeles intet andet end det ene Hjørne af Værelset, som
+  laa under det milde rødlige Lys; han saa ingen af de Talende, men han
+     syntes,
+     at han vidste, hvad der var
+  foregaaet, og han var i en Gyngen af Spænding og Nervøsitet.
+    </p>
+    <p>
+     Som et Lyn, som et hvast blinkende Sværd, skjærer nu en Lyd gjennem
+  Stilheden:
+     Det ringer i Telefonen.
+     Han hører det tindrende klart, [35] han ser den lille Knevls Dirren
+  mod Nikkelklokken. Saa glider en Skygge ind i det røde Lys, og han ser
+  en menneskelig Skikkelse. En Mand. Det er
+     ham.
+     Manden som han har tænkt paa,
+  før. Han ser hans skaldede Isse med de fine, nye Dun, den lyse Bart,
+  Lorgnetten, den graaprikkede Jaket. Mandens Ansigt er rædselsfuldt
+  blegt, Underlæben blaalig, Øinene har et forstenet Blik. Samtidig som
+  han synes det er
+     Manden
+     , den anden,
+  synes han ogsaa det er sig selv, som staar der ved Telefonen. Nu
+  lægger han begge Haandfladerne over Klokken og føler en varm Dirren i
+  Huden. Ringningen hører op. Etsteds, kanske langt borte, staar et
+  Menneske og lytter. Men dette Menneske maa intet vide. Han staar der
+  med en Skræk, ligesom han veirer mod Døden, og holder Hænderne over
+  Telefonen. Og han synes selve Telefonen blir til et stort, bevægeligt
+  Øre, som vil trænge frem i aaben Lytten under hans skjælvende Hænder.
+  Sekunderne vakler forbi ham umaadelig lange. Endelig mærker han igjen
+  Telefonklokkens Dirren, et let Slag, Afringning. Han tar Hænderne væk
+  –
+    </p>
+    <p>
+     Og i det samme vaagner han. Han vaagner i et Sæt, springer op og
+  ser ingenting, for Værelset er kullende mørkt. Men i hans Øine sidder
+  endnu det sidste frygtelige Syn af Drømmen: Der var Blod paa
+  Telefonklokken, røde Mærker efter hans Fingre.
+    </p>
+    <p>
+     Hvor Fanden er han henne? Han ryker mod [36] Bordet. Han kan ikke
+  finde frem i dette Mørke. Han ser en mat Lysning fra Vinduet, men
+  forvirret af Drømmen synes han, at Vinduet staar der, hvor det netop
+  ikke skal staa. Han vakler derhen og river Gardinet op. En Vrimmel af
+  Lys slaar mod ham. Han ser ned paa Gaardspladsen, hvor det blinker af
+  kulørte Lamper, ret over for ham lyser Vinduesrækkerne i Hotellets
+  anden Fløi. Han hører Stemmer og den fjerne Larm fra Gaden. Og Duren
+  fra Byens Liv beroliger ham en Smule og faar ham til at tænke sig om.
+  Drømmen staar endnu for ham lysende klart, han fornemmer Stemmerne,
+  han har endnu et Synsindtryk af det milde røde Lys. Og saa
+  Telefonklokkens klare og dirrende Ringen, den stinger endnu i hans
+  Øre.
+    </p>
+    <p>
+     Der var Blod paa Telefonen. Det var
+     det,
+     som vækket ham. Mod Slutningen
+  af Drømmen syntes han, at det var han selv som stod og holdt over
+  Telefonen og vilde trykke ned det store og paatrængende Øre, der
+  ligesom vokste op fra Klokken. Og idet han trak Hænderne bort, saa han
+  Blodet. Der hadde været Blod paa hans Fingre.
+    </p>
+    <p>
+     Han famlet frem til den elektriske Knap og satte Lyset paa. Det
+  skar i hans Øine. Ikke for alt i Verden vilde han nu være længer i
+  dette Værelse. I febrilsk Hast fik han fat i sine Klær. Nogle Minutter
+  efter stod han ude i Korridoren. Han stod stille en Stund for at samle
+  sig og [37] bekjæmpe sin Bevægelse. Og han saa paa Døren, som førte
+  ind til Værelset. Det forekom ham, at den lukkede for en Hemmelighed,
+  at derinde var svære og forfærdelige Tanker tænkt, og at derinde krøb
+  en navnløs Rædsel langs Væggene. Han søgte at ryste Uhyggen af sig,
+  men han vidste, at han ikke vilde bli fri den. Angsten hadde bidt sig
+  fast i ham.
+    </p>
+    <p>
+     Da han gik forbi Portierlogen blev han grebet af en Tanke. Han gik
+  bort til Manden, som sad der. Han vilde spørge ham om noget. Men idet
+  han stod foran ham og saa det grønne Lys over Pultens Papirer, blev
+  han bange for at høre sin egen Stemme. Hvorledes mon den lød nu,
+  rusten og skjælvende?
+    </p>
+    <p>
+     Herren ønsker?
+    </p>
+    <p>
+     Jeg gaar ud, sa han, jeg kommer tilbage om en Time, muligens
+  senere.
+    </p>
+    <p>
+     Han talte langsomt og vanskelig. Portieren maatte tro, han var
+  drukken.
+    </p>
+    <p>
+     Vel, Herre.
+    </p>
+    <p>
+     Han blev staaende usikker. Saa sa han:
+    </p>
+    <p>
+     Jeg bor paa Nummer 43.
+    </p>
+    <p>
+     Meget rigtig.
+    </p>
+    <p>
+     Og pludselig bruset han frem:
+    </p>
+    <p>
+     Hvad hed den Mand, som bodde der før mig?
+    </p>
+    <p>
+     Portieren saa forundret paa ham.
+    </p>
+    <p>
+     Det kan Herren meget let faa vide, svaret han.
+    </p>
+    <p>
+     Han bladet i nogle Papirer.
+    </p>
+    <p>
+     [38] Han hed Wilkens, Tom Wilkens.
+    </p>
+    <p>
+     Og hvor længe bodde han paa Nummer 43?
+    </p>
+    <p>
+     Kun en Nat.
+    </p>
+    <p>
+     Kun en eneste Nat, du store Gud.
+    </p>
+    <p>
+     Hvad mener De, Herre?
+    </p>
+    <p>
+     Ingenting. Hvorledes saa den Mand ud?
+    </p>
+    <p>
+     Jeg saa ham kun en eneste Gang og husker ham ikke saa nøie. Han var
+  skaldet.
+    </p>
+    <p>
+     Lyst Overskjæg?
+    </p>
+    <p>
+     Ganske rigtig.
+    </p>
+    <p>
+     Lorgnetter?
+    </p>
+    <p>
+     Ja.
+    </p>
+    <p>
+     Og han var maaske klædt i en graaprikket Jaket.
+    </p>
+    <p>
+     Fuldkommen rigtig. Nu husker jeg det godt.
+    </p>
+    <p>
+     Saa var det
+     ham.
+     Han gik mod
+  Døren. Han gik som i en Taake og hørte fjernt henne, at Portieren
+  kaldte paa ham.
+    </p>
+    <p>
+     Denne Kalden gjorde ham angst igjen. Han maatte formelig ta Mod til
+  sig for at vente. Hvad vilde Portieren,
+     vilde han ham noget
+     ?
+    </p>
+    <p>
+     Nøglen, Herre, sa Portieren og leverte ham Nøglen til Værelset.
+  Nøglen hang i et Messingskilt, som i sort Skrift bar Nummer 43.
+    </p>
+    <p>
+     Han puttet den i Lommen, nikket til Afsked og gik ud af
+  Hotellet.
+    </p>
+    <p>
+     Ude paa Gaden aandet han pludselig og befriende midt i Byens Larm.
+  Mangeslags Lys brød gjennem Mørket, og Luften hadde Aftenens syrlige
+  Kjølighed. Han boret sig frem gjennem den [39] tætteste Menneskesværm.
+  Han gik og gik og jaget paa for at komme fremover. Han indbildte sig,
+  at noget var efter ham, en Fare eller en Fiende.
+    </p>
+    <p>
+     Endelig efter en Times rastløs Vandring tumlet han ind i et Hotel
+  og fik et Værelse. Han bad om at bli vækket næste Morgen Klokken
+  9.
+    </p>
+    <p>
+     Og Morgenen efter stod en Hotelpige og banket paa hans Dør uden at
+  faa Svar.
+    </p>
+    <p>
+     En Tjener kom forbi.
+    </p>
+    <p>
+     Det er ganske besynderlig, sa Pigen, hør hvor jeg dundrer paa
+  Døren, men han svarer slet ikke.
+    </p>
+    <p>
+     Ogsaa Tjeneren banket med sine haarde Knoer og raabte. Men der kom
+  intet Svar.
+    </p>
+    <p>
+     Saa aabnet de Døren og saa ind i Værelset. Der laa han i Sengen
+  sammenkrøget og med aaben Mund. Hodet var tilbagebøiet, Halsen stod
+  som en spændt Stræng, hvorigjennem Pulsen gik i uregelmæssige Tag.
+  Ansigtet var sammentrukket og herget, Haaret laa klistret sort og
+  vaadt over hans Pande.
+    </p>
+    <p>
+     Det var en styg Søvn, sa Tjeneren hviskende.
+    </p>
+    <p>
+     Den sovende var paa Bunden af Søvnen, hans Bevidsthed famlet i
+  uudgrundelige Dybder, hvor der ikke fandtes Lys, bare Mørke.
+    </p>
+   </div>
+ 
+   <div type="chapter" xml:id="ii.">
+    <head>
+     II.
+    </head>
+    <p>
+     [40] Han vaagnet først langt ud paa Dagen efter en Søvn, som hadde
+  været haard og udmattende. Han laa en Stund i Sengen og tænkte sig om,
+  mens Søvnens forvirrende Susen lidt efter lidt trak bort fra hans
+  Hjerne. Nu var han frisk og rolig, men han kunde ikke la være at
+  mindes den forunderlige Oplevelse i Værelse Nummer 43. Han forsikret
+  sig selv, at han hadde været nervøs og opjaget af Træthed, og at hans
+  glødende Hjerne hadde fremgjøglet Feberfantasier. Forklaringen
+  tilfredsstillet ham ikke. Han gjennemgik alt, hvad han hadde lidt i
+  det uhyggelige Værelse, fra han kom ind og følte Angsten for første
+  Gang, til han ravet omkring i Mørket efter at ha set Blodflekkerne paa
+  Telefonen. Han kunde ikke komme udenom Kjendsgjerningerne. Det var i
+  selve Værelset Angsten laa og luret, og den var bragt did af en anden.
+  Hvad var det Portieren kaldte ham? Tom Wilkens, en Englænder,
+  [41] eller en Amerikaner. Selv kunde han, naar han tænkte paa denne
+  Mand, se ham ganske tydelig for sig, endog Blinket i hans Øine, som
+  han kneb sammen bag Lorgnetglassene, Aarefibrene i hans Ansigtshud,
+  enhver liden Enkelthed i hans Klædedragt; det var da besynderligt, at
+  Billedet af ham stod saa rammende tydelig for hans indre Øie, straks
+  det faldt ham ind at tænke paa, hvorledes den Mand kunde se ud. Og
+  saa, at den samme Skikkelse gled frem i Drømmen, ind i det røde Lys.
+  Men endnu forunderligere var det, hvad Portieren oplyste: Netop saadan
+  hadde Herren paa Nummer 43 set ud … Og saa det sidste Mareridt. Og
+  Drømmen. Aldrig hadde han husket en Drøm saa tydelig, saa blinkende
+  klart i enhver Enkelthed som denne. Han kunde nu ligge her og
+  analysere den, dra frem Træk for Træk, gjenfremkalde hele Stemningen,
+  men med en kold og reflekterende Hjerne. Det frygteligste Øieblik
+  under Drømmen indtraadte, da han hadde hørt Mandsstemmen si de par
+  ligegyldige Ord – og i Stilheden, som da fulgte. Han hadde en bestemt
+  Følelse af, at ogsaa
+     han
+     da var i
+  Værelset og at han saa, hvad der foregik, endnu hadde han en
+  Fornemmelse af det, en skjælvende Anelse dybt i sin Bevidsthed, men
+  hvad det var, hvor det var – det kunde han ikke forstaa.
+    </p>
+    <p>
+     – Klokken var allerede blit fem. Han krøb hurtig i Klærne. Da han
+  kom ned i Restauranten, [42] saa han gjennem Vinduerne, at Byen laa
+  badet i Sommersol. Det tindrende Lys slog mod ham og vakte en Stemning
+  af Venlighed og Glæde. Han tog Plads ved Vinduet, og herfra kunde han
+  se Gaden i hele dens glansfulde Uro. Det var ligesom han lykkelig var
+  kommet igjennem en stor Fare, Skrækken var draget forbi, og han kunde
+  igjen glæde sig over det røde Liv. Mens han sad og grublet over
+  Spisekartet, fik han Lyst til at brede en vakker Frokost over den
+  blaahvide Dug, en Frokost, som kunde afspeile selve Høisommerens
+  flyvende Farver. Der kom Østers, som krøb kjælent henover et Fad knust
+  Is, og der kom rød, duftende Hummer, hvidt Brød og en Smørasjet, gul
+  som Solen. Og han bad om lyseblaat Porcellænsservice. Han løftet den
+  første Østers og hadde Skallets kjølige Kulde i Haanden. Og en syrlig
+  Duft fra den salte, dybe Sjø. – Nu først mærket han Glæden over at
+  være kommet til en ny By, høre et andet Sprog og se andre Mennesker.
+  Han led af Reisefeber, en stadig, jagende Rastløshed. Naar han hadde
+  bodd nogen Tid paa et Sted, syntes han, at Horisonten snevret sig
+  sammen og Dag for Dag rykket ham nærmere. Hans Afreise formet sig
+  tilslut som en Flugt, og idet han blev baaret bort i Jernbanekupeens
+  myge Gyngen, syntes han samtidig, at han blev baaret ud af en
+  Trængsel, som truet med at ville kvæle ham.
+    </p>
+    <p>
+     … Hvor var ikke Byen smuk i Eftermiddagslyset. [43] Han saa ikke
+  Himlen selv, men i den heftige Glød i Gadens Liv speilet Himlen sin
+  blaa og luftige Hvælving. Han vidste ikke noget vakrere end denne
+  tilfældige Sammenstrømning af Menneskelivets Bevægelser og Redskaber i
+  en Gade eller paa en aaben Plads. Alene en forbidinglende Sporvogn gav
+  ham et Indtryk af Fest og Farver, Lyset svømte oljeagtig i de store
+  skjælvende Speilglasruder, rodet heftig i Skilterne, i de gule
+  vaggende Vægge og i de blaa Inskriptioner. Naar han gjennem Larmen
+  hørte, at en tospændt Vogn kom kjørende, vendte han Øinene bort fra
+  Gaden, og istedet la han Øret ind mod Larmen for at kunne opfange
+  Hestehovernes milde Plask mod Asfalten.
+    </p>
+    <p>
+     Saadan kunde det glæde ham, at tilvende sig en liden Enkelthed af
+  den store Vrimmel, en Farve, en Bevægelse, en Lyd. Det var som sad han
+  foran et umaadeligt Orkester og lyttet efter en skjønt klingende Tone,
+  et dulmende Paukeslag, dybt nede fra Musikkens Grube.
+    </p>
+    <p>
+     Al Gadens Ophobning af Støi og Liv, den drivende Forbimarsch af
+  Stemmer og Blink og Vogndur var for ham som et stort og mærkeligt
+  Musikstykke, hvis Skjønheder han kunde høre og gjerne lyttet efter.
+  Han hadde vænnet sit Øre til at opfange de mange Afskygninger i
+  Larmen, han kunde høre paa Automobilernes Bremser, om Vognene var
+  gamle eller nye; han kunde høre paa Folks Fodslag, hvormange Klokken
+  var. Fodslaget [44] veksler til enhver Time. Hvilken Forskjeler der
+  ikke paa Morgenens haarde Knudder mod Asfalten og det raslende Dras i
+  Middagsstundens Spadsertid? Ja, det skiftet fra Dag til Dag og fra Uge
+  til Uge. Byen viste Livet som en stor Klokke, ikke bare Timerne, men
+  ogsaa Ugedagene og Ugerne. Om Mandagen hadde Travlheden en Glans af
+  Begyndelse, som han kunde høre, den stod paa Baggrunden af Søndagens
+  Stilhed, den var sprunget ud af tolv Timers Hvile. Og paa Onsdagen
+  hadde Slaget alt været igang i flere Dage, Livet var i Opkog. Men
+  besynderligst syntes han Byen var om Lørdagene i Timerne efter Klokken
+  syv. Støien ebbet ud, Stilhedens fine Traade begyndte at spinde i
+  Krogene, og naar Solen gik ned mellem Kirkespirene og sendte sine
+  skraa Straaler ind i Gaderne, var det ligesom den hadde været oppe
+  hele Ugen og nu gik tilhvile med et træt Blik i det store Kvældsøie.
+  Byen fik mere Tid, den lyttet efter Klokkeklang fra Kirkerne og efter
+  Smaagutternes Plystren. Arbeideren vendte hjem paa sin Cycle. Han sad
+  løs og ledig og holdt i Styret med den ene Haand og kjørte langsomt.
+  Hans Arbeidsbluse var knappet op i Brystet, han pustet Arbeidet af
+  sig. Han var aaben i Panden, Luen sad høit paa Hodet, kanske plystret
+  han ogsaa, eller stødte Røgen lyseblaa ud fra en Cigaret. Han var Byen
+  selv og færdig med Arbeidet.
+    </p>
+    <p>
+     [45] Og saa var Byen stadig ny, naar han kom tilbage til den, og
+  ikke den samme i Øst som i Vest. Sjøen kom blaa og venlig ind til den,
+  og Havnen modtog Sjøen med Dampskibsradens mønjerøde Vandlinje. Bag
+  Mastetoppene kom Byen som en stimlende Flaade med sine gyldne Spir,
+  Flagene og de store Façader, der var som graa og hvide Seil. Det var i
+  Vest. Saa var den helt anderledes i Øst, hvor Fabrikkerne la sin Vægt
+  over Jorden. I mørke Aftener var der en egen Stemning over dette
+  Strøg. Hvor et Fabrikkompleks hev sin Tyngde mod Himlen, den ene
+  Bygning klinet indpaa den anden, den ene høiere end den anden, med
+  sorte, forslugne Vinduesglugger, der syntes man at ane selve Graaheden
+  og Tragedien – som en Dødens Ø, der vinker Menneskene mod sin
+  Stenkyst. Saadan stod Byen for ham, en Vrimmel af Modsigelser, en sær
+  og menneskelig Melodi, dens Sang gik i hans Hjerte. Han elsket Havnen
+  og Husene, Kirkerne og Fabrikkerne og Gadens flygtende Farver.
+    </p>
+    <p>
+     – – – Han bad om Aviserne. Straks da han aabnet det første Blad,
+  kjendte han en nervøs Dirren i Fingrene, og han søgte uvilkaarlig
+  efter noget, en Notis, en Artikel; noget
+     bestemt
+     – syntes han det maatte
+  være. Han blev siddende og se unødvendig længe paa Billederne, – fordi
+  hans Tanker gik andetsteds. Nu og da løftet han Hodet og kastet et
+  Blik ud paa Gaden. Da han endelig la Aviserne tilside, konstaterte han
+  til [46] sin Forundring, at det var med en Følelse af Fortrædelighed,
+  som naar man gjennemser Dagens Post og finder mange Breve, men netop
+  ikke det ene Brev, som man gjerne vilde ha. Mens han sad og tænkte paa
+  dette, saa han nedover Gaden, og det faldt ham da ind: Den Vei kom jeg
+  gaaende igaaraftes, men Gud, hvor jeg husker lidet af den Vandring,
+  jeg maa ha gaaet i Svimmelhed, i Feber. Dernede ligger altsaa Hotellet
+  –
+    </p>
+    <p>
+     Saa stod Nattens Oplevelser igjen tydelig for ham, han følte et
+  Sting i Brystet, en heftig og iskold Aande af Skræk under Hjertet, og
+  han krammet uvilkaarlig Servietten sammen i en pludselig Skjælven. Et
+  Ord faldt ham ind, et eneste Ord,
+     Morderen,
+     som han i Meningsløshed
+  gjentog for sig selv flere Gange, før det gik op for ham, at det var
+  dette Ord, han hadde søgt efter i Aviserne. Nu greb han igjen ned i
+  Avisbunken og gjennemrodet Spalterne febrilsk. Han søgte efter dette
+  ene: en Morder,
+     Morderen.
+     Han vilde
+  se om der stod noget om Mordet, men han fandt intetsomhelst, og da han
+  for anden Gang la Avisbunken tilside, var han forundret over denne sin
+  mærkelige og pludselige Interesse for et Mord. Han vidste jo ikke
+  engang om et saadant var blit begaaet. Han vidste ikke engang om det
+  var et Mord, han hadde drømt om inat. Han hadde bare en Anelse om, at
+  han hadde været Vidne til noget forfærdeligt; [47] men hvad det var
+  vidste han ikke. Fornemmelsen laa dybt nede i hans Bevidsthed i
+  underlig Gaadefuldhed.
+    </p>
+    <p>
+     Men nu forstod han, at Nysgjerrigheden før eller senere vilde
+  tvinge ham til at foreta en Undersøgelse. Han maatte faa vide, hvem
+  denne Tom Wilkens var, og hvor han nu opholdt sig. Kanske gik han
+  fremdeles omkring i denne By, eller kanske bodde han ude paa Landet i
+  et Hus med hvite Kalkvægge ved Siden af en støvet Landevei, som var
+  trukket over et fladt og grønt Landskab. Dette Landskab forekom ham
+  saa bekjendt. Han syntes, han hadde været der tidligere eller drømt om
+  det.
+    </p>
+    <p>
+     Han besluttet at gaa tilbage til Hotellet og udspørge Portieren.
+  Men ikke iaften. Iaften vilde han være ifred. Han længtet mod en
+  Spadsertur gjennem Gaden. Han vilde trække i sin lange Støvfrakke og
+  stikke disse sine varme, skjælvende Hænder i kolde Handsker. Og saa
+  vilde han spadsere langsomt gjennem Vrimlen og vide med sig selv, at
+  her var der ingen som kjendte ham og kunde tale til ham.
+    </p>
+    <p>
+     Aftenens Liv begyndte. Han gik først langs Sjøen og slog sig ned i
+  en Restaurant. Her sad Folk tæt ved alle Borde udover hele Terrassen.
+  Passiaren faldt dæmpet, Lyden af Stemmerne og af Aareslag fra Sjøen
+  blandedes og gik mildt mod hans Øre. Aftenen var ganske stille, Himlen
+  hang silkeblaa over Havnen. [48] Eftersom Timerne gled forbi ham,
+  mærket han i Kroppen en Uro, som han ikke likte. Han blev stadig mere
+  vaagen, og intet var ham nu fjernere end at gaa til Ro igjen. Men da
+  det tyndedes ved Bordene, og da Folk trak hjemefter, paakom der ham en
+  Ærgrelse over at Tiden gik saa hurtig. Han vilde at alle Mennesker
+  skulde være oppe. Det var stadig med den største Uvilje han gik til
+  Ro, for han syntes, at Dagen var ikke forbi, før man la sig til at
+  sove. Men da var den ogsaa ubarmhjertig forbi, og Tiden hadde gaaet et
+  Skridt til.
+    </p>
+    <p>
+     Og saa var det
+     det,
+     at han ikke
+  kunde dølge en liden Ængstelse for hvad der nu skulde ske, naar han
+  igjen blev alene og vilde forsøge paa at faa sove. Skulde Angsten fra
+  den foregaaende Nat styrte over ham igjen? Den vilde sikkert komme med
+  Mørket og Stilheden. Saa vilde han ligge og tænke paa den gaadefulde
+  Fremmede, som hadde bodd i Værelse Nummer 43. Hvem han var, hvad han
+  havde forbrudt og hvor han nu kunde være. Han vidste intet om ham.
+  Selv ikke i Drømmen hadde han set ham, udover det lille Øieblik, da
+  han stod henne ved Telefonen, da han trak Hænderne bort, og der var
+  Blod paa den hvide Nikkelklokke. Og desuden hadde han jo havt en
+  Følelse af, at det ikke var den anden, men
+     ham selv,
+     som stod der ved
+  Telefonen. Det var sig selv han hadde drømt om. Saaledes stod nu
+  Hallucinationen for ham i en [49] broget Forvirring. Men Fornemmelsen
+  af Uhygge var tilbage. Han vidste, at de løse Billeder, han hadde set
+  i Drømme og i halvvaagen Tilstand, var viftet ud af en stor og dyb
+  Skræk, som han hadde gjennemlevet, men som han nu kun mærket som en
+  Anelse. Han følte ligesom et iskoldt Pust fra denne Rædsel, hvergang
+  hans Tanker streifet den. Men han kunde ikke trænge ned til den, kunde
+  ikke udgrunde, hvad det var.
+    </p>
+    <p>
+     Men han vidste med sig selv, at han ikke vilde faa Ro i sin Sjæl,
+  før han iallefald hadde gjort et Forsøg paa at komme tilbunds i
+  Gaaden. Skulde han nu lægge sig til Hvile uden det, vilde
+  Hemmeligheden staa hos ham ved Sengen og puste hans Øine vaagne og den
+  vilde rode omkring i hans Hjerne og bringe hans Tanker i den
+  sørgmodigste Forvirring. Saa hadde han bare en ny Nat, fuld af vaagen
+  Undren og med Skrækken bankende paa Ruden.
+    </p>
+    <p>
+     Allerede da Klokken var elleve, hadde han fattet sin Beslutning;
+  han vilde gaa tilbage til det første Hotel og nærmere udspørge
+  Portieren. Han hadde jo ogsaa noget at ordne for sin egen Del, Tøiet,
+  som vel nu maatte være hentet fra Toldboden. Og saa maatte han
+  afbestille Værelset.
+    </p>
+    <p>
+     Men det var i en fortrædelig Sindsstemning han nærmet sig Hotellet.
+  Han vidste, at det maatte til, at han maatte
+     gjøre et Forsøg
+     paa at erholde
+  Forklaring. Han gik til dette forbittret [50] og ærgerlig. Han kjendte
+  denne Sindsstemning fra tidligere. Det hændte nu og da, at han fik
+  Breve, som han ikke vilde aabne, fordi han anet hvad der stod i dem af
+  ondt og ubehageligt. Men saa tilslut aabnet han dem alligevel i
+  sammenbidt Energi … gjennemløb Linjerne … ganske rigtig … rev Papiret
+  i Stykker og kastet Stumperne langt væk, som om de brændte ham i
+  Fingrene.
+    </p>
+    <p>
+     Portieren kjendte ham igjen.
+    </p>
+    <p>
+     Det var en stille Aften og faa Gjæster i Hotellet. Portieren hadde
+  Lyst til en Passiar. Saa Herren har ikke været hjemme inat? Nei, det
+  er jo saa rimeligt. Det første Døgn i en stor By vilde man gjerne
+  benytte til at se sig om.
+    </p>
+    <p>
+     Han orket ikke at gi Portieren en nærmere Forklaring og han gik
+  derfor ind paa Spøgen. Hvad kunde ogsaa et saadant Menneske som den
+  uniformerte Skikkelse dér forstaa af hans Lidelse. Alene den skraa
+  Pande, som skygget over de ligegyldige Øine, de to dumme Bobler i
+  Ansigtet, røbet det store almindelige Menneske. Hvorledes kunde dette
+  Menneske forstaa det eneste Glimt af ham, som gik omkring og fanget
+  ind i sine Pupiller sære Syner, som ingen andre Mennesker saa, og som
+  følte Angsten straale gjennem sine Øienhulninger og prikke i Hjernen?
+  Selv i Dagslys. I alslags Lys. I hvidt, spøgelsesagtig Sollys som i
+  lummerblaa Tordenluft.
+    </p>
+    <p>
+     [51] Og idet han stod her foran Portieren og hørte paa dennes Snak,
+  forekom det ham, at hans Stilling var ganske meningsløs og latterlig.
+  Han hadde vanskeligt for at anslaa en ligegyldig Tone, da han endelig
+  kom frem med sit Spørgsmaal: Om Portieren kjendte noget nærmere til
+  det Menneske, som hadde bodd paa Nummer 43 før ham?
+    </p>
+    <p>
+     Portieren var ikke straks paa det rene med, hvem der var Tale om.
+  Først da han hadde set efter i Protokollerne, husket han Navnet, Tom
+  Wilkens. Men saa blev han opmærksom paa Spørgerens Nervøsitet, hans
+  Stemmes rustne Skurren; han saa mistænksomt paa ham. Hvorfor han
+  spurgte?
+    </p>
+    <p>
+     Jeg spør, svarte han, fordi jeg mener at kjende dette Menneske. Jeg
+  vil gjerne vide om jeg tar feil, eller om jeg er paa rigtig Spor. Det
+  gufset i ham, da han sa de sidste Ord «paa rigtig Spor» – og de
+  knirket op et andet Ord, som den hele Dag hadde ligget paa Lur lystent
+  efter at komme frem:
+     Morderen
+     … Paa
+  Spor efter Morderen …
+    </p>
+    <p>
+     Han beskrev for Portieren, hvordan Mennesket saa ud. Han sad i den
+  lave Skindsofa inde i Portierlogen. Han sad med halvt lukkede Øine og
+  tænkte efter. Nu saa han igjen Manden for sig i et Gys af blinkende
+  Tydelighed … aa, for en Mængde Enkeltheder, som myldret frem. Han
+  kunde tælle Knapperne i hans Vest; han hadde [52] kulørte Mansjetter,
+  og om Halsen hang en tynd Guldsnor, hvori var fæstet en Lorgnet. Han
+  fandt akkurat de rigtige Udtryk, netop fordi han saa Mennesket saa
+  tydeligt, og han kunde fortælle om ham saaledes, at Mennesket ogsaa
+  blev levende for Portieren.
+    </p>
+    <p>
+     Ja, jeg husker ham nu, sa Portieren, jeg har set ham nogle Gange;
+  men
+     De
+     maa kjende ham meget
+  godt.
+    </p>
+    <p>
+     Hvorfra kom han?
+    </p>
+    <p>
+     Han kom med Dampskibet
+     le
+  Havre
+     .
+    </p>
+    <p>
+     Saa. Det gav et Knækk i Stemmen. Men
+     le Havre
+     er formodentlig reist
+  nu?
+    </p>
+    <p>
+     Det vidste ikke Portieren. Muligens laa Skibet her endda. Men en
+  Ting var han ganske sikker paa, at Manden kom med det Skib, for han
+  hadde selv besørget hans Bagage. Den var forøvrig ikke stor. En eneste
+  Kuffert. Dampskibet kom fra Cherbourg, saa han maatte være gaat ombord
+  der.
+    </p>
+    <p>
+     Og han bodde her bare en Nat?
+    </p>
+    <p>
+     Ja. En eneste Nat kun. Fra Klokken 8 den ene Aften til Klokken 4
+  den næste Eftermiddag. Saa var han reist med Toget. Hvor hen? Det
+  vidste han ikke. Og der stod intet om det i Reisebogen.
+    </p>
+    <p>
+     Talte De med ham?
+    </p>
+    <p>
+     Kun en enkelt Gang. Han var ellers fuldstændig alene, gik ikke ud,
+  modtog ingen Breve og intet Besøg og blandet sig heller ikke med
+  [53] Gjæsterne i Hotellet. Han sad inde i Restauranten til Klokken 1
+  den Nat og hørte paa Musikken. Og han drak noksaa meget. Da Musikken
+  sluttet, vinket han paa mig og spurgte: Spilles der ikke mere iaften?
+  Nei, svarte jeg. Saa blev han vistnok ærgerlig over dette, for han sa:
+  Det var som Satan. Saa gaar Folk hjem. Ja, svarte jeg, saa gaar alle
+  Folk hjem. Det var som Satan, gjentog han. Han var den sidste, som
+  forlod Kafeen. Det er alt, hvad jeg ved om Manden. Jeg var ikke
+  tilstede, da han reiste. Jeg er her kun om Aftenen og om Natten.
+    </p>
+    <p>
+     Portierens Fortælling slog ned i den anden som noget han allerede
+  var kjendt og fortrolig med. Bevidstheden om, at han allerede var
+  vidende om dette, var saa forunderlig levende hos ham, at han
+  pludselig reiste sig op og sa:
+    </p>
+    <p>
+     Ja, der kan De selv se!
+    </p>
+    <p>
+     Portieren satte store Øine. Portieren
+     saa
+     paa ham. Og derved fik han
+  straks en ræd Fornemmelse af, at nu hadde han begaat en Dumhed, en
+  Uforsigtighed, og han spurgte sig selv: Aner han noget?
+    </p>
+    <p>
+     Men
+     hvad
+     ?
+    </p>
+    <p>
+     Hvilket meningsløst Spørgsmaal! Aner han noget … Han hadde jo ikke
+  begaaet nogetsomhelst … Men han syntes alligevel han stod som anklaget
+  foran en Skranke og hørte kolde Papirer rasle. – Han skjalv under en
+  nervøs [54] Ophidselse, som hadde grebet ham, mens han hørte
+  Portierens Fortælling om Manden som saa nødig vilde gaa til Ro og være
+  alene. Det stemte akkurat med hans egen Sindstilstand i dette Øieblik.
+  Nu var Klokken snart 12 og Livet og Larmen ifærd med at rinde ud i død
+  Stilhed. Alle Mennesker vilde forlade ham, og han skulde bli alene
+  tilbage med Natten og Angsten.
+    </p>
+    <p>
+     Han kunde ikke udholde længer Portierens spørgende og forundrede
+  Blik. Han begyndte at tale om noget andet, han talte om sin Regning,
+  han maatte flytte. Han la en Pengeseddel paa Bordet og bad om at faa
+  Bagagen sendt hen i det andet Hotel. Saa skyndte han sig ud og hadde
+  en ubehagelig Frysning i Ryggen. Men hvad vilde han ogsaa i dette
+  Hotel? Hvad ventet han at opnaa med sine Spørgsmaal? Han hadde ikke
+  faat vide det mindste af Betydning. Han hadde bare siddet der og med
+  visionær Tydelighed fortalt Portieren om den gaadefulde Mand fra
+  Nummer 43. – Allerede under den kobberhvælvede Indgangsportal stanset
+  han, idet en Kuldegysning fløi gjennem ham. Og han spurgte igjen sig
+  selv: Ved han noget? Han hadde en bestemt Følelse af, at han hadde
+  røbet sig ligeoverfor Portieren.
+    </p>
+    <p>
+     Men
+     hvad, hvori
+     hadde han røbet
+  sig?
+    </p>
+    <p>
+     Han skyndte sig ud paa Gaden; men nu kom det meningsløse Spørgsmaal
+  igjen i en anden Form. Han kunde slet ikke ryste det af sig. [55] Han
+  saa paa alle de Mennesker, som ligegyldig drev forbi ham, han saa paa
+  alle Ansigterne … Ingen la Mærke til ham. Saa tænkte han: Ingen af
+  disse Mennesker ved noget. Se her, her gaar jeg ganske rolig midt
+  blandt dem, og ingen
+     aner
+     noget.
+    </p>
+    <p>
+     Det meningsløse i denne Tankegang stod klart for ham. Men nu hadde
+  han faat den besynderlige Uro over sig, som han hadde fornemmet første
+  Gang han traadte over Tærskelen til det uhyggelige Værelse. Hans
+  Tanker kom og gik uforvarende og pludselig; det var ligesom de var
+  satte i Bevægelse af en Magt udenom ham selv. Som om han til sine
+  Tider var et andet Menneske og tænkte for en anden.
+    </p>
+    <p>
+     Eftersom han fjernet sig fra Hotellet, blev det bedre for ham; men
+  han hadde iallefald fremdeles en stor Ærgrelse at kjæmpe med,
+  Ærgrelsen over, at han hadde henvendt sig til Portieren og gjort sig
+  latterlig. Han hadde den bestemte Tro, at hans Optræden helt igjennem
+  hadde yæret latterlig; han blev flau ved at tænke paa den, og han
+  søgte at komme bort fra sin Flauhed ved at bringe noget helt andet ind
+  i sin Forestilling, helst noget imponerende, en stolt Begivenhed,
+  eller et sterkt og mægtigt Tal, femten Millioner …
+    </p>
+    <p>
+     Omsider braset han ind i en Kafé og begyndte at drikke. Det hjalp
+  lidt paa hans Uro, og da han en Times Tid efter vendte tilbage til sit
+  Hotel, var det med en afgjort Beslutning om [56] at fortsætte
+  Undersøgelserne for at faa vide noget mere om Manden fra 43. Han vilde
+  næste Morgen gaa ombord i
+     le Havre,
+     dér maatte de vide noget.
+    </p>
+    <p>
+     Men tidlig næste Morgen reiste
+     le
+  Havre,
+     og da han kom ned paa Bryggen, var det allerede
+  forsent.
+    </p>
+    <p>
+     Han gled nu gjennem mange Dage og endskjønt han ikke bestilte det
+  ringeste, syntes han, at han hadde Timerne fuldt optat med Besvær og
+  Omtanke. Han bodde ikke længer paa sit nye Hotel. Saa flyttet han til
+  et Pensionat, og nogle Dage efter flyttet han til et Hotel igjen. Hver
+  Gang han kom til et nyt Sted, var det med stor Tilfredshed han
+  betragtet Omgivelserne. Se nu et saadant Pensionat, det er som et
+  Hjem, man har milde Hænder omkring sig. Man spiser i sit eget Værelse
+  og behøver ikke at generes af Kafeens nysgjerrig stirrende Ansigter.
+  Og saa slipper man Hotellernes uforskammede Høflighed. Man kan faa Lov
+  til at aabne sin Dør selv uden at se et uniformeret Væsen staa og
+  bukke … Men saa, efter nogle Dages Forløb, blev netop
+     det
+     uudholdeligt for ham, som han
+  til en Begyndelse hadde følt sig saa vel ved. Han fik Maden ind paa
+  sit Værelse til bestemte Tider og syntes, at han var en Fange, som
+  modtog Kosten i en stille og trist Celle. Han ønsket sig tilbage til
+  Kafeens Lys og Musik og til Hotellernes Elevatorer og Ringeapparater,
+  hvor han kunde [57] optræ med en velgjørende og befriende
+  Hensynsløshed.
+    </p>
+    <p>
+     Saaledes flakket han omkring fra Sted til Sted, jaget av en stadig
+  stigende Uro. Men han likte ogsaa denne Rastløshed, den gav ham ikke
+  Tid til at ængstes. – Eller kanske det var Angsten selv, som var efter
+  ham og ustanselig jaget ham fremover? Nu og da kunde han stanse og
+  føle den blussende Skræk i sin Hjerne, Rædslen for en umaadelig Fare,
+  som var i Hælene paa ham og som han ikke kunde beskytte sig mod. Eller
+  det var Rædsel over noget, som han skulde ha begaat, en Forbrydelse,
+  en Ugjerning, noget som han slet ikke var sig bekjendt, naar han
+  tænkte nærmere over det. Men han hadde Fornemmelsen. Og den kom
+  bestandig over ham uden Varsel og frygtelig. Et Anfald, som fik ham
+  til at gjøre et eller andet meningsløst, skynde sig indgjennem en
+  Butikdør eller stikke af i en Sidegade. Naar disse Anfald kom om
+  Morgenen, var de meget pinefulde. Angsten pustet Søvnen ud og endnu
+  mens han laa og vred sig halvvaagen, eksploderte en uforklarlig Rædsel
+  i hans Nerver. Hver Gang fik han Lyst til at springe op, eller til at
+  raabe, eller græde. Gang paa Gang gled han ud i Søvnen paany; men
+  stadig vækkedes han af Angstfornemmelsen, denne dumpe Følelse af, at
+  selve Faren, det gaadefulde og forfærdelige stod i Nærheden af ham.
+  Han tænkte sig Angsten som [58] noget der grodde inde i hans Bryst,
+  grodde og vokste op gjennem hans Hjerte i en fin og vaiende Stængel.
+  Snart vilde Blomsten hænge færdig og duppende, Bladene smelde af og
+  selve Rædslen aabne sig blodrød og gjennemsyre ham med sin Aande.
+    </p>
+    <p>
+     Og under disse stadige Angstfornemmelser blev han vár og sky. Et
+  stærkt og hvidt Sollys kunde gjøre ham nedtrykt og trist. Han søgte
+  ind under Skyggerne og til mørke Værelser. Men endnu værre var det i
+  taakemætte Dage, da Solen gik inde i Taaken som en rød Maane; han
+  hadde Skræk for at se paa den og dukket uvilkaarlig Hodet.
+    </p>
+    <p>
+     Visionen fra hin Nat og Følelsen af at ha oplevet en virkelig og
+  uhyggelig Begivenhed kunde han ikke bli kvitt. Det var ligesom Drømmen
+  vævet et fint og skjælvende Spind gjennem hans Dage. Han selv gik i
+  dette Spind og famlet sig tættere og tættere ind i det. Til sine Tider
+  kunde der overkomme ham en rykende Forbittrelse, fordi han forstod, at
+  han var magtesløs fangen, andre Dage blev han nedstemt og sørgmodig.
+  Det var i en saaden Stemning, han for første Gang mærket Savnet, et
+  forsagt Savn efter noget han ikke kunde forklare sig. Efter andre
+  Tider og andre Mennesker. Efter Dage han forlængst hadde levet. – Da
+  syntes han, at han hadde en Anelse om al Tings Ophør og om Døden.
+    </p>
+    <p>
+     [59] Han sad en Dag ved Vinduet i en Kafé og saa paa Vrimlen
+  udenfor. Med en Gang la han Mærke til et Menneske over paa den anden
+  Side af Gaden. Dette Menneske gik langsomt frem og tilbage, det ventet
+  paa nogen. Han kunde se det i Blikket, det vigende Blik, som gik forbi
+  alle andre Mennesker og søgte mod et eneste, ét som skulde komme.
+  Alene dette, det var jo ingenting, men alene dette vakte et vemodigt
+  og stilfærdigt Savn i ham. Det var i Eftermiddagsheldingen en Dag.
+    </p>
+    <p>
+     Saa en Aften hadde han en Oplevelse af en anden Art. Han var kommet
+  ind i en liden Kafé, hvor han ellers ikke pleiet at vanke. Han tog
+  Plads i et Værelse, hvor ingen andre Gjæster fandtes. Han var saaledes
+  helt alene. Værelset var afdelt med Mellemvægger. Han satte sig indtil
+  en saadan Væg i en Krog, men først hængte han sin Støvfrakke fra sig
+  paa den anden Side af Væggen. Mens han sad her og glædet sig over at
+  være ganske alene, syntes han tydelig at høre en Famlen i Baasen ved
+  Siden af, – dér hvor hans Frakke hang. Han lyttet efter. Nu var alt
+  stille. Men saa kom denne Famlen igjen. Eller det var en Pusten fra
+  noget levende bag Væggen. Og saa med en Gang synes han, at han
+     ser
+     Frakken. Den bevæger sig, som
+  om nogen rører ved den, og pludselig ser han en Haand, en lang og hvid
+  Haand, som strækkes ud efter Frakkens venstre Lomme. – Han gaar frem
+  paa [60] Gulvet … Nei, dér hænger Frakken rolig, og der findes ikke et
+  Menneske. Denne Frakke hadde han ikke hat paa siden hin Dag han kom
+  til Byen. Han hadde tat den med sig i Aften, fordi en kjølig Kulde
+  randt gjennem Luften, Efteraarets første Aande. –
+    </p>
+    <p>
+     Han sætter sig ned igjen, men han er blit urolig og forlader hurtig
+  Kafeen. Da han kommer ud paa Gaden, griber han i Frakkelommerne efter
+  sine Hansker. Og saa stanser han med ett og føler Angsten stimende mod
+  sig. I den venstre Frakkelomme finder han en Nøkkel, i Nøkkelen hænger
+  et Messingskilt og i Skiltet er med sortlakerte Bogstaver indgraveret
+  Tallet 43. Det er Nøklen fra Hotellet, som han har glemt at aflevere.
+  Han kaster den langt fra sig, som om den var pestsmittet. Dens
+  Klingren mod Brostenene skjærer koldt i hans Hjerne. – Han skynder sig
+  bort.
+    </p>
+    <p>
+     En Formiddag – nu bor han paa Hotel igjen – gaar han gjennem
+  Korridoren hen til Elevatoren. Han vil netop trykke paa Knappen, da
+  han hører, at Elevatoren sættes igang nedenfra og stiger raslende op
+  gjennem Schakten. Straks mærker han Angstfornemmelsen. Den kommer
+  sammen med Elevatoren opover, den stiger og blir stærkere, og idet
+  Elevatoren passerer Etagen, hvor han venter, føler han Angsten saa
+  voldsomt, at han kan høre sit Hjertes Dundren mod Brystvæggen.
+  Elevatoren gaar videre og i samme [61] Grad, som den fjerner sig,
+  fjerner ogsaa Angsten sig. Men nu vil han for intet i Verden benytte
+  Elevatoren. Han gaar Trapperne ned. Først da han staar ude paa Gaden,
+  spør han sig selv forundret: Hvem var inde i Elevatorschakten? Hvad
+  var det for et Væsen, som gled forbi ham og bar Angsten gjennem ham?
+  Han turde ikke tænke Tanken ud; men flygtet hurtig bort fra Hotellet.
+  Var
+     Mennesket
+     i Nærheden, det
+  Menneske, som for ham var selve det gaadefulde, selve Skrækken?
+    </p>
+    <p>
+     Saaledes gik mange Dage, og Høsten begyndte.
+    </p>
+    <p>
+     Nu hadde han bodd en Uges Tid ude paa Landet, forat Landluften
+  kunde gyde Ro i hans Nerver. Han hadde mærket de stærke Luftninger fra
+  Engene, han hadde gaat under store Trær og hørt Blæsten bøie dem
+  hviskende mod hinanden. Og han hadde staat og set langt udover, hvor
+  han kunde øine Sjøens blaa Blink.
+    </p>
+    <p>
+     Men han hørte ikke til derude, han var ikke hjemme der.
+    </p>
+    <p>
+     Et mærkeligt Tungsind faldt over ham, naar han stod under den høie,
+  lyse Himmel, han følte sig blottet og skjælvende midt i Solskinnet,
+  naar Græsset krøb opover hans Ankler.
+    </p>
+    <p>
+     En Kvæld gik han ned til Sjøen.
+    </p>
+    <p>
+     Der var ingen Blæst. Sjøen laa i svag Høining, som et stort blaat
+  Silketæppe, der krusedes svagt af Lyset fra den dalende Sol. Mod
+  Horisonten stod fjernt og tuschtegnet et andet Land. Han saa flere
+  Skibe, som laa stille med [62] slappe Seil. En Damper gled fremover
+  med et sort Røgskaft efter sig. Han saa paa Seilene derude, – ét stod
+  i Skygge og var vaadt i sin graa Tyngde. Et andet var kommet ind i et
+  Solkast, og det blev besynderlig lyst. Det blinket som Metal …
+  Bestandig, naar han saa solbelyste Seil langt ude paa Havet,
+  gjennemflagredes han af Vemod. Kanske var det slet ikke Udlængsel. Han
+  syntes, han stod overfor noget evigt, at han saa et Billede fra en
+  anden Tid. Hans Tanker fløi langt tilbage i Aarene, da Mænd i
+  forunderlige Klær tumlet sig under Seilene, og da de buede Klude bar
+  Menneskene indunder nye Himle, hvor intet Raab før var hørt. – Naar
+  han nu stod her ved Stranden og stirret paa det Seil derude, som netop
+  gik ind i Lysranden, trodde han at se det i en fjern Tids stille Skin.
+  Hvad hed Kapteinen ombord? Var han Bretagner?
+    </p>
+    <p>
+     – – – Naar Skumringen kom og Skyggerne flød indover Markerne, og
+  Træklyngerne stod som vældige sorte Gruber, da raabte det i ham efter
+  Byen, hvor han hørte hjemme. Han følte det straks han kom ind i en
+  Gade og hørte Sporveisskinnernes Skrik under Vognhjulene. Byen blev
+  for ham et umaadeligt Væsen, som han kjendte og var fortrolig med.
+  Udenom Byens Larm var alle hans Nerver som afhugne og hjælpeløse. Ude
+  paa Landet følte han selv det varmeste Sollys isnende, han frøs og
+  syntes han [63] var nøgen. Og nu hadde han gaat i Græs en hel Dag. Det
+  hadde været en sørgmodig Dag. Han hadde gaaet der med sin heftige Uro.
+  Hadde hørt Vindens skyllende Hvisken i Træerne og set dens lette Gang
+  henover Engene; den vaklet vesterud, hvor nye Sletter aabnet sig, og
+  hvor gyldne Kreaturer blinket.
+    </p>
+    <p>
+     Nu var han i Byen igjen, hos sig selv. Han gik indunder
+  Telefontraadene, under det blaalige Glimt i de elektriske Ledninger.
+  Det gynget i hans Bryst. Han gik gjennem en myldrende Gade og fandt Ro
+  og Hvile i Menneskesværmens evige Plappren, et Velbehag ved at gli ved
+  Siden af og forbi andre Mennesker og føle alle de mange Blikke, som
+  krydsedes, alle de mange Øine, hvori Længslerne stod aabne og raabte.
+  Der gik Hundreder Væsener forbi ham i Minuttet, Hundreder Hjerner, som
+  alle tænkte sine egne Tanker. Han hadde en Fornemmelse af, at hans
+  Sanser veiret i denne Luft, som var yr af Drømme og Attraa, at han
+  spredte omkring sig usynlige Føletraade, som soknet i Sværmen efter
+  hemmelige Tanker. Alt samlet sig hos ham til en egen dirrende
+  Stemning, den glidende, raslende Støi af Menneskekroppene, Buelysenes
+  Fræsen over hans Hode, Automobilernes varslende Raab – Gaden laa foran
+  ham i hele sin Længde, dyngende fuld af Liv og Farver, det glimtet af
+  Metal og gyldne Inskriptioner, de elektriske Lygtestolper rendte op
+  fra Asfalten som Raketter, og [64] Lamperne heldte Skaale af Lys
+  udover den vrimlende Færdsel. Langt derhenne gik Gaden ind i den
+  braasorte Himmel, sluttet op i en Knytnæve af Lys. Han vandret
+  fremover langsomt med Hodet let bøiet tilside, ligesom han lyttet
+  efter Musik. I denne deilige og hede Menneskeluft var hans Hjerne en
+  Djungle, hvori Tankerne gik som Rovdyr.
+    </p>
+    <p>
+     Ind i denne Stemning skar saa Angsten uanmeldt og forfærdelig. Den
+  kom saa pludselig, at han maatte stanse et Sekund. Han kjendte den
+  rent fysisk, en Smerte, som vokste og vokste og trykket mod
+  Hjertevæggene. Og saa gled den op gjennem Rygraden og ind i Hjernen.
+  Hans Puls banket heftig. Angsten steg. Han syntes den blev baaret mod
+  ham, og han kjendte dens Tryk stadig tungere. Angsten kom fra et
+  bestemt Punkt, den kom fra Gaden, fra et bevægeligt Væsen, som var i
+  Marsch mod ham. Hans Hjerne var næsten lammet, hans Tanker flagret i
+  meningsløse og svage Rykk; han syntes det ringet et Sted i Nærheden,
+  en skarp og fin Klokke. Og nu skar det paany gjennem ham: det er en
+  Telefonklokke han hører, den ringer ikke nu, den har ringet en Gang og
+  det er bare Klangen af den som spøger i hans Forestillinger. Midt i
+  Gadens summende Tramp, etsteds i Færdslen, i det lysende Baand af
+  Menneskeøine og Ansigter, som driver forbi ham, synes han at se et
+  Ansigt, et halvt udhvisket [65] Syn af en høi bleg Mand med lyst
+  Overskjæg. Nu synes han, at Ansigtet kommer nærmere og staar ligemod
+  hans, og i samme Øieblik gaar Angsten i Bølger gjennem ham. Han ved,
+  at der er et Menneske i hans Nærhed, fra hvem Angsten kommer. Nu maa
+  Mennesket være
+     her,
+     det gaar forbi
+  ham. Hans Blik jager ind i Vrimlen, hvem er det? hvor gaar han? Men
+  selve Angsten, Feberen, slører hans Øine, hans Hjerte gaar i store og
+  tunge Greb. Blodet trykker over Hjernen, og han ser ikke længer noget
+  rigtig klart, alt flyder forbi i en lysdirrende Taage. Først nu blir
+  han opmerksom paa, at han staar og støtter sig mod en Speilglasrude,
+  han holder den flade Haand mod det kolde Glas og føler en lummer
+  Brænden mellem Fingrene. Saa pludselig
+     slipper
+     Angsten, den har ikke
+  længer saa voldsom Magt over ham, den forfærdelige Gyngen inde i
+  Brystet gir sig efterhvert. Mennesket er gaat forbi. Han vender
+  tilbage til sig selv. Han hører igjen Larmen slaa mod sine Øren. Han
+  hører Stemmerne tydelig. Han har været inde under et Tæppe. Nu er der
+  atter aabent omkring ham. Han kan se Ansigter igjen. Og Menneskenes
+  Hænder; Enkelthederne i deres Klær, Knapperne, de smaa dagklare Glimt
+  fra Smykkerne. Mange Øine glimter igjen mod ham, og Latteren fyger
+  omkring snehvide Tænder. Han er paany midt i Gaden.
+    </p>
+    <p>
+     [66] Men han er blit mat og træt efter Lidelsen. Han føler Trang
+  til Hvile og speider efter en Kafé, hvor han kan sætte sig ned. Nu
+  husker han paa, at han har Venner ogsaa i denne By, og han gyser ved
+  Tanken om, at han ikke skulde faa Lov til at være alene. Han tænker
+  paa den besynderlige Fornemmelse, han nys har havt, den synes ham nu
+  uvirkelig og uforstaaelig. Det er ligesom han skulde være vaagnet
+  efter en Drøm. Endnu i Opdriften fra Søvnen staar Drømmen for ens
+  Bevidsthed, i Virkelighedens klare Lys, endnu i nogle Sekunder, et
+  Minut eller to, har man en Forestilling om at ha gjennemlevet noget i
+  Drømmen; men saa bæres pludselig det hele langt bort. Saaledes ogsaa
+  med den store Angst, han hadde fornemmet. Nu forstod han den ikke
+  længer. Men han husket, at den var kommet ganske voldsomt og med én
+  Gang, hadde vokset hurtig til den hadde været nærved at lamme ham. Og
+  saa var den stilnet. Gik der da et Menneske omkring i denne Verden og
+  bar paa en frygtelig Angst, som han var blit delagtig i? Hver Gang
+  Angsten kom over ham, syntes han, at han levet i en fremmed
+  Tilværelse, bestandig ringet denne Telefonklokken i hans Øre, – med en
+  fjern og dog nær Klang, en grusom og dirrende Klang og han syntes, at
+  han saa en høi blondskjægget Mand eller følte med alle sine aabne
+  Nerver et saadant Menneske i [67] sin Nærhed. Og nu hadde dette
+  Menneske været der, det hadde baaret Angsten mod ham, gjennem ham og
+  bort fra ham. Han vidste det.
+    </p>
+    <p>
+     Han kom ind i en stor Kafé, et uhyre hvidt Rum, hvor Taget var en
+  Stjernevei af gnistrende Lys. Restaurantens heftige Larm bruste mod
+  ham. Men der var Harmoni og Ro i Larmen. En fortættet Glans i det
+  mægtige Service, som var spredt udover Bordene, en jevn Stigen og
+  Falden i Menneskerøsternes Sus, hvorfra en enkelt Stemme, eller Latter
+  nu og da flagret op i Cigarrøgen som en Lærke i blaa Foraarsluft.
+  Kaféens Liv mangedoblet sig og druknet i Speilvæggene, Rummet blev
+  uden Grænse. I denne klingende Larm, i denne bedragerske Uendelighed,
+  følte han sig straks vel; han følte sig aldrig saa herlig alene, som
+  mellem mange ukjendte Mennesker. Det glædet ham, at her ogsaa var
+  Musik. Han vidste, at han nu vilde bli gjennemilet af Savnet igjen, af
+  det stille og vemodige Savn, som saa ofte gik i Angstens Spor. Et Savn
+  som han ikke kunde forstaa, men som bar hans Tanke mod Mennesker, der
+  var langt borte fra ham eller døde. Han var nu vár og følsom for
+  ethvert Indtryk, enhver Stemning, som kom. Han skjalv ved hver Tanke,
+  som et Træ, der skjælver i Vindens sagte Gliden –
+    </p>
+    <p>
+     Og nu sad han her og lod et og andet Minde jage gjennem Sindet. Han
+  syntes han var hjemme, i et Værelse, han engang hadde havt. Ved Siden
+  [68] af hans Bord stod en Lænestol, hvor hun, den lille hadde siddet
+  saa mangen gang. Han husket hendes forskræmte, søgende, ofte lystig
+  blinkende Øine. Og hendes fordringsløse, lidt fattige Paaklædning. Han
+  likte Fattigdommen, han hadde en sygelig Tilfredsstillelse af at se
+  ind i den. Der kommer intet vakkert uden fra Fattigdommen. Hvor findes
+  slige stille og dybe og vidunderlige Øine som nede i den bundgraa
+  Fattigdom, hvor gaar Livets Marsch gjennem Sekunderne med en heftigere
+  og mere forbittret Glans? – Hun hadde ikke været vanskelig at vinde,
+  men hun blev ham hurtig ligegyldig, mens hendes Hengivenhed til
+  Gjengjæld steg, fordi hun ikke kunde tænke sig noget andet i sin lille
+  Tankeverden. Nu saa han disse Øine i Lænestolen, de blev trætte
+  efterhaanden og Huden omkring Nakken og om Kindernes brune og fine
+  Bøining tabte sin gyldne Glans. Hendes Skridt gik ikke længer saa
+  legende raskt opad de mange Trapper. Hendes Læber blev sammenklemte og
+  tørre. Nu er det seks Aar siden hun døde. Han gik ikke til hendes
+  sidste Sygeleie og var ikke i hendes Begravelse. Men han hørte om den,
+  det var en Dag i Løvfaldstiden, en raa og kold Høstdag under en vaad
+  Himmel. En blinkende klar Vintermorgen gik han op til Kirkegaarden og
+  fandt frem til hendes Grav, den var liden som hende selv, næsten en
+  Barnegrav, Sneen laa blank og hvid over den i svag Høining. Og nu
+  [69] hadde hun været død i seks Aar. I seks Aar. Han skulde aldrig
+  mere se hendes Øines gjenkjendende Glædesblik, naar hun var i Gang mod
+  ham, og han stod stille med Vaarfrakken over Armen og ventet paa hende
+  … Han kjendte en syg og rusten Hulken i Struben og han tænkte paa
+  Døden, som bærer Minderne stadig længere ind i Evigheden, til de staar
+  skyggeagtige i Tidens Skumring. Og et nyt Billede fulgte. Han var
+  fjernt nede i Aarene, nede i sin egen Barndom. En stille Sommeraften i
+  en liden By. Han gik forbi en stor aaben Løkke med høit Græs, hvorover
+  Myggen svirret i den sjøgrønne Luft. Han skygget for Øinene og saa
+  udover Løkken, kjendte han nogen? Han raabte et Navn: Dagny! En hvid
+  Barnekjole reiste sig op fra Græsset.
+    </p>
+    <p>
+     Savnet var over ham.
+     Det,
+     som
+  Menneskene ikke har Ord for, som intet Menneske kan fortælle, for
+  intet Menneske ved, hvad det er. Savnet, som bærer ens Tanke mod
+  Tidens ustanselige og ubarmhjertige Ilen. Som lar en høre Timernes og
+  Dagenes Nedstyrten i Evighedens Afgrund, Savnet, der næres af alt, som
+  er forbigangent, eller som snart er forbi, af Kvældsolens matte
+  Straaler, af faldende Løv, af Bevidstheden om Aarstidernes evige
+  Vekslen. Og der gaar gjennem det stumme og forsagte Savn en tindrende
+  Længsel efter at faa leve om igjen det legende Liv, se igjen en
+  solvarm Dag som man husker, mødes igjen med et Menneske fra den Tid
+  som er forbi, forbi.
+    </p>
+    <p>
+     [70] Kanske følte han dette Savn stærkere end andre Mennesker. Det
+  kom i Angstens Følge. Naar Angsten hadde dirret i hans Nerver og gjort
+  dem skjælvende følsomme, da strømmet Savnet til og suget sig fast.
+  Kanske var det Angsten paa en anden Maade. Han trodde, at Menneskene
+  alle engang maatte dø af Angst. Var han et ensomt Menneske i Nutiden
+  med al Fremtidsmenneskets Skræk drivende gjennem sig? Han sad her med
+  en Anelse mod Fremtiden, som naar man faar en bestemt Følelse af
+  Dødens Nærhed. Han synes, han kunde fornemme en Aande fra selve
+  Mennesketilværelsens dybeste Gruber, de store Gaaders lydløse Tog drog
+  forbi, Skyggerne omkring Menneskenes Liv la sig over ham, men han
+  kunde intet forklare og intet forstaa. Han ligesom lyttet med hele sin
+  Sjæl og ventet, at et Dryss af Stemmer skulde komme mod ham og mod ham
+  alene, en Mumlen fra Uendeligheden, men han kunde intet høre uden
+  Stilhedens fine og blinde Spind.
+    </p>
+    <p>
+     … Han kvakk op af sine Drømmerier ved at høre Musikinstrumenters
+  Klimpren. Han løftet Hodet. Al Kaféens Larm slog sammen over ham, og
+  hans Øine blændedes af de elektriske Lampers hvide Glød. Han hadde
+  været fuldkommen borte et Øieblik. Nu glædet han sig igjen over
+  Menneskelarmen og over Musikken, som skulde komme. Han bildte sig ind,
+  at han ikke var musikalsk. Han kunde synes om at sidde i et
+  [71] Theater, stirre ned i Orkestergruben, hvor de hvide Nodeblade
+  skinnet, og lytte efter den meningsløse Surren, som fremkom, naar
+  Musikinstrumenterne stemtes. Han maatte tænke paa et loddent Rovdyr,
+  som fér henover Strængene med klorende Poter og vilde løs. Han kunde
+  ikke fordrage lange Orkesterstykker. Det pinte ham at se de svedige
+  Musikanter mod Slutningen af en Symfoni. Og naar Symfonien var forbi,
+  styrtet de omkap hen til Toilettet, Symfonier varer jo saa længe. Men
+  han kunde glædes ved smaa melankolske Sange. Og saa glansfuld
+  Militærmusik, som satte hans Sind i Svingninger mod store og herlige
+  Optrin.
+    </p>
+    <p>
+     Men hvorfor gik det ikke løs? Hvorfor spilte man ikke? Pludselig
+  begyndte Folk at klappe; en Herre med Nodeblad i Haanden steg frem paa
+  Podiet. En Sanger. Han saa paa Sangeren og kunde ikke rigtig forstaa …
+  Naa, saaledes, en Sanger. Et heftigt Raseri betog ham, en Ærgrelse saa
+  stor, at han begyndte at skjælve. Han hadet Sang som Pesten, denne
+  Form for Velklang, der ligger den menneskelige Stemme saa nær. Saa
+  skulde han alligevel ikke faa Musik. Han blev sentimental af Rørelse.
+  Nu vilde han hjem. Klokken var allerede tolv, og det var mørkt udover
+  Markerne. Han vilde gaa en lang Omvei, saa han kunde faa vandre en
+  Times Tid henover Landeveien og i Mørke under de gyngende Trær.
+    </p>
+    <p>
+     [72] En Stund efter var han ude af Byen.
+    </p>
+    <p>
+     Da var det, at han for første Gang det Aar mærket Høsten.
+    </p>
+    <p>
+     Blæsten ilte mod hans Bryst. Den bar med sig i sin favn en ny
+  Aarstid, som nu skulde komme. Sommeren var færdig igjen, den var
+  modnet allerede og knakk sammen overalt. Forbi var de drivende hvide
+  Dage, da Æbletrærne blomstret. Kornakrene var afmeiet, hans Syn skulde
+  ikke længer hvile udover de store, gule Flader, som i sin urolige
+  Duven var som et Hav af deilige Nøddekjerner. Ogsaa denne Sommer var
+  gaat med i Aarenes Skred. Alt var forbi. Han gik over Engen i det
+  skumrende Halvlys. Aa, der stod et heftigt Savn i ham, denne Dag hadde
+  været lang og sørgmodig. Hvor hadde han ikke været nøgen og frysende i
+  Solskinnet. Tænk, hvis der nu hadde været Vaar og han kunde gaat over
+  øineblaa Blomster og traadt dem ned. Men istedetfor Blomster, som
+  raabte op fra Jorden, hadde han vindsygt Græs under sine Fødder. Om en
+  Maaned eller to vilde Markerne ligge klamme og frostrøde i Solens
+  skraa Straaler. Han taalte ikke Høsten, den kom over ham som en
+  Forudanelse om en stor Fare. Og under Høstdagenes hurtige Gang,
+  styrtet alle Minderne over ham, alle de smaa pinefulde Sekunder i
+  Livet, hvori han hadde gjennemlevet noget saart og ulykkeligt, samlet
+  sig i en uhjælpelig Tristhed … Han stanset og saa udover Sletten,
+  [73] mod Syd, hvor det var allermørkest. Dér, vidste han, laa Sjøen.
+  Og saa gled der ud af de forfærdelige og stumme Savn, som nu dønnet i
+  hans Hjerte en enkel og forsagt Tanke, et lydlyst men rystende Raab,
+  mod hvad? Kanske mod et Navn, et Navn, og to blomsterblaa Øine.
+    </p>
+    <p>
+     … Han stod stille en Stund udenfor det Hus, hvor han bodde. Endelig
+  gik han ind. Hans Skridt knirket i Trappen. Han gik langsomt opover og
+  vidste med sig selv, at nu kom en ny Følelse af Angst; den som
+  bestandig viftet mod ham, naar han gik opover mørke Trapper, hvor han
+  var kjendt. Han hadde aldrig denne Følelse, naar han gik omkring i
+  ukjendte Bygninger, selv om han maatte famle fremover i Bælgmørke. Men
+  der hang noget igjen af ham selv i denne Trappe. Han hadde gaat der
+  mange Gange opover og nedover. Den var som en kringlet Grubegang. Den
+  hadde baaret mange Menneskers Skridt gjennem Aarene, mange Folk, som
+  hadde gaat her var døde forlængst eller reist. Men alligevel var det,
+  som om noget var tilbage efter dem. Trinenes svage Knirken løftet frem
+  et Ekko fra andre Menneskers Trin eller fra hans egne. Og naar hans
+  Haand berørte det glatte Gelænder, syntes han at mærke alle de Hænder,
+  som før ham hadde grebet om det, Kvindehænder og Mandshænder og
+  Barnehænder, nogle kolde, andre tørre, andre angstdirrende; For der
+  gaar megen Angst gjennem en saadan [74] Trappestrube, Angst som ligger
+  og gyser stille i Krogene eller stirrer graalig og taaget ud af den
+  blinde Nattelysning i Vinduerne. Man faar Lyst til at vende sig om,
+  for det er ligesom noget gaar efter en, stille og uden Larm. Skridt,
+  som man fornemmer, men ikke hører og som stanser, naar man selv
+  stanser for at lytte, det puster etsteds omkring en, det famler over
+  Dørlaasene, hvor saamange Menneskers Hænder i Aarenes Løb har grebet.
+  Det er Ekkoet af Menneskenes Liv som møder ens Sanser i en saadan
+  Trappe, hvor man er kjendt og fortrolig, en Vrimmel af Klang, som
+  Mørket blotter og som ikke høres, naar man lytter, fordi den glider
+  ind i selve Tausheden, Lydløsheden.
+    </p>
+    <p>
+     Og nu, da han gik der med alle sine Nerver skjælvende under
+  Angstens og Savnets søde Lidelse, følte han det tydeligere end ellers,
+  at han ikke var alene, men at der omkring ham i Mørket puslet et Liv,
+  eller en Gjenklang af Liv, af Dagens Liv eller af længst henrundne
+  Tiders Bevægelser og Stemmer.
+    </p>
+    <p>
+     Han gik langsomt opover Trappen; han hadde ingen Frygt, fordi denne
+  Angst var en anden end den sedvanlige, den som kunde styrte over ham,
+  selv naar han gik blandt mange Mennesker og som da stod hvid og iskold
+  for hans Øine … Han tænkte paa det uhyggelige Øde, der hvilte over de
+  Huse, som længe hadde staat tomme, eller over Ruinerne; der fandtes
+  ikke længer [75] noget Ekko af Fordums Liv, Tiden hadde suget det op
+  under sine Aar, de tomme Vinduer stirret fabelagtig mørke ud i Natten
+  og hele Huset gav et Billede af Forgjængeligheden og Døden, et stumt
+  og skrækkeligt Raab om alt det, som var forlængst forbi –
+    </p>
+    <p>
+     … Han hadde to Værelser, et stort Arbeidsværelse, som vendte ud mod
+  Haven, og ved Siden deraf et Soveværelse. Idet han traadte ind, hadde
+  han Vinduet ret imod sig. Han kunde se Silhouetterne af Trætoppene
+  staa som en stivnet, kulsort Sjø over Karmen, bagenom hang den dybblaa
+  Septemberhimmel uden Skyer, men med en Funklen hist og her fra de
+  store Stjerner. Hans Lampe stod midt paa Bordet og tegnet sig som en
+  sort Buste mod det blaa Natteskjær fra Vinduet.
+    </p>
+    <p>
+     Han lukket Døren, tog sin Frakke af og la den ovenpaa Sofaen, for
+  han vidste hvor Sofaen stod, skjønt han ikke kunde se den. Saa famlet
+  han omkring efter Tændstikkerne. Mens han holdt paa med det, husket
+  han, at han hadde glemt at ta Nøklen med sig ind, den stod i Døren paa
+  Udsiden.
+    </p>
+    <p>
+     Nu hadde han Tændstikkerne, saa vilde han først tænde Lampen og
+  derefter aabne Døren og hente Nøklen. Han følte sig ikke længer vel
+  med den blaalige Lysning fra Himlen; nu kunde han skimte Papirerne paa
+  Skrivebordet; Stolrygge, lidt af en poleret Bordplade, et Askebæger og
+  [76] nogle gyldne Glimt fra Bogreolen flød omkring i Mørket.
+  Tændstikken fræset besværlig, der var fugtig Luft i Værelset,
+  Høstluften var trængt ind … Lampen blev tændt, og han kunde nu se alle
+  de kjendte Ting, alt stod, som han hadde forladt det. Dér stod
+  Skrivebordsstolen, lidt skudt ud fra Bordet. Den saa indbydende og
+  velbehagelig ud, som om der allerede sad én i den og hvilte Hænderne
+  paa Stolarmene. Han syntes Stolen lignet ham selv, han hadde siddet i
+  den saamange Gange; det var som naar han saa sin egen Frak og Hat
+  hænge paa en Knag, han syntes det var ham selv som hang der. Saaledes,
+  tænkte han, sætter Mennesket sit Præg paa, enhver Ting, som det har i
+  sin Nærhed. Dets Bevægelser og Tanker, dets Stemme hænger igjen i et
+  Værelse, hvor det har bodd. Man synes at mærke Mennesket længe efter
+  at det er borte. En Mand har i Aarevis benyttet en Stol, som var ham
+  kjær og magelig. Saa dør han og den tomme Stol staar tilbage. Men han
+  sidder i den endda. Man synes, at det knirker i den og usynlige Fingre
+  famler omkring dens Puder. Han saa mod Vinduet og gyste uvilkaarlig.
+  Nu saa han ikke længer Skjæret af den septemberblaa Himmel. Alt var
+  rullet sammen og et kulsort Mørke traadte istedetfor; det trængte lige
+  indpaa Vinduet, var klistret fast som et loddent Tæppe. Lampelyset
+  kunde ikke gjennemtrænge det. Dette forfærdelige Mørke, som slet ikke
+  [77] syntes at ha nogen Bund, berørte ham ilde. Det la Tyngsel over
+  ham. Et Øieblik hadde han Følelsen af at befinde sig indeni et sunkent
+  Skib. Han var paa umaadelige Dybder, hvor Havet var sort og der ikke
+  fandtes Liv. Han ledte nervøst efter Gardinsnoren. Saa husket han, at
+  der slet ikke fandtes nogen Rullegardin til dette Værelse. Han greb
+  hurtig Lampen og bar den ind i Soveværelset. En Jagen gik gjennem ham,
+  en let Rysten, som fik hans Hjerte til at bævre. Herinde var Gardinet
+  rullet ned. Han beroligedes ved at befinde sig i et Værelse, et
+  afsluttet Rum med fire Vægge. Derude stod jo et aabent Gab ud mod et
+  bundløst Mørke.
+    </p>
+    <p>
+     Han vendte sig om. Nu hadde Natten igjen sunket lydløst gjennem
+  Ruden derinde. I Begyndelsen kunde han intet se, men da hans Øine
+  hadde vænnet sig til Mørket, skimtet han den tomme Stol, – han saa
+  utydelig dens to bøiede Arme, ellers intet; Mørket sad i den.
+    </p>
+    <p>
+     Han trak hurtig Portiererne for og tog Plads i en magelig Kurvstol,
+  som han hadde staaende ved sin Seng. Her blev han siddende længe og
+  lytte. Det vilde ha glædet ham, hvis han nu hadde hørt en eller anden
+  Lyd, øde Skridt i Trappen, Larmen af en Dør, som blev slaat igjen, en
+  menneskelig Stemme ovenover ham eller under ham. Fremforalt en
+  menneskelig Stemme. Men han hørte intet. Det var som det hele Hus
+  skulde være uddød og alle Mennesker borte. Det hadde [78] hændt ham,
+  naar han vidste, at han var alene, om Natten paa en Landevei eller om
+  Dagen i en mørk Skog, at den Tanke var faldt ham ind: Hvor langt er
+  det nu til det nærmeste Menneske, kan et høit Raab naa det? Ængstelsen
+  var da bestandig kommet over ham, ikke Ængstelse for at der skulde
+  tilstøde ham noget, men for at han aldrig skulde naa frem til
+  Menneskene. I hans Hjerne gik en forvirret Tanke om, at han vandret
+  omkring i et uddød Land. Lyden af den første menneskelige Stemme han
+  hørte, kunde da gaa som et lyst og venligt Glædesskud mod ham, og
+  Synet af den første Menneskebolig eller det første Liv, en løbende
+  Hund, eller en Bøling, som bevæget sig, langt ude paa en Mark, berøre
+  ham festligt. Og nu sad han her og forvirret sig ind i de samme Tanker
+  om, at han var saa forfærdelig alene og at han ikke med sit Raab kunde
+  kalde et Menneske tilhjælp.
+    </p>
+    <p>
+     Men frygtet han noget?
+    </p>
+    <p>
+     Ja, han frygtet noget. Men hvad?
+    </p>
+    <p>
+     Han saa paa Lampen. Dér stod den paa Bordet i melkehvid Stilhed.
+  Ikke et Knepp hørtes i den.
+    </p>
+    <p>
+     … Medens han sad og følte sig omklamret af den forunderlige
+  Stilhed, der ligesom spærret hans Øine op og gjorde dem store og
+  skræmte, gled hans Tanker tilbage til hin Kvæld paa Hotelværelset, da
+  han første Gang hørte Telefonklokken ringe. Det var i de Timer, da
+  Angsten begyndte. [79] Den hang igjen i Væggene efter et andet
+  Menneske, den stod ud fra Væggene som et Tæppe af varme Sylspidser, og
+  den gled op i hans Hjerne fra det hvide Pudevar, hvor den anden hadde
+  hvilt sit skjælvende Hode.
+    </p>
+    <p>
+     Siden hadde han ikke levet en rolig Dag. Angsten vokste i ham for
+  hvert Døgn. Han var aldrig fri den. Hvad skulde det bety, at han hadde
+  saadan Skræk for at aabne Aviserne. Han jaget gjennem Spalterne med
+  febersyge Øine, han ledte efter noget, men han vidste ikke selv hvad,
+  og hvorfor hadde han saadan Skræk for Breve; naar han ikke kjendte
+  Skriften udenpaa et Brev, kunde det bli liggende ulæst flere Dage i
+  hans Lomme. Eller hans Skræk for at aabne Døre og gaa ind i tomme
+  Værelser. Naar han stod udenfor en Dør, fér det bestandig gjennem hans
+  Hjerne: Hvad nu? Hvad vil du finde derinde. Gaa ikke ind, Værelset er
+  mørkt, gaa for Guds Skyld ikke derind! Og naar han tok i Klinken og
+  hørte Laasens Skraben mod Dørfyldingen skar det i ham. Naar han saa
+  stod i det tomme mørke Rum, skyndte han sig at lukke Døren, og han
+  blev staaende hjertedirrende og vente paa at noget skulde komme. Men
+  dette
+     maatte han møde alene.
+     Ingen
+  maatte komme efter ham ind i Værelset. Saa gled pludselig Angsten af
+  ham, og han fik en let Frysning som om et Kuldegys var faret forbi,
+  han var igjen sig selv og forstod intet.
+    </p>
+    <p>
+     [80] Han hadde to Menneskers Følelser; han kjendte sig selv igjen,
+  naar han gik omkring modtagelig for ethvert Indtryk, naar han skjalv,
+  fordi Kvælden kom, naar han om Morgenen var bange for at trække
+  Gardinet op og staa med Ansigtet mod Morgenens tindrende hvide Lys,
+  eller naar han mødte Høsten i det gule Løv eller i den flammende røde
+  Brand mellem Havens Gjærdestaver. Men han var et andet og fremmed
+  Menneske, naar der pludselig kunde styrte over ham en heftig Lyst til
+  at svinge ind i en Sidegade for at undgaa at møde nogen. Han vidste
+  han var et andet Menneske enkelte Nætter, naar Drømmene bar ham til
+  fjerne og forunderlige Steder, og han hørte Stemmer, som ikke før
+  hadde lydt i hans Øren.
+    </p>
+    <p>
+     Etsteds i Verden gik et Menneske omkring. Et Menneske, som hadde
+  git ham noget af sin Sjæl. Det var blit en Sygdom hos ham. Uendelig
+  fine Svingninger, evighedssmaa Mikrober fra dette Menneskes Angst
+  hadde sat sig fast i ham og bredte sig stadig mere. Endnu saa han
+  forundret paa dette, men han vidste, at den Tid snart vilde komme, da
+  der vilde staa et rygende Had i ham. Vilde han aldrig komme ud af det?
+  Skulde Angsten brede sig og tilslut overmande ham?
+    </p>
+    <p>
+     Aa, denne Lampen som stod der paa Bordet med sin hvide Kuppel. Den
+  var som selve den stille Rædsel, som et stort hvidt Øie uden Pupil.
+  Han vendte sig bort fra Lyset; en Knasen i [81] Kurvstolen jog gjennem
+  Stilheden. Han fér sammen igjen. Hvor var han ikke opskræmt. Han
+  samlet alle Lyd i sig. Det kunde være en Knirken, en Klokkes Slag,
+  Skridt paa Gaden, han trak alt til sig som en Magnet og følte hver Lyd
+  stikkende og ubehagelig.
+    </p>
+    <p>
+     For at faa sine Øine bort fra Lampen gik han hen og skjøv
+  Portiererne for det andet Værelse tilside. Han hadde endnu Lyset paa
+  Øiehinden, og forunderlige røde og blaa Lysdyr fløi omkring i Mørket
+  derinde. Men om lidt kunde han skimte den polerte Bordplade igjen, den
+  laa med Vandspeilglans i Mørket. Og saa mødtes hans Øine af Mørket
+  udenfor det store Vindu, dette Fabelmørke, som var ibenholtssort og
+  trængte paa og trængte paa. Men han kunde ikke længer se Stolen foran
+  Skrivebordet, den brede Stol med de rummelige Arme. En latterlig Tanke
+  faldt ham ind: Kanske var den der ikke længer, kanske var den flyttet,
+  eller kanske
+     sad der én i den.
+     Et
+  Menneske, som han selv ikke kunde se, men som inde fra Mørket stirret
+  paa ham.
+    </p>
+    <p>
+     Han blev nervøs og irriteret og ængstedes for sin Nattero. Naar
+  hans Fantasi blev saaledes opjaget, gik bestandig forvirrede Syner og
+  Drømme gjennem hans Søvn. For at berolige sig løftet han Lampen høit i
+  Haanden og gik ind i det forreste Værelse. Han blev staaende ved Døren
+  og se sig om. Alt var som før. Lyset svømmet udover Møblerne og
+  blinket i Fotografirammerne. [82] Men han syntes ikke længer Værelset
+  var saa hjemligt og hyggeligt, som han vilde ha det. Kakkelovnen stod
+  der i Hjørnet kold og sort, Stolene stod aabne og ventet paa, at nogen
+  skulde hvile sig i dem. Der var noget hjemløst og livløst over
+  Værelset, som virket uhyggeligt. Han tænkte ved sig selv: Det ser ud
+  som om Mennesker har forladt dette Værelse i Skræk og overladt det til
+  andre, eller til
+     noget andet.
+     Kanske til Mørket som trykket paa. Det var iallefald ubeboeligt med
+  dette aabne Gab av Bælgnatten. Uden at tænke nærmere over, hvorfor han
+  gjør det, gaar han hen til Døren og lytter anspændt. Han synes
+  formelig han hører Stilheden derudenfor, Luften suger den opigjennem
+  Trappestruben. Og mens han staar her og lytter, falder det ham ind, at
+  han har glemt noget og at dette indebærer en Fare eller en Ulykke. Han
+  grunder en Stund paa, hvad det kan være, han har glemt, men hans
+  Hjerne er i dette Øieblik opjaget og dirrende, Tanketraadene glipper,
+  han kan ikke tænke en Tanke tilende. Det er maaske slet ingenting han
+  har glemt.
+    </p>
+    <p>
+     Saa gaar han ind igjen i sit Soveværelse med Lampen. Han trækker
+  Portieren for og føler sig igjen roligere. I det forreste Værelse
+  hviler Uhyggens Skygger i Krogene og Rædslen synker ind over Møblerne
+  med Mørket. Han skiller sig af med Trøien, Vesten og Støvlerne og
+  lægger sig halvt afklædt paa Divanen, ligesom man en [83] stormfuld
+  Nat ombord i et gyngende Skib er bange for at krybe tilkøis.
+    </p>
+    <p>
+     Og saa lar han Lampen brænde, skjønt han synes det i Grunden er
+  taabeligt. Han som ingensinde har været mørkræd og som ved med sig
+  selv, at han ikke er feig, han vil for alt i Verden i denne Stund ikke
+  undvære Lysskinnet. Hadde han bare en Skjærm, for det piner ham at
+  maatte se paa Lampens hvide Øie … Det hadde nu flere Gange hændt ham,
+  at Lampen hadde brændt den ganske Nat. Og ofte hadde han ligget i
+  pinefuld Halvslummer med alle Klærne paa. Det var som om han vilde
+  være forberedt. Han ventet, at noget skulde komme.
+    </p>
+    <p>
+     Hvad kunde Klokken være? Klokken var henved halv tre. Om etpar
+  Timer vilde Morgengryet lægge sine graa Lysfingre paa Byens Vinduer.
+  Det var endnu længe til.
+    </p>
+    <p>
+     Han ligger og hviler Hodet i Haandfladerne og kjender Blodets
+  nervøse Prikken i Aarerne. Nu forstaar han, hvordan alting bare bygger
+  og bygger paa hans Nervøsitet og Angst, Natten og Sollyset, Høstens
+  rustbrune Brand i Trærne og Sekundernes blodige Dryppen, alt flytter
+  ham ligesom fremover mod Døden og Undergangen … Han er nu inde i en
+  halvvaagen Slummer, hvor Tankerne og selve Tilværelsen glider ud i en
+  Anen, Bevidstheden om Nuet dulmes og lægger sig tilhvile, og en varm
+  Taake stryger henover ham og lukker hans Øine, mens Fornemmelsen af
+  [84] Lyset i Værelset, som endnu svirrer i Fibrene under hans Øielaag,
+  bærer ham ind mellem underlige og søvndyssende Farver; det er
+  Overgangen til Søvnen. Og i Søvnen kom Drømmen.
+    </p>
+    <p>
+     Han var i et fremmed Rum igjen, Gulvet var helt dækket af et Tæppe,
+  vævet i et underligt Mønster: Et Virvar af Hænder, som krystedes,
+  Fingre, som greb omkring hinanden, bønfaldende Hænder, knyttede
+  Hænder, hvide, fortvilede Hænder; det hele var som en stille Sjø,
+  hvori en stor Menneskemængde druknet. Men han saa ingen Ansigter, bare
+  Hænder, bare dette vilde Virvar af Fingre. Idet han gik henover
+  Gulvet, syntes han at gaa over noget mygt og gyngende. Han vilde ud af
+  Værelset, men han fandt ingen Dør, ogsaa Væggene var Tæpper. Tykke,
+  folderige Tæpper, som hang urørlig stille. Disse Tæpper hadde en
+  underlig Farve. Det var en ny og fremmed Farve, som ikke før var set.
+  Han kunde ikke fatte, hvad denne Farve lignet. Den var fjernest fra
+  rødt, den laa i Nærheden af det violette, en blass og gyselig
+  Absintfarve, som maatte findes etsteds dybt inde mellem Verdensrummets
+  Kloder, langt borte fra Menneskene. Den virket farlig og sygelig. Og
+  pludselig fôr det gjennem ham: Det er Vanvidsfarven, det er
+     selve Vanvidsfarven.
+     Og den bragte
+  med sig en Stank, som han havde fornemmet trykkende før, en sød og
+  brunstig Dyrestank … Nu saa han, at Værelset ikke hadde Tag. De
+  [85] tykke, lumre Tæpper hang ned fra en forfærdelig Høide. Han fulgte
+  dem med Øinene opover til de tabte sig i Mørket. Over ham var Mørket,
+  han saa lige ind i den kulsorte Himmel. Og det var en fremmed Himmel,
+  han saa ingen Stjerner, bare en Uendelighed af Mørke og Kulde. Da
+  begyndte han at skyve mod det ene Tæppe, han hadde en kvælende Tyngde
+  i Halsen, Mareridtet var over ham igjen. Han vilde bort. Og Tæppet gav
+  efter. Han skjøv og skjøv, det myge gyngende Gulv fortsatte indover
+  med det samme underlige Mønster, forvredne Hænder, hjælpeløse Fingre.
+  Tæppet blev tungere, jo længer han kom frem, og tilslut overmandet det
+  ham og drev ham tilbage med sin uhyre Vægt. Det gled lydløst ind i sin
+  oprindelige Stilling, og saa hang det der roligt som før med sine
+  tunge Folder, som randt ned fra Mørket høit ovenover ham … Han vaagnet
+  i et Gisp.
+    </p>
+    <p>
+     Men Søvnen og Trætheden gik saa tungt i ham, at han kun et Øieblik
+  saa sit Værelse i Lampens stille Skin. Og saa med en Gang var han dybt
+  nede i Søvnen igjen.
+    </p>
+    <p>
+     Da var det ligesom der gled en Væg tilside for hans Øine, en blank
+  Metalvæg, som faldt sammen med et Smeld. Og nu saa han pludselig et
+  mildt rødligt Lys – og var med en Gang i
+     den anden Del af Værelset.
+     Han
+  gjenoplevet paany Begivenheden fra hin Nat paa Hotellet. Da hadde han
+  kun set Værelsets ene Hjørne [86] med Vinduet og Telefonapparatet paa
+  det sorte Mahognibord. Men nu befandt han sig i den anden Del af
+  Værelset. Han saa Lampen, hvorfra det røde Lys kom; den var af dybrødt
+  Glas og hang ned fra Taget som en stor Bloddraabe. Ret under Lampen
+  sad en Kvinde i en silkebetrukket Lænestol. Hendes Haar var sort,
+  hendes Ansigt blegt. Hun hadde en blaa Kjole paa og sad og lekte med
+  en Vifte. Han kunde se alt overordentlig klart, men han var uden
+  Forundring over hvad han saa, fordi han syntes, at han selv var
+  tilstede og at det altsammen var rimeligt og selvfølgelig. Fjernt
+  henne fra, fra selve Bygningen, men fjernt henne fra bares glidende
+  Toner af Dansemusik mod hans Øre. Men han vidste, at Musikken ikke
+  vedkom dette Værelse eller de Mennesker, som var her. For der var
+  andre Mennesker i Værelset, men foreløpig saa han kun Damen i
+  Lænestolen. Der var Fest et Sted i Huset, indimellem Musikken klang
+  glade Menneskers Støi. Men denne Fest vedkom andre. Han hadde ogsaa en
+  Følelse af, eller han
+     vidste,
+     at
+  Værelset laa høit oppe i Huset, som var meget stort og som rummede
+  Mennesker, der slet ikke kjendte hinanden. Alt dette dæmret i hans
+  Bevidsthed. En hel Viden samlet sig hos ham, straks da han saa
+  Værelset og den røde Lampe og Damen i Lænestolen. Han vidste langt
+  mere end han kunde se. Men det bidrog igjen til at gjøre Drømmen
+  overordentlig virkelig. Han hadde [87] en forunderlig
+  Dobbeltbevidsthed om, at han selv var tilstede i Værelset, men at han
+  samtidig var en anden og langt borte. Og gjennem det hele gik som et
+  mygt og fint Spind Forestillingen om, at alt alligevel kun var en
+  Drøm. Han vidste, at noget nu skulde ske, men der var ingen
+  Nysgjerrighed, ingen Spænding hos ham, for han vidste ogsaa,
+     hvad
+     der skulde ske. Han hadde
+  gjennemlevet det altsammen tidligere. Istedetfor Spænding trykkedes
+  han af en stor Angst, som stadig blev voldsommere, og som drev ham mod
+  det ufattelige, mod det grænseløse; det var som om en Afgrund trak ham
+  i en rivende Gliden mod sig. Ligeoverfor denne uhyre Angst stod i en
+  besynderlig Modsætning det ganske tilfældige og dagligdagse, Værelset,
+  det hjemlige Skin fra Lampen, Damen i Lænestolen. Hun smilte og hendes
+  Stemme pludret i hans Øre. Nu vender Damen sit Ansigt til Siden, hun
+  skotter op; han ser hende overordentlig tydelig nu, ligesom han skulde
+  være kommet hende nærmere, han ser Fugtigheden i hendes deilige røde
+  Læber, som hun i dette Øieblik smilende vender mod et andet Menneske,
+  der nu dukker frem i Billedet.
+    </p>
+    <p>
+     Det er ham, Manden.
+    </p>
+    <p>
+     Dette Menneske har været der hele Tiden, men det har ikke tidligere
+  kommet ind i denne lille Del af Værelset, som han dennegang ser. Han
+  ser tydeligt det fine, hvide Dun over Mandens skaldede Isse, han er
+  meget høi, hans Ryg [88] let bøiet. Han har mørk Jaket, graa Benklær,
+  og idet han lægger den venstre Haand over Lænestolens Ryg, glider
+  Mansjetten ned. Han har kulørte Mansjetter. Hans Ansigt sees ikke,
+  derimod hans Nakke. Mennesket nikker mod Damen i Lænestolen, som paany
+  aabner sine Læber til et Smil.
+    </p>
+    <p>
+     Det er ikke længer en Drøm han har. Det er en blændende og
+  forfærdelig Virkelighed. Samtidig som han fra Afstand ser Mandens Ryg,
+  synes han, at
+     han er Manden selv.
+     Det staar for ham i et Flimmer, som naar et Fotografi fremkaldes over
+  et andet. Det er ham selv, som staar der og hviler sin venstre Haand
+  over Lænestolens Ryg; han kjender Silkebetrækkets Kjølighed inde i
+  Haandfladen. Nu er det kanske ikke et Sekund til, at dét skal ske, som
+  allerede
+     er
+     skedd.
+    </p>
+    <p>
+     Han føler Angstens vældige Tag, en Krampe af Skræk, af Fortvilelse
+  og Had. I sin høire Haand holder han
+     Kniven
+     . Den har et Metalskaft med
+  Inskriptioner. Hun kan ikke se den, hun ler og pludrer endnu. Hun
+  siger noget, og han svarer, det er Stemmen fra før, den grove
+  Mandsrøst, som siger: Ligesaa …
+     ligesaa
+     – Og det er fremdeles ingen
+  Drøm, det er Virkeligheden, det er ham selv som siger Ordene, han kan
+  høre dem ru og rustne inde i sin Strube. Men i næste Øieblik ramler
+  det hele sammen, det er som Drømmens Maskineri pludselig gaar
+  [89] istykker og alle Billeder paa en Gang styrter gjennem hans
+  Bevidsthed. Han hører hendes Raab:
+     Wilhelm, Wilhelm!
+     – hvori den
+  fortættede Rædsel stinger, han føler en varm Blodbølge over
+  Haandledet, og saa, i den stumme og forfærdelige Stilhed som følger,
+  pibler Telefonklokken sit grusomme og kolde Klinger. Alt dette tumler
+  over ham i samme Øieblik han vaagner, Drømmen skynder sig med at bli
+  færdig og falder i Kaos … Han farer op fra Divanen og ser sig omkring
+  med forvildede Øine, han synes endnu han hører Telefonklokkens skarpe
+  Svirren og føler Blodets varme Skvulp over Haanden … Dette var altsaa
+  Forbrydelsen, Mordet, der laa dybt inde i ham som en gaadefuld Anelse.
+  Han kjendte alt igjen, enhver liden Enkelthed, han kjendte Duften af
+  Parfumen i Værelset, Larmen omkring i Bygningen, Billedet var ham
+  fortroligt og levende. Forrige Gang han drømte om Værelset og kun saa
+  det ene Hjørne med Vinduet og Telefonklokken, hadde den samme Skræk
+  som nu grebet ham og den samme faste Vished om, at noget skulde
+  foregaa. Han kunde bare ikke dengang se Menneskene i Værelset og hvad
+  de foretog sig. Men han vidste det hele i en dyb og angstfyldt Anelse,
+  som denne nye Vision blottet til en blændende klar Kjendsgjerning.
+    </p>
+    <p>
+     Disse Tanker fôr hurtig gjennem hans Hjerne, mens han sad paa
+  Divanen og lod Blikket fare hjælpeløst omkring i Værelset. Skrækken
+  drev [90] med Blodets voldsomme Jag omkring i hans Legeme. Og det
+  mærkelige hændte, at han slet ikke beroligedes ved at vide sig vaagen
+  og fri for Søvnens Mareridt. Det var ikke alene Drømmens Uhygge, som
+  svævet omkring ham. Det var ogsaa noget andet. Det var ikke Uhyggen
+  fra Drømmen, den som svandt lidt efter lidt, fordi han nu var vaagen
+  og sad i sit eget oplyste Værelse. Men det var en Uhygge, som
+     kom,
+     som var i Anmarsch. Han følte
+  det som en stigende Dirren i en Stræng. Og pludselig stod det klart
+  for ham, hvad det var: Han hadde glemt at stænge Døren til sin
+  Leilighed.
+    </p>
+    <p>
+     Han hadde glemt at stænge Døren –
+    </p>
+    <p>
+     Han reiste sig op og saa paa den mørke Portiere, som stængte for
+  det andet Værelse. Han husket, at han var gaat derind med Lampen, før
+  han la sig til at sove, og at han da hadde staat henne ved Entrédøren
+  med den bestemte Fornemmelse, at han hadde glemt noget, og at denne
+  Glemsomhed indebar en Fare. Nøklen stod jo i Laasen udenfor. Den stod
+  der som en Indbydelse til at træ ind. Idet han tænkte paa den mørke
+  Trappegang, syntes han at se den hvide Alluminiumsnøkkel bevæge sig
+  mellem varsomme og forsigtige Fingre –
+    </p>
+    <p>
+     Han greb hurtig Lampen og gik nogle Skridt fremover. Men han
+  stanset paany, ikke paa Grund af den mørke Portiere, men bare ved at
+     se
+     paa den. Han var forbittret over
+  denne meningsløse Angst, [91] men hans Sind var nu saa opjaget og
+  forvirret, saa overlæsset af Stemning og Skræk, at han ikke længer
+  kunde tænke klart. Desuden hadde han en vældig Længsel efter Hvile, en
+  Hunger efter at være alene og lade alt gaa forbi sig i Ligegyldighed.
+  Og hvem skulde vel komme ind til ham, han behøvet ikke at frygte
+  nogen, – hvorfor skulde han paany trænge ind i det andet Værelse, han
+  vilde ikke én Gang til staa overfor det trykkende Mørke i Vinduet, der
+  var som et rædselsfuldt øineløst Ansigt bag de skraa Gardiner. Han
+  satte Lampen fra sig paa Bordet igjen. Men idetsamme han hørte
+  Lampefodens Metalstød mod Bordpladen, kvakk det i ham, og mens han
+  fremdeles holdt Haanden om Lampen, vendte han langsomt sit blege
+  Ansigt og saa sig tilbage over sin høire Skulder – henimod Døren.
+    </p>
+    <p>
+     Han hadde hørt noget derinde. – Derinde i det forreste Værelse. En
+  ganske svag skurrende Lyd, som om en Dør forsigtig blev skjøvet igjen
+  eller en Laas sluppet tilbage. Var nogen kommet ind i Værelset? Han
+  stod og lyttet i et Minut eller to i den samme Stilling med Haanden om
+  Lampefoden og med Øinene sigtende fremover sin høire Skulder; han
+  hørte intet, men han hadde en gysende Fornemmelse af, at et
+  forunderligt Liv var begyndt derinde i Værelset, af at selve Skrækken
+  hadde listet sig gjennem Døren, forsigtig lukket den efter sig igjen
+  og nu var inde i Værelset i en eller anden mystisk og [92] ufattelig
+  Skikkelse. Forestillingen om Fabeldyret, som han ante i sine Drømme,
+  og som kom med lydløse og umærkelige Fodslag, er igjen over ham.
+  Rædslen derinde fra virker grusomt, han syntes at se dens Væsen anta
+  Skikkelse af en levende Mund, som ligger paa Gulvet og ler tyst og
+  blodrødt –
+    </p>
+    <p>
+     Saa med ett hører han igjen noget. Og nu slipper han Lampen og
+  rykker to Skridt tilbage mod Vinduet. Han hører Subb i Gulvtæppet
+  derinde. Nogen
+     gaar.
+     Og pludselig
+  ser han, at Portieren bevæger sig. Den bevæger sig ganske svagt nede
+  ved Gulvet, som om en Vind hadde pustet paa den eller varsomme Fingre
+  rørt ved den. Men Bevægelsen gaar opover. Han ser tydelig, hvordan det
+  klorer i Portieren, og tilslut er Bevægelsen helt oppe, og en af
+  Ringene som holder den fast, klingrer lydelig. Saa ser han
+     Haanden,
+     en lang og hvid Haand, der
+  kommer frem fra det dybeste Mørke og griber omkring Portieren øverst
+  oppe, Haanden staar dødningehvid mod det mørke Tæppe, og Synet af den
+  suger en forfærdelig Rædsel ind gjennem hans Øienhulninger. Nu kan han
+  ikke længer røre sig, han staar fastnaglet, lidt foroverbøiet, som om
+  han var paa Sprang mod noget, han holder Albuerne frem, ligesom han
+  vil afbøde Slag.
+    </p>
+    <p>
+     Han synes, at selve Tiden stanser, og at Haanden blir staaende der
+  hvid mod Tæppet i en Evighed. Men det er bare i et Nu, i et lidet
+  [93] Sekund, at den staar stille, nu skyver den langsomt Portieren
+  tilside, det rasler svagt i Messingringene paa Stangen, og Portieren
+  slaar Folder; men han kan endnu intet se foruden Haanden. Og Haanden
+  tar varsomt og forsigtig, som om Mennesket, den tilhører, er ræd for
+  at vække en sovende. Der er nu en sort Aabning mellem Dørkarmen og
+  Tæppet, Aabningen blir stadig større, og det rasler fremdeles i
+  Messingringene. Saa pludselig ser han i Mørket Glimtet fra to Øine.
+  Disse Øine stirrer ret frem mod ham; han kan høre sin Aande som en
+  Stønnen, og han synes Blodet stanser blytungt i Aarerne. Disse Øine,
+  han ser, er Menneskeøine, og de lyser med en forvirret og heftig
+  Glans, de skinner i Mørket. Tæppet skyves helt tilside. Mennesket blir
+  staaende. Under Øinene derinde ser han i den svage Lysning en graalig
+  Skygge, som naar ned til Gulvet, paa begge Sider af denne Skyggesøile
+  ser han to lysere Pletter, det er Hænderne, de hænger ret ned og alt
+  er ganske stille undtagen Øinene, hvori der blinker en sælsom og
+  angstfyldt Stirren. Øinene er fæstet paa ham, og han synes de rammer
+  ret i hans egne Pupiller. Han staar der i en eneste Skjælven, uden
+  Tanker, uden Forstand, fyldt til Randen af Angst, og venter paa, hvad
+  der nu skal ske. Mennesket træder ind i Værelset, han hører slet ikke
+  Skridtene, det er som om en Skygge kommer. Men nu staar Mennesket midt
+  [94] i Lyset, og han ser straks, hvem det er. Det er Manden fra
+  Mordværelset, det gaadefulde og forfærdelige Væsen, som har sluppet
+  Skrækken løs paa ham. Nu stanser Manden igjen. Han har ikke de samme
+  Klær paa. Han er klædt i en brun, tilknappet Frakke, som naar ham ned
+  til Anklerne, og paa Hodet har han en bredskygget Hat. I hans blaa
+  Slips stikker en Naal, en liden Lygte af Guld, hvori en Diamant
+  funkler. Øinene har den samme Glans af Angst og Ulykke, og de stirrer
+  mod ham, som om de vilde suge sig fast til ham. Saa levende klart ser
+  han nu dette Menneske, at han endog kan lægge Mærke til dets Pusten i
+  Kappens svage Duven over Brystet. Mennesket gaar ham et lydløst Trin
+  nærmere og stanser igjen, det er ligesom det kjæmper med sig selv, at
+  det ikke vil videre, men drives frem af en Magt, som tvinger dets
+  Vilje. Og nu fornemmer han i Øinene derhenne en Sittren af Haabløshed
+  og Fortvilelse, og han ser med en Gang, at det jo er de samme Øine som
+  hans egne, de fortæller om den samme Angst, som piner ham, ud af disse
+  Øine spinder hans egen Lidelse, han synes at se ind i sin egen Sjæl.
+  Og pludselig slaar det ned i ham som en rædselsfuld Vished:
+     Det er ham selv
+     . – Nu kommer
+  Mennesket nærmere, dets Mund er blaalig og underlig vredet til den ene
+  Side ligesom i en Krampetrækning. Det gaar langsomt fremover Skridt
+  for Skridt, og en uhyre Følelse af Fare [95] bemægtiger sig ham. Da
+  Mennesket er lige indpaa ham, evner han endelig at løsrive sig fra sin
+  Afmagt, og han rykker et Skridt tilbage. Og et til. Mennesket er efter
+  ham. Han viger endnu et Skridt og støder Ryggen mod Rullegardinet
+  foran Vinduet. Længere kan han ikke komme. Og nu er Mennesket nærved
+  ham. Det løfter pludselig begge sine dødningehvide Hænder og vil gribe
+  til. Han gisper, kaster Overkroppen tilbage og klorer over Gardinet
+  med sine Fingre … Gardinet flyver iveiret med et Smeld og aabner for
+  et isgraat Morgenlys. Larmen og Lyset blænder ham for et Øieblik, han
+  bøier sig sammen og gjennemrisles af en Kuldegysning. Da han igjen ser
+  op, er Manden borte, og han befinder sig alene i Værelset. Ganske
+  alene. Lampen staar paa Bordet og skinner fattig i Graalyset. Han ser
+  hen til Døren, Tæppet er trukket for og hænger urørlig stille. Han
+  løfter Lampen, Kuplen klirrer i hans skjælvende Haand. Han gaar hen
+  til Døren og skyver med et raskt Greb Portieren tilside.
+  Messingringenes skjærende Raslen om Stangen faar ham til at gyse. Han
+  ser sig om, der er heller ingen i dette Værelse. Men nu staar ikke
+  længer Mørket loddent og tæt foran Vinduet. Daggryet møder ham ogsaa
+  herinde, det fyker som en gjennemsigtig graa Støvsky indad Vinduet.
+  Han gaar hen til Døren, lægger Øret ind mod Laasen og lytter. Ingen
+  Lyd uden Stilhedens Sugen opgjennem Trappestruben. Han [96] aabner.
+  Det samme graa Lys staar ind gjennem Trappevinduet. Det trænger frem
+  allevegne. Det er Dagen, som kommer. Han skifter den hvide
+  Alluminiumsnøkkel over paa Indsiden og lukker igjen.
+    </p>
+    <p>
+     Saa blæser han Lampen ud og sætter den fra sig paa Skrivebordet.
+  Alt dette gjør han uden at tænke nærmere over det, det er ligesom hans
+  Bevidsthed endnu ikke er vendt tilbage.
+    </p>
+    <p>
+     Han gaar hen til Vinduet for at se paa den gryende Dag.
+    </p>
+    <p>
+     Idetsamme flommer Sollyset udover Markerne.
+    </p>
+    <p>
+     Det er blaahvidt, han synes det ligner Is. Det er en Bræ af Lys,
+  som kommer.
+    </p>
+    <p>
+     Han trækker sig frysende bort fra Vinduet.
+    </p>
+    <p>
+     Han staar stille en Stund og tænker paa, at Klokken nu maa være
+  fem.
+    </p>
+    <p>
+     Saa farer pludselig gjennem ham Erindringen om det Syn, han netop
+  har havt. Han fornemmer et Vift af Rædslen – Og i et Sætt er han
+  fremme paa Gulvet. Klokken er fem. Han har ingen Tid at spilde. Om en
+  Time gaar Toget.
+    </p>
+   </div>
+ 
+   <div type="chapter" xml:id="iii.">
+    <head>
+     III.
+    </head>
+    <p>
+     [97] Først langt ud paa Natten naadde Baaden endelig frem. Det var
+  mørkt og koldt, og en flammende Blæst skred indover Land. Den var vaad
+  af Havsprøit og slog i vægtige Blaff mod de smaa Huse. Ude paa Bryggen
+  dinglet nogle faa Lygter; det var Ekspeditøren og hans Folk, som
+  skulde modta Postbaaden. De forsøgte at raabe over til Kapteinen, men
+  deres Stemmer drev tilbage med Blæsten og brast mod Pakhusvæggen. Men
+  Kapteinens brølende Røst og al den Lyd, som kom fra Skibet,
+  Maskintelegrafens Klingren, Rorkjættingens Skraben mod Dækket og
+  Propellens Sjask i Vandet blev baaret langt indover Hustagene. De
+  Mennesker som endnu var vaagne i den lille By, kunde alle høre, at nu
+  kom Baaden. Længe kunde man bare se den grønne Lanterne og en duvende
+  Lysrække fra Kahytterne. Det var forunderligt, at Baaden kunde finde
+  frem i dette Mørke, men endelig gled dens store Masse ud af Mørket og
+  la til ved Bryggen. En Landgangsbro blev løftet op. [98] En eneste
+  Passager steg iland. Han var tilsyneladende tykfalden, var klædt i
+  Pels og hadde Pelskraven slaat op over Ørene. Da han traadte ned paa
+  de vaade Bryggeplanker, blev han staaende usikkert og se sig om.
+  Folkene paa Bryggen var alle optat med at ta imod Posten, og nogle
+  Kasser, som blev lempet iland med stort Hastværk. Kapteinen stod paa
+  Broen og sendte lysende Banstraaler ind i Stormen, fordi man aldrig
+  blev færdig.
+    </p>
+    <p>
+     Endelig dinglet en Lygte hen til ham, den blev sat op mod hans
+  Ansigt og en Stemme spurgte:
+    </p>
+    <p>
+     Er det Dem, som skal paa Logihuset?
+    </p>
+    <p>
+     Ja.
+    </p>
+    <p>
+     Er Sakerne ombord?
+    </p>
+    <p>
+     Ja.
+    </p>
+    <p>
+     Lygten dinglet videre, og Manden, som bar den, bøiet Hodet og holdt
+  fast i Landgangsbroens Rækværk for ikke at blæse omkuld.
+    </p>
+    <p>
+     Den Reisende
+     saa
+     efter ham.
+    </p>
+    <p>
+     Det var en underlig Stemme den Mand hadde. Den lød som en eneste
+  Tæring, en gurglende Hvisken dybt nede i Halsen.
+    </p>
+    <p>
+     Manden kom tilbage med to Kufferter.
+    </p>
+    <p>
+     Vil De bære Lygten, sa han.
+    </p>
+    <p>
+     Den Reisende tog Lygten og Manden gik foran med Kufferterne, en i
+  hver Haand. Der saaes hverken Vei eller Gade, men Manden stimet
+  alligevel ret frem i Mørket, og efterhaanden [99] reiste der sig op
+  Husgavle, hvor de skred frem. Den Reisende forstod, at han var i en
+  Gade; han kunde øine tre–fire Lys, som hang inde i Mørket. Men alle
+  Husene laa mørke, Vinduerne stod kulsorte paa Façaderne, nu og da
+  skrek det rustent i Skilterne. De mødte ingen Mennesker. Manden med
+  Kufferterne svinget omsider ind i et trangt og sort Gab, og nede i
+  dette Smug etsteds randt Lyset ud fra nogle smaa Vinduer.
+    </p>
+    <p>
+     Her er det, sa han.
+    </p>
+    <p>
+     Han aabnet en Dør, som ikke var stængt, og gik frem opover en smal
+  knirkende Trappe.
+    </p>
+    <p>
+     Den Reisende lukket Døren efter sig. Straks dulmedes Larmen af
+  Blæsten. Men den gik fremdeles i en stadig stigende og faldende Brusen
+  over Huset.
+    </p>
+    <p>
+     Manden med Kufferterne aabnet en Dør.
+    </p>
+    <p>
+     Her er det, hvisket han igjen.
+    </p>
+    <p>
+     Det var et lidet Værelse med et eneste Vindu. Møblementet bestod af
+  et Bord foran Vinduet, en stor lærbetrukket Sofa, en Kommode med lidt
+  Pynt paa, en Seng, et Vaskestel og nogle Stoler. Paa Bordet stod et
+  enligt Lys i en Stake. Lyset blafret i Trækken fra Vinduet. Værelset
+  var godt opvarmet.
+    </p>
+    <p>
+     Manden satte Kufferterne hen paa Sofaen. Saa tog han Luen af sig og
+  sa med sin hæse Stemme:
+    </p>
+    <p>
+     Værsgo.
+    </p>
+    <p>
+     [100] Den Reisende blev staaende stille midt paa Gulvet. Først saa
+  han paa Værelset, derefter paa Manden, som hadde baaret Kufferterne op
+  for ham.
+    </p>
+    <p>
+     Er De Værten? spurgte han.
+    </p>
+    <p>
+     Manden rystet paa Hodet.
+    </p>
+    <p>
+     Langtifra, hvisket han, jeg er Iversen. Aronsen, det er Værten, han
+  har gaat og lagt sig.
+    </p>
+    <p>
+     Hvad er De da?
+    </p>
+    <p>
+     Skomagermester.
+    </p>
+    <p>
+     Det lød som den hæse Røst sa: Schmagermeschter.
+    </p>
+    <p>
+     Den Reisende saa nærmere paa ham. Mandens Ansigt var magert og
+  graat, det hadde den dystre, sultegraa Farve, som røber mangelfuld
+  Ernæring og trang Luft. Hans Haar var tyndt og sort. Over Munden hadde
+  han en kulsort Bart, Spidserne hang nedad og syntes at være fugtige.
+  Hans Øine hadde et ganske udslukt Blik, som veg søgende omkring.
+  Pupillerne var som Knappenaalshoder og stikkende sorte, det hvide i
+  Øinene var uklart og ligesom sværtet. Hele Ansigtet bar Præg af Sygdom
+  og Usundhed.
+    </p>
+    <p>
+     Omkring Halsen hadde Manden et Skjærf af ubestemmelig Farve, dets
+  Ender var puttet ned under Vesten, som var fed og blank af Smuds fra
+  Skomagerværkstedet. Hans Trøie var hullet over Skuldrene, og gjennem
+  Hullerne saaes en ulden Islænder, som en Gang maatte ha været hvid,
+  men som nu var kaffebrun af Smuds. Mandens [101] Hænder var slatne,
+  Fingrene lighvide og ganske sorte over Tupperne. Benklærne hang paa
+  ham, slunkne og side, det var som om der ikke var nogen Krop i dem,
+  bare to uldne og myge Stilker, som subbet fremover paa udtraadte Sko.
+  Hele Manden aandet af Skiddenfærdighed og daarlig Luft, han var
+  sikkert aldrig ude af denne Bunke Klær, han hadde dem paa sig i Sengen
+  om Natten for ikke at fryse, de var stive av Skosværte og Bek, han
+  tørret Fingrene af paa Benklærne, naar han var ude og fisket eller
+  naar han hadde spist …
+    </p>
+    <p>
+     Den Reisende vendte sig bort fra ham og begyndte at knappe sin Pels
+  op.
+    </p>
+    <p>
+     Det er koldt idag, Iversen.
+    </p>
+    <p>
+     Ja, men herinde er det godt og varmt.
+    </p>
+    <p>
+     Denne hæse Strubestemme fik den Reisende til at gyse.
+    </p>
+    <p>
+     Har De Tæring? spurgte han haardt.
+    </p>
+    <p>
+     Aassen det?
+    </p>
+    <p>
+     Ikke for noget. Drikker De kanske meget?
+    </p>
+    <p>
+     Aanei.
+    </p>
+    <p>
+     Iversen bøiet Hodet og saa bort, som om han vilde tilføie:
+  Desværre.
+    </p>
+    <p>
+     Sæt Dem ned, kjære Ven.
+    </p>
+    <p>
+     Iversen subbet over Gulvet og satte sig paa den Stol, som stod
+  nærmest ved Døren. Alt var Subb og Slark hos denne Mand, Stemmen,
+  Klærne, Skridtene.
+    </p>
+    <p>
+     Den Reisende saa ned paa hans Ben. Iversen [102] hadde Fillesokker
+  udenpaa Skoene. Iversen opfanget hans Blik og hvisket.
+    </p>
+    <p>
+     Det er saa koldt om Natten.
+    </p>
+    <p>
+     Han saa hen paa Kakkelovnen, hvis Jernmund glødet.
+    </p>
+    <p>
+     Men her er det godt og varmt, gjentog han.
+    </p>
+    <p>
+     Ja, jeg bad udtrykkelig om et varmt Værelse. Det stod paa
+  Telegrammen, sa Iversen, og det kan ogsaa trænges til, for idag gik de
+  fireogtyve Kuldedage ind.
+    </p>
+    <p>
+     Hvad mener De?
+    </p>
+    <p>
+     Det er den seistende idag, hvisket Iversen.
+    </p>
+    <p>
+     Den Reisende nikket.
+    </p>
+    <p>
+     Og naar det er koldt paa den Dag, saa blir der fireogtyve
+  Kuldedage.
+    </p>
+    <p>
+     Den Reisende hadde nu tat Pelsen af. Under Pelsen hadde han en
+  Frakke. Den tog han ogsaa af. Den Reisende aabenbaret sig nu som en
+  spinkel, høi Skikkelse. Iversen vovet at se paa hans Ansigt, men
+  studset uvilkaarlig. Den Reisende var meget bleg, hans Øine brændte,
+  Haaret laa ham ned i Panden, klissent og vaadt.
+    </p>
+    <p>
+     Det var mye til Klær, sa Iversen for at si noget.
+    </p>
+    <p>
+     Det er fordi jeg fryser, svarte den Reisende, som nu hadde en
+  underlig, fjern Klang i Stemmen, og fordi jeg hader Kulden.
+    </p>
+    <p>
+     Han gik hen til Vinduet og lyttet mod Stormen, hvis Flammer slog i
+  knakende Magt over Huset.
+    </p>
+    <p>
+     [103] Kulden, hvisket han for sig selv, Kulden …
+    </p>
+    <p>
+     Saa rykket han til, som om han med sine Tanker hadde været langt
+  borte. Han gik hen til den store Sofa, satte sig i den og trak Benene
+  op under sig. I denne Stilling blev han siddende, hans glødende Øine
+  stirret fremover Knærne henmod Iversen, som nu og da skottet urolig
+  op.
+    </p>
+    <p>
+     De liker kanske at sidde herinde i Varmen, Iversen.
+    </p>
+    <p>
+     Iversen bøiet Hodet og saa ned mod Gulvet.
+    </p>
+    <p>
+     Saa kan De komme oftere hid til mig, sa den Reisende, kanske jeg
+  har noget at la Dem bestille ogsaa. Har De meget at gjøre for
+  tiden?
+    </p>
+    <p>
+     Nei ingenting.
+    </p>
+    <p>
+     Iversen blev siddende stille og graa. Den Reisende tænkte paa, hvor
+  den Mand maatte ha det ondt og forfærdelig. Han saa paa den graa Masse
+  derhenne og syntes det ikke lignet noget menneskeligt.
+    </p>
+    <p>
+     Iversen reiste sig langsomt og saa mod Døren.
+    </p>
+    <p>
+     Skal De gaa? spurgte den Reisende fort, ligesom han var bange for
+  at bli alene.
+    </p>
+    <p>
+     Ja.
+    </p>
+    <p>
+     Den Reisende lod til at bli forundret og forlegen. Han plukket frem
+  et Pengestykke af Vestelommen og gav det til Skomageren, som takket
+  mangegange. Det hørtes, som om han hvisket shak, shak langt nede i
+  Struben. Saa lusket han ud og stængte Døren forsigtig efter sig. Hans
+  Trin kunde høres subbende i Trappen, [104] men Lyden af Trinene
+  druknet i et harkende Hosteanfald dernede ved Gadedøren. Og saa hørtes
+  intet mere uden Stormen.
+    </p>
+    <p>
+     Den Reisende sad længe stille paa Sofaen med Benene trukket op
+  under sig betragtende et Billede paa Væggen ligeoverfor. I det fattige
+  Lys var det umuligt for ham at se rigtig, hvad det forestillet. Men
+  var det ikke en Mand og en Kone, som stod og talte sammen? Konen hadde
+  Sjal, som hun med sine Fingre holdt sammen over sit smale Bryst og
+  Manden hadde høi Hat paa Hodet. Den Reisende myste med Øinene og
+  anstrængte sig for at faa noget mere ud af Billedet. Endelig gik han
+  over Gulvet og tog det nærmere i Øiesyn. Det gav et Sætt i ham.
+  Billedet forestillet to gamle Folk, som stod foran en Barnegrav. Han
+  vendte det hurtig omkring.
+    </p>
+    <p>
+     Saa gik han hen og aabnet den ene af sine Kufferter. Han stak
+  Haanden nedi og tok frem en Bunke Breve. De var uaabnede allesammen.
+  Han saa sig om, han ledte efter et Gjemmested. Han trak ud en liden
+  Skuffe i et Speil, som stod paa Kommoden, og la Brevene deri. Men der
+  var mange flere Breve end de første, han tog frem. Da han endelig var
+  færdig med at rydde ud af Kufferten, var den lille Skuffe ganske
+  fuldproppet. Han skjøv den i og aabnet den igjen. Og da reiste den
+  sammenpressede Brevbunke sig op i et lydeligt Pust, et Puh! som gav et
+  Gys i ham. [105] Han smækket hurtig Skuffen igjen og gik paany hen til
+  Vinduet. Her blev han staaende længe stille, ret op og ned, lyttende.
+  I hans Øine var der nu et besynderlig Glimt af Forundring og Smærte,
+  men hans Læber fortrak sig til et Smil, et haardt og dirrende Smil,
+  saadan som man smiler, naar man ikke vil graate.
+    </p>
+    <p>
+     – – –
+    </p>
+    <p>
+     Han hadde forsøgt at sove paa Sofaen, men hadde maattet opgi det.
+  Nu sad han her og lod Tankerne gaa i forvirrede Slag frem og tilbage i
+  Fortiden. De gik af sig selv, de fandt frem Træk for Træk og vakte
+  Forundring hos ham. Han hadde ikke levet, syntes han, bare latt sig
+  drive med Strømmen hurtigere og hurtigere. Og nu gik Stormbragene
+  udenfor ind i hans Stemning og han syntes han allerede hørte Larmen
+  fra den Afgrund, som han drev imod. Han kjendte en sød Glæde ved at
+  sidde ganske stille og bæres bort af Minutterne og Timerne og Dagene,
+  men han vidste ogsaa, at hans Øine afspeilet en ventende Sigten, en
+  Anelse mod noget som skulde komme. Han hadde set det tidligere i nogle
+  Dyreøine bag et Jerngitter. Det var i den store By, som han hadde
+  flygtet bort fra, efter at ha set sin egen Angst levendegjort i et Syn
+  af Manden fra Mordværelset. Allerede da han sad i Jernbanekupeen og
+  blev baaret fremover i Vognens myge Gyngen, hadde han Fornemmelsen af,
+  at han hadde tiltraadt [106] Reisen mod Døden eller mod en stor
+  Ulykke. Senere var Visheden om Dødens Nærhed blit stadig stærkere hos
+  ham; den hadde vokset sammen med Angsten.
+    </p>
+    <p>
+     Først søgte han at dulme sin Smærte ved at opsøge sine gamle Venner
+  og kaste sig ud i et meningsløst Svireliv. Men over Drukkenskaben var
+  ikke længer den gamle Glød, og Vennerne blev hurtig kjed af ham. Hans
+  Uberegnelighed var brydsom kanske. Enkelte Nætter blaffet han op i en
+  hysterisk Lystighed og væltet al sin Nervøsitet over paa sine
+  Omgivelser, til andre Tider sad han stille og taus og aandsfraværende
+  midt i Larmen. Da kunde Passiaren gaa forbi ham, og han var fortvilet,
+  fordi han ikke ævnet at gribe et Ord eller holde en Mening fast. Det
+  var ligesom naar han som Barn sad og hørte paa de voksnes Tale og
+  kunde intet forstaa. Alt gled forbi ham i en Summen. Og hans Venner
+  likte ikke denne Uregelmæssighed, som bragte det regelmæssig
+  fungerende Sviremaskineri til at knirke. Beruselsen skulde foregaa i
+  daglig Jevnhed. Den skulde begynde med nogle smaa Glas om Formiddagen
+  og en let og fordringsløs Passiar om hvor fuld man hadde været Dagen i
+  Forveien. Den som da slog an de store Talemaader, kom lad os drikke,
+  lad os nyde Livet, skaal kjære Venner, blev set paa med Misbilligelse
+  og forundring. Hvilken Nar. Derefter skulde Drikkeriet udvikle sig
+  langsomt med Snak om Dagens [107] brændende Spørgsmaal til henad den
+  Tid, da man kunde begynde at sende smaa Billetter hjem om, at man
+  desværre ikke kom til Middag. Under Middagen maatte man ikke undlade
+  at være grætten mod Tjeneren og sende enkelte Retter tilbage. Efter
+  Middagen var der Anledning for de ældre Venner til en liden Lur i
+  Sofahjørnet. Derefter kom den Tid, da man kunde vente Fruerne, som
+  indfandt sig for at se efter sine Mænd. Enkelte var fordomsfri og slog
+  sig ned for Aftenen, dem hadde man siden stadig med sig paa subbende
+  Kaloscher, hvorhen saa Færden gik. En anden Frue kunde være fornærmet
+  og vilde slet ikke engang ta Tøiet af; naar en saadan Dame indfandt
+  sig, hadde han paa Fornemmelsen, at tredive Dages Regnveir paa en Gang
+  var kommet ind i Stuen.
+    </p>
+    <p>
+     Først langt ud paa Aftenen gled Drukkenskaben hen i mere oplivende
+  Hvirvler, drevet frem af tunge Whiskymængder. Han passet ikke Skalaen
+  og Tempoet. Det hændte, at han om Formiddagen vilde være lystig, at
+  han mødte op efter en søvnløs Nat med brændende Øine og proklamerte
+  Munterhed. Han blev mødt med Gjæspen og Hovedrysten. Eller ogsaa
+  hændte det, at han om Natten sad stille og lod Larmen drive hen over
+  sit Hode. Og naar en af Vennerne bøiet sin whiskyduftende Fortrolighed
+  mod ham, svarte han hen i Hyt og Veir eller afbrød Samtalen med en
+  Huttren, som [108] om han frøs. Han var ikke den gamle længer, han
+  kunde ikke bruges mere i den store Maskine, hvor Glassene løftedes og
+  sænkedes regelmæssig og evigt som Stempelslag. Men han drak meget.
+    </p>
+    <p>
+     Saa en Morgen, da han vaagnet og kjendte sig som Gelé i Kroppen af
+  Drik, pakket han igjen sine Kufferter og reiste. Og idet han reiste
+  fra Byen, vidste han, at han ikke mere skulde faa se den. Larmen efter
+  den sank ned i Stilheden og skulde ikke mere bruse i hans Øren –
+    </p>
+    <p>
+     Det fattige Lys derhenne paa Bordet blikket og kastet urolige
+  Skygger indover i Værelset. Hvorfor hadde han ikke en Lampe? Dette
+  Halvmørke generte ham. Han tog Plads henne ved Bordet, strakte
+  Haandflaterne ud og saa paa sine Hænder. Saa trykket han med venstre
+  Pegefinger et Mærke i den anden Haand, et hvidt Mærke, som længe blev
+  staaende. Han synes det lignet en Ligplet, Blodet gik for langsomt i
+  hans Aarer. Hans Hat efterlod en hvid Ring over hans Pande. Det var
+  som om han allerede var død og ifærd med at raadne.
+    </p>
+    <p>
+     Nu husket han paa den Nat, da han vaagnet, idet han hørte et
+  Revolverskud. Han hadde da igjen den besynderlige Dobbeltfornemmelse
+  af at være nærværende og dog langt borte. Selve knaldet bragte med sig
+  en flygtig Forestilling om en stor Jernbanestation med mange rygende
+  Lokomotiver.
+     Der
+     var det én, som
+  hadde skudt. Men han saa Glimtet inde i sit eget Værelse, han syntes
+  [109] ogsaa at mærke Krudtrøgen i et hvidt, taakeagtig Flimmer. Han
+  var sprunget op med ett og hadde tændt alle de Lys, som han kunde
+  komme over. Han hadde alarmeret Hotellet, og forskrækkede Folk var
+  kommet løbende. Der var ikke blit skudt nogetsteds, blev det sagt ham.
+  Han maatte ha drømt. Han sa intet til dette. Han stod og grundet en
+  Stund, til denne lille Tanke kom famlendes, den var som en Traad, der
+  rodet i hans Hjerne: Det er ham, Manden, som har skudt sig. Nu skal du
+  dø. Da bodde han paa det Hotel, hvor han hadde den Angsten med Brevene
+  og Telegrammerne. Han var kommet med Jernbanen fra Hovedstaden; i de
+  første to Dage syntes han Roen var vederkvægende. Men saa indgav selve
+  Stilheden ham Ængstelse,
+     det
+     at han
+  ikke hørte noget. Hans Venner vidste, hvor han var, hvorfor skrev de
+  ikke til ham, bare en eneste venlig Hilsen paa et Brevkort? Han syntes
+  den store By med alle Vennerne laa mørk og truende i det fjerne. Saa
+  begyndte han selv at skrive Breve, en Aften skrev han fem. Han
+  beregnet paa Timen, naar han kunde ha Svar. Han skrev om ligegyldige
+  Ting, fandt op et eller andet, som han vilde ha Svar paa. To Dage
+  efter med Posten Klokken syv om Aftenen, kunde han ha Svarene.
+  Postbudet kom, men der var ikke et eneste Brev til ham. Da han en
+  Times Tid efter kom ind i Hotellets Spisesal, sad mod Sedvane noksaa
+  mange [110] Gjæster ved Aftensmaaltidet. Han syntes, at de allesammen
+  stirret saa underlig paa ham. Han var forfærdelig nervøs og klirret
+  med Kniver og Glas. Han henvendte nogle Ord til sin Sidemand og fik et
+  elskværdigt Svar igjen. Dette beroliget ham for en Stund. Manden
+  svarte i den store Almindelighed, en Talemaade, men med et velvilligt
+  Smil.
+     Han vidste altsaa ikke
+  noget.
+    </p>
+    <p>
+     Men saa tænkte han igjen paa den store, truende By, hvorfra han
+  ikke hadde hørt et Ord. Hvad var der iveien, hvad talte de om nu ved
+  Bordene, hvorfor skrev man ikke til ham? Og saa var Angsten kommet
+  stikkende igjen og hadde gjennemilet ham med sin isnende Frysen. Han
+  kunde ikke udholde at være blandt Mennesker længer, han vidste, at han
+  sad her og stirret fra den ene til den anden med store og hjælpeløse
+  Øine.
+    </p>
+    <p>
+     Saa hadde han pludselig reist sig og var gaat ud af Salen. Da han
+  lukket Døren efter sig og hørte dens Knæk i Laasen, hadde han staat
+  stille og tænkt: Død og Helvede, nu er det ude med dig.
+    </p>
+    <p>
+     Dagen efter hadde han sendt Telegrammer med de samme ligegyldige
+  forspørgsler. Og saa hadde han faat Svar, lidt forundrede Svar over
+  dette umaadelige Hastværk med Bagateller. Naa, der var ingenting
+  iveien.
+    </p>
+    <p>
+     Men nu var alt ganske anderledes, for Brevskrækken var kommet.
+  Rædslen for at aabne [111] Breve. Det hadde begyndt med at han hadde
+  ladt et Brev ligge uaabnet, fordi han ikke kjendte Udenpaaskriften.
+  Men nu turde han slet ikke aabne
+     nogen
+     Breve. Og saa hadde
+  Brevbunken samlet sig op, vokset ustanselig med stadig nye Breve og
+  Telegrammer. Nu fyldte de uaabnede Breve ganske den lille Skuffe
+  derhenne, han turde heller ikke kaste dem væk, for han syntes det var
+  noget levende, det var Stemmer som laa og vilde tale til ham … Han
+  trak Skuffen ud igjen, og straks løftet Brevbunken sig med et Pust.
+  Rædselslagen klemte han Brevene ned med sine Hænder, han syntes mange
+  forskjellige Stemmer mumlet mellem hans Fingre og først blev bragt til
+  Taushed, naar Skuffen var skjøvet igjen … Men nu kjendte ingen hans
+  Adresse, han vilde ikke faa flere Breve, han hadde kappet Ankertauget
+  og drev stadig længere bort fra Tilværelsen i Tidens ustanselige
+  Bris.
+    </p>
+    <p>
+     Nætterne var forfærdelige. Med hver Nat, som gik, syntes han at han
+  kom nærmere det gaadefulde, som han vidste en Gang vilde gribe ham.
+  Det vilde komme med selve den store Vinter og den uigjennembrydelige
+  Kulde. Det laa under Horisonten og truet, en Aften vilde han se det
+  reise sig over Jordranden ufatteligt og rædselsfuldt med en uhyre stor
+  og hvidlig Pande, og saa vilde det springe mod ham.
+    </p>
+    <p>
+     Det var selve Angsten, som skulde komme. Han ventet den. Først
+  vilde han høre en Kalden, [112] et Raab fra en umenneskelig Verden, og
+  saa vilde Angsten stige ud fra Mørket.
+    </p>
+    <p>
+     Han sad længe ved Bordet og saa paa sine Fingre og lyttet efter
+  Blæstens store Fanfarer ude fra Sjøen. Inde mellem Vindkastene hørte
+  han et stort Slagur tikke i Værelset ved Siden af. Denne Tikken pinte
+  ham, den lød som ustanselige Bloddryp mod Gulvet.
+    </p>
+    <p>
+     Den anden Kuldedag. Det blæste ikke længer. Kulden samlet sig til
+  sit mægtige pressende Greb omkring Jorden. Naar Folk gik, klang det
+  under deres Støvler, som om de gik paa Metal. Bryggerne laa tiliset,
+  Sjøen afsatte en Skorpe af Is langs Stranden. Det var mærkeligt,
+  hvordan fjerne menneskelige Stemmer blev baaret tydelig frem gjennem
+  den klingre Luft, og der var kommet en egen syngende Tone i alle Lyd
+  …
+    </p>
+    <p>
+     Han sendte Bud efter Iversen. Han vilde tale med dette Individ, som
+  var ham sympatisk, fordi det røbet den yderste Fattigdom, en forhutlet
+  graa Mand, uendelig slidt og fedtet i Klædedragten. Han tænkte sig
+  hvordan dette Menneske bodde. Det maatte være i et lidet Kvistkammer
+  oppe paa et Loft. En skrøbelig Trappe førte derop. Loftet gik indover
+  og tabte sig i Mørket, Skraabjælkerne kunde skimtes og en hvidkalket
+  Skorstenspibe. Stormen fôr nedmellem Takstenene, gøv omkring og peb
+  gjennem Sprækkerne i Skomagerens Dør. Han hadde [113] puttet Filler i
+  Sprækkerne, men det kunde ikke hjælpe, for Træværket var gammelt, og
+  Kulden greb om det og knaket det fra hinanden. Inde i Skomagerens
+  Værelse var det halvmørkt og frossent, Vinduet skiddent og
+  ugjennemsigtigt, naar Sneen kom, vilde den fyke ind mellem Sprosserne.
+  Ved den ene Væg stod hans Seng, et lavt Leie, dyngende fuldt af
+  Filler. Kanske var Skomageren i dette Øieblik selv i sit Værelse, han
+  syntes han saa ham, graa og urørlig som en Del af Mørket. Han sad
+  kanske og lyttet efter Vindens lemsterlige Raslen ude paa Loftet, hvor
+  den raslet i gammelt Skrammel, som var benyttet af Mennesker, som
+  forlængst var døde og hensmuldrede … Han fik Bud tilbage, at
+  Skomageren intetsteds var at finde.
+    </p>
+    <p>
+     Saalænge Vinterlyset stod rødfrossent udenfor, holdt han sig paa
+  sit Værelse. Han sad hele Tiden stille i Sofaen med Benene trukket op
+  under sig – og han frøs, skjønt Kakkelovnen glødet. Men Skumringen kom
+  hurtig, det var ligesom Døgnet bare aabnet Øiet og saa sig om og
+  lukket det igjen langsomt. De sidste Rester af Dagen smuldret hen og
+  saa var Mørket der, Vintermørket, det kom ude fra Havet, trængte
+  klagende frem, peb i alle Sprækker og vilde ind til Menneskene med
+  Kulden, denne rædselsfulde Fiende af alt Liv, en Aande fra selve
+  Verdensrummets Bundløshed.
+    </p>
+    <p>
+     En tændt Lampe blev bragt ind til ham af [114] Værtens Kone. Han sa
+  intetsomhelst, bare fulgte hende med Øinene, og hun skyndte sig ud
+  igjen.
+    </p>
+    <p>
+     Saa stod han op og tog sin Pels paa. I Mørke følte han sig
+  alligevel mere tryg, han behøvet ikke at se Menneskenes Ansigter, og
+  han kunde staa stille og skjule sig i en stor Skyggegrube, hvis han
+  hørte, at nogen kom gaaende.
+    </p>
+    <p>
+     Da han kom ud paa Veien, saa han de gamle Huse tegne sine Skraatag
+  mod Himlen. De hang indpaa hinanden og trykket sig sammen i Kulden.
+  Hist og her i Husklyngen var Trær stukket ned, de nøgne Grene var
+  kulsorte og ligesom afbrændte. Natten var klar og stjernefunklende,
+  men i Øst laa en bred Skygge over Himlen, det var et Fjeld som hævet
+  sig med en blaalig Skavl i Toppen. Han saa op mod Melkeveiens
+  uendelige Snedrev og mod Hundestjernens iskolde Blink. Derovenfra kom
+  Kulden. Den var selve Evigheden, hvori alt Liv tilsidst skulde udaande
+  … Pludselig stanset han sin Gang, han var kommet udenfor Husvrimlen,
+  den laa langt bag ham med enkelte røde Blink lysende inde i Mørket,
+  han hørte en svag Larm fra Havet, Bølgerne brast mod Klipperne, gik
+  istykker med en kjølig Skvulpen. Men foran ham gik Veien lige ind i
+  Mørket; han stanset forfærdet foran dette Mørke, der var ikke længer
+  nogen Grænse mellem Jorden og Himlen.
+    </p>
+    <p>
+     … Mens han var ude, sad Manden og Konen i Logihuset og talte sammen
+  om ham. De sad [115] alene i et stort Værelse, som var daarlig oplyst
+  af en gammel, udslidt Lampe. Det puttret nu og da inde i Kuplen,
+  Flammen vilde slukne. Der var saa stille i Værelset og omkring Huset,
+  og deres Stemmer lød saa dæmpet og forsigtig, det var ligesom Uhyggen
+  og Ængstelsen gled langs de halvmørke Tapetvægge.
+    </p>
+    <p>
+     Jeg er bange for ham, sa Konen, han sidder i Sofaen og ser paa mig
+  saa underlig. Husker du Karo, Vagthunden.
+    </p>
+    <p>
+     Manden nikket.
+    </p>
+    <p>
+     Jeg kom til at tænke paa dens Øine. Han har det samme Blik. Det
+  vagter. Og hvorfor sidder han stille og sammenkrøben i Sofaen hele
+  Tiden? Jeg liker ikke at ha ham her. Hvem er han?
+    </p>
+    <p>
+     Jeg ved ikke, svarte Manden.
+    </p>
+    <p>
+     Hvor kommer han fra?
+    </p>
+    <p>
+     Jeg ved ikke.
+    </p>
+    <p>
+     Manden, som var en gammel Skipper, blev siddende taus og se
+  betænksomt fremfor sig. Konen gik ind i det næste Værelse, men kom
+  hurtig tilbage igjen.
+    </p>
+    <p>
+     Jeg synes ikke om Huset længer, sa hun, det er blit saa skymt i de
+  mørke Værelserne. Bare her kom flere Folk, saa vi ikke var saa
+  alene.
+    </p>
+    <p>
+     En Stund efter hørte de løbende Trin udenfor. En Næve dunket mod
+  Døren. Det gav et Sætt i Konen, hun greb sig for Brystet, og hendes
+  Læber blev blodløse med ett. Manden reiste sig. Han rynket Panden.
+    </p>
+    <p>
+     [116] Vær rolig, sa han haardt.
+    </p>
+    <p>
+     Han gik udenfor, mens Konen blev staaende ved Døren lyttende med
+  tilbageholdt Aandedræt. Hun kunde høre paa de hviskende hurtige
+  Stemmer, at noget særlig var paafærde. Saa kom Manden tilbage, mens de
+  løbende Skridt fôr videre henad Gaden og dukket ind i Stilheden.
+    </p>
+    <p>
+     Hvad er det? spurgte Konen, var det Isak?
+    </p>
+    <p>
+     Ja, det var Isak.
+    </p>
+    <p>
+     Hvad vilde han?
+    </p>
+    <p>
+     Manden gik hen til Lampen og skrudde den høiere op. En gusten
+  Bleghed var trængt ind i hans brune, veirbidte Hud.
+    </p>
+    <p>
+     Skomageren har hængt sig paa Loftet, sa han.
+    </p>
+    <p>
+     Nogle Minutter efter famlet det udenfor ved Dørlaasen. Denne
+  forsigtige Famlen gik ligesom gjennem hele Huset, den gik gjennem de
+  to Menneskers Legemer og rørte ved deres Hjerter. De reiste sig begge
+  samtidig, og Manden greb Lampen.
+    </p>
+    <p>
+     Det er en som vil ind, sa han.
+    </p>
+    <p>
+     Da han aabnet Døren ud mod Trappegangen, stod Konen ved hans Side
+  og støttet sig mod ham skjælvende. Idetsamme kom
+     den Reisende
+     ind ad Gadedøren. Da
+  Konen fik se hans Øine, gispet hun uvilkaarlig.
+    </p>
+    <p>
+     Manden hilste, men den Reisende blev bare staaende og se paa
+  dem.
+    </p>
+    <p>
+     De spurgte efter Skomageren, sa Manden, han har hængt sig. Han har
+  hængt sig paa Loftet.
+    </p>
+    <p>
+     [117] Den Reisende nikket. Det syntes ikke som om Meddelelsen
+  virket paa ham. Bare et lidet Glimt i hans Øine fortalte, at han hadde
+  forstaat, hvad der blev sagt.
+    </p>
+    <p>
+     Saa vendte han omkring og gik rolig opover den knakende Trappe,
+  ganske rolig, Skridt for Skridt. Hans Pels var meget lang, men han
+  blev ligesom længere i den, eftersom han gik opover, og Hodet og
+  Overkroppen dukket ind i Mørket deroppe. Hans Hænder saaes hvide mod
+  den mørke Væg.
+    </p>
+    <p>
+     … Han traadte ind i Værelset og lukket Døren omhyggelig efter sig.
+  Saa tog han Pelsen af og krøb ind i sin Yndlingsstilling i Sofaen.
+  Hans Øine var unaturlig store og hadde et forunderligt Udtryk, som om
+  Døden og Vanviddet langsomt grodde ind gjennem dem. Hvilke Tanker
+  smuldret nu i hans Hjerne? Kanske ingen, kanske tænkte han paa
+  Skomageren, selve den graa Død som hang inde under en af
+  Loftsbjælkerne i Kulden, kanske gik hans Tanker ud mod fabelagtige
+  Steder, hvor hans Sjæl fløi ind og følte sig skjælvende hjemme. Hans
+  Ansigt var blit sammentrukket og grimt med dybe Furer om Mundvigerne.
+  Det var som om han i de sidste Minutter hadde oplevet noget
+  forfærdelig. Kanske hadde han oplevet noget derhenne, hvor Veien gik
+  ind i Mørket, og Himlen og Jorden gled sammen i en rugende Nat? Hørt
+  eller set [118] noget, som andre Menneskers Øren og Øine ikke kunde
+  opfatte.
+    </p>
+    <p>
+     Pludselig vender han Hodet mod Vinduet og studser.
+    </p>
+    <p>
+     Og saa reiser han sig langsomt op, hans Bryst vider sig ud, og han
+  løfter afværgende Hænderne. Han blir staaende saadan en Stund og
+  lytte. Saa springer han frem paa Gulvet. Han har Hastværk. Han er
+  nærved at vælte Bordet. Han lytter igjen intenst med Hodet
+  foroverbøiet. Han er som et jaget Dyr, der mærker Farens Nærhed. Han
+  lytter ved Vinduet, mod noget som kommer langt borte fra. Saa griber
+  han sin Overfrakke – ikke Pelsen. I Hastværket stikker han Armen galt
+  og midt i Rædslen, som nu raaber ud fra hans Ansigt, kommer et Træk af
+  Fortrædelighed og Fortvilelse. Endelig faar han Frakken paa. Han
+  lytter endnu engang, farer heftig sammen og gaar paa listende Fod mod
+  Døren. Han famler nedover Trappen. Hans forsigtige Trin lyder som
+  Sukke.
+    </p>
+    <p>
+     Da han kommer udenfor, gaar han ret frem i Mørket. Hans Gang blir
+  hurtigere og hurtigere. Han kommer ud paa Veien. Lysene fra
+  Menneskenes Boliger forsvinder bag ham. Han er alene i Stilheden og
+  dukker Hodet under Stjernernes Skin.
+    </p>
+    <p>
+     Veien gjør en Svingning opover en Høide. Herfra synes den at gaa
+  lige ind i den braasorte Himmel, ind i et sugende Mørke uden Bund.
+    </p>
+    <p>
+     [119] Her møder han Angsten.
+    </p>
+    <p>
+     – – –
+    </p>
+    <p>
+     I Dagbrækningen begyndte Sneen at falde, først i kolde, kornede
+  Drev. Siden tættere og tættere. Den dækket alt til, det mørke Land
+  blev hvidt. Menneskene gik lydløse inde i Sneen som Skygger.
+    </p>
+   </div>
+   <div>
+     <p>
+    Sven Elvestads
+    Angsten
+    er lastet
+ned gratis fra
+    <ref target="http://bokselskap.no/">
+     bokselskap.no
+    </ref>
+     </p>
+   </div>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,3805 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="NOR0102" xml:lang="nb" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Kvinden Skabt af Manden ELTeC-utgaven
+    </title>
+    <author ref="Q3143008 https://www.wikidata.org/wiki/Q334200">
+     Garborg, Hulda (1862-1934)
+    </author>
+    <respStmt>
+     <resp>
+      ELTeC encoding
+     </resp>
+     <name>
+      Michael Preminger
+     </name>
+    </respStmt>
+   </titleStmt>
+   <extent>
+    <measure unit="words">
+     26642
+    </measure>
+    <measure unit="pages">
+     131
+    </measure>
+   </extent>
+   <publicationStmt>
+    <p>
+     Incorporated into the ELTeC
+     <date>
+      2022-04-09
+     </date>
+    </p>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <ref target="https://www.bokselskap.no/boker/albertine/tittelside">
+      Digitaliseringen er basert på fil mottatt fra Nasjonalbiblioteket.
+Korrekturlest og tilrettelagt av OsloMet-studentene Ole-Jørgen Haugen, Alexandra Emilie Lindh og Erik Silkoset, høsten 2021.
+     </ref>
+     <author>
+      H. Garborg
+     </author>
+     <title>
+      Kvinden Skabt af Manden
+     </title>
+     <pubPlace>
+      Kristiania
+     </pubPlace>
+     <publisher>
+      Aschehaug &amp; co. (W. Nygaard)
+     </publisher>
+     <date>
+      1904
+     </date>
+    </bibl>
+    <bibl type="digitalSource">
+     <ref target="https://www.nb.no/items/URN:NBN:no-nb_digibok_2008072900072">
+      Faksimilie i Bokhylla
+     </ref>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc n="eltec-1">
+   <p/>
+  </encodingDesc>
+  <profileDesc xmlns:e="http://distantreading.net/eltec/ns">
+   <langUsage>
+    <language ident="nb" usage="100"/>
+   </langUsage>
+   <textDesc>
+    <e:authorGender key="F"/>
+    <e:size key="short"/>
+    <reprintCount key="high" xmlns="http://distantreading.net/eltec/ns"/>
+    <e:timeSlot key="T4"/>
+   </textDesc>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2022-04-09"/>
+  </revisionDesc>
+ </teiHeader>
+ <text type="novel" xml:id="OM_Garborg_KvindenSkabtAfManden_tekst_xml_text">
+  <body>
+   <p>
+    bokselskap.no/OsloMet/Nasjonalbiblioteket, Oslo 2022
+    Hulda
+Garborg:
+    Kvinden skabt af
+Manden
+    Teksten i bokselskap.no følger 7. opplag 1904
+(Kristiania/Aschehoug). Digitaliseringen er basert på fil mottatt fra
+Nasjonalbiblioteket (nb.no). Korrekturlest og tilrettelagt av
+OsloMet-studentene Ole-Jørgen Haugen og Alexandra Emilie Lindh og Erik
+Silkoset, høsten 2021.
+    Teksten er lastet ned fra
+    <ref target="http://bokselskap.no/">
+     bokselskap.no
+    </ref>
+   </p>
+   <p>
+    Hulda Garborg
+   </p>
+   <p>
+    Kvinden skabt af Manden
+   </p>
+   <p>
+    Studie af en Kvinde
+   </p>
+   <p>
+    (I Anledning af Dr. Otto Weiningers Bog:
+    «Geschlecht und
+Charakter»)
+   </p>
+   <p>
+    bokselskap.no/OsloMet
+    i samarbeid med
+Nasjonalbiblioteket
+    Oslo 2022
+   </p>
+   <p/>
+   <p/>
+   <p/>
+   <p/>
+   <quote>
+    <p>
+     Als der Mann sexuell ward, da schuf er das
+  Weib.
+     Weininger.
+    </p>
+    <p>
+     Als selbst technisch ist das Menschheitsproblem nicht lösbar für
+  den Mann allein; er muss die Frau mitnehmen auch wenn er nur sich
+  erlösen wollte, er muss sie zum Verzicht auf ihre unsittliche Absicht
+  auf ihn zu bewegen
+  suchen.
+     Weininger.
+    </p>
+   </quote>
+   <p/>
+   <p/>
+   <div type="chapter" xml:id="indledning-dr.-weininger-og-hans-værk">
+    <head>
+    
+      Indledning: Dr.
+  Weininger og hans Værk
+     
+    </head>
+    <p>
+     Dr. Otto Weininger blev født i Wien 3die April 1880, og var altsaa
+  endnu ikke 24 Aar, da han 4de Oktb. 1903 døde for egen Haand
+  sammesteds.
+    </p>
+    <p>
+     Hans store psychologisk-filosofiske Værk «Geschlecht und
+  Charakter», udgivet kort før hans Død, forbausede den literære og
+  videnskabelige Verden. At dette umaadelig lærde, vældige Værk var en
+  Tyveaarings Arbeide syntes ufatteligt; men hans pludselige Død bragte
+  etslags Løsning. Hele den tidlig udviklede, geniale Mands Liv var
+  koncentreret i dette Værk, kulminerede og sluktes i det. «Han døde for
+  sit Værk, paa det at dette skulde leve.»
+    </p>
+    <p>
+     Mindre glimrende end Nietzsche, og i mange Maader hans Modsætning,
+  men grundigere og mere ubarmhjertig konsekvent,[2] kom han og svandt
+  som denne – lig et Stjerneskud i Natten. Og hans Navn fløi, som for
+  nogle Aar tilbage den ulykkelige Nietzsches, i utrolig kort Tid ud
+  over Tysklands Grænser.
+    </p>
+    <p>
+     Weininger havde tidlig gjennemgaaet mange aandelige Kriser og med
+  Begeistring sluttet sig til forskjellige Filosofer, indtil han endte
+  hos Kant. Plato og Kant elskede og beundrede han lige til sin Død
+  høiere end alle andre, paa Grund af deres yderliggaaende Dualisme.
+    </p>
+    <p>
+     For Nietzsches «Zarathustra» var han varmt begeistret. Dens herlige
+  Naturstemninger henrev ham; men Nietzsches Ethik tog han ikke
+  alvorligt.
+    </p>
+    <p>
+     Weininger var ogsaa sjelden musikalsk, og ansaa Wagner for
+  Menneskehedens største Kunstner overhovedet.
+    </p>
+    <p>
+     Ved Siden af Wagner, Kant og Goethe satte han Henrik Ibsen som en
+  af Menneskehedens største Aander. «Peer Gynt» finder han «dybere og
+  mere altomfattende end noget Drama af Shakspeare» og «i
+  Gjennemførelsens Magt» at staa langt over Goethes «Faust».
+    </p>
+    <p>
+     «Ibsens Digtning er Kants Filosofi – – ingen anden, kun Kant og
+  Ibsen har taget [3] Sandhed og Løgn som de dybeste ethiske
+  Problemer.»
+    </p>
+    <p>
+     Ogsaa Hamsun satte han meget høit. Om «Pan» siger han, at denne
+  Hamsuns Bog maaske er den skjønneste Roman, som overhovedet er
+  skrevet. Weininger beherskede til Fuldkommenhed 5 levende Sprog, og
+  det ene var Norsk, saa han kjendte meget af den nyere norske
+  Literatur.
+    </p>
+    <p>
+     – Af Fødsel var Weininger jøde, men gik et Par Aar før sin Død over
+  til Kristendommen (Protestantismen), og der var, næst Kvinden, neppe
+  noget han hadede mer end Jødedommen. Men ligesom hans Had og Foragt
+  ikke gjælder «Kvinderne», men «Kvinden»(das Weib), saa gjælder det
+  heller ikke «Jøderne» som Race eller Nation, ikke deres
+  Trosbekjendelse eller Literatur, «men Menneskene overhovedet,
+  forsaavidt de har Andel i Jødedommens platoniske Idé».
+    </p>
+    <p>
+     I uafbrudt anstrengende Hjernearbeide og en opslidende Kamp mellem
+  sin «onde
+  Natur»
+     <ref target="#NOR0102_backn1">
+      n1
+     </ref>
+     og sin sædelige Stræben, bukkede Weininger tilsidst under. Kort før
+  sin Død skrev han, at han dræbte sig «for ikke at [4] maatte dræbe en
+  anden». Og i den Bog, som blev udgivet efter hans Død, «Über die
+  letzten Dinge», skriver han bl. a. om Selvmord: «Det anstændige
+  Menneske gaar selv i Døden, naar det føler, at det bliver absolut
+  ondt; det simple Menneske maa tvinges til Døden gjennem en retslig
+  Dom. – – For det anstændige Menneske er Følelsen af dets Umoralskhed
+  lig en Dødsdom.»
+    </p>
+    <p>
+     Weiningers Arbeidskraft var enorm, tiltrods for at han led under
+  Hjertekramper og epileptiske Anfald. Om denne sin Sygdom skriver han
+  selv: «Er ikke Epilepsi Forbryderens Ensomhed? Falder han ikke, fordi
+  han ikke længer har noget at støtte sig til?»
+    </p>
+    <p>
+     Om Arten og Graden af de «forbryderske Anlæg», som Weininger i saa
+  høi Grad tillægger sig, kan man ikke gjøre sig noget klart Begreb
+  hverken efter hans Bøger eller den korte Biografi, som følger den
+  sidste af dem. Man faar derimod et stærkt Indtryk af, at han stillede
+  overmenneskelige Fordringer til sig selv, som til hele
+  Menneskeheden.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     [5] Om «Geschlecht und Charakter» skriver August Strindberg: «– en
+  frygtelig Bog, som dog sandsynligvis har løst det sværeste af alle
+  Problemer. – – Jeg
+     stavede
+     , men han
+     satte sammen
+     .
+     Voilà un homme!
+     »
+    </p>
+    <p>
+     Og de fleste vil sikkerlig være enige med Strindberg i, at
+  Weiningers Bog er frygtelig, og hundrede Gange maa man under Læsningen
+  udbryde: Ja, i Sandhed,
+     Voilà un
+  homme!
+     Maaske vil dog Kvinderne, hvem denne brutalt energiske,
+  udover og ovenover alle verdslige Hensyn førte «prinzipielle
+  Untersuchung» i første Række gjælder, tilføie: nei, ikke «en Mand»,
+  men «Manden», Manden i hele sin Brutalitet og Egoisme!
+    </p>
+    <p>
+     – I Forordet til sin Bog siger Dr. Weininger: «Denne Bog vil rykke
+  Forholdet mellem Kjønnene ind i et nyt Lys. – – Hvor Fremstillingen
+  bliver antifeministisk, og det er den næsten altid, der vil heller
+  ikke Mændene med fuld Overbevisning bifalde den: deres sexuelle
+  Egoisme lader dem altid heller se Kvinden saadan, som de vil have
+  hende, som de vil elske hende.
+    </p>
+    <p>
+     Og hvorledes skulde jeg ikke først og fremst være fattet paa det
+  Svar, Kvinderne selv vil have til min Dom om deres Kjøn?
+    </p>
+    <p>
+     [6] At Undersøgelsen tilsidst vender sig mod Manden og tilmaaler
+  ham den største Skyld – om end i dybere Forstand end
+  Kvindesagskvinderne aner – det vil lidet nytte dens Forfatter.»
+    </p>
+    <p>
+     Nei, thi det kan i Sandhed heller ikke nytte Kvinderne. Naar Dr.
+  Weininger efter sine Theorier tilslut konsekvent udsletter Menneskenes
+  Børn fra Jorden, saa har han dog alligevel sendt Manden afsted med Gud
+  og Æren; men hvorledes er ikke vi elendige Kvinder kommet afsted!
+    </p>
+    <p>
+     – Weininger skriver engang efter Fuldførelsen af sin Bog: «Hvad jeg
+  her har fundet, vil ikke smerte nogen anden saa dybt som mig selv», og
+  videre «denne Bog betyder en Dødsdom; enten træffer den Bogen eller
+  dens Forfatter.» At han, som der er sagt, led af Stormandsgalskab,
+  faar man Indtryk af ved følgende Ytring af ham: «Der er tre Muligheder
+  for mig: Galgen, Selvmord eller en Fremtid saa glimrende, at jeg slet
+  ikke vover at forestille mig den.»
+    </p>
+    <p>
+     Dunklere er følgende Udtalelse nogle Dage før han dræbte sig: «Alt,
+  hvad jeg har skabt, maa gaa tilgrunde, fordi det skabtes med ond
+  Vilje; maaske med Undtagelse af, at Gud, eller det Gode, ikke rummes i
+  [7] nogen enkelt Ting i Naturen, at det Sædeliges Symbol (das Symbol
+  des Sittlichen) kun kan være det Skjønne, kun hele Naturen.»
+    </p>
+    <p>
+     Hvori bestod denne «onde Vilje»?
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     «Det
+  nye
+     <ref target="#NOR0102_backn2">
+      n2
+     </ref>
+     Lys», hvori Dr. Weininger har rykket Forholdet mellem de to Kjøn,
+  aabner i Virkeligheden Veie til Forstaaelse af mangt og meget
+  gaadefuldt baade i Mandens og Kvindens Psychologi, og giver et nyt,
+  interessant Grundlag for Forstaaelsen af de forskjellige Tiders
+  Emancipationsforsøg.
+    </p>
+    <p>
+     Dog vil neppe mange endnu formaa at følge Forfatteren til de
+  yderste Konsekvenser af hans Theori.
+    </p>
+    <p>
+     Men hans Theori er denne: Der er
+     intet absolut mandligt
+     Individ, og
+     intet absolut kvindeligt
+     . I hver
+  Mand er noget af Kvinde, og i hver Kvinde noget af Mand. Der gives
+  utallige Trin mellem Mand og Kvinde – sexuelle Mellemformer.
+  [8] «Ethvert Individ har saa meget af kvindeligt, som det mangler af
+  mandligt.»
+    </p>
+    <p>
+     Enhver Kvinde er da altsaa en Blanding af Mand og Kvinde – af
+  Faktorerne Q. og M. i forskjellige Forhold. F. Ex. Q. 90, M. 10, Q.
+  70, M. 30. Men Kvinder, som har mer af Elementet Mand i sig end 49
+  eller i Høiden 50, er sjeldne og trænger særskilte Undersøgelser.
+    </p>
+    <p>
+     «Efter Erfaringen gives der ikke Mand og Kvinde, kunde man sige,
+  men kun mandligt og kvindeligt. Et Individ A. eller et Individ B. tør
+  man derfor ikke mere betegne som Mand eller Kvinde, men de bliver at
+  bestemme efter de Brøkdele de har af
+     begge
+     .»
+    </p>
+    <p>
+     Forfatteren, der ligesom Tolstoj (sml. «Kreutzer-Sonaten») har
+  fattet et levende Had til det erotiske i Livet, som Aandens Fiende,
+  ser i Menneskeslægtens Deling i Mand og Kvinde Livets store
+  Fordærvelse og Styghed, og sætter en
+     neutral Fællestype
+     som det store
+  Maal. Men det er Mandens Type, som skal og maa naaes. Kvinden maa
+  udryddes som Kvinde. «Da Manden blev
+     sexuel
+     ,
+     skabte
+     han Kvinden. – Han skabte
+  hende og skaber hende altid paa ny, saa længe han endnu er sexuel.
+     Kvinden er Mandens Skyld
+     .»
+    </p>
+    <p>
+     [9] For at Kvinden kan forsvinde, maa altsaa Manden blive kysk. Det
+  er Weiningers strenge Krav til «Guds udtrykte Billede» (det absolute
+     Noget
+     i Modsætning til det absolute
+  Intet = Kvinden).
+    </p>
+    <p>
+     «Kvinden er Sexualitetens Prestinde» (og Weininger skiller skarpt
+  mellem Sexualitet og Kjærlighed), «hun vil Manden som Middel til Lyst
+  eller til Barn, og hun vil
+     selv
+     benyttes af Manden som Middel, som en Ting, et Objekt. Som hans
+  Eiendom vil hun behandles, forandres og omformes af ham efter hans
+  Forgodtbefindende.» Men ingen skal lade sig bruge af en anden som
+  Middel i en bestemt Hensigt, mener Weininger; det hjælper ikke, at
+  Kvinden ønsker det og intet andet af Manden. Det er Mandens Pligt at
+  modstaa Kvindens Begjær.
+    </p>
+    <p>
+     – Naar Manden bliver kysk, og Kvinden som Kvinde er udryddet, vil
+  det komme til at se anderledes ud paa Jorden; men det er altsaa hvad
+  Forfatteren stiller som det høie Maal. Han skriver tilslut derom:
+    </p>
+    <p>
+     «Men allerede Augustinus maatte, da han forlangte Kyskhed af alle
+  Mennesker, høre den Indvending, at i det Tilfælde vilde Menneskeheden
+  inden kort Tid være forsvunden fra Jorden. I denne Frygt ligger
+  [10] ikke alene en uendelig Vantro paa den individuelle Udødelighed og
+  et evigt Liv for den sædelige Individualitet, den er ikke bare
+  fortvilet irreligiøs; men man beviser dermed tillige sin Kleinmodighed
+  og Mangel paa Evne til at leve udenfor Flokken. Den, som tænker saa,
+  kan ikke forestille sig Jorden uden Menneskenes Vrimmel, han bliver
+  angst – ikke saa meget for Døden, som for Ensomheden. Dersom den i sig
+  selv udødelige moralske Personlighed havde Kraft nok i ham, saa besad
+  han Mod til at se denne Konsekvens i Øinene. Han vilde ikke frygte den
+  legemlige Død, og ikke for sin manglende Tro paa det evige Liv søge
+  det jammerlige Surrogat i Visheden om Slægtens Viderebestaaen.
+    </p>
+    <p>
+     Sexualitetens Benegtelse (Verneinung) dræber blot det legemlige
+  Menneske, og det kun for at give det aandelige den fulde
+  Tilværelse.
+    </p>
+    <p>
+     Derfor kan det heller ikke være moralsk Pligt at sørge for Slægtens
+  Fortsættelse, som man saa ofte hører paastaaet. – –
+     Al Frugtbarhed er kun modbydelig
+     ,
+  og intet Menneske føler det, naar han oprigtig spørger sig selv, som
+  sin Pligt at sørge for Menneskeslægtens vedvarende Eksistens. Og
+  [11] hvad der ikke føles som Pligt, er ikke Pligt.»
+    </p>
+    <p>
+     Det er tvertimod umoralsk at sætte et Menneske uspurgt ind i
+  Verden, mener Forfatteren.
+    </p>
+    <p>
+     Ak ja!
+    </p>
+    <p>
+     Men naar man ser nøgternt paa Sagen, hvad vilde Weininger og
+  Tolstoj i bedste Fald opnaa med sin Theori? En Del af de bedste og
+  ædleste Mennesker vilde maaske slutte sig til Læren, og en liden
+  fanatisk Menighed vilde følge dem og lyde det store Bud om Legemets
+  Fornegtelse; men Masserne – de mindst udviklede, de daarligste
+  Elementer vilde forplante sig som før, trods al Morallære og al
+  Religion, ny eller gammel, og opnaaet blev da kun, at man fratog
+  Slægten de ædleste Elementer – neppe til dens Gavn. (Allerhelst maa
+  man vel forresten tro, at det vil gaa denne nye Religion som i sin Tid
+  den store indiske Keiser og Religionsstifter Akbars «guddommelige
+  Tro», der døde med Stifteren og de første ædle Tilhængere som
+  inspireredes af ham.)
+    </p>
+    <p>
+     Hverken Weininger eller Tolstoj har tænkt paa den Side af Sagen.
+  Tolstoj siger dog i sin Forklaring til «Kreutzer-Sonaten» ligefrem, at
+  det store Maal han sætter for [12] Menneskene ikke kan naaes. Han
+  skriver: «Ligesom der gives to Maader til at hjælpe Vandringsmanden,
+  der søger Oplysning om Veien, han skal gaa, gives der ogsaa to
+  Fremgangsmaader med Hensyn til den moralske Veiledning, som eksisterer
+  for et Menneske, der vil søge Sandheden.
+    </p>
+    <p>
+     Ifølge den ene Fremgangsmaade henledes Menneskets Opmærksomhed paa
+  visse Gjenstande underveis, hvorefter han saa gaar; ifølge den anden
+  anvises der kun Retningen af Veien efter det Kompas, som ethvert
+  Menneske altid bærer hos sig, og som, ved ufravigelig at pege i én
+  Retning, nøiagtig angiver enhver, selv den mindste Afvigelse
+  derfra.»
+    </p>
+    <p>
+     Den første af disse to Fremgangsmaader i den moralske Veiledning
+  bestaar, mener Tolstoj, i den Mængde udvortes Regler og Bestemmelser,
+  som enhver Trosbekjendelse indeholder. Men den anden Fremgangsmaade
+  ligger i at «anvise Mennesket en Fuldkommenhed,
+     som det aldrig vil kunne opnaa
+     ,
+  medens det dog er sig bevidst idelig at stræbe hen imod den. Der
+  anvises det et Ideal, i Forhold til hvilket det altid kun er istand
+  til med Bestemthed at vide, hvor langt det endnu er fjernet derfra
+  –».
+    </p>
+    <p>
+     [13] Men ligesom Weininger er strengere Moralist end selve Kant,
+  saa gaar han ogsaa videre end Tolstoj. Og i sine Theorier om Kvinden
+  flyver han langt forbi Nietzsche og Strindberg, og forfølger dem ud
+  til den yderste Konsekvens.
+    </p>
+    <p>
+     – – Egentlig er der kun to Typer af Kvinder, siger han, Moderen og
+  Elskerinden (die Dirne); men begge er, skjønt polare Modsætninger, kun
+  lave Driftsvæsener. I visse Henseender staar Hetæren over Moderen. De
+  i aandelig Henseende høiest udviklede Kvinder, alle, som paa nogen Vis
+  bliver Muse for Manden, hører til Kategorien Dirne.
+    </p>
+    <p>
+     – Kvinden er først og sidst Koblerske. Baade Moderen og
+  Elskerinden. Koblerske for sig selv eller andre, og kan ifølge sin
+  Natur (Sexualitetens Prestinde) ikke være andet.
+    </p>
+    <p>
+     Kvindens Opdragelse i vor Tid er da ogsaa kun anlagt paa hendes
+  «Verkuppelung». Derfor, mener Forfatteren, maa «Kvindens Opdragelse
+  unddrages Kvinden, og hele Menneskehedens Opdragelse unddrages
+  Moderen. Dette var den første Forudsætning for at stille Kvinden i
+  Menneskehedsidéens Tjeneste – den Idé, som ingen fra Begyndelsen af
+  har modvirket som hun».
+    </p>
+    <p>
+     [14] Kvinden maa frigjøre sig eller frigjøres fra sig selv. Kvinden
+  maa forsage.
+    </p>
+    <p>
+     Men en Kvinde, som virkelig havde forsaget, og vilde søge Ro i sig
+  selv, var ophørt at være Kvinde. Hun havde modtaget den indre Daab,
+  idet hun stillede sig under Menneskehedens Idé. «Og det alene vilde
+  være Kvindeemancipation.»
+    </p>
+    <p>
+     Men kan det ske? Vil Kvinden idetmindste
+     ville
+     Friheden? «Vil Kvinden opgive
+  Slaveriet for at blive ulykkelig?» spørger Forfatteren. Lykkeligere
+  vil hun nemlig ikke blive ved saadan Emancipation; «Saligheden kan den
+  ikke love hende, og til Gud er Veien endnu lang».
+    </p>
+    <p>
+     Med alle disse aabne Spørgsmaal slutter Forfatteren, men hele Bogen
+  er dog et vældigt Nei til dem alle. Kvinden maa tilintetgjøres ved
+  Mandens Vilje.
+     Voilà un homme!
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Det er ikke Kvinderne, som interesserer Dr. Weininger; det er
+  «Kvinden», det rene Q. Men det rene Q. eksisterer altsaa ikke, og det
+  er derfor forstaaeligt, at han ret som det er forvilder sig bort i de
+  levende, virkelige Kvinders uhumske Sjæleliv, hvis der da kan være
+  Tale om et saadant hos dem. Til syvende [15] og sidst er det vel ogsaa
+  fra dem, han har sine bitre Erfaringer.
+    </p>
+    <p>
+     Alt hvad vi ved om Kvindens Sjæleliv, har vi fra Mænd, siger
+  Forfatteren. «Vistnok har endel Halv- eller Trekvartkvinder i senere
+  Tider givet endel Kvindepsychologi tilbedste; men det har ingen
+  Betydning.» Nei, nei, men naar nu det rene Q. altsaa for det første
+  ikke eksisterer, og for det andet ikke har nogen Sjæl! Hvad saa?
+    </p>
+    <p>
+     Men hvordan kan
+     Manden
+     da vide
+  noget om en Sjæl, som ikke eksisterer? Han kan, som det synes, dog kun
+  vide et og andet om Halvkvinderne eller Trekvartkvinderne. Men
+  Forfatteren mener altsaa dog, at Manden har givet værdifulde
+  Oplysninger om Kvindens Sjæleliv, og han spørger nu, hvordan er
+     det
+     muligt for Manden? Jo, svarer
+  han, her maa vi ty til det kvindelige, som findes i enhver Mand. Fordi
+  der er noget Kvinde i Manden, derfor kan han forstaa Kvinden og give
+  Oplysninger om hende.
+    </p>
+    <p>
+     Noksaa meget Kvinde maa der da have været i Dr. Weininger; thi
+  aldrig er vel Kvindens Sjæleliv blevet grundigere analyseret og
+  gjennemlæst, og aldrig har der vel før været givet flere «Oplysninger»
+  paa et [16] Bret om hendes Væsens Mangfoldighed og Forfærdelighed. Og
+  sjelden tror jeg desværre ogsaa vi er forstaaet bedre, tiltrods for
+  den megen Vilkaarlighed og Gjætning og de mange løse Paastande.
+    </p>
+    <p>
+     Altsaa dog tilslut
+     un homme
+     –
+  med Modifikationer.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Hvad jeg nu først og fremst har lært af Dr. Weininger er altsaa, at
+  i det Øieblik, jeg forsøger paa at give tilbedste en Smule
+  Autopsychologi, beviser jeg, at jeg er en Halv- eller Trekvartkvinde,
+  og at mine Oplysninger om mig selv da ingen Betydning kan have for
+  Forstaaelsen af «Kvindens Psychologi». Det skulde da være, om det
+  kunde hjælpe mig lidt, at jeg er inspireret dertil af en Mand.
+    </p>
+    <p>
+     Og det er jeg. Thi Dr. Weiningers Bog har givet mig meget at tænke
+  paa. Skulde det alligevel bunde i hans Theori alt det uforklarlige og
+  tilsyneladende meningsløse i den kvindelige Karakter? Skulde det
+  tilsidst være Forklaringen paa alt det onde, vi kommer op i, fordi
+  vort inderste Væsen aldrig kommer helt i Harmoni med vor Vilje og vore
+  Bestræbelser for at være Menneske i [17] samme Forstand som Manden –
+  Borger, Samfundsmenneske, Hjernemenneske? Skulde
+     det
+     være Forklaringen paa den
+  Gaade, jeg selv ikke kan løse – mig selv?
+    </p>
+    <p>
+     Jeg læste «Geschlecht und Charakter» i en eneste Ophidselse.
+  Kastede Bogen i Sinne, tog den igjen, læste og raabte: Nei, dette er
+  for brutalt! Dette er raat! Men straks maatte jeg sige til mig selv,
+  at saa let slipper jeg ikke fra det. Naar jeg bliver hed og sint, saa
+  er det, fordi jeg staar for lavt i Dannelse, i Viden, og fremforalt,
+  fordi jeg ikke vil se Sandheden i Øinene. For Sandhed er der i den
+  Bog! Megen Sandhed; men ogsaa megen Sygdom. Og jeg følte min egen
+  Sundhed med Taknemmelighed, og inden jeg var færdig, vokste en stor
+  Glæde op i mig. For Sandheden blev med en Gang den for mig, at der er
+  en Ting, som er over alt, vældigere og grusommere, større og herligere
+  end nogen anden Magt i Himlen og paa Jorden, og fordi denne Magt
+  gjennem os fuldbyrdes, derfor er det stort og herligt at være
+  Kvinde!
+    </p>
+    <p>
+     Gjennem os fuldbyrdes Mysteriet. Vi har faaet vor Plads i
+  Alnaturens Allerhelligste. Kan jeg saa misunde Manden, som slider
+  derudenfor med Livets mangehaande [18] Gaardsgutstjenester! Og kan jeg
+  saa ønske at blive Mand?
+    </p>
+    <p>
+     Nei, jeg misunder ikke Mændene; thi de er de forfordelte. Hvor er
+  ikke vi rige i Forhold til dem! Vi, som har baade Barnet og – –
+  Manden.
+    </p>
+    <p>
+     Vi, som har den hele, udelte, evige Kjærlighedsevne. Vi, som
+     er
+     Mysteriet! Træet med Rødderne i
+  den dybe Jord og Kronen høit imod Himlen. Vi, som føder Manden!
+    </p>
+   </div>
+ 
+   <div type="chapter" xml:id="i">
+    <head>
+     
+      [I]
+     
+    </head>
+    <quote>
+     <p>
+      [19] «Sich im Grundproblem 'Mand und Weib' zu vergreifen, hier
+    den abgründlichsten Antagonismus und die Notwendigkeit einer
+    ewig-feindseligen Spannung zu leugnen, hier vielleicht von gleichen
+    Rechten, gleicher Erziehung, gleichen Ansprüchen und Verpflichtungen
+    zu träumen: das ist ein typisches Zeichen von Flachköpfigkeit– –
+    –»
+     </p>
+     <p>
+      «Ein Mann hingegen, der Tiefe hat, in seinem Geiste wie in seinen
+    Begierden, auch jene Tiefe des Wohlwollens, welche der Strenge und
+    der Härte fähig ist und leicht mit ihnen verwechselt wird, kann über
+    das Weib immer nur orientalisch denken
+    –»
+      Nietzsche.
+     </p>
+     <p>
+      «Das Weib ist zur Wahrheit über sich selbst
+    unfähig.»
+      Weininger.
+     </p>
+    </quote>
+    <p>
+     Altsaa skriver jeg det følgende ikke for at blive troet af Manden,
+  men til Hjælp for min egen Tro.
+    </p>
+    <p>
+     [20] – – Jeg er en Videnskabsmands velsituerede Frue, ganske pen,
+  frisk og noksaa klog, og jeg har friske, pene og velbegavede Børn.
+    </p>
+    <p>
+     Jeg har altid været, hvad man kalder «et kvikt Hoved», praktisk og
+  ganske dygtig i denne Verdens Ting, men uden solide Kundskaber.
+    </p>
+    <p>
+     Den «høiere Pigeskole», jeg besøgte i min Barndom, satte sig ikke
+  andet Maal end at gjøre presentable Damer af os, og til det skulde der
+  ikke overvættes megen Lærdom.
+    </p>
+    <p>
+     Jeg blev gift i Tyveaarsalderen og har endnu den samme Mand, skjønt
+  jeg nu er «mellem 30 og 40». Naar jeg kalder mig velsitueret, saa er
+  dermed ikke ment, at vi er rige. Tvertimod. De Penge, mine smaa
+  Talenter indbringer mig, kommer vel med. Jeg har nemlig Talenter.
+  Desværre i Flertal, og jeg har endel smaa Svagheder, som koster Penge,
+  og jeg liker at være selvhjulpen, for jeg er en moderne Dame.
+    </p>
+    <p>
+     Vi lever meget stille, for der arbeides i vort Hus. Jeg længter nok
+  ud – ak altfor ofte – efter Liv, Lys og Glæde, efter «Luft under
+  Vingerne»; men det lille [21] Samfund, vi lever i, lokker mig ikke
+  længer. Mine smaa Flyveforsøg er nemlig altid endt som ynkelige
+  Fiaskoer. Saar og dybt skuffet er jeg hver Gang rømt tilbage til min
+  ensomme Stue med de mange Blomster og Sol gjennem grønne Glas. Og ved
+  min store Kamin, hvor Ilden flammer og giver Liv og Farve til de døde
+  Ting omkring mig, har jeg sat mig ned i de sene Kvelder og set Livet i
+  Øinene. Min Dame, hvad vil du? Du er gammel! Det er ikke Luft, du
+  mangler, men Vinger! Nu har du set Livet, der er ikke mer! Nei, der er
+  ikke mer. Og Ilden slukner, og jeg kryber træt og frysende i min
+  ensomme Seng. Som dannede, moderne Mennesker, der respekterer Toheden
+  i Ægteskabet, har vi selvfølgelig to Soveværelser.
+    </p>
+    <p>
+     – Min Mand lever for sin Videnskab. Jeg ser ham ved Maaltiderne, og
+  jeg hører ham af og til kremte inde paa Kontoret, hvor han tilbringer
+  Dage og Nætter med sine Bøger. Hans stillesiddende Arbeide har ogsaa
+  svækket hans Helbred, og han har ingen Glæde af Livet. Han kjender
+  Verden; han ved meget og forstaar meget, men haaber lidet og tror
+  lidet, og hans Pessimisme truer med helt at jage ham [22] bort fra
+  Livet. Hvert Aar gjør han en Studiereise og hver Formiddag arbeider
+  han nogle Timer i de offentlige Bibliotheker.
+    </p>
+    <p>
+     Den moderne Kvindes Emancipationsforsøg støder min stilfærdige
+  Mand. Han vil Ro og gammel god Orden i Tingene; men han dømmer aldrig.
+  Han siger bare: det er ubehageligt for os Mandfolk; men det har
+  naturligvis sin naturlige Grund. Naar Manden ikke længer kan hævde sin
+  Plads som Herre, saa faar han blive Tjener. En Smule bittert siger han
+  det; men heller ikke mer. Han er en dannet Mand, og desuden
+  interesserer det hele ham i Grunden saa lidet. Han drømmer om
+  Klosterfred og ønsker ikke at blive gammel. Til vore Børn staar han
+  fremmed, har fra første Stund overladt dem til mig. De er «min Sag». I
+  mig er han af og til endnu forelsket, men hans Forelskelse har altid
+  været af en anden Karakter end min. Den var af eruptiv Art, og mellem
+  Udbruddene var jeg ikke Kvinde for ham. Men han var altid «Mand» for
+  mig. Og jeg led de 5-6 første Aar af vort Ægteskab ligefrem af
+  ulykkelig Kjærlighed til min egen Mand. Jeg var skuffet. Jeg taalte
+  ikke i lange Tider at [23] være for ham bare som «et andet fornuftigt
+  Mandfolk», man bor sammen med og tier sammen med og arbeider sammen
+  med. Eller «Husets Frue», som man viser skyldig Respekt og takker for
+  god Mad og forlanger sine Knapper isyet af. Hans kolde Høflighed
+  ærgrede mig. Og ofte, naar han var snil og snakkede med mig om Ting af
+  almen Interesse, tænkte jeg: kys mig, stryg mig over Haaret, se paa
+  mig! Se paa min Kjole, se paa min Krave, sig, at jeg er pen! Vær
+  forelsket! Men naturligvis: jeg vilde blevet fornærmet, dersom han
+  ikke ogsaa havde talt til mig om Ting af almen Interesse. Jeg tænkte
+  vel bare ubevidst: ak, der bliver en Masse Tid siden – naar vi bliver
+  gamle. Men han var 10 Aar ældre og havde sit Livsarbeide. Jeg havde
+  bare min Kjærlighed, derfor blev jeg fordringsfuld.
+    </p>
+    <p>
+     Jeg fandt paa tusind smaa forelskede Tilnærmelser, overøste ham med
+  Blomster og Kjærlighedsgaver ved alle Leiligheder.
+     Han
+     kunde aldrig huske min
+  Fødselsdag, og til Jul kunde han aldrig «finde paa noget». Saa hængte
+  han en Pengeseddel paa Juletræet. Aa, hvor den Pengeseddel gjorde mig
+  bedrøvet. Den var ligesom saa fattig – saa fattig paa Kjærlighed! Naar
+  han fik [24] mine Gaver, takkede han og anstrengte sig for at være
+  rigtig optaget af dem – han vilde jo saa gjerne – men om en Stund
+  fandt jeg dem henslængt i en Krog. Han huskede ikke engang, at han
+  havde faaet dem. Og jeg gav ham dog festlige Gaver. Hvor anderledes
+  med mig. Jeg husker engang han havde taget sig sammen og virkelig
+  fundet paa noget. Det var en Uldvest, forfærdelig styg, men god og
+  varm. Han kom ganske undselig som et Barn og gav mig den. Hvor var han
+  sød! Han havde husket, at jeg frøs saa paa Ryggen her forleden, og det
+  var saa ubehageligt at fryse paa Ryggen, derfor havde han kjøbt denne
+  Vest, som skulde være varm, trodde han. Aa, hvor jeg elskede den
+  stygge, uformelige Uldvesten! Jeg bar den sent og tidlig, skjønt Gud
+  skal vide den ikke klædte mig. Men han havde altsaa tænkt paa mig, da
+  han gik nede i Byens Gader, tænkt paa mig og ikke paa sine Problemer,
+  tænkt paa, at jeg sad hjemme og frøs paa Ryggen. Ak, min Ven, dersom
+  det ogsaa vilde gaa op for dig, hvor du lod mig fryse i Sjælen!
+    </p>
+    <p>
+     Jeg græd, naar jeg saa, at mine Gaver ikke interesserede ham; jeg
+  fattede ikke, at noget af Kjærlighed kunde være ligegyldigt. [25] Og
+  hvor var jeg ikke taknemmelig, naar han af og til kom ind i min Stue
+  og sad hos mig. Jeg snudde Roserne ind fra Vinduet, tændte mange Lys,
+  satte i Hemmelighed paa mig store, hvide Kraver eller vakre Naale, og
+  alt blev Fest for mig derinde. Og naar jeg dengang hørte Fruer sige,
+  at det var deiligt, naar Manden gik paa Kontoret, saa de fik røre sig,
+  saa trodde jeg, det maatte være Affektation. Men nu hænder det mig –
+  det maa jeg tilstaa –, at jeg tænker, naar han sidder her: «Min snille
+  Ven, det vilde være saare bekvemt, om du nu rusled ind til dig selv.
+  Du hefter mig» –
+    </p>
+    <p>
+     – «Kvinden er
+     intet andet
+     end
+  Sexualitet,» siger Weininger. «Manden er sexuel
+     og dertil noget mere
+     .» Kvinden er
+  stadig sexuel, Manden kun periodevis; deraf forklares den mandlige
+  Kjærligheds eruptive Karakter. Alt hvad vi kalder Kjærlighed, er
+  altsaa kun Drift. Al den Ømhed, Godhed, Hengivenhed og Opofrelse, alle
+  disse tusind kjærlige Smaating, vi altid har Trang til at gjøre for
+  den elskede, for at vise, at han er i vore Tanker og i vor Omsorg
+  altid, at vi gjerne vil lette Livet og gjøre det godt for ham – alt er
+  kun et løgnagtigt [26] Slør om vor aldrig slumrende Sexualitet.
+  Maaske. Hvad ved jeg om «Kvindens sande Natur». Men jeg ved, at er det
+  Løgn, saa er det en skjøn Løgn, uden hvilken Kvinderne ikke kan leve;
+  den er deres Livs Poesi. Og vi beklager Mændene, som ikke behøver
+  den.
+    </p>
+    <p>
+     – Længer og længer blev det mellem hver Gang, jeg følte min Mands
+  Forelskelse blusse op. Aa, hvor jeg nu kunde det godt altsammen. Efter
+  lange Tiders Kameratliv begyndte hans Øine en vakker Dag at fæste sig
+  ved mig igjen. Han saa, hvad jeg havde paa, roste mine Kjoler, greb
+  efter min Haand, naar jeg gik forbi, og jeg saa, at han følte min
+  Nærværelse. Ellers kunde jeg sidde lige indtil ham, reise mig og
+  forsvinde, komme og sætte mig igjen, uden at han mærkede det. Og hans
+  Blik blev varmt, og jeg vidste, at nu vilde han kysse mig, og at nu
+  var vi Ægtefolk. Men Dagen efter var vi atter kolde i Blikket, og de
+  ugifte Perioder blev længere og længere; jeg blev mer og mer Mor og
+  Veninde. Men hvergang mit søgende Blik mødte et koldt, og min søgende
+  Haand fik et kort, distrait Haandtryk, følte jeg det som en dyb
+  Krænkelse. Det hændte, at vi var timevis i samme Stue – alene eller
+  [27] med Venner, uden at hans Blik én Gang søgte mit. Da vred jeg mine
+  Hænder over Livets Fattigdom. Og min saarede Forfængelighed indgav mig
+  onde Tanker, saa jeg ligefrem følte fiendtligt for ham, og der var
+  noget i mig, som raabte paa Hevn.
+    </p>
+    <p>
+     Var det alligevel saa, at «i al Kjærlighed elsker Manden kun sig
+  selv»? Jeg vidste jo, at han ikke holdt af nogen anden, at det ikke
+  var hans Tanke at saare mig. Men han glemte mig, saa mig ikke, uden i
+  de Øieblikke hans erotiske Følelser vaagnede i ham. Da var jeg deilig.
+  Da fyldte jeg Stuen.
+    </p>
+    <p>
+     «Den som paastaar, at han endnu elsker en Kvinde, han begjærer,
+  lyver, eller har aldrig vidst, hvad Kjærlighed er. Saa forskjellig er
+  Kjærlighed og sanseligt Begjær (Geschlechtstrieb). Derfor føles det
+  ogsaa som Hykleri, naar nogen taler om Kjærlighed i Ægteskabet.» Aa,
+  den forfærdelige Weininger! Men dette er Sygdom, ikke Sandhed! Jeg maa
+  være vis paa det, ellers er det sandt, at «den laveststaaende Mand
+  staar endda uendelig høit over den høieststaaende Kvinde». Thi vi
+     begjærer jo altid
+     , og elsker altsaa
+  ikke. Da er vi
+     altid
+     Dyr,
+     Manden ogsaa
+     Dyr.
+    </p>
+    <p>
+     [28] Og dog støder det mig ofte netop, at min Mands Kjærtegn enten
+  udebliver eller maa ende i fuld legemlig Hengivelse. Den Verden af
+  Ømhed, som ligger imellem disse to Yderligheder, kan jeg ikke undvære,
+  tiltrods for at ogsaa Hengivelsen er mig skjøn og ophøiet. Det er
+  indviklet; men det er saa. Den Varme og Fortrolighed, den inderlige
+  Følelse af hel Godhed, hel Harmoni, som følger Hengivelsen, var dog
+  ofte det, som fyldte mig og varede ud over Øieblikket. Derfor trodde
+  jeg maaske, at Kvindens Hengivelse var mere Kjærlighed end Sexualitet
+  – trods alt.
+    </p>
+    <p>
+     Engang sagde jeg til min Mand, i et Øieblik, da jeg var lykkelig
+  over hans Nærhed, at for mig var det Andagt, Religion. Og jeg spurgte,
+  om Mænd følte det slig; men han sagde: «Nei, i det tror jeg dere
+  Kvinder er mere Sjæl, vi mere Legeme.» Og saa føles det. Og jeg er dog
+  ingen uerotisk Kvinde. Hvem har Ret? Han eller Weininger?
+    </p>
+    <p>
+     Ingen normal ufordærvet Kvinde vil føle andet end Modbydelighed ved
+  Intimitet med en ligegyldig Mand. Det maa være ham, «den eneste Mand».
+  Anderledes skal det være med Manden.
+    </p>
+    <p>
+     Men er da ikke Kvindens Erotik rensligere?
+    </p>
+    <p>
+     [29] Forøvrigt, hvad er Legeme, og hvad er Sjæl i Kjærlighed. For
+  mig er det ét, og
+     maa være ét
+     . Naar
+  jeg elsker, d.v.s. er kommet til det overfor en Mand, at alt mit Liv
+  gaar op i ham, al min Tanke tænker ham, og al min Vilje vil ham, da
+  ved jeg ikke andet, end at mit Legeme og min Sjæl er
+     et helt Væsen
+     , som søger et andet
+     helt Væsen
+     .
+    </p>
+    <p>
+     Jeg har hørt Kvinder sige om en Mand: Jeg kan ikke gifte mig med
+  ham, for det er bare hans Sjæl, jeg elsker, hans Legeme gefaller mig
+  ikke, eller omvendt. Men da elsker de ikke. Thi naar man virkelig
+  elsker, da glemmer man at analysere og regne, da er i den elskedes
+  Person det mindste for stort, det daarligste for godt. Alt bliver et
+  og alt bliver
+     godt
+     .
+    </p>
+    <p>
+     Han bliver mit ene fornødne,
+     mit
+  Liv
+     .
+    </p>
+    <p>
+     Hvad denne Magt er, som tvinger alt under sin Vilje og gjør
+  Menneskene til skjælvende Siv under sin Vælde, det ved jeg ikke; men
+  jeg ved, at den er grufuld og deilig og kan gjøre Verden til en Edens
+  Have!
+    </p>
+    <p>
+     Og al Frugtbarhed er skjøn!
+    </p>
+    <p>
+     – – Lidt efter lidt foregik der en stor Forandring med mig. Min
+  Mands Passivitet antog mer og mer Karakteren af Ligegyldighed.
+  [30] Især var Børnene Luft for ham, og det sved mig i Hjertet. De
+  kjærlige, gode smaa, som elskede ham og saa op til ham som til et
+  høiere Væsen! Nei, hans Kulde mod dem kunde jeg ikke tilgive. Den
+  krænkede mig og bedrøvede mig mer end alt. Jeg samlede paa Bitterhed
+  og blev kold. Og mange smaa Ting kom til den ene store, og Ilden i mit
+  Hjerte sluktes. Jeg havde grædt saa meget, været saa fuld af
+  Utaalmodighed, nu blev jeg roligere, og det kjendtes som en
+  Befrielse.
+    </p>
+    <p>
+     Mit Humør blev jevnere, jeg plagede ikke længer min ærlige Ven med
+  Taarer og længselsfulde Suk. (Ak, hvorfor bringer Kjærligheden altid
+  saa mange Taarer?) Jeg spøgte med ham om vor «Alderdom» og lod ham i
+  Fred med sine Bøger. Han blev ogsaa friere og befandt sig tydeligvis
+  vel derved. Børnene holdt jeg mest muligt borte fra ham og fordoblede
+  min egen Omsorg og Ømhed for dem.
+    </p>
+    <p>
+     Men hans Forelskelse vaagnede fremdeles af og til, og da hændte det
+  forfærdelige, at jeg stundom følte min hensynsfulde Mands beskedne
+  Tilnærmelser som Vold. Og det skreg i mig: Herregud, er dette
+  Ægteskab!
+    </p>
+    <p>
+     [31] Min Blufærdighed var saaret, alt var hæsligt og ondt. For er
+  ikke
+     det
+     hel, straalende Fest, da
+  er det værre end alt!
+    </p>
+    <p>
+     Det hændte dog, at hans Ømhed for en kort Stund atter vakte min
+  gamle Kjærlighed; da skammede jeg mig og rørtes over ham. Saa
+  tillidsfuld kom han altid til mig, saa tryg, og saa fuld af Omsorg og
+  Taknemmelighed gik han bort. For Gud være lovet, det er efter min
+  Erfaring ikke saa, at Kvinden «efter den legemlige Hengivelse altid
+  føler sig ligesaa foragtet, som hun nogle Øieblikke før følte sig
+  tilbedt». Den Paastand er en af de mange «løse» i Weiningers mærkelige
+  Bog. Altfor grusomt blev det at være Kvinde, dersom det var sandt!
+    </p>
+    <p>
+     Maaske stemmer den Tankegang med den gamle orientalske Opfatning af
+  Kvinden; men Nutidens dannede Mænd tænker ikke «kun orientalsk om
+  Kvinden». Hun er ham
+     ogsaa
+     Menneske, og han agter hende som saadant, og den fri Hengivelse
+  indgyder andre Følelser end Slavindens. Det maa vi faa tro er
+  Regelen.
+    </p>
+    <p>
+     Men dersom Weininger nu havde kunnet læse dette, vilde han rolig
+  svaret: Die Verlogenheit der Frau ist tief.
+    </p>
+    <p>
+     Kvinden
+     lyver
+     ikke engang efter
+  [32] Weininger, hun kan ikke lyve, hun mangler Grundbetingelsen for
+  det, thi hun mangler Sandhedsevnen. Hun er den absolute Løgnagtighed –
+  Arvesynden, hvis eneste Opgave er at gjøre Manden «skyldig». Altsaa
+  kan en Kvinde ikke vidne hverken for sig selv eller andre. Hendes
+  Vidnesbyrd er uden Værd.
+    </p>
+    <p>
+     Men alligevel!
+    </p>
+    <p>
+     – – Dagene gik i Arbeide, uden Glæde, men ogsaa uden egentlig Sorg.
+  Jeg var bare saa underlig tom og træt, og om Nætterne vilde ikke
+  Søvnen komme. Mine Tanker begyndte at søge udenfor mit Hjem. Jeg
+  maatte finde paa Udveie. Fylde Tomheden. Ensomheden pinte mig, og jeg
+  sad i de lange Kvelder og stirrede ind i Ilden og længtede, saa det
+  kjendtes som Sult og fysisk Smerte – ikke efter Mennesker, men efter
+  et Menneske. Et Menneske, som igjen kunde begrænse mine Tanker og døve
+  min Angst for Livet og min Angst for Døden. Rummet var mig for stort,
+  Gaaderne for mange, Døden for nær.
+    </p>
+    <p>
+     Jeg sad ved mine Børns Senge og sagde til mig selv: dette er jo
+  dine Mennesker! Her er det, som skal begrænse dine Tanker og fylde
+  Tomheden i dit Hjerte. Og jeg kyssede deres smaa Hænder og græd over
+  [33] dem! Hvorfor maatte jeg gaa bedrøvet og ensom bort fra dem jeg
+  elskede over alt paa Jorden og glad vilde give mit Liv for?
+    </p>
+    <p>
+     Og jeg satte mig igjen til at stirre ind i mig selv.
+    </p>
+    <p>
+     Hvor var ikke vi Mennesker hjælpeløse og famlende. Intet kan vi
+  være for hverandre, naar det gjælder. End ikke en Mor kan være noget
+  videre for sit Barn, saasnart det er voksent. Hvor mange Gange ønskede
+  jeg ikke, naar jeg gik fra dem om Kvelderne, at jeg havde havt en Gud
+  at betro dem til, en «Faderfavn» at lægge dem i. Men ogsaa Gud havde
+  jeg mistet. Jeg blev i min tidlige Ungdom Fritænker. Maaske tildels
+  fordi det laa i Luften. Vi læste i den Tid Voltaire, Rousseau og
+  Darwin; men mest bidrog dog et skarpt og klart naturvidenskabeligt
+  Arbeide af min Mand. Ogsaa Religionen har han taget fra mig. Det faldt
+  mig aldrig ind at studere Tingen paa egen Haand. Jeg havde ikke engang
+  læst Bibelen. Meget senere kom jeg – ved en Tilfældighed – til at lære
+  de gamle indiske Religioner at kjende, og de optog mig saa stærkt, at
+  jeg gjennem dem fik Lyst til ogsaa at kjende Kristendommen. Men jeg
+  kjendte Gautama Buddha, før jeg kjendte [34] Jesus, i hvis Lære jeg
+  var døbt og konfirmeret. Da jeg saa vilde have rede paa Jesus, læste
+  jeg heller ikke da straks Bibelen, men først Renan. Alt var tilfældigt
+  og hulter til bulter. Nu har jeg ogsaa læst Bibelen; men min
+  Kristendom har jeg ikke kunnet vinde tilbage.
+    </p>
+    <p>
+     Da jeg gik til Konfirmation, var jeg stærkt religiøst paavirket,
+  fordi jeg, som flere af mine Kamerater, tilbad vor Prest, en bleg,
+  fanatisk Kristen, ugift og med en Helgens Dyder. Jeg var vis paa, at
+  han aldrig vilde gifte sig, og til Ære for ham vilde jeg gaa i
+  Kloster. Og til Ære for ham læste jeg Morgen- og Aftenbøn knælende
+  foran min Seng og klædte mig i Sort og vandkjæmmede mine viltre
+  Krøller. Men Kristendommen selv var mig en lukket Bog ogsaa da.
+    </p>
+    <p>
+     Jeg tænkte paa de mange Mennesker, jeg havde kjendt, paa gode
+  Venner, jeg havde havt, paa ham, jeg elskede som en Vanvittig, da jeg
+  var 17 Aar, paa de to, som elskede mig saa uendelig meget mer, end jeg
+  fortjente, og paa de mange «lettere Tilfælde» i Ungdommen og senere.
+  Til en livlig, pen Dame – gift eller ugift – men allerhelst gift,
+     skal
+     der jo gjøres Kur, og der var
+  en dernede i Syden, da jeg som ung Frue var [35] paa Reiser – ja der
+  var to! Det ene Tilfælde var endog temmelig «alvorligt». Men hvor
+  uendelig ligegyldige var de mig ikke allesammen! Latterlige! Jeg har
+  aldrig forstaaet Fornøielsen ved Kurtise af ligegyldige fremmede Mænd.
+  Det interesserer mig absolut ikke. Jeg gjæsper af Kjedsomhed ved det.
+  jeg kan ikke «Flirt og smaa Stemninger»; saa nøisom er jeg ikke. Al
+  Salonkurtise med pikante Situationer og Tidsfordriv i Krogene har
+  noget ufriskt og uskjønt ved sig, som byder mig imod. Enten – eller.
+  Greit Kameratskab eller Kjærlighed. Men Kjærlighed har intet med
+  Pikanterier og smaa Stemninger at gjøre. Den kræver alt og giver alt.
+  Det er en grusomt alvorlig Sag. Den, som kan regne og beregne og sige
+  hvis og dersom, han ved ikke, hvad Kjærlighed er. Heller ikke den, som
+  giver sig stykkevis og snakker om Pligter og Fornuft. Naar man elsker,
+  er der intet hvis, ingen Pligter, ingen Fornuft; da tænker han ikke
+  Hverdagstanker, da regner man ikke Nytteregning. Og da er man hverken
+  dydig, dygtig eller talentfuld – man er genial. Ubevidst naar man
+  Tilværelsens Tinde i Vilje og Tanke. Intet andet end Kjærlighed
+  binder. Naar Kjærligheden forlanger det, brister alle andre
+  [36] Baand; thi den er suveræn og maa saa være.
+    </p>
+    <p>
+     Men naar Kjærligheden dør, da bliver man nyttig og brav og pleier
+  sine Talenter.
+    </p>
+    <p>
+     Nei, jeg kan Ingenting halvt. Derfor er der ogsaa et Slags Mænd,
+  som jeg tydelig mærker finder mig yderst kjedelig, og det er de
+  snipkjolede Parykblokke, som flyder omkring i det moderne Selskabsliv
+  ligesom Fedtøine i en Suppetallerken.
+    </p>
+    <p>
+     Men de morer, ved Gud, heller ikke mig.
+    </p>
+    <p>
+     Mon jeg nogensinde mer træffer et Menneske, som bringer mit Hjerte
+  til at banke? Aa nei, aldrig! Og jeg ønsker det heller ikke. En umulig
+  Tanke! Et nyt Menneske! Gaa igjennem den tunge og uendelig vanskelige
+  Ting at lære et nyt Menneske at kjende! Saa mange Mærker, som der er
+  sat i ens Sjæl i Aarenes Løb, saa meget der er levet af godt og ondt!
+  Hvilken besværlig og vanskelig Opgave at lægge dette frem for et nyt
+  Menneske, gjøre sig selv klar for det. Nei, det vilde være
+  umuligt.
+    </p>
+    <p>
+     Thi selv om Kjærligheden dør, kan ingen slette et Ægteskab ud af
+  sit Liv. Intet kan udslettes, selv ikke den mindste Ting, end sige ens
+  dybeste Tilværelse gjennem [37] mange Aar. Nei, aldrig kunde jeg tænke
+  mig et nyt Forhold til en Mand! Aldrig mere kunde jeg elske. Jeg var
+  kold. Jeg var færdig som Kvinde.
+    </p>
+    <p>
+     Da var det jeg tog frem mine smaa Talenter og begyndte at pleie
+  dem. Og jeg kaldte det mit Arbeide, og dette Arbeide skulde nu fylde
+  mit Liv. Mine Børn blev snart store, og da vilde min Ensomhed blive
+  endnu forfærdeligere, altsaa gjaldt det! Fylde sit Liv med Arbeide,
+  leve et værdigt Menneskeliv i Frihed og Selvstændighed!
+    </p>
+    <p>
+     Det var jo Recepten for en moderne Kvinde. Der var noget, som hed
+  Fædrelandskjærlighed, den burde heller ikke være fremmed for en
+  Kvinde. Og der var noget, som hed Samfund. Landet og Samfundet havde
+  tusind Krav, til hver arbeidsdygtig Borger, ogsaa til Kvinderne.
+  Optage i sig de store Verdensidéer og omsætte sig selv i Offer og
+  Arbeide for Fædrelandet og den lidende Menneskehed, det var først og
+  fremst Kravet til Kvinden.
+    </p>
+    <p>
+     Ja, nu havde jeg Tid, og jeg kastede mig ind i Flokken og blev en
+  Stund en feteret Velgjørenhedsdame.
+    </p>
+    <p>
+     Jeg vilde, skulde, maatte fylde denne Tomhed, som var mit Liv!
+    </p>
+    <p>
+     [38] Saa hvirvlede jeg en Vinter rundt i Komiteer og Foreninger og
+  deltog med Iver i alleslags Tilstelninger for Fattige og Syge. Især
+  var jeg en flittig og anvendt Dilettant i kunstneriske og literære
+  Foretagender. Jeg tumlede mine Dage bort mellem mange Mennesker og
+  delte mig selv ud i tusind smaa Portioner i veldædige Øiemed; men om
+  Kvelderne vandrede jeg ensom hjem, træt og sjælesyg, og jeg stod foran
+  mine Børns Senge og følte en Forladthed og Tristhed, som knugede mig
+  til Jorden. Se, hvilken Mor I har! Der er ikke en hel Tanke i hendes
+  Sjæl. Hun er tusind smaa Stykker, som portioneres ud paa Torvene. Hvad
+  kan hun være for eder! Og jeg gik ind til mig selv fyldt af en
+  ubeskrivelig Flauhed, og jeg følte, at dette kunde jeg ikke mer.
+  Gjemme mig i det mindste Musehul, bare ikke dette. Jeg blev flad,
+  udvasket, udtraakket! Andre Kvinder kunde gjøre megen Nytte, de var
+  praktiske, greie og fik meget istand. Og de var tilfreds ved det. Men
+  for mig passede det ikke. Jeg duede ligesaa lidet til det, som til alt
+  andet.
+    </p>
+    <p>
+     Skulde jeg da aldrig faa samlet mig selv sammen igjen og blive
+  glad!
+    </p>
+    <p>
+     Min Mand var mer end nogensinde [39] slugt af sit Arbeide. Han var
+  bleven Grubler for Alvor og trodde sig nær ved at finde Løsningen paa
+  et Problem, som i Aarrækker havde optaget ham. Men han fik aldrig
+  Klarhed, og han led og han grublede, og hans Forbindelse med
+  Menneskene ophørte næsten ganske. Hvert Aar reiste han til en liden
+  fransk Klosterby og gjorde Studier i de gamle Arkiver. Jeg følte mig
+  ikke længer som gift. Jeg var nu kun Mor.
+    </p>
+    <p>
+     – Til alles Forbauselse meldte jeg mig pludselig ud af alle
+  Komiteer. Den Velgjørenhed, jeg skulde øve, maatte være en anden – jeg
+  kunde ikke dette. Saa gjorde jeg et og andet Smaatteri i mit Lønkammer
+  for de Fattige og tog mig igjen for Alvor af mit Hus, og som hver Gang
+  jeg kastede mig over noget nyt, sagde jeg beroligende til mig selv:
+  Se, dette er dit Kald. Mit Kjøkken blev mit daglige Opholdssted. Jeg
+  fandt paa udmærkede nye Retter, praktiske Forenklinger, økonomiske
+  Forbedringer. Og jeg skrev godt og fornuftig om Mad og Husstel i
+  Kvindebladene og blev en hel liden Autoritet paa dette Omraade.
+    </p>
+    <p>
+     De Par Venner, som endnu af og til kom i vort Hus, forspiste sig
+  regelmæssig hos os og var altsaa henrykte, ja ligefrem
+  [40] overstrømmende hyggelige, og min Mand lod sig det smage, og
+  Bordets Glæder kunde for en Stund gjøre ham til Menneske. Det hændte
+  endog, at han saa paa mig og nikkede og sagde: dette var godt! Hvilket
+  vel vilde sige omtrent saa meget som: Der har du ogsaa et tækkeligt
+  lidet Talent; plei det! Han opmuntrede mig ellers altid i mit Arbeide
+  og anerkjendte det. Forøvrigt havde han ingen Tid for mig og – hvad
+  der gjorde mig aller bitrest – endnu mindre for Børnene. Deres
+  Tilværelse var ham nærmest ligegyldig. Men jeg tror, at han selv led
+  ved det. Han kunde bare ikke give mer. Han havde intet tilovers. Han
+  var en Mand, en Hjerne, som grodde over Hjertet.
+    </p>
+    <p>
+     – Ja, jeg var i Sandhed mangfoldig, og altid havde jeg Succes – kun
+  for mig selv var og blev jeg en eneste stor Fiasko. Og atter og atter
+  satte jeg mig hen og saa mit Liv i Øinene. Min bedste Dame, hvad vil
+  du? Hvad forlanger du mer af Livet? Du er gammel – du er færdig! Se
+  til at blive voksen, lær at resignere. Det er det eneste. Taabeligt,
+  uværdigt, Mangel paa Overlegenhed, paa Kultur, er det at piske omkring
+  efter det vidunderlige i din Alder. Det vidunderlige ligger bag dig,
+  du har set Livets [41] Høide, forbered dig nu paa en tækkelig, ikke
+  altfor uklædelig Sortie!
+    </p>
+    <p>
+     Men sæt, at jeg skal leve endnu i 30, maaske 40, 50 Aar. Skal jeg
+  da være gammel hele denne Evighed! Skal hver Dag være en resigneret
+  Vandring mod Graven? Er mit Liv da virkelig kulmineret! Har jeg nu
+  naaet Høiden af mig selv? Skal jeg aldrig blive andet end et Nummer i
+  dette Samfund af Abekatte, som jeg lever i!
+    </p>
+    <p>
+     Og jeg gjennemgik i Tankerne min Ungdoms Drømme og stolte
+  Forhaabninger.
+    </p>
+    <p>
+     Jeg huskede Livet i den lille By ved Kysten, hvor vi unge Piger gik
+  og stirrede udover Havet og længtede mod «den store Verden». Men Veien
+  derud gik gjennem den store Kunst, hvis Prestinde jeg skulde blive.
+  Sammen med ham skulde den vandres Veien derud, sammen med ham, uden
+  hvem jeg ikke kunde tænke mig nogen Verden. Aa, for en Fremtid jeg saa
+  for mig, saa rig paa Farver, Lys og Lykke.
+    </p>
+    <p>
+     – Og jeg huskede ogsaa vore Lege paa de store, tomme Lofter i
+  Trægaardene nede ved Havnen; det var altid det ene, store
+  hemmelighedsfulde, som optog os: Kjærligheden, Manden, Mysteriet;
+  hvordan Mennesker blev til. Og vi stoppede os ud og [42] fødte vore
+  Dukker med Smerte, og vi snakkede Barselsstuesnak, som vi havde
+  opsnappet fra vore Kroge i Hjemmene, og prøvede at gjætte os til den
+  store forlokkende Hemmelighed. Vi giftede bort vore Dukker og legte
+  alle Smaapigers Yndlingsleg: Far og Mor.
+    </p>
+    <p>
+     Og intet paa Jorden var interessantere end at hjælpe hemmelig
+  Forlovede til Stævnemøder – og saa lytte. Ældre Søskens Kjærester
+  dyrkedes ligefrem. (Sml.: Das Phänomen der
+     Kuppelei
+     . Weiningers «Geschlecht
+  und Charakter»: Ganz kleine Mädchen leisten bereits, und zwar selbst
+  dem Liebhaber ihrer älteren Schwestern, Mittlerdienste.)
+    </p>
+    <p>
+     Men naar jeg nu træffer mine Veninder fra Barndommen og spørger, om
+  de husker det altsammen, vore Lege, vore Drømme, saa ser de forbauset
+  paa mig. Husker hvad? Nei, absolut Ingenting husker de. Og de gaar fra
+  mig frydefuldt overbevist om, at det kun er mig, som har en skidden
+  Fantasi! (Die Verlogenheit der Frau.)
+    </p>
+    <p>
+     – Tiden gik. Egentlig var min Mand og jeg de bedste Venner af
+  Verden, bedre og bedre jo sjeldnere vi saaes. De Scener, bitre Ord og
+  Misforstaaelser, som kunde falde, da vi endnu var forelskede, forekom
+  [43] ikke længer. Vi var som to prøvede Kamerater, der kjender
+  hverandre og kjender Verden. Naar Bitterheden af og til vilde op i
+  mig, tugtede jeg mig selv og sagde: Herregud; det hele er jo en
+  Overgang, snart skal vi dø. Og hvad vil du? At Elskoven skal vare, kan
+  ingen forlange; det strider mod al menneskelig Erfaring, og kjed af
+  hverandre er vi egentlig ikke, hader hverandre endnu mindre. Altsaa i
+  Grunden et Idealægteskab. Især hvis vi ogsaa kunde indtage vore
+  Maaltider hver for os. Nu sidder vi der i Tausheden og hører hverandre
+  tygge, og det er ikke morsomt. Mandfolk med Skjæg slurper desuden
+  ogsaa Suppen – det vil sige, naar man ikke er forelsket i dem. Da
+  hører man det ikke
+    </p>
+    <p>
+     Af og til er vi formelig muntre og har rigtig hyggelige Smaastunder
+  sammen. Vi raillerer med Humør – jeg ikke uden en Smule Koketteri –
+  over Elskov og Ægteskab, snakker klogt og ligefrem om Alderdommen og
+  vore graa Haar – som jeg forresten endnu ikke har.
+    </p>
+    <p>
+     Vi er enige om, at den nuværende Ordning af Forholdet mellem Mand
+  og Kvinde har sine Ulemper og naturligvis ikke er den endelige. «Men
+  Gudskelov, det kan [44] ikke interessere os,» siger min Mand og ser
+  paa Klokken. «Det faar blive deres Sag, som kommer efter os.» Og han
+  gjæsper diskret. Det smitter, og ogsaa jeg kniber af en liden Gjæsp
+  bag mit Haandarbeide. «Ja ja, Godnat, og sov godt!» – «Godnat, tak du
+  ogsaa!»
+    </p>
+    <p>
+     Og vi skilles med et venskabeligt Haandtryk.
+    </p>
+    <p>
+     Mon min Mand da begyndte at elske mig? Siden han altsaa ikke
+  begjærede mig længer.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Mine Dage gik i Rastløshed, og om Nætterne vilde ikke Søvnen
+  komme.
+    </p>
+    <p>
+     Ak, der var Tider, da jeg vaagede af andre Grunde. Da jeg ikke
+  syntes jeg havde Raad til at sove bort min Lykke. Naar hans Hoved
+  hvilte paa min Arm, og han var sovnet hos mig med Haanden mod min
+  Pande eller mit Kind. Da maatte jeg ligge og se paa ham og være glad.
+  Taknemmelig. Eller jeg sad med et deiligt Barn paa Fanget, for
+  egoistisk til at lade det faa Fred i Vuggen. Maatte sidde og vaage og
+  kjende, at jeg virkelig havde det varmt og levende i mine Arme. –
+  Siden, siden kunde jeg [45] sove! Naar jeg blev gammel. Saa tænkte
+  jeg; men nu er jeg gammel og sover alligevel ikke.
+    </p>
+    <p>
+     Fuld Tryghed, fuld Harmoni i mit Væsen, fuld Tilfredsstillelse og
+  Lykke har jeg kun fundet de korte Øieblikke, jeg har havt en elsket
+  Mand eller et elsket Barn i mine Arme. Da var jeg et «ønskeløst»
+  Menneske. Men saasnart mine Arme er tomme, kommer Uroen,
+  Livsangsten.
+    </p>
+    <p>
+     Men naar jeg sad med Barnet, længtede jeg efter at dele det med
+  Manden. Jeg vilde helst, at vi begge skulde sidde sammen og holde det.
+  Jeg var saa ræd, at Baandet et Øieblik skulde løsne mellem os tre.
+  Tæt, tæt ind til mig begge, saa havde jeg det bedst.
+    </p>
+    <p>
+     Men Manden vil sove om Natten, og Manden kan ikke fatte, hvad
+  bedaarende det er ved et lidet Barn, som forstyrrer ens Arbeide om
+  Dagen og Søvnen om Natten og desuden sætter Flekker paa ens Klær!
+    </p>
+    <p>
+     – Nei, Barnet alene var mig ikke nok, skjønt jeg elskede det med en
+  Kjærlighed, som lignede Smerte, og hele mit Væsen var gjennemtrængt af
+  Trang til at vise det Ømhed, Omsorg og taknemmelig Kjærlighed. Hvorfor
+  var det mig ikke nok? (Sml. Weininger: [46] «Die Mutterliebe ist
+  instinktiv und triebhaft: auch die Thiere kennen sie nicht weniger als
+  die Menschen. Damit allein wäre aber schon bewiesen, dass diese Art
+  der Liebe keine echte Liebe, dass dieser Altruismus keine wahre
+  Sittlichkeit sein kann – –.»)
+    </p>
+    <p>
+     Og alligevel er intet Offer for stort for en Mor, naar det gjælder
+  Barnet. Eller rettere, intet er Offer. Det har jeg sagt mine Børn
+  daglig, fra de begyndte at forstaa. Alle Sorger, alt Besvær, ja selv
+  den dybe Ve og Vaande, under hvilken vi føder dem til Verden, er
+  tusindfold belønnet i det Øieblik vi holder dem i vore Arme! Alt, hvad
+  vi gjør for dem, gjør vi for os selv – af Kjærlighed, af Egoisme.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     – Mine Børn og jeg! Vi, som er ét i en Grad, der gaar over al
+  Forstand! Disse velsignede Væsener, som jeg har levet sammen med Dag
+  og Nat i alle disse Aar, som jeg er blevet voksen sammen med, og som
+  aldrig har bragt en Times Bitterhed ind i mit Liv. Kun Lys og Glæde
+  har de været for mig. Og selv Angsten for dem, den Livsangst og
+  Dødsangst, som følger al Kjærlighed, [47] selv den har været mig en
+  Kilde til menneskelig Vækst. Hvor maa jeg ikke takke for det
+  altsammen!
+    </p>
+    <p>
+     Og alligevel lever jeg et helt Liv udenfor dem. Et helt, vanskeligt
+  Liv, som de ikke kan blive delagtige i, fordi de er Børn.
+    </p>
+    <p>
+     Men hvorfor kan ikke vor gjensidige Kjærlighed fylde mit Liv, give
+  mig Tryghed og Ro? Hvorfor kan ikke den stolte Bevidsthed om at have
+  født dem til Verden, og Glæden over at eie dem og leve sammen med dem
+  give mig den værdige Resignation til at gaa Alderdommen imøde, som
+  Mænd saa ofte har? Hvorfor længes jeg altid? Venter? Ja, hvorfor? Og
+  uden at jeg er mig bevidst, hvad jeg længes efter eller venter
+  paa.
+    </p>
+    <p>
+     Dersom mit Liv var et Dagdriverliv: men jeg hader Dovenskab og er
+  altid virksom.
+    </p>
+    <p>
+     Er det, fordi Moderen i mig er svagere end Elskerinden? Fordi jeg
+  af Natur tilhører Kategorien «Dirne», til dem, for hvem en Mands
+  stadige Kjærlighed og Kjærlighedshyldest er ligesaa nødvendig som Lys
+  og Luft, til dem, som bliver «Muse for Mænd». Men heller ikke det er
+  jeg blevet. Ak, jeg maa smile ved Tanken. Men mit Smil er
+  [48] bittert. Min Mand, han som er bare Realitet og Logik, han har
+  ikke Brug for nogen Muse. Eller kanske det netop er Bristen i hans
+  Liv, at jeg ikke kunde blive det? Hvad ved jeg? Hvad ved overhovedet
+  vi Mennesker om hverandre. Ikke mange er det givet at være saa
+  «vielwissend» som den unge, ulykkelige Weininger. Men ofte tænkte jeg
+  i mit kvindelige Enfold, da jeg læste ham: Dersom han havde været saa
+  gammel som jeg, maatte ikke da hans Bog blevet kortere? Eller er det
+  kun for Kvinderne, at hver Dag, som gaar, bringer større og større
+  Uvished i alt, saa man tilslut føler det som en stadig stigende
+  Fortvilelse og Vanmagt! Ikke før har man fundet en Sandhed, før en
+  anden reiser sig imod den. Og Menneskesjælen bliver et Afgrundsdyb af
+  uløselige Gaader.
+    </p>
+    <p>
+     Men se, det var vel Weiningers Styrke, at han var ung, da han skrev
+  sit Værk. Et langt Liv vilde maaske gjort ham tvilende.
+      <ref target="#NOR0102_backn3">
+      n3
+     </ref>
+     D.v.s. et normalt Liv i Sundhed og – mellem Mennesker.
+    </p>
+    <p>
+     [49] Saadan og saadan er Kvinderne, siger han, og forlanger, at vi
+  skal tro ham paa hans Ord, naar han tillægger dem de værste Laster.
+  Vistnok har Mænd ogsaa af og til Laster, men det er da en helt anden
+  Affære.
+    </p>
+    <p>
+     «Løgnagtighed, organisk Løgnagtighed, karakteriserer altsaa
+  samtlige Kvinder. Det er ganske urigtigt at sige, at
+  Kvinderne
+      <ref target="#NOR0102_backn4">
+      n4
+     </ref>
+     lyver. Det vilde forudsætte, at de ogsaa af og til sagde Sandheden.»
+  Vistnok gives der ogsaa løgnagtige Mænd; men da «forløber Krisis
+  anderledes (ligesom deres Løgnagtighed ogsaa er en anden – ikke saa
+  fuldstændig haabløs): den fører – om end ofte kun forbigaaende – til
+     Lutring
+     .»
+    </p>
+    <p>
+     Ja, gid det var saa vel! Gjennem Manden er der jo ogsaa Haab for os
+  nemlig.
+    </p>
+    <p>
+     Men meget maa der have været af Kvinde i Weininger. Thi, skjønt han
+  selvfølgelig saare lidet kan vide om Kvinderne, saa har [50] hans
+  Instinkt ledet ham til forbausende mange rigtige Slutninger om «das
+  Weib», ligesom en Kvinde ved meget rigtigt om Manden, skjønt hun vel
+  sjelden bevidst studerer ham. Men hendes Instinkt er stærkt, og hun
+  har Evne til at se ham originalt. Og Originalitet er jo Genialitet. Om
+  Weininger paastaar, at «dem Judenthum, wie dem Weibe, die höchste
+  Genialität versagt ist», saa er dog vist baade Jøderne og Kvinderne
+  ikke saa lidet smaageniale, naar det gjælder Menneskekundskab. Det
+  indrømmer forresten ogsaa Weininger, idet han siger: «Der gives vel
+  Kvinder med et og andet genialt Træk; men der gives, har aldrig gives
+  og vil aldrig gives noget kvindeligt Geni.»
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     – – – Egentlig er maaske min Mands og mit Æteskab tilsidst et
+  ligefremt Idealægteskab. Vi kjeder ikke hverandre, fordi om vi ikke
+  netop morer hverandre. Alting er blevet negativt, det er sandt; men
+  hvad skal man vel mer forlange. At Elskoven ikke varer, det ved alle
+  Mennesker, det er altsaa imod al menneskelig Erfaring. Det, som i
+  bedste Fald varer, det er de mange Baand, [51] to Sjæle knytter
+  gjennem Elskoven. Men Menneskene maa lyve, for de er feige. Ikke mange
+  er saa forfriskende modige som Byron, da han i sin Tid skrev til en
+  Ven fra Venedig: «Kan ikke komme. Er blevet dødelig forelsket; maa
+  være her, til det gaar over.»
+    </p>
+    <p>
+     Aa nei, vi er i det hele rædde i vor Tid. Hykleriet er gaaet os i
+  Blodet, og derfor bliver Afgrunden altid større mellem Menneskene og
+  Sandheden, mellem Menneskene og Naturen. For Sandheden, det er jo bare
+  det naturlige – Naturen. Egentlig er Alting jo dog saa meget enklere,
+  end Menneskene vil gjøre det til. Ogsaa vi Kvinder er vist enklere,
+  end Mændene tror.
+    </p>
+    <p>
+     Altsaa mener jeg ogsaa, det tilsidst er noksaa enkelt og naturligt,
+  at Forholdet mellem Ægtefolk saa ofte bliver som nu mellem min Mand og
+  mig.
+    </p>
+    <p>
+     – Jeg hørte nylig en Ægtemand, som lever i saant «jevnt lykkeligt»
+  Mandagsægteskab, sige: «Intet kan da være kjedeligere end saan en
+  Ægtehalvdel!» Men formodentlig havde han begyndt at ane et Centrum
+  udenfor hende, Ægtehalvdelen. Det har ikke vi. Derfor er vi ikke kjed
+  af hverandre – undtagen maaske en Gang imellem – og vi hader hverandre
+  endnu [52] mindre. Altsaa – en Ægtehalvdel er ikke altid morsom, men
+  naar nu intet andet er morsommere!
+    </p>
+    <p>
+     – Jeg begyndte saa smaat paa min Omformning. Jeg følte, at jeg
+  havde Stof i mig til et selvstændigt tænkende Menneske. Nu vil vel de
+  grusomme Kvindepsychologer smile og spørge: «Høistærede Frue, hvor har
+  De faaet det fra?» Og Spørgsmaalet generer mig, skjønt det kun er
+  tænkt. Ja ja. Vel, mit Væsen er formet af ham, og af andre Mænd, jeg
+  traf før ham, det er sandt, eller af Bøger, som Mænd har skrevet. Men
+  ingen gjør noget af intet, selv ikke en Mand. Der var dog af Naturen
+  Stof i mig, som lod sig forme, og jeg er dog blevet et tænkende
+  Menneske med mit eget Særpræg.
+    </p>
+    <p>
+     Skjønt Weininger siger, at Kvinden, som «ganz und gar keine Seele
+  hat, sehnt sich auch nicht, diese geläutert von allem ihr anhaftenden
+  Fremden irgendwo, irgendwann endlich ganz zu finden», saa er det
+  sikkert, at jeg nu for det første tror, at jeg har en Smule Sjæl, som
+  er mig givet af Naturen, og at jeg nu længtede efter at finde den Sjæl
+  frem. Men skal jeg prøve at være sandfærdig efter fattig Evne, saa maa
+  jeg bekjende, at jeg gruede mig lidt for, hvad jeg vel maatte
+  finde.
+    </p>
+    <p>
+     [53] Jeg begyndte saa smaat med at finde frem min egen Smag og min
+  egen Vilje til at klæde mig og indrette min Hus. Og det var vellykket.
+  Thi det viste sig, at min Mand beundrede, hvad jeg gjorde. Og det
+  viste sig, at det jeg havde læst ud af ham, sad ganske løst. Det havde
+  slet ikke interesseret ham synderlig. Han havde sagt et og andet uden
+  at tænke videre over det. Han havde havt travlt. Men jeg tog hans
+  mindste Ytring som Udslag af en dyb Livsanskuelse og skyndte mig at
+  lave en ny Velbehagelighed for ham, ved straks at krybe ind under den.
+  Nu skulde det altsaa blive anderledes. Hvilken Lettelse maatte det
+  ikke ogsaa være for ham at se mig frigjøre mig! Det maa dog være for
+  besværligt at leve sit Liv med sligt et Snyltedyr paa Ryggen!
+    </p>
+    <p>
+     Oftere og oftere begyndte jeg at sige: Nei, tænk du, jeg synes ikke
+  det. Eller: Den Tankegang forstaar jeg ikke; jeg synes det er helt
+  modsat. O.s.v.
+    </p>
+    <p>
+     Og jeg begyndte at søge daglig Omgang med Damer af min egen
+  udmærkede Alder, Fruer, der ligesom jeg ikke var «noget videre gifte»,
+  selvstændige, modne og dygtige Kvinder, som mente, at de «godt kunde
+  undvære Manden».
+    </p>
+    <p>
+     [54] Mange af dem havde grædt; men lært at le, og mange, hvis Blik
+  havde været slukt under Illusionernes Død, havde atter slaaet sine
+  Øine op, frit og klart, og begyndt sit Liv fra nyt i ensom Kamp.
+    </p>
+    <p>
+     – Min Mand hindrede mig ikke i at søge udenfor mit Hus, tvertimod.
+  I det hele, han respekterer alt hvad jeg gjør, behandler mig
+  tillidsfuldt og udmærket. Er saa ikke vort Ægteskab idealt?
+    </p>
+    <p>
+     Men jeg retter ikke mere paa min Frisure og forandrer ikke mit
+  Væsen, naar han kommer ind i Værelset, slig som Kvinder efter
+  Weiningers Udsagn altid gjør, naar en Mand kommer ind. Det er sandt,
+  at vi gjør det for alle Mænd – undtagen for dem vi har elsket.
+    </p>
+    <p>
+     «Die Kunst schafft, die Wissenschaft zerstört die sinnliche Welt;
+  darum ist der Künstler erotisch und sexuell, der Wissenschaftler
+  asexuell,» siger Weininger. Det høres ikke dumt ud. Svært ofte dør
+  vist ialfald Erotiken tidlig under strengt videnskabeligt Arbeide. Om
+  Videnskabsmænd derfor ikke giftede sig saa aldeles for Evigheden,
+  vilde maaske et og andet lettes for dem i Verden. Men Kunstnerne! Ja,
+  hvad viser Livet, hvad ser vi i Verden? Er det mange stærke Erotikere,
+  som lever i lykkeligt Monogami sin [55] Livsdag lang? Positivt
+  lykkeligt? Ikke bare: ikke ulykkeligt.
+    </p>
+    <p>
+     Weininger siger: «den gjængse Opfatning af Mændene som polygame er
+  falsk. Det er tvertimod Kvinderne, som er det.»
+    </p>
+    <p>
+     Vilde det maaske komme Sandheden nærmere og forklare mangt Vrøvl og
+  mange Vanskeligheder, dersom man sagde, at
+     af Naturen
+     er begge polygame; men
+  Kvindernes Opdragelse gjennem lange Tider har dæmpet den Egenskab hos
+  hende, mens Mændenes Flertal, efter alt, ser ud til at være det endnu.
+  Den sunde, normale Mand har vel sjelden kjendt bare én Kvinde; men
+  Flertallet af Kvinder har dog sikkert kun kjendt én Mand. Og mange har
+  mer end nok med det. Endel Barnefødsler dræber ofte al Sexualitet.
+  Kvinderne har da ogsaa en saa uendelig meget sværere Del i Slægtens
+  Fortsættelse, at det ikke er underligt, om en Mand som Regel er nok.
+  Men at Mændene
+     elsker flere paa en
+  Gang
+     , er selvfølgelig Sludder. Det er de nok undskyldt for, de
+  som vi. Den, som virkelig elsker, tilhører den ene eneste med hver
+  Trevl og Fnug af Legeme og Sjæl – saa længe det varer. Men det varer
+  jo desværre ikke altid saa længe.
+    </p>
+    <p>
+     [56] Naar nogen spørger, hvordan man skal ordne de fortvilede
+  Forhold mellem Kjønnene, saa svarer Moralisterne: Ved at ophæve enhver
+  sanselig Forbindelse mellem dem. Som om det var et Svar! Spørgsmaalet
+  er dog, hvad der skal gjøres, mens der er Mennesker paa Jorden.
+    </p>
+    <p>
+     Ganske nøgternt set ser det ofte ud, som om en Ordning, der kun
+  havde skrevne Love for Børnene, men forøvrigt fuld Frihed for modne
+  Mennesker, var den eneste mulige. Men Børnene hører Moderen til, og
+  Matriarkatet er derfor det eneste tænkelige Grundlag for en Ordning.
+  En Far staar i Forhold til sit Barn i dybere, indre Forstand egentlig
+  ganske fri. Det er de ydre Forhold, Graden af hans menneskelige
+  Dannelse, af hans sjælelige Anlæg og af hans Kjærlighed til Moderen,
+  som bestemmer Graden af hans Bundethed til Barnet. Eller har nogen
+  hørt, at en Far har spurgt efter sit illegitime Barn af Trang til at
+  leve hos det, af Kjærlighed til det. Manden
+     lærer sig
+     i bedste Fald til at
+  elske et Barn, som vokser op ved Siden af ham; men Moderen er
+  sammenvokset med det fra det Øieblik, det blev undfanget. Kan hun ikke
+  faa leve for det og med det, maa hun heller dræbe det, og [57] dræber
+  derved sig selv som Menneske. Hun kan aldrig skilles fra det.
+    </p>
+    <p>
+     Matriarkatet (som overført til civiliserede Tider vel ikke netop
+  behøvede at betyde Flermanneri) var ikke at le af.
+    </p>
+    <p>
+     Men Manden alene skaber og ordner jo alle Forhold, ogsaa de
+  sexuelle (som altsaa vel maa siges at være svært lidet ordnede, end
+  sige bragt til endelig Ordning), og hvor er den Mand, som skaber et
+  civiliseret Matriarkat?
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     – Alle Mænd var mig ligegyldige; de blev alle saa ubetydelige i
+  Forhold til min gamle, gode Ven derinde mellem Bøgerne. Og desuden –
+  ingen af dem fik mit Hjerte til at banke. Jeg var 33 Aar, begyndte at
+  kalde mig selv Matrone, og Mænd paa 30 for Gutter. Jeg var blevet en
+  Smule korpulent; men man sagde mig, at jeg endnu saa ung ud.
+    </p>
+    <p>
+     Et Par Arbeider, jeg havde gjort, blev sagt at være Kunst, og man
+  roste mit Talent, men selv var jeg flau. Jeg vidste det var smaat.
+  Ynkelig smaat. Men flauest var jeg over, at jeg havde aabnet et Kighul
+  ind til [58] mit eget skjælvende Indre. Det var for godt. Det var, som
+  om jeg havde klædt mig nøgen for Alverdens Øine, og jeg havde
+  Øieblikke, da jeg ønskede Jorden vilde aabne sig og sluge mig. Gjemme
+  mig for altid.
+    </p>
+    <p>
+     Hvorfor havde jeg taget denne forfærdelige Last paa mig! Var det
+  fordi den indre Trang var saa stærk, at jeg
+     maatte
+     ? Nei, det var
+  Selvopholdelsesdrift. Det var et Eksperiment under det nervøse Arbeide
+  for at frigjøre mig, «finde mig selv» igjen. Min Fantasi var livlig;
+  jeg havde altid tusinde Idéer; men Udførelsen var mig ingen tvingende
+  Nødvendighed. Tvertimod. At begynd tage sig sammen, fordrede en
+  voldsom Viljeanstrengelse. Men var jeg først begyndt, saa blev jeg
+  roligere den Stund. Helst skulde jeg dog sikkert havt noget ganske
+  andet «at hænge Fingrene i». For mig var dog nu bare ét at gjøre.
+  Arbeide for enhver Pris. Paa hvadsomhelst, bare altid i Aktivitet. Jeg
+  hader Dovenskab, og alle disse ørkesløse Fruer, som tilbringer sin Tid
+  i Sydamernes Venteværelser, hos Friserdamer og i dumme Selskaber paa
+  evig Jagt efter «Tidsfordriv», er mig en Gru! Alle disse hysteriske,
+  aldrende Damer, som i Kamp mod Alderdommen nedværdiger sig til
+  allehaande [59] Latterligheder i Haab om at levne op endnu engang i en
+  Mands Forelskelse, jeg ved intet ynkeligere. Kan jeg ikke andet, saa
+  kan jeg da vel blive Børstenbinder! Men jeg tror, jeg havner ved et
+  Stykke Jord, hvor jeg kan se det gro og vokse omkring mig, og et Hus,
+  hvor der ingen Tid er til ørkesløse Tanker. Og jeg foreslaar af og til
+  for min Mand, at vi skal kjøbe en Gaard, hvor vi kan tilbringe vor
+  Alderdom, i frisk Luft og sundt Arbeide. Jeg kan ikke taale Tanken paa
+  en langsom Stuedød. Han smiler og svarer: «Ja, vil du drive den, saa
+  er Tanken om en Landsgaard mig aldeles ikke imod. Der kan man leve i
+  Fred, d.v.s. jeg, og du kan faa al den Ufred du trænger, og faa Brug
+  for dine Kræfter og dine Evner til at administrere.»
+    </p>
+    <p>
+     Og jeg ser mig om og ruger over min Plan; men min Mand viser sig
+  tilsidst saa haabløst uinteresseret, at jeg træt opgiver det hele.
+    </p>
+    <p>
+     – Jeg søgte mer og mer udenfor mit Hus igjen. Jeg maatte se
+  Mennesker, snakke og le.
+    </p>
+    <p>
+     Undertiden sagde jeg til min Mand, naar jeg gik ud: «Jeg morer mig,
+  jeg.»
+    </p>
+    <p>
+     Da smilte han: «Ja, saalænge det er morsomt!»
+    </p>
+    <p>
+     [60] Og i den absolute Hensigt, at han skulde føle min Bitterhed,
+  kunde jeg saa svare: «Det er ikke altid for Moro Skyld, at man morer
+  sig.»
+    </p>
+    <p>
+     Da gaar han, uden at se paa mig og uden at sige et Ord.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Mine Veninder og jeg har en Torsdagsklub. Vi holder til en Gang hos
+  hver, og sjelden har vi Mændene med. Det er næsten altid saa heldigt,
+  at de har en eller anden Generalforsamling paa de Dage. Og yderst
+  beleiligt kommer nu for os alle disse mærkelige «Generalforsamlinger»,
+  som det ligefrem vrimler af i Mændenes Liv, og som er alle nygifte
+  Koners Fortvilelse.
+    </p>
+    <p>
+     Hændte det, at Husherren pludselig optraadte midt i vore lystige
+  Sammenkomster, saa raabte vi overgivne: Ah, en Mand! Og vi holdt Taler
+  for ham, og var vittige paa Mændenes Bekostning; men altid
+  elskværdige, mildt koketterende Verdensdamer, som var
+     comme il faut
+     til det yderste, og
+  meget langt fra at være bitre. Dertil var vi for stolte og
+  selvbevidste. Vi forstod alt, ogsaa
+  [61] Mændene.
+      <ref target="#NOR0102_backn5">
+      n5
+     </ref>
+     Vi var dannede, voksne Mennesker, som tog Livet overlegent.
+     Voilà tout.
+    </p>
+    <p>
+     – Naar vi hørte om to, som skulde giftes, blev vi hverken
+  høitidelige eller bedrøvede. Vi lo. «Wieder zwei hereingefallen», som
+  Tyskerne siger. Det var alt, hvad vi havde at bemærke til den Ting. Vi
+  vidste jo, at det var noget, som skulde gjennemleves, mer eller mindre
+  besværligt, mer eller mindre ondt eller godt. Altsaa:
+     que faire, que dire!
+    </p>
+    <p>
+     Jeg blandede mig med Iver i dette Kor af sikre, «færdige» Kvinder,
+  ja jeg førte an. Jeg var lystig, havde lært at le. Jeg lo maaske en
+  Smule nervøst; men det virkede friskt paa andre; thi ofte sagde man
+  til mig: ak, den der var saa ovenpaa som du! Der kom nemlig undertiden
+  oprigtige Øieblikke over en og anden, og da tilstod de, at de lo ikke
+  altid. Ikke endnu. Men det var Maalet.
+    </p>
+    <p>
+     [62] Aa, dersom en eneste af dem havde vidst, hvor lidet jeg lo i
+  mine ensomme Timer! Hvor jeg var usikker og fuld af uendelig
+  Bitterhed. Hvor jeg længtede, hvor jeg græd!
+    </p>
+    <p>
+     Men jeg sagde: Hør mine Damer, det er en Ting, som er ynkeligt, og
+  det er at sutre og jamre over Livet. Det er en Ting, som er feigt, det
+  er at flygte for Livskampen, opgive sig selv! Livet er deiligt! Livet
+     skal
+     være deiligt! «Den stærke
+  Kvinde ler mod den gryende Dag!» Og er ikke vi stærke Kvinder!
+    </p>
+    <p>
+     Det er kun Mændene, som med Vold og Magt vil gjøre Kvinderne
+  svage.
+    </p>
+    <p>
+     Og vi lo af al Mændenes vanvittige Kvindepsychologi, som blev os
+  serveret i Tide og Utide. Af deres dybsindige Analyse af vore Følelser
+  og Fornemmelser i og udenfor Ægteskab, i og udenfor Svangerskab. Men
+  analyseres skal der jo, og hvad siger ikke Weininger:
+    </p>
+    <p>
+     «Endnu har aldrig f. Eks. en svanger Kvinde givet sine Følelser og
+  Fornemmelser Udtryk, det være sig i et Digt, i Memoirer eller i en
+  gynækologisk Afhandling. Er ogsaa dette en Følge af Undertrykkelsen
+  ved Manden? – Ligesom vi ogsaa ellers kun har Mænd at takke for
+  virkelig værdifulde Oplysninger [63] om Kvindens Psychologi, saa har
+  ogsaa blot Mænd skildret den svangre Kvindes Følelser. Hvorledes kunde
+  de det?»
+    </p>
+    <p>
+     Ja, derom kan man nok spørge, især naar man ikke har været gift. Og
+  da kan man ogsaa komme til at give det Svar, som Weininger giver. Han
+  siger, at her maa vi ty til det, som Manden selv har af Kvinde i sig,
+  derigjennem kan han forstaa Kvinden. Men om vi nu siger, at Manden
+  simpelthen har faaet sin Visdom fra Kvinden selv. D.v.s. det lille han
+  virkelig ved. Thi en svanger Kvinde har en naturlig Trang til at søge
+  Trøst, Beskyttelse, Forklaring paa alle Gaader hos den elskede Mand.
+  Han er jo den eneste, hun i den Tid kan betro sig til; den eneste, hun
+  ikke maa gjemme sig for. Men jeg tror, at Mændene, som i den Tid
+  iagttager os, tænker sig os langt mere kompliserede, end vi i
+  Virkeligheden er. Mangfoldige Kvinder gaar sikkert svangre uden at
+  tænke synderlig over det som andet, end noget, der kræver en Del
+  Arrangements, som en Byrde, der er Kvinden paalagt at bære med
+  kristeligt Taalmod. Smaagrætne og smaanervøse over de legemlige
+  Plager, og i ujevnt Humør, klynger de sig til Manden og fordrer Omsorg
+  og Trøst. Eller de bliver [64] fiendtlig stemt mod ham, som er
+  «Skylden» i deres Plager. Forøvrigt lever sikkert selv de mest
+  udviklede Kvinder i denne Tid endnu mere ubevidst end
+  ellers.
+      <ref target="#NOR0102_backn6">
+      n6
+     </ref>
+     Og er ikke det ganske naturligt? «Alt hos Kvinden er en Gaade,» siger
+  Nietzsche, «og alt hos Kvinden har en Løsning: den heder Svangerskab.»
+  Ja. Og dog er Kvinden for sig selv den største Gaade, naar, hun er
+  svanger. Det vi yder af os selv til et nyt Menneskes Tilblivelse, er
+  for stort, vort Legeme er et Redskab i Naturens Haand –
+     der skabes gjennem
+     os. Selv om vi,
+  som Adam, da Eva skabtes af hans Ribben, «faldt i en dyb Søvn», vilde
+  det ikke være det mindste underligt. Betegnende er det, at vi i den
+  Tid saa almindelig beskjæftiger os med Døden uden egentlig at frygte
+  den. Jeg husker, at jeg ganske rolig sad og tænkte over, hvem der
+  skulde have mine peneste Natkjoler, hvis jeg nu «ikke selv skulde faa
+  Brug for dem længer». Og jeg sagde til min Mand: «Se nu lidt efter,
+  hvis det skulde hænde, at jeg altsaa ikke greier dette her, og mit Tøi
+  skal deles. Jeg vilde gjerne, at M. skulde have de fineste Natkjolerne
+  og et Par sorte Silkestrømper, som ligger i Kommoden, for [65] hun er
+  den eneste, som skjønner, hvor pent det er.» Og jeg syntes det var
+  ganske beroligende at tænke mig disse Ting i hendes Hænder. Og jeg var
+  saa langt fra at gruble over Døden. Jeg drømte om Barnet, vage, uklare
+  Drømme, og mit Hjerte skalv af Angst og Fryd, naar jeg kjendte det
+  røre sig under mit Hjerte.
+     Jeg ventede
+  da som altid paa det vidunderlige.
+     Undertiden gik jeg i ren
+  Ekstase. Men alt var for stort for min Tanke og min Forstand. Jeg
+  følte mit Legeme som noget helligt, der maatte pleies med Ærefrygt, og
+  jeg var glad og selvbevidst, trods de mange Plager. Min Mands Omsorg
+  tog jeg som en Hyldest, han skyldte mig, og hans Rolle i Livet forekom
+  mig liden og ussel i Forhold til min.
+    </p>
+    <p>
+     Værst var det den første Tid. Da var det fysiske Ubehag saa stort,
+  at alt gik op i det. Maaske var dog den første Vished allerværst. Jeg
+  blev forfærdelig ræd. Alt kunde man komme fra, bare ikke dette, ogsaa
+  Døden. Jeg græd og følte Medlidenhed med mig selv – men vilde
+  alligevel ikke for mit Liv undværet det. Det var jo saa vidunderlig
+  spændende.
+    </p>
+    <p>
+     Min Mands Trøst hjalp egentlig ikke det mindste; men jeg likte at
+  høre den, som [66] jeg likte at støtte mig til hans trygge Arm. Vi
+  delte dengang Seng, og det var mig ubehageligt. Da jeg siden fik min
+  egen, følte jeg det som en Lettelse; men jeg vilde helst, at han
+  skulde siddet paa Sengekanten og holdt mig i Haanden hele Natten. Det
+  var saa trygt og godt. Der var ligesom Frelse hos ham alligevel.
+    </p>
+    <p>
+     Men om Dagene havde jeg umaadelig Trang til at stelle og pusle om
+  ham, være god mod ham og hygge for ham. Elskerinden var bukket under
+  for Moderen. Den sidste Tid var jeg styg og generte mig meget for
+  fremmede; men ligeoverfor min Mand triumferte jeg i mit Hjerte. Se, om
+  jeg ikke nu er dig overlegen, du kloge, vigtige Mand!
+    </p>
+    <p>
+     Men Tiden blev forfærdelig lang; tilslut kunde jeg næsten ikke mere
+  huske den Tid, jeg havde normal Figur. Det blev besværligt, og jeg
+  længtede efter, at Timen skulde komme. Den sidste Maaned var al
+  Sygelighed og al Frygt forsvunden, indtil de første Smerter meldte
+  sig. Da blev jeg kold af Rædsel.
+    </p>
+    <p>
+     Den Følelse, som forøvrigt den sidste Tid døvede alle andre, var
+  Nysgjerrigheden. Jeg kunde ikke udholde at vente slig en Evighed, før
+  jeg fik se mit Barn. Hvordan [67] saa det ud? Var det muligt, at jeg
+  snart skulde holde et levende Væsen i mine Arme. et Barn, som var mit
+  og hans! Jeg blev nervøs af den uudholdelige Spænding. Jeg likte ogsaa
+  at dvæle ved Billedet af mig selv som Mor, Intet var dog skjønnere end
+  saan en ung, pen Mor med et lidet velstelt Barn. Intet klædte en ung
+  Kvinde saa godt.
+    </p>
+    <p>
+     – Men da Tiden kom, og mine Kvaler var paa det høieste, da tænkte
+  jeg: Hele Verden sammensværger sig for at lyve! Ikke et Menneske, selv
+  ikke vor egen Mor, siger os ærligt, hvilke Rædsler vi gaar ind til.
+  Men kommer jeg levende fra dette, saa skal jeg rope det ud over
+  Verden! Aa for en Mishandling!
+    </p>
+    <p>
+     Men da Barnet skreg, svimlede det for mig, og al min Ve og Vaande
+  smeltede bort i stille Glædestaarer. Og mit Hjerte svulmede af Tak og
+  Pris.
+    </p>
+    <p>
+     Aldrig oplever dog Mændene noget, som kan ligne den herlige Følelse
+  at have født et Barn til Verden! Da min Mand den første Aften sad hos
+  mig og tog min Haand og kyssede mig paa Panden, da sagde jeg:
+  «Stakkars dig!» Han smilte uden at forstaa mig og rystede paa Hovedet:
+  «Mig?» Og han trodde vist ikke jeg var ganske klar, da jeg sagde:
+    </p>
+    <p>
+     [68] «Ja stakkars dig, som aldrig kan faa et Barn!» Men jeg mente
+  det. Smerterne havde jeg alt glemt.
+    </p>
+    <p>
+     Og da jeg skulde have mit næste Barn, var jeg rolig og glad.
+    </p>
+    <p>
+     Mon ikke Massen af Kvinder er omtrent ligedan under de Forhold. Jeg
+  tror det, for jeg har kjendt mange, og der var intet mærkeligt ved
+  nogen af dem. At enkelte maa tygge brændt Kaffe og andre sværmer for
+  sure Æbler, som helst maa være stjaalne o. l., er vist ofte ligesaa
+  meget Sensationslyst som virkelig Trang. Man skal jo med Vold og Magt
+  være interessant i de Omstændigheder.
+    </p>
+    <p>
+     – Men vi talte ikke bare om Mændenes Vildfarelser; ogsaa vore
+  Medkvinder fik holde for. Emancipationsjaget, den rastløse Agitation
+  for hel ydre Ligestilling, var et tilbagelagt Stadium for os, og vi
+  smilte af dem, som endnu for Alvor diskuterede Muligheden af en
+  saadan. Naar Kvinden er legemlig sund og normal, og ikke forskruet
+  aandelig, maa hun, dersom hun kan overvinde sig til fuld Ærlighed,
+  tilstaa, at vi sandelig den meste Tid af vore bedste Aar er lidet
+  skikkede til ansvarsfulde og anstrengende Samfundshverv. Vi var enige
+  om, at der var og blev [69] Grænser, vi aldrig maatte forsøge at
+  overskride. Vi vilde bare løbe Panden mod den uoverstigelige Mur, paa
+  hvilken der staar skrevet: hid og ikke længer. Men der var Rum for
+  meget Arbeide, megen Selvstændighed, før vi naadde den Mur.
+    </p>
+    <p>
+     Naar Manden har fuldbyrdet sin Del af et nyt Menneskes Undfangelse,
+  saa er han fri, og kan gaa til sin Gjerning normal og sund; men da
+  begynder vort Arbeide. Og naar slutter det? Ikke før Børnene gaar
+  voksne ifra os. Thi Børnene er og bliver Moderens i al Evighed. Det er
+  naturligt, og alt andet er stygt.
+    </p>
+    <p>
+     Men selv om en Kvinde ikke føder Børn, er hun alligevel jordbunden.
+  Hun er, trods alt, Kjønsmenneske, og har periodiske Mindelser derom,
+  som sætter Mærke i hendes Sjæleliv. Spørg voksne, ikke
+  kvindesagsforkvaklede Kvinder, om de ikke saa og saa mange af hver
+  Maaneds Dage er mer eller mindre utilregnelige, og de allerfleste vil
+  maatte indrømme, at saa er det. I den Tid vilde det være en
+  Forbrydelse af os f. Eks. at optræde som Dommere. Hvor mange af os er
+  ikke de Dage i en eneste Ophidselse, i et Humør saa fortrædeligt, at
+  vi helst vilde slaa alle Mennesker ihjel? [70] Aldrig vilde jeg derfor
+  heller f. Eks.vove at lade mig operere af en kvindelig Læge, uden
+  Først at skaffe mig Vished for, at hun var udenfor sine unormale
+  Perioder. Altsaa aandelig unormale. Det hjælper ikke, om de er ligesaa
+  dygtige som en mandlig Læge, Naturens Love er de lige fuldt
+  underkastede.
+    </p>
+    <p>
+     Og naar vi elsker, er vi ogsaa
+  unormale.
+      <ref target="#NOR0102_backn7">
+      n7
+     </ref>
+     Gaar helt op i det i en ganske anden Forstand end Manden. Det har
+  Indflydelse paa alle vore Handlinger. Da er vi stærke, men ensidige og
+  blinde, og gaar tvert igjennem alle Hensyn. Er det den nye Slægt, som
+  vil fødes (Schopenhauer), eller er det Djævelen og alle hans Engle?
+  Jeg ved ikke; men det ved jeg, at vi er i Magternes Vold. Kan nogen
+  tvile paa det!
+    </p>
+    <p>
+     Men, der er Kvinder, som aldrig elsker! Ja, saa forfærdeligt det
+  er, saa er det Sandhed: der er Kvinder, som aldrig elsker. Men i dem
+  gror Sjælens Sygdomme frodigt!
+    </p>
+    <p>
+     Og om det var saa, at de sterile var gode Samfundsmennesker, skal
+  derfor enhver ung Kvindes Liv grundlægges med det Maal – det Haab – at
+  blive som disse?
+    </p>
+    <p>
+     [71] Ja, saa vil de, der ønsker at Slægten skal uddø, de sterile,
+  og Stuefilosoferne.
+    </p>
+    <p>
+     Weininger vil fuld ydre Ligestillethed, fordi det vil hjælpe
+  Kvinden til at frigjøre hende fra sig selv – til at blive Mand. Og det
+  er for ham altsaa Maalet.
+    </p>
+    <p>
+     Men den samme Tanke forfægter Kvindesagskvinderne i deres sygelige,
+  blinde Kamp mod Eros – den store syndefulde Menneskefordærver.
+    </p>
+    <p>
+     Herregud, naar skal der komme en ny Verdenshersker, som kan føre
+  Menneskene ud igjen under aaben Himmel!
+    </p>
+    <p>
+     Ud fra Bogstøv og Stuevisdom, ud i Solen og Dagslyset!
+    </p>
+    <p>
+     Men Livets Sol er Kjærlighed i al Evighed, Amen!
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Der var ogsaa en Sort Kvinder, vi
+     foragtede
+     , og det var den store
+  Masse af huslige Martyrer.
+    </p>
+    <p>
+     Intet var ynkeligere, og intet maatte dog være ynkeligere for
+  Manden end disse stumme bedende Øine, som hang ved ham i syg Længsel
+  efter en Gunstbevisning, i vanmægtigt Jag efter at puste Liv i den
+  [72] sluknende Ild. Nei, da heller helt løs. Helt fri. Om ikke de ydre
+  Forhold tillod Skilsmisse, saa fik man dog arrangere sig. –
+    </p>
+    <p>
+     – – – Vi var alle stærke, sunde, soignerede og smagfuldt klædte
+  Damer, som følte og nød Velværet ved at være ulastelige i alle Dele,
+  og ved at være blevet voksne Mennesker. Vi spøgte med vore Rynker og
+  de næsvise graa Haar, som begyndte at vise sig; men vi beundrede
+  hverandre, og opmuntrede hverandre til Arbeide og Selvstændighed.
+    </p>
+    <p>
+     Om vore Mænd talte vi spøgefuldt. En Smule skarpe i vore
+  Bemærkninger af og til, og slemme til at lave Vitser om deres Dyder;
+  men altid med dannet Respekt og elskværdig Taktfuldhed. Det var jo vor
+  Stolthed at være ulastelige, ogsaa i det. Men vi brugte ofte Ordet
+  Stakkar, og følte os uhyre stærke og ovenpaa i Forhold til dem, som
+  alle var mer eller mindre slidte af Livet, eller af strengt
+  Arbeide.
+    </p>
+    <p>
+     Engang var der Spørgsmaal om at invitere Mændene til en Torsdag,
+  endog om helt at aabne dem Adgang. Men flere af os protesterede. «Huf
+  nei, lad os være fri! Saa slipper vi at skabe os den Stund. [73] Det
+  er saa besværligt med dette evige Koketteri!»
+    </p>
+    <p>
+     Og vi blev snart enige om at udelukke alle Mænd for altid!
+    </p>
+    <p>
+     Men en Torsdag blev vi ubehagelig overraskede ved den Besked, at
+  Fru N.'s Gemal vilde være hjemme og deltage i vor Sammenkomst med en
+  gammel Ven og Studiekamerat, netop hjemvendt fra Amerika. Ja, hvad
+  skulde vi gjøre!
+    </p>
+    <p>
+     Fru N.'s Gemal var, for at bruge et mildt Ord, en svært lidet
+  morsom Mand, og hvad var det nu for en Aabenbaring, han, den
+  anden?
+    </p>
+    <p>
+     Jo, det fik vi snart at se. En Bjørn, et Vilddyr ude fra Vestens
+  Prærier. Han bestod af en sand Urskog af rødt Haar og Skjæg og
+  forresten af Guldbriller og to store, røde Næver.
+    </p>
+    <p>
+     Vi blev straks enige om, at han naturligvis aldrig havde boet i
+  Hus. Han fyldte Stuen paa en ubehagelig Maade, og vi var hele Kvelden
+  i nervøs Angst for Fru N.'s dyrebare Tanagrafigurer og den deilige,
+  blaa Sévres-Krukke med de hvide Liljer i.
+    </p>
+    <p>
+     Først ved Bordet nedlod han sig til at snakke med os Damer. Før
+  havde han mønstret os saan løselig og derpaa trukket [74] sig tilbage
+  med Værten i Passiar om Amerika og om gamle Dage.
+    </p>
+    <p>
+     Den Tone, han tiltalte os i, var slurvet og irriterede mig. Hans
+  ubestemmelige Blik bag de glimtende Brilleglas var ogsaa høist
+  utækkeligt, naar det en Gang lod sig fange. Ironiskt og halvt
+  haanligt. Paa Grænsen af at være uforskammet. Hovedresultat: en helt
+  igjennem yderst uheldig Figur.
+    </p>
+    <p>
+     Det var morsomt at komme sammen med norske Damer igjen, sagde han.
+  Tonen var anderledes end i hans Tid. Alt havde nok i det hele
+  forandret sig. «Undtagen du,» henvendte han sig til Husherren, «for du
+  er, som om du har ligget i Kommodeskuffen, siden jeg reiste.» Da
+  maatte jeg smile, og kom til at se paa ham. Det var nu slet ingen dum
+  Bemærkning.
+    </p>
+    <p>
+     Vore Øine mødtes, og han smilte ogsaa til mig, og løftede saa
+  pludselig sit Glas. Og denne lille uskyldige Bevægelse kom mig saa
+  overraskende og uforberedt, at den virkede som en Bombe kastet i mit
+  Hoved. Jeg rødmede som en 17 Aars Pige. Og for den, som bringer en
+  Dame i min Alder til at rødme og miste Herredømmet over sig selv, om
+  bare for et Øieblik, findes der ikke Tilgivelse. Jeg var rasende.
+    </p>
+    <p>
+     [75] Jeg saa, at han betragtede min Figur; det gjorde mig ikke
+  blidere. Men han saa ogsaa paa mit Haar, og det ærgrede mig ikke fuldt
+  saa meget.
+    </p>
+    <p>
+     Men i det hele – en usigelig Lettelse vilde det være, naar disse
+  generende grønne, gule, eller Gud ved om det var blaa, Øine vel var
+  ude af Stuen.
+    </p>
+    <p>
+     – Jo sandelig var de blaa. Lyseblaa. Kunde man tænke sig noget mere
+  affekteret end blaa Øine i det Ansigt. – Men det allermest affekterte
+  var, at de af og til blev formelig barnslige.
+    </p>
+    <p>
+     – Vi havde fra først af vanskeligt for at finde vor vanlige
+  Lystighed igjen denne Aften. Manden generte os. Vi blev ufrie, og
+  efter Bordet sagde vi til hverandre, at dette skulde ikke ske
+  mere.
+    </p>
+    <p>
+     Vi samledes om vor vanlige Torsdagsbolle, og dette Arrangement
+  tiltalte Bjørnen. Han syntes det var festligt. Pludselig vendte han
+  sig til mig og sagde: «Der er en anden Tone end i min Tid, ja. Er de
+  unge ligedan?»
+    </p>
+    <p>
+     «Hvad mener De?»
+    </p>
+    <p>
+     «Om de unge norske Damer ligner de elskværdige Fruer her i Aften.
+  Da glæder jeg mig nemlig til at træffe dem.»
+    </p>
+    <p>
+     Jeg sagde ham, at jeg aldrig havde Anledning [76] til at være
+  sammen med unge Damer, og snudde ham Ryggen.
+    </p>
+    <p>
+     Hans Maade at snakke til en paa var en Fornærmelse. Jeg satte mig
+  hen til et andet Bord og forsøgte at faa Stemningen op; men det var
+  umuligt.
+    </p>
+    <p>
+     Lidt efter kom Værten hen til os og sagde leende: «Min gamle Ven
+  har meldt sig ind i Torsdagsklubben netop. Til min Kone. Saa nu faar
+  dere nok lukke Dørene op for os Mandfolk.»
+    </p>
+    <p>
+     «Nei det var udmærket,» raabte jeg uvilkaarlig. Men hvad skulde jeg
+  mere sige til min Vært. Vi slog det hen i Spøg, og jeg blev høirøstet,
+  drak et Par Glas, og Pokker var løs. Jeg snakkede
+  ustanselig,
+      <ref target="#NOR0102_backn8">
+      n8
+     </ref>
+     fik de andre med, og tilsidst var vi i den vildeste Ord- og Vitskamp
+  med de to Mænd. Han skulde nu faa føle, at han havde stukket Haanden
+  ind i et Hvepserede, og forhaabentlig blive kureret for sin Lyst til
+  at deltage.
+    </p>
+    <p>
+     «Ja ja,» sagde han, «sandelig var det morsomt at være blandt
+  Mennesker igjen.»
+    </p>
+    <p>
+     Jeg lo. «Ja, men vi Kvinder er ikke da [77] Mennesker. Hvad siger
+  ikke Salomo: iblandt tusinde fandt jeg ét Menneske, men fandt ikke én
+  Kvinde blandt dem alle.»
+    </p>
+    <p>
+     «Jo ho, jeg ved det nok,» svarte han, «og jeg ved ogsaa, at Salomo
+  siger, at han fandt en Ting bedskere end Døden – en Kvinde. Og den,
+  som er god, skal undkomme fra hende, siger han; men en Synder skal
+  fanges af hende. Er det ikke omtrent saa. Men er vi ikke alle
+  Syndere!»
+    </p>
+    <p>
+     «Aa jo, saan Smaasyndere. D.v.s. dere Mænd. Vi Kvinder kan ikke
+  synde engang, og endda stængte Muhammed Paradiset for os. Ak ja, hvor
+  har ikke Mændene alle Dage søgt at gardere sig mod os paa al Vis. Ved
+  at give os intet, eller for meget. Ved slet ikke at regne os med,
+  eller gjøre os til et og alt. Og alligevel –»
+    </p>
+    <p>
+     «Ja, det er sandt, man har altid vanskeligt for at finde den rette
+  Plads for Kvinden. Men jeg synes nu Kineserne gaar lidt vidt, naar de
+  siger, de er børnløse, dersom de bare har Døtre.»
+    </p>
+    <p>
+     «Nei virkelig! Ja ja, man kan sige hvad man vil om dere Mænd – ædle
+  er dere nu alligevel altid!»
+    </p>
+    <p>
+     Vi lo, og det blev sent den Aften, før Kampen sluttede. –
+    </p>
+    <p>
+     [78] Jeg havde reist mig for at sige Godnat, og stod et Øieblik
+  alene ved Kaminen. Pludselig stod han ved Siden af mig. Han saa paa
+  mig med et Blik og et Smil, som bragte mig til Raseri, og sagde:«De er
+  en sjelden Dame!»
+    </p>
+    <p>
+     Jeg smilte haanlig: «Saa!»
+    </p>
+    <p>
+     Han lagde et Stykke Birkeved paa Ilden og fortsatte ligesom for sig
+  selv, medens han stod bøiet og saa ind i Kaminen:
+    </p>
+    <p>
+     «Ikke det, at De gaar uden Korset og bærer Deres Haar i gammeldagse
+  Fletninger; men De har Humor.»
+    </p>
+    <p>
+     Jeg saa paa ham med Foragt:
+    </p>
+    <p>
+     «Nei tænk! Det er dog ellers en monopoliseret Mandfolkedyd.»
+    </p>
+    <p>
+     «Ja netop. Og derfor … eller har kanske nogensinde en Kvinde
+  skrevet en Komedie? Neppe.»
+    </p>
+    <p>
+     «Nei, det kan saamen gjerne være; det interesserer mig sandt at
+  sige ikke synderlig. Godnat.»
+    </p>
+    <p>
+     Jeg gik. Desværre havde jeg kun én Ryg at vende ham; jeg ønskede,
+  at jeg havde havt hundrede.
+    </p>
+    <p>
+     «At jeg ikke slog ham!» tænkte jeg, da jeg hurtig sprang nedover
+  Trapperne.
+    </p>
+   </div>
+ 
+   <div type="chapter" xml:id="ii">
+    <head>
+     
+      [II]
+     
+    </head>
+    <quote>
+     <p>
+      [79] «Allzulange war im Weibe ein Sklave und ein Tyrann
+    versteckt. Deshalb ist das Weib noch nicht der Freundschaft fähig:
+    es kennt nur die Liebe.
+     </p>
+     <p>
+      – – Noch ist das Weib nicht der Freundschaft fähig. Aber sagt
+    mir, ihr Männer, wer von euch ist denn fähig der
+    Freundschaft?»
+      (Zarathustra.)
+     </p>
+    </quote>
+    <p>
+     Næste Gang skulde Klubben være hos mig. Jeg var nervøs. Irritabel.
+  I Grunden var jeg træt af det hele. Det var saa meningsløst altsammen.
+  Vi kapløb jo med Tungen ud af Halsen mod Graven; det var det hele. Og
+  vi satte Præmier for den, som kunde le høiest, vrøvle mest, saa vi
+  ikke skulde sanse, hvor det bar hen, ikke høre, hvor Stenene rullede
+  foran os nedover Skraaningen. Ak, hvor det hele var sørgeligt – og
+  latterligt. Dersom der sad et ophøiet Væsen over os og saa denne vilde
+  Dans og disse Galmandsgebærder foran Afgrunden, hvor maatte det ikke
+  le – og græde.
+    </p>
+    <p>
+     Jeg sad stille i min Stue et Par Dage og kjendte paa min Sjæls Puls
+  og fik Rynker paa kryds og paa tvers i mit Ansigt. Aa, hvor jeg var
+  træt af min Sjæl og mit Ansigt og altsammen. Jeg holdt ikke Stilheden
+  ud. [80] Og jeg reiste mig omsider og knyttede Hænderne og sagde til
+  mig selv: Nei, ikke Sottedød, ikke Stuedød! Jeg vil slaas med Livet
+  endda en Stund. Slaas med hvemsomhelst og hvadsomhelst – bare ikke
+  denne fortærende Stilhed.
+    </p>
+    <p>
+     Ja, hvorfor ikke – med
+     ham
+     vil
+  jeg slaas! Jeg gjorde en trodsig Grimace til mig selv i Speilet: Ja–ha
+  det vil jeg! Tror du den Smule Rynker, du viser frem, skræmmer
+  mig!
+    </p>
+    <p>
+     I næste Øieblik sad jeg ved mit Skrivebord og rablede følgende
+  Billet til Fru N.
+    </p>
+    <quote>
+     <p>
+      Kjære Marie!
+     </p>
+     <p>
+      Tak for igaar!
+     </p>
+     <p>
+      Det var jo yderst elskværdigt af din Mand, at han vil være vor
+    Torsdagsgjæst. Han er selvfølgelig inderlig velkommen ogsaa hos mig.
+    Men hans Prærieven, hvad skal man sige til ham? Han var dog det mest
+    uforskammede Mandfolk, jeg endnu har havt den Ære at være sammen
+    med! Og slig som han saa ud! Som et Dyr. Jeg er vis paa, at han gaar
+    paa fire, naar han er alene!
+     </p>
+     <p>
+      Men – din Mand har altsaa villet det, og du har gjort
+    Begyndelsen. Og man er da Gudskelov velopdragen. Altsaa tager man
+    [81] Tingene med Anstand og opfører sig
+      comme il faut
+      . Jeg skal sende ham
+    min Adresse.
+     </p>
+     <p>
+      Hjertelig velkommen paa Torsdag!
+     </p>
+     <p>
+      Din
+      Eva.
+     </p>
+    </quote>
+    <p>
+     Samtidig skyndte jeg mig, at sende følgende Kort til Bjørnen (Svar
+  fra Fru N. maatte altsaa ikke faa Tid til at indtræffe først. Hvorfor
+  blev dette mig med en Gang saa magtpaaliggende?):
+    </p>
+    <quote>
+     <p>
+      Hr. Ingeniør!
+     </p>
+     <p>
+      Da De i Torsdags gjorde det vovsomme og, sandt at sige, en Smule
+    forbausende Skridt at melde Dem ind i vor Klub sammen med Hr. N.,
+    vil jeg ikke undlade at meddele Dem, at man næste Gang samles hos
+    mig. Men jeg skal, for alle Tilfælde, oplyse, at Klubbens Medlemmer
+    er ganske og aldeles fri, og aldeles ikke behøver at møde hos alle.
+    Uden Fortrydelse fra nogen Kant kan man rolig udeblive.
+     </p>
+     <p>
+      Deres
+      Eva S ……
+     </p>
+    </quote>
+    <p>
+     Næste Morgen fik jeg følgende Brev fra Fru N.
+    </p>
+    <quote>
+     <p>
+      Kjæreste Eva, du er virkelig altfor troskyldig! Du kan da vide,
+    at det var en [82] Spøg af min Mand, og ogsaa af «Dyret». Du slipper
+    dem saamen begge. «Dyret» er forresten meget bedre, end han ser ud
+    til. Han er klog, og en grei, dygtig Kar; men der er noget i hans
+    Liv, som har gjort ham brutal, stundom kynisk. Han har havt en
+    Affære derborte i Vesten, som har sat ham ud af Stilling; men hans
+    Kamerater, deriblandt min Mand, er overbevist om hans Hæderlighed og
+    holder meget af ham. Han har altsaa, som saa mange, været uheldig,
+    og det har gjort ham haard.
+     </p>
+     <p>
+      Men, som sagt, tænk ikke mer paa dette. Du har selvfølgelig
+    ingensomhelst Pligt ligeoverfor ham. Min Mand hilser og takker
+    forresten. Han er skral, og i alle Tilfælde ausgeschlossen.
+     </p>
+     <p>
+      Jeg glæder mig til en frisk, fro og freidig Damerangel paa
+    Torsdag. Sidst gik det lidt ud af det gamle, gode Spor.
+     </p>
+     <p>
+      Din
+      Marie.
+     </p>
+    </quote>
+    <p>
+     Jeg bed mig i Læben og kastede Brevet i Kaminen.
+    </p>
+    <p>
+     – Ved Middagsbordet fortalte jeg min Mand med megen Iver og
+  flængende Kritik om den amerikanske Bjørn, som havde forstyrret vor
+  Sammenkomst.
+    </p>
+    <p>
+     [83] Det var mig en Lettelse at snakke. – Nu kom der vel snart en
+  Billet, hvorfra Ironien lyste. Det kunde han.
+    </p>
+    <p>
+     Men Dagen gik, og der kom intet. Om Kvelden gik jeg rastløs frem og
+  tilbage i min Ensomhed. Hm! Den høflige Herre svarte ikke engang.
+  Maaske sidder han nu og smiler over min Billet. Finder det overflødigt
+  at svare. Triumferer! Jeg blev hed, der jeg gik alene i min Stue.
+    </p>
+    <p>
+     – Jeg havde et Arbeide, som hvilte paa mig. Jeg tog det frem som i
+  Feber. Prøvede at tage fat. Det var ligesom Livet om at gjøre denne
+  Gang – jeg var ræd, hver Gang jeg saa paa det. Som Katten om den hede
+  Grød gik jeg omkring det, droges imod det, men turde ikke, kunde ikke.
+  Det var som en pinefuld Hemmelighed mellem mig og «Magterne». Nei, jeg
+  kunde ikke røre det her mellem Mennesker og graa Mure. Jeg maatte være
+  alene med det, høit oppe, langt borte, hvor ingen saa eller hørte mig.
+  Hernede i Myldret hængte jeg en Fille igjen af mig paa hver Dør, jeg
+  gik ud og ind af, og hvert Menneske, jeg talte med, stjal et Stykke af
+  min Sjæl. Men til dette mit Arbeide maatte jeg komme rig og hel, som
+  til en elsket Elsker!
+    </p>
+    <p>
+     [84] Aa for velklingende Undskyldninger! Jeg kunde jo ikke, jeg var
+  jo ikke rig, det var jo bare det!
+    </p>
+    <p>
+     Men nu var det alligevel, som om Tidspunktet var kommet, da jeg
+     maatte
+     . Jeg tog mig voldsomt
+  sammen, prøvede, men Taarerne styrtede frem, og jeg fór op og gik
+  igjen i rund Ring og vred mine Hænder. Jeg var nervøs indtil Vanvid.
+  Herregud, hvad var det? Jeg havde gjort en liden Dumhed. En ganske
+  liden Dumhed, en Barnagtighed, det fik da bæres. Men foran mig saa jeg
+  et Smil i en Ramme af vildt, rødt Skjæg og et Par Øine, som lyste af
+  en modbydelig Ironi!
+    </p>
+    <p>
+     – Nei, hør nu, min Dame, du er paa Vei ti at blive gal. Og ligesom
+  i instinktmæssig Trang til at redde mig fra en Ulykke gik jeg
+  pludselig, bestemt og hurtig ind til min Mand. Han saa distrait og
+  forvirret op fra sit Arbeide. Da blev jeg med en Gang flau som en
+  Skolepige og spurgte efter en Kvittering. Jeg havde faaet en Regning
+  to Gange; men han skulde ikke lede nu, jeg kunde faa den siden. Og
+  ganske idiotisk gik jeg ud igjen, og atter kom Taarerne styrtende.
+    </p>
+    <p>
+     Jeg vilde fortalt ham om min Dumhed med Billetten, og om Mandens
+  grænseløse [85] Uhøflighed, og spurgt ham, som Gentleman, hvad en Dame
+  havde at gjøre i slige Tilfælde. For jeg var altsaa ærgerlig, det
+  vilde jeg sagt ham.
+    </p>
+    <p>
+     Men jeg var jo alene. Altid alene. Han var tusinde Mil borte fra
+  mig, og hvad saa? Ja, dersom nogen
+     virkelig
+     havde fornærmet mig, saa
+  havde han nok taget sig sammen og hjulpet mig. Men dette vilde han
+  smilet af og sagt: Det hele er en altfor stor Bagatel, kjære; tag det
+  med Ro.
+    </p>
+    <p>
+     – Men tidlig næste Morgen kom et Brev med fremmed Haandskrift. Jeg
+  sprang ind med det og laaste Døren og sad længe med det uaabnet.
+  Hjertet hamrede i mit Bryst.
+    </p>
+    <p>
+     Jeg kaldte paa min Dameværdighed, paa mine Aar, og jeg skammede mig
+  selv ud. Hvad var nu dette for Idioti, og endelig aabnede jeg med
+  skjælvende Haand Konvolutten. Det, som slog mig, var en svær, tyk
+  Haandskrift. Bjørnelabben, sagde det inde i mig. Men der stod kun
+  følgende:
+    </p>
+    <quote>
+     <p>
+      Høistærede Frue!
+     </p>
+     <p>
+      Jeg siger Tak! Jeg kommer selvfølgelig.
+     </p>
+     <p>
+      Deres ærbødige
+      N. N.
+     </p>
+    </quote>
+    <p>
+     [86] Jeg kommer! Og selvfølgelig! Simpelthen. Huh, hele Manden var
+  ligesom bare et eneste stort
+     Jeg!
+     Det var en Freidighed uden Lige!
+    </p>
+    <p>
+     Jeg stod op, gik omkring og knugede Brevet, hed og nervøs. Men saa
+  maatte jo min Mand med, og de andre Mænd! Det hele Arangement maatte
+  forandres. Nei, nei, Mødet maatte indstilles; jeg maatte blive syg.
+  Dette gik ikke.
+    </p>
+    <p>
+     – Han kommer! Og pludselig kastede jeg mig ned paa Sofaen og græd,
+  som mit Hjerte skulde briste. Aa Gud, jeg er jo syg!
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Næste Formiddag, da min Mand var gaaet paa Bibliotheket og mine
+  Børn paa Skolen, gik jeg omkring i rastløs Huslighed. Jeg maatte have
+  alt slig, som jeg likte det omkring mig. Jeg ordnede Blomsterne, lagde
+  Birkeved paa Kaminen. Jeg vilde arbeide. Idag var det, ligesom jeg var
+  saa uendelig langt fra Verden, saa uendelig alene. Nu maatte jeg vove
+  at tage mit Arbeide frem. Men jeg satte mig bare foran Ilden og lod
+  mine Hænder falde tungt ned.
+    </p>
+    <p>
+     Da ringte det, og Pigen bragte mig hans Kort. Hurtigere end jeg kan
+  skrive det, [87] var jeg ved Speilet, slyngede et stort hvidt
+  Blondetørklæde om Halsen og satte min høie Skildpaddekam i Haaret.
+  Kastede et Blik paa mine Hænder – og saa stod han der.
+    </p>
+    <p>
+     Han takkede for Brevet. Var blevet svært overrasket. Behagelig
+  overrasket. Han havde ikke drømt om, at hans Spøg skulde blive saa
+  elskværdigt vendt om til Alvor. O.s.v. Jeg har sikkert aldrig i mit
+  Liv rødmet dybere, og han lod mig mærke, at han saa det. Det ironiske
+  Smil trak op. Atter fór den Tanke gjennem mit Hoved: Hvorfor slaar du
+  ham ikke! Men jeg stammede de dummeste Ting: Nei, De maa aldeles ikke
+  tro … det har intet med Elskværdighed at gjøre … men man vil jo nødig
+  være uhøflig. Og dette med, at Gemalerne skulde med af og til, er
+  gammelt. Han smilte, bukkede og begyndte at se sig om, ugenert og
+  ligesom undersøgende. Jeg bød ham en Stol ved Kaminen.
+    </p>
+    <p>
+     «Hvor pent De har det! Saa mange Farver.»
+    </p>
+    <p>
+     «Ja, Jeg liker Farver.»
+    </p>
+    <p>
+     «Den ligner Dem selv denne Stuen; der er slige dristige,
+  forbausende Overgange – men som Hele –»
+    </p>
+    <p>
+     «Tør jeg byde en Cigar. Min Mand har en Kasse staaende
+  herinde.»
+    </p>
+    <p>
+     [88] «Tak.» (Pause.)
+    </p>
+    <p>
+     «Maa jeg byde et Glas Vin. Kjølig Rhinskvin?»
+    </p>
+    <p>
+     «Tak! I grønne Glas. Naturligvis. Det passer herinde. Ved De hvad,
+  Frue. De er næsten
+     for
+     stilfuld.»
+    </p>
+    <p>
+     «Hvad mener De?»
+    </p>
+    <p>
+     «Det virker saan lidt … lidt affekteret. Som saan «kunstnerisk»
+  Stræben. Jeg skal sige Dem, jeg fordrager ikke Kunstnere. De er ikke
+  Mennesker.»
+    </p>
+    <p>
+     «Hm. Og jeg kan egentlig ikke fordrage andre Mennesker end
+  Kunstnere, naar jeg skal være oprigtig. Netop fordi de er saa meget
+  mere Mennesker end andre. Uskyldigere og naivere. Og saa er de ikke
+  saa stemningsforladte, som det praktiske Livs Mennesker ofte
+  bliver.»
+    </p>
+    <p>
+     Vi drak Vin og vrøvlede. Alt, hvad jeg sagde, modsagde han. Mine
+  «Meninger» tog han neppe nok alvorligt, og der fandtes ikke
+  Retfærdighed i hans Sjæl, naar det gjaldt Kvinder. Jeg maatte tænke:
+  hvilken Modsætning til min altid retfærdige, finttænkende Mand!
+    </p>
+    <p>
+     Hans Visit blev kort, og da vi skiltes, blev vi leende enige om, at
+  to mere forskjellige Individer end vi neppe nogensinde [89] havde set
+  Dagens Lys. Vi kunde vist holde det gaaende med Kjægl og Trætte fra
+  Morgen til Aften. Men jeg tilføiede, at jeg forøvrigt ikke kunde tænke
+  mig det Menneske, som ikke maatte trætte med ham, saa umaadelig vrang
+  som han var.
+    </p>
+    <p>
+     – Jeg var i slet Humør, da han var gaaet. Det var sandt; han
+  ødelagde enhver Stemning. Jeg holdt ham ikke ud. Og det endelige
+  Resultat blev: Torsdagsmødet indstilles.
+    </p>
+    <p>
+     Men det blev ikke indstillet. Tvertimod. Alle Mænd blev budne; der
+  kom to foruden ham.
+    </p>
+    <p>
+     Min arme Mand, som selvfølgelig var fortvilet i sit Indre, bar det
+  med Resignation. Ud paa Aftenen fandt han og Bjørnen hverandre i et
+  naturvidenskabeligt Emne, og alt gik over Forventning for saavidt.
+    </p>
+    <p>
+     Men da alle var gaaet om Kvelden, kastede jeg mig træt paa Sofaen.
+  Jeg var skuffet. Aa, hvor det hele var tomt og trist!
+    </p>
+    <p>
+     Nei, fremforalt ikke disse fortvilede Selskaber med Pligtægtemænd.
+  Fri fik da voksne Mennesker være – hver i sit.
+    </p>
+    <p>
+     Men min Mand reiste til Udlandet, og Bjørnen kom siden alle
+  Torsdage. Vi saaes ogsaa ellers, oftere og oftere, og jeg fandt
+  [90] tilslut Mennesket under Bjørnehammen. Vi endte med at blive
+  Venner, gode Kamerater, som var dygtig hensynsløse mod hverandre, og
+  som ikke var enige om en eneste Ting paa Guds grønne Jord, og derfor
+  aldrig manglede Stof til Samtale og Trætte. Jeg udviklede mig til en
+  ren Debattant, og det hændte, at jeg gjorde ham ganske ør med alle de
+  vilde Paradokser og freidige Paastande, som han hidsede mig op til.
+  Ofte sagde han: «Men velsigne Dem, Frue, hvordan kan en saa ulastelig
+  Dame, som De, være saa totalt blottet for Moralfølelse, Religion,
+  Ansvarsfølelse og alle andre Følelser, som et moderne
+  Samfundsmenneske, og især da en Kvinde, er nødt til at have. De er jo
+  en Vild ifra Afrikas Skoge.» Og jeg sagde ham, at han ved sin
+  irriterende Udmærkethed tilslut drev mig helt og holdent ind i
+  Urskogen. Sad han ikke der og var saa skuffende lig et Menneske, en
+  Mand, og saa var han bare en Maskindel! Da reiste han sig undertiden
+  halvt i Stolen og saa ud, som om han vilde tugte mig korporlig. Og det
+  endte med Latter og hans inderlige Forsikring om, at jeg ialfald var
+  «moralsk fordærvet».
+    </p>
+    <p>
+     Saadan gik Vinteren, og han var som Kamerat og Ven rigtig i sit
+  Element.
+    </p>
+    <p>
+     [91] – – Men – «Allzulange war im Weibe ein Sklave und ein Tyrann
+  versteckt. Deshalb ist das Weib noch nicht der Freundschaft fähig: es
+  kennt nur die Liebe.»
+    </p>
+    <p>
+     Saa talte Zarathustra.
+    </p>
+   </div>
+ 
+   <div type="chapter" xml:id="iii">
+    <head>
+     
+      [III]
+     
+    </head>
+    <quote>
+     <p>
+      «Es ist immer etwas Wahnsinn in der Liebe. Es ist aber auch etwas
+    Vernunft im
+    Wahnsinn.»
+      Nietzsche.
+     </p>
+    </quote>
+    <p>
+     Inden Vaaren kom, var det vanvittige sked. Jeg elskede. Mod al min
+  Vilje og al min Fornuft. Jeg var overrumplet, lamslaaet; jeg havde
+  mistet min Forstand. Jeg gik omkring i en eneste Forvirring. Hvorfor
+     maatte
+     jeg dette? Jeg vilde, vilde,
+  vilde det jo ikke! Aa, min Elskede, hvorfor gik du ikke ud af min Vei!
+  Før, straks, for længe siden! Hvorfor reddede du mig ikke fra dette,
+  du, som var voksen og klog? Men nu var det forsent, det sagde vore
+  Øine, hvergang vi mødtes. Vi var fortabte. Vi søgte skjælvende sammen;
+  men blev stumme og forlegne i hverandres Nærhed. Kun en Gang mødtes
+  vore Hænder i et Haandtryk, som fortalte alt. Og da hviskede jeg i min
+  Nød: «Reis!»
+    </p>
+    <p>
+     [92] Men han reiste ikke. Vi gik der i Angst og lyttede til
+  hverandre – to Sjæle og to Legemer, som i ubeskrivelig, ængstelig
+  Ømhed søgte ind til hverandre. To voksne Mennesker, som saa Afgrunden;
+  men ikke havde Kraft til at stanse.
+    </p>
+    <p>
+     Og de lange, lange Timer, jeg levede borte fra ham, gik jeg som et
+  Vilddyr i fortvilet Vandring foran Burets Jernstænger.
+    </p>
+    <p>
+     Ingen og intet kunde redde mig; jeg var en eneste brændende Længsel
+  og Attraa. Ingen kunde tage denne Kalk fra mig!
+    </p>
+    <p>
+     Min Fod var bundet til at gaa de Veie, der førte til ham og ingen
+  andre. Det hjalp ikke, at jeg sagde til mig selv: dette er Vanvid! Jeg
+     vilde
+     vende om, men jeg gjorde det
+  ikke. Jeg kunde ikke slukke Livets Lys, som igjen var tændt for
+  mig.
+    </p>
+    <p>
+     Der, hvor han var, der var Livet; der alene var jeg Menneske.
+  Sammen med ham glemte jeg alt andet, var straalende og glad. Han
+  piskede mig op til Høiden af mig selv; det var, som en indre Ild
+  tændtes i mig i hans Nærhed.
+    </p>
+    <p>
+     Og Ilden i mit Indre gjennemlyste mig. Jeg saa det; jeg var yngre
+  og vakrere end paa mange Aar.
+    </p>
+    <p>
+     Det hændte af og til, at vi følte vor [93] Selvbeherskelse svigte,
+  at vor Kraft var tilende. Da flygtede vi rædde for hverandre; men –
+  kun for straks igjen at søge sammen.
+    </p>
+    <p>
+     Hvorlænge kunde vi dette? Jeg tænkte ofte: reise langt bort, aldrig
+  mere se ham! Drukne sig i Arbeide, i Pligter, for dette
+     maa
+     ikke ske! Vi er for kloge, for
+  gamle, vi ved for meget. Vi ser jo alt det forfærdelige, vi trækker
+  ned over os selv og andre; hvor kan vi saa gjøre det!
+    </p>
+    <p>
+     Men ak, i næste Øieblik brændte hele mit Væsen imod ham, og jeg
+  vidste bare, at jeg holdt ikke ud denne Evighed, til jeg igjen fik se
+  ham. Alt andet kunde bæres, bare ikke det at være borte fra ham, ikke
+  se ham, ikke føle hans Nærhed!
+    </p>
+    <p>
+     Naar jeg gik paa de ensomme Veie og glemte Verden omkring mig,
+  maatte jeg hvert Øieblik stanse og knuge mine Hænder, og jeg hviskede
+  halvhøit for mig selv: Aa, min elskede Ven, hvorfor er du tusinde Mile
+  borte fra mig! Men naar jeg hørte hans Skridt, tændtes tusinde Lys
+  indeni mig, og mit Ansigt glødede og mine Øine straalede imod ham. Jeg
+  syntes, jeg maatte være deilig, for alt jublede i mig, naar han
+  kom.
+    </p>
+    <p>
+     Mine Veninder snakkede om Bøger, om Kunst, og vilde vide min Mening
+  om det og [94] det. De fortalte mig om interessante Værker af den og
+  den store Forfatter. Det vilde interessere mig, jeg maatte læse det.
+  Jeg smilte i mit Hjerte. Du, min Ven, interesserer mig, du og intet
+  andet! Men sig det ikke til Menneskene, for da vil de udstøde mig af
+  alt godt Samfund. Aa, men jeg er fuld af Uro og Angst. Du er saa langt
+  ifra mig! Hvorfor kommer du ikke! Naar faar jeg se dig? Det er mine
+  Dages og Nætters store Spørgsmaal. Og der lagde sig et Jernbaand af
+  Længsel om Pande og Bryst, og jeg raabte paa ham og bad: «Aa, min
+  elskede Ven, hvorfor piner du mig, ser du ikke, føler du ikke, at jeg
+  er din! Ingen Magt i Himlen eller paa Jorden kan redde mig fra dig! –
+  –
+    </p>
+    <p>
+     – – Det var i Mai. Jeg havde havt en Uge fuld af Fortvilelse. Han
+  havde trukket sig tilbage efter et Selskab, hvor han et Øieblik havde
+  glemt sig selv. Han sad med Panden støttet i Haanden alene ved et
+  Bord, og hans Øine hang ved mig, der jeg stod længer henne i Stuen og
+  talte med en Dame. Saa kom jeg forbi, og han strakte uvilkaarlig
+  Haanden ud efter mig, ligesom bedende. Mange saa det, og jeg blegnede.
+  Straks efter gik han, og jeg kjæmpede en voldsom Kamp for at
+  [95] holde mig oven Vande til det almindelige Opbrud. Aa, hvilke
+  Nætter og Dage jeg tilbragte efter den Aften og til den Dag – den
+  forfærdelige, deilige Vaardag fjorten Dage senere, da vi atter
+  mødtes.
+    </p>
+    <p>
+     – Det var en straalende Formiddag med Sol over al Verden og
+  dirrende Vaar i Luften. Jeg sad paa mit Værelse, bleg og forgræmmet af
+  Søvnløshed og vaandefulde Tanker. Jeg vidste, at vi nu var paa ret
+  Vei, jeg vidste jo dette var det eneste, at vi aldrig mere saaes. Det
+  kunde jo ikke blive andet end Jammer og Sorg og Forviklinger for to,
+  som vilde bryde alle Baand og begynde paa nyt. Og i vor Alder – ingen
+  af os vilde klare det. Aa, han var klog. Og nobel. Han vidste, at jeg
+  var for svag, og han vilde redde mig. Aa, min Ven, du ved ikke, at alt
+  andet var en Leg mod dette, at du ikke kommer!
+    </p>
+    <p>
+     Det var, som Maalet nu var fuldt. Jeg havde grædt mig syg og træt,
+  og jeg var ude af Stand til at foretage mig nogetsomhelst. I alt hvad
+  jeg saa paa var hans Billede.
+    </p>
+    <p>
+     Rørende og tilbedelsesværdige var mig nu hans største Mangler, og
+  hvor var han ikke klar, klog og overlegen i Forhold til [96] mig. Hvor
+  havde ikke allerede hele mit Væsen taget Farve af ham. Jeg vidste, at
+  var han bare hos mig, da var min Personlighed, mit Selv – alt var mig
+  ligegyldigt! Jeg var gal! Men hvad brød jeg mig om min Forstand. Den
+  var mig kun til uendeligt Besvær. Ikke stor nok, men heller ikke liden
+  nok – utækkelig, som alt middelmaadigt.
+    </p>
+    <p>
+     Denne Maidag med Vaar i Luften gjorde mig fortvilet, og min Længsel
+  svulmede over alle Grænser. Jeg følte mig svag og kraftløs som efter
+  en svær Sygdom.
+    </p>
+    <p>
+     Gang paa Gang gjentog jeg for mig selv: hvordan skal dette ende.
+  Som altid om Formiddagen var jeg alene. Jeg havde reist mig fra min
+  lave Kaminstol og slæbte mig omkring med trætte Skridt. Da ringte det
+  energisk paa Entreklokken, og mit Hjerte stod stille i mit Bryst. Den
+  Ringen var hans.
+    </p>
+    <p>
+     Jeg blev staaende som naglet til Pletten. Hørte ham derude. Da han
+  bankede paa Døren, tog jeg et krampagtigt Tag om Bordpladen.
+    </p>
+    <p>
+     Saa stod han foran mig og gav mig stille Haanden: «Vær ikke vond,
+  fordi jeg kommer!»
+    </p>
+    <p>
+     [97] Men da var det forbi. Jeg kunde ikke mere bruge min Vilje, og
+  jeg sank sammen i hjælpeløs Graad.
+    </p>
+    <p>
+     Da tog han mig ind til sig, lagde mit Hoved paa sin Skulder og
+  hviskede: «Kjære, deilige Eva, hvordan skal dette gaa!» Jeg lukkede
+  mine Øine og sagde bare, at jeg Ingenting mere vidste, at jeg havde
+  mistet min Forstand og al min Vilje. Men han svarte bare: «Nei nei,
+  luk ikke Øinene dine! Se paa mig med de deilige Øinene dine – kjære,
+  kjære Eva!» Og jeg saa paa ham gjennem Strømme af Taarer: «Jeg er saa
+  vanvittig glad i dig! Hvad skal jeg gjøre! Du maa ikke gaa fra mig,
+  det kan jeg ikke.» Da søgte hans Læber mine, og jeg lukkede atter mine
+  Øine og ønskede mig Døden. Aldrig, aldrig mere slaa mine Øine op,
+  aldrig kjende, at hans Arme slap mig. Dø med hans Læber mod mine, dø
+  nu, – alt, som kommer siden, bliver ondt! Aa, hvor var hans Kys
+  ængsteligt og blygt, hvor var hans Ord dumme og søde! Og hvor var vi
+  ikke begge unge og skjælvende, som om intet før havde rørt vore
+  Hjerter. Alverdens Lys og Sol var i os og omkring os!
+    </p>
+    <p>
+     Han fortalte mig, hvordan dette var kommet for ham. Han vidste
+  hvorfor, kunde forklare det – sagde mig, hvilke Egenskaber [98] det
+  var hos mig, som havde tiltrukket ham, sagde tusinde Ting, som var
+  deilige at høre, og endte med: «Du var ligesom Toppunktet af Kvinde!
+  Du havde alle specielt kvindelige Egenskaber i saa høi en Grad – du
+  var koket, forfængelig og forfærdelig sød …» Jeg holdt Haanden over
+  hans Mund: «Min Herre!» «Jo, du var, og dertil havde du det, som
+  Kvinder ikke pleier have!» Jeg lo: «Humor?» – «Ja, og saa gruelig
+  meget Forstand – næsten som et Mandfolk!»
+    </p>
+    <p>
+     «Aa, der er ingen Udvei med dig – du er uforbederlig!»
+    </p>
+    <p>
+     «Ja, og hvordan kunde nu du … du, som aldrig har fundet andet end
+  frygtelige Mandfolklaster hos mig – hvordan kunde du.»
+    </p>
+    <p>
+     Men jeg kunde Ingenting forklare.
+    </p>
+    <p>
+     «Ja du, den som vidste det; jeg kan jo egentlig slet ikke like
+  dig!»
+    </p>
+    <p>
+     Det maatte jeg betale.
+    </p>
+    <p>
+     «Nei, jeg kan ikke! Du er en Tyran, og alt, som er forfærdeligt. Og
+  alligevel –»
+    </p>
+    <p>
+     «Og alligevel?»
+    </p>
+    <p>
+     Jeg bøiede mig mod ham: «Alligevel: min Herre – her er min
+  Nakke!»
+    </p>
+    <p>
+     – Aa, hvor var vi unge disse faa lykkelige Minutter! Verden var
+  ikke til for os.
+    </p>
+    <p>
+     Men altfor snart blev vi vækket op til [99] den haarde Virkelighed,
+  og vi maatte skilles med kolde, ligegyldige Ord.
+    </p>
+    <p>
+     Og før han gik, fik han mig atter til Fortvilelse ved at sige: «Aa,
+  kjære dig, dette er Vanvid! Imorgen vil du angre, imorgen vil du
+  bebreide mig.»
+    </p>
+    <p>
+     Og jeg kunde ikke faa svaret ham, kunde ikke faa sagt ham, hvor
+  daarligt han kjendte mig, naar han trodde det. Kunde ikke faa sagt
+  ham, hvor godt jeg saa tilbunds i det hele, hvor jeg nu med en Gang
+  var klar over alt, ogsaa over mig selv – nu, siden vi havde aabnet
+  vore Hjerter for hverandre i den inderligste Fortrolighed.
+    </p>
+    <p>
+     Straks han var ude af Døren, maatte jeg sætte mig og skrive det til
+  ham altsammen.
+    </p>
+    <p>
+     Han maatte ikke misforstaa mig. For Guds Skyld ikke det! Han maatte
+  ikke blande mig sammen med disse ørkesløse Fruer, hvis Maal er
+  Tidsfordriv og hvis høieste Begjær er «smaa Stemninger». «Jeg kan
+  Ingenting halvt, der findes ikke Maadehold i mig. Saa letvindt og grei
+  og kry jeg ellers er, saa tung, kjedsommelig og ydmyg bliver jeg, naar
+  jeg elsker. Ja, min Ven, nu er det sagt: Jeg elsker dig, det er den
+  forfærdelige, deilige Sandhed, det sorteste, uryggeligste Alvor. Ingen
+  Magt kan redde mig fra dig.»
+    </p>
+    <p>
+     [100] Og jeg sagde ham, at de ydre Forhold ingen Rolle spillede for
+  mig. Længe nok havde jeg levet til at vide, hvor lidet alt Ydre har
+  med Lykken at gjøre. Jeg kunde arbeide, vilde ingen Last være for ham,
+  aldrig det; men jeg følte mig som hans – hans Vilje var min i alt.
+    </p>
+    <p>
+     Ærlig, ligefrem og fuldt bevidst kom jeg til ham og sagde: Her er
+  jeg! Bestem over mig. Raad mig. Befal mig! Kan «andre» skaanes, aa, da
+  er det deiligt; men ét er over alt andet!
+    </p>
+    <p>
+     Saa kyssede jeg Brevet og sendte det hen til hans Bolig. Nu var det
+  gjort, og jeg var rolig og glad. – Nu først ser jeg Omfanget af min
+  Naivetet; dengang havde jeg bare en Tanke: at være ærlig og hel, ikke
+  pjaltet og smaalig, som alle dem, der skyder sin Feighed ind under
+  hykkelsk Snak om Pligter og Moral, som alle dem, der søger
+  Tidsfordriv.
+    </p>
+    <p>
+     Den næste Aften skulde vi begge i et stort Selskab hos vore fælles
+  Venner. Men der var tusinde Aar til da.
+    </p>
+    <p>
+     Om Kvelden, da jeg kyssede mine Børn til Godnat, havde jeg en
+  ubeskrivelig Trang til at sige dem, hvilken forunderlig Ting der var
+  hændt deres Mor, hvor hendes Hjerte [101] bankede af Lykke. Min
+  Samvittighed var let og fri, og min Mand, stakkar, maatte døie en
+  Mængde gaadefuldt Snak ved Aftensbordet. Jeg gav ham Haanden og sagde:
+  Hvor forunderligt Livet er! Helst vilde jeg taget ham om Halsen og
+  sagt: Min bedste Ven i Verden, glæd dig med mig! Ja, var det nogen paa
+  Jorden, jeg trygt kunde sagt alt til, saa var det ham. Han vilde
+  forstaaet det og tilgivet. Og maaske vilde det paa en Vis have lettet
+  ham. Han sagde jo altid, at han led, fordi han stængte mig ude fra
+  Livet. Ja, han vilde tilgivet og forstaaet, men – bedrøvet vilde han
+  blevet! Aa, min inderlig snille, gode Ven, derfor tier jeg – endnu.
+  Aa, hvorfor maa jeg gjøre dig ondt! Hvorfor maa det gjøre dig ondt, at
+  jeg er glad og lykkelig, naar vi to dog aldrig mere kan gjøre
+  hverandre glade! Men du vil blive bedrøvet, thi intet kan udslettes af
+  ens Liv, og jeg var dog engang meget for dig.
+    </p>
+    <p>
+     Og tror du ikke ogsaa jeg føler det som en grænseløs Sorg, at jeg
+  maa tilføie dig dette. Men der er et, som er over alt!
+    </p>
+    <p>
+     Og det er den grusomme Sandhed, at ikveld er du mig et Middel til
+  at faa de forfærdelige Timer til at gaa – de lange, lange Timer til
+  imorgen, da jeg skal se ham.
+    </p>
+   </div>
+  
+   <div type="chapter" xml:id="iv">
+    <head>
+     <ref target="#contents_5" xml:id="chapter_5">
+      [IV]
+     </ref>
+    </head>
+    <quote>
+     <p>
+      [102] «Es ist mehr Vernunft in deinem Leibe, als in deiner besten
+    Weisheit. Und wer weiss denn, wozu dein Leib gerade deine beste
+    Weisheit nöthig
+    hat?»
+      Nietzsche.
+     </p>
+    </quote>
+    <p>
+     Jeg gik som i en Drøm den næste Dag. Af og til stod jeg stille i
+  min ensomme Stue og slog Hænderne sammen og hviskede: «Hvad er der
+  hændt? Hvad er det, du staar i Begreb med at gjøre?» Og atter travede
+  jeg op og ned i ulidelig Spænding. Jeg var som en Streng, der var
+  spændt til det høieste. Naar vilde den briste! Aa, hvor en Dag kan
+  være lang! Der var endnu tusinde Aar til i Aften!
+    </p>
+    <p>
+     Men da Tiden nærmede sig, blev jeg rolig. Jeg betoges af en
+  underlig vemodig, høitidsfuld Stemning. Jeg kyssede mine Børn, som om
+  jeg aldrig mer skulde se dem, og gik ind og sagde et høist
+  forstyrrende Godnat til min Mand. Jeg maatte stryge ham over Haaret,
+  jeg maatte se til hans Lampe. Hvor var jeg taknemmelig over, at han
+  kun var en Smule grætten, og ikke det mindste rørt. Havde han havt det
+  gode, hjælpeløse Blik, og den trætte resignerte Stemme, som han
+  undertiden havde, da havde det været forbi med mig.
+    </p>
+    <p>
+     [103] Nu kunde jeg gaa med den trygge Overbevisning, at min
+  Nærværelse nærmest generte ham.
+    </p>
+    <p>
+     Saa klædte jeg mig rolig og med Omhu – helt i hvidt – og kjørte
+  afsted.
+    </p>
+    <p>
+     Jeg sad i Vognen og drømte om ham. Jeg saa ham komme imod mig med
+  vor deilige Hemmelighed – det var, ligesom jeg syntes han maatte være
+  brudgomsklædt. – Jeg kom jo for at gjentage: Her er jeg!
+    </p>
+    <p>
+     Hvilken Dag maatte ikke ogsaa han have gjennemlevet. Aa, min Ven,
+  at du nu har det ondt og pinligt for min Skyld. For ondt, og
+  forfærdelig vanskeligt er det jo ogsaa for dig – tror du ikke, jeg
+  forstaar det. Men det ene opveier alt – ikke sandt, kjære, kjære
+  dig!
+    </p>
+    <p>
+     Du er saa forsigtig, saa klog. Men jeg er dum og uden Maadehold. Da
+  du læste mit Brev, blev du da forfærdet over mig? Tænkte, at jeg er
+  «moralsk fordærvet». Er jeg det, min elskede Ven? Jeg ved Ingenting
+  mer! Du vil tænke bekymret paa mine «Pligter», jeg ved det, og have
+  ond Samvittighed. Men for dig maa jeg tilstaa det, jeg har ikke ond
+  Samvittighed – det forfærder mig selv undertiden – men det er sandt,
+  og jeg føler ikke Pligter mod nogen. [104] Jeg har aldrig gjort noget
+  af Pligt. Naar jeg har været en god Mor, og det har jeg, saa er det,
+  fordi det har været min inderligste Trang – kanske var det den
+  sorteste Egoisme, hvad ved jeg! Og naar jeg
+     var
+     en god Hustru, og det var jeg,
+  saa var det, fordi det var mit Liv at være det – dengang.
+    </p>
+    <p>
+     Men det er sandt – det er et, jeg har gjort af Pligt – det eneste,
+  som er mig uskjønt at tænke paa. Aa, min Ven, kunde du forstaa, hvor
+  jeg har været ensom!
+    </p>
+    <p>
+     Men – kan det være stygt og ondt og umoralskt, at jeg selv er glad,
+  og at min Evne til at glæde andre vokser?
+    </p>
+    <p>
+     Aldrig har jeg tænkt saa lyst og vakkert om alle, aldrig været saa
+  god og sand, som naar jeg har været glad!
+    </p>
+    <p>
+     Og nu, min forunderlige, gaadefulde Ven, nu er jeg glad! For om fem
+  Minutter skal jeg se dig, føle din Haand i min. Se din Tak og din
+  Glæde lyse ud af dit Blik, ligesom du skal se min!
+    </p>
+    <p>
+     – Jeg stod i Entréen og tog mit Tøi af, og mit Hjerte bankede, og
+  mine Hænder var brændende hede. Nu stod han derinde, ventede i
+  Spænding. Min stakkars Ven, jeg kommer jo, hvor kunde jeg andet.
+    </p>
+    <p>
+     [105] Jeg pustede langt ud. Ah! Nu gjælder det Selvbeherskelse.
+    </p>
+    <p>
+     Døren gik op, og jeg gled ind i Lyset. Gudskelov, han var ikke i
+  det første Værelse. Lettet hilste jeg paa Værtsfolket og andre
+  Kjendte. Blev fanget ind i en Kreds af leende og disputerende Damer.
+  Det var godt. Jeg trængte Tid. Min Ophidselse var for stor. Jeg kunde
+  naarsomhelst gjøre Skandale. Hvor klogt af ham at holde sig tilbage.
+  Men alligevel – mit Blik gled skuffet omkring – at han kunde sidde
+  rolig derinde! Han maatte jo nu have hørt mig. En pludselig Angst greb
+  mig. Var han her ikke? Her var ligesom saa tomt, trods de mange
+  Mennesker. Jeg nærmede mig en Smule den aabne Dør til det indre
+  Værelse, men gik hurtig tilbage – turde ikke se derind.
+    </p>
+    <p>
+     Atter fangedes jeg ind i Dameflokken, hvor jeg maatte høre paa et
+  anstrengt Jag efter at sige morsomme og spirituelle Ting. Høre,
+  hvorledes de bedste Venners smaa og store Svagheder blev gjort
+  latterlige, og deres smaa og store Sorger blev udnyttede til at sige
+  gode og dybsindige Ting om. Hvor alt, selv det saareste og bitreste,
+  et Menneske havde lidt, paa det grusomste og mest raffinerede blev
+  gjort om til Underholdning. [106] Ja selv egne Sorger, egne
+  Livstragedier blev med passende vibrerende Stemme og klædelig
+  Selvbeherskelse interessant og alvorlig serveret. Hvert stort og lidet
+  Ben blev afgnaget til det yderste under den almindelige Trang til at
+  hævde sig som dannede Mennesker, der kunde snakke om alt, fordi intet
+  menneskeligt var dem fremmed.
+    </p>
+    <p>
+     Men jeg, som stod der med hver Nerve spændt i Angst og Uro, og i
+  Glæde, som jeg ikke turde give Luft, jeg blev ræd. Aldrig før havde
+  jeg saa dybt følt det moderne Selskabslivs Hulhed, og aldrig var
+  Menneskene forekommet mig saa rovdyragtige, saa grusomme. Dersom de nu
+  kunde faa et Glimt af min skjælvende Sjæl at se, hvor vilde de ikke
+  kaste sig over den som Hyæner, og slæbe den blodig omkring paa
+  Torvene. Jeg gik fra dem og nærmede mig atter den aabne Dør til
+  Røgeværelset.
+    </p>
+    <p>
+     Da kom Fru N. hen til mig, lagde sin Haand paa min Skulder og sagde
+  leende: «Nu, hvad siger du om Bjørnen, som saa pludselig er reist! Og
+  nu, da vi trodde, du rigtig havde faaet ham i Bur. Ja, det nytter
+  ikke, du ser dum ud – han var krøbet ydmygt i Bur! Ja, min Ven, der
+  har du meget paa Samvittigheden!»
+    </p>
+    <p>
+     [107] Hendes Ord lød som langt borte fra. Jeg tog fast om hendes
+  Arm og sagde: «Jeg er ikke frisk. Hjælp mig, Marie.»
+    </p>
+    <p>
+     Hun lagde forskrækket Armen om min Skulder: «Aa kjære dig – kom!»
+  Og hun støttede mig ud, stilfærdigt og smaasnakkende, saa ingen skulde
+  mærke noget, og lidt efter laa jeg paa hendes Seng.
+    </p>
+    <p>
+     Hun sad hos mig. «Vil du hjem, Eva?» «Ja tak.» Saa gik hun stille
+  ud og kom først tilbage om en Stund med mit Tøi og sagde, at en Vogn
+  var hentet. Taus hjalp hun mig Tøiet paa og fulgte mig ned af
+  Trapperne. Dernede i den mørke Gang klappede hun mig paa Kindet og
+  sagde stille: «Vær ikke vond paa mig, Eva.»
+    </p>
+    <p>
+     Jeg bare rystede paa Hovedet. Saa kjørte jeg hjemover, tungt
+  støttet mod Vognens Puder. Marie havde ladet Kaleschen slaa op.
+    </p>
+    <p>
+     Men da jeg kom ind i min egen Entré, og Pigen stod forskrækket
+  foran mig og spurgte: «Men kjære – er Fruen syg,» da svigtede
+  Kræfterne mig, og jeg maatte hjælpes ind i min Stue, hvor Bevidstheden
+  – trods den voldsomste Viljeanstrengelse – forlod mig.
+    </p>
+    <p>
+     Da jeg vaagnede, laa jeg paa Chaiselongen, og min Mand sad hos mig
+  og holdt [108] min Haand. Da jeg saa ham, lukkede jeg uvilkaarlig
+  atter Øinene. Han strøg mig over Haaret og sagde: «Kjære Eva, du er
+  syg.» Og hans Stemme var saa tyk og underlig. Da var det, som et
+  Jernbaand løsnede fra mit Bryst, og de varme Taarer strømmede ned over
+  mit Ansigt.
+    </p>
+    <p>
+     Atter klappede han mit Haar og spurgte med Angst i alle Miner:
+  «Hvad er det?»
+    </p>
+    <p>
+     Jeg fik endelig presset frem: «Jeg har det ikke godt!»
+    </p>
+    <p>
+     Stille sagde han: «Nei nei.» Men hans dybe resignerte Suk gjorde
+  mig ondt. Jeg vilde jo gjerne sige ham alt. Men jeg sagde bare: «Bryd
+  dig ikke om det – det er vist bare det, at jeg pludselig er blevet
+  voksen, og det er saa ondt at blive voksen.»
+    </p>
+    <p>
+     «Ja – aa ja, skjønt naar det først er over … men prøv nu at sove.
+  Skal jeg gaa?»
+    </p>
+    <p>
+     Men som i Rædsel holdt jeg hans Haand fast, og paany brød Graaden
+  frem i krampagtigt Udbrud: «Aa, hvorfor skal jeg altid være alene!
+  Alene bestandig! Aa, hvorfor slap du mig!»
+    </p>
+    <p>
+     Da bøiede han sig over min Haand og kyssede den og sagde alvorlig:
+  «Kjære dig, jeg har megen Skyld mod dig. Men du [109] skal tro mig,
+  naar jeg siger dig: Aldrig har jeg holdt inderligere af dig end nu! Du
+  er det eneste Menneske, som ikke kjeder mig – ikke plager mig!» Saa
+  slap han min Haand og bøiede sig fremover med Panden mod sine Hænder:
+  «Men slig er det. Livet er ingen Leg.»
+    </p>
+    <p>
+     Da var det mig, som tog hans Hænder og kyssede dem. Og jeg bøiede
+  Knæ for ham i mit Hjerte; men intet Ord fik jeg over mine Læber. Alt,
+  hvad jeg kunde sige, blev saa banalt, alt blev Fraser ligeoverfor
+  denne enkle Menneskelighed, denne mandige Sorg.
+    </p>
+    <p>
+     Om en Stund, da han taus reiste sig for at gaa, sagde jeg uden at
+  se paa ham: «Tak, tak for dette … aa, jeg vilde saa gjerne sige dig
+  …»
+    </p>
+    <p>
+     Men han slog afværgende ud med Haanden: «Sig mig Ingenting. Jeg ved
+  alt. Det er jo naturligt – altfor naturligt. Jeg er modløs og
+  magtesløs, jeg er gammel, og du er endnu ung.
+    </p>
+    <p>
+     Tænk ikke paa mig. Tænk paa dig selv. Prøv at hvile, bringe dine
+  Nerver til Ro. Godnat!»
+    </p>
+    <p>
+     «Godnat og tak!»
+    </p>
+    <p>
+     – Jeg blev liggende ubevægelig. «Aldrig har jeg holdt inderligere
+  af dig end nu!»
+    </p>
+    <p>
+     Ja,
+     saa
+     sagde han.
+    </p>
+   </div>
+  
+   <div type="chapter" xml:id="v">
+    <head>
+    
+      [V]
+     
+    </head>
+    <quote>
+     <p>
+      [110] «Es giebt also platonische Liebe, wenn auch die Professoren
+    der Psychiatri nichts davon halten. Ich möchte sogar sagen: es giebt
+    nur «platonische» Liebe. Denn was sonst noch Liebe genannt wird,
+    gehört in das Reich der
+    Säue.»
+      Weininger.
+     </p>
+    </quote>
+    <p>
+     Min Kjærlighed var altsaa den, som hørte hjemme i «das Reich der
+  Säue», thi alt samlede sig i vild Længsel efter hans Nærhed. Den
+  overdøvede endog min saarede Forfængeligheds Raab om Hevn, den
+  overvandt min Stolthed, den slog mig til Jorden. Som et Dyr kunde jeg
+  styrtet mig ud i Skogene og raabt paa ham, besvoret ham at komme
+  tilbage.
+    </p>
+    <p>
+     Men Fortvilelsen blev til Sygdom. Ingen Kunst kunde længer bringe
+  mig Søvn, og jeg blev hjælpeløs som et Barn i min Elendighed.
+    </p>
+    <p>
+     Da sendte min Mand mig paa Reise. En Søster af ham, som vore Børn
+  elskede, overtog imidlertid mit Hus. Hvor var jeg ham atter
+  taknemmelig.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Og jeg reiste over store Hav; men naar Bølgerne rullede mod Skibets
+  Stavn, [111] sprang jeg frem, bredte Armene ud og raabte mod dem: Aa,
+  min Elskede, tag mig, tilintetgjør mig!
+    </p>
+    <p>
+     Men Skibet hævedes og gled over. Det var som et skuffet Haab hver
+  Gang. Jeg knugede Hænderne mod Hjertet. Aldrig skal det naa mig, det
+  store Bølgernes Favntag!
+    </p>
+    <p>
+     Og naar jeg saa Solen synke i Hav de stille Kvelder, rakte jeg
+  atter mine Arme ud: Min Elskede, lad mig dø i din Glans, fortæres i
+  din Vælde! Tag mig op til dig!
+    </p>
+    <p>
+     Men Solen sluktes, og mine Arme blev trætte, og min Strube tør af
+  at raabe.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Jeg tænkte paa Nietzsches, denne «Kvindehaders» skjønne Ord om
+  Kvinden og Kvindens Kjærlighed, da jeg sad paa Dækket efter
+  Solnedgang, træt af Kamp med mig selv.
+    </p>
+    <p>
+     «Et Legetøi være Kvinden, rent og fint, lig Ædelstenen, bestraalet
+  af Dyder fra en Verden, som endnu ikke er til.
+    </p>
+    <p>
+     I eders Kjærlighed være eders Ære! Lidet forstaar Kvinden sig
+  ellers paa Ære. Men dette være eders Ære,
+     altid at elske [112] mer, end I bliver
+  elsket, og aldrig at være den anden
+     .»
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     To Aar er gaaet i Kamp og Arbeide. Atter vandrer jeg min jevne
+  daglige Vandring nedover Skraaplanet – mod Graven. Kort efter
+  Hjemkomsten fra hin Reise, som atter gav mig Søvn og Kræfter til at
+  leve, modtog jeg et Brev fra ham. Langt og omhyggeligt udarbeidet, men
+  uden Indhold. Jeg maatte prøve at tro ham – hans Opførsel havde dybe
+  Grunde; det, som bandt ham, var – saa ufatteligt og fortvilende det
+  var – uovervindeligt. Han var dømt til kun at se ind i Paradiset,
+  aldrig komme derind o.s.v.
+    </p>
+    <p>
+     Og han roste min Helhed, mit Mod og takkede mig; men mellem
+  Linjerne læste jeg, at han ikke fandt min Moral ganske i Orden. Jeg
+  kastede Brevet paa Ilden med Foragt.
+    </p>
+    <p>
+     Han var dog saa skuffende lig en Mand!
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Nu er det Arbeidet, jeg lever paa. Jeg tjener Penge, faar Ros,
+  føler, at jeg vokser ved det, og muligens er paa Vei til at naa de
+  Høider, hvor der er klart Udsyn, og jeg [113] kan finde det, som har
+  blivende Værd. Men Arbeidet fylder ikke mit Liv. Endnu er det mig kun
+  Surrogat for Livet. Det er godt at arbeide, bedre end alt andet; men
+  jeg er ikke glad. Jeg er som altid fuld af Uro og ubestemt Længsel;
+  ræd for Mørket og Ensomheden.
+    </p>
+    <p>
+     Vil det nogensinde blive anderledes? Jeg tror det neppe. Tør ikke
+  haabe det. Og med Weininger maa jeg sige: «Hvad jeg her har fundet,
+  vil sikkert ikke smerte nogen anden saa som mig selv.» Thi jeg ser
+  ingen Redning for mig.
+    </p>
+    <p>
+     Betyder da ikke «denne Bog en Dødsdom» – for dens Forfatter?
+    </p>
+   </div>
+   
+   <div type="chapter" xml:id="efterskrift">
+    <head>
+    
+      Efterskrift
+     
+    </head>
+    <quote>
+     <p>
+      [114] «Der gives ingen Grader i Sandhed ingen Grader i
+    Sædelighed.»
+      Weininger.
+     </p>
+    </quote>
+    <p>
+     Opfordringen til at skrive en Selvbiografi vilde bringe det store
+  Flertal af Mennesker i en pinlig Forlegenhed, siger Weininger: de
+  færreste vilde kunne gjøre rede for, hvad de foretog sig igaar, end
+  sige mere. Særlig gjælder det Kvinden, at hun ingen sammenhængende
+  Erindring har om den egentlige Kontinuitet, som først rigtig kan
+  forvisse Mennesket om, at det lever, er til i Verden. Naar Kvinden
+  «tilbagefølende» og «tilbageseende» betragter sit Liv, fremstiller det
+  sig ikke for hende som en uophørlig, aldrig afbrudt Stræben, det
+  bliver tvertimod altid hængende i enkelte Punkter.
+    </p>
+    <p>
+     Og hvilke Punkter er det? Det kan kun blive de,
+     for hvilke Kvinden i følge sin Natur har
+  Interesse
+     .
+    </p>
+    <p>
+     [115] Kvinden forføier overhovedet kun over én Klasse af
+  Erindringer, og det er de, som hænger sammen med Kjønslivet.
+  «Erindringen om Elskerne, Frierne, Brudenatten, om hvert Barn, som om
+  hendes Dukker. Om Blomsterne, hun har faaet paa Ballerne, Buketternes
+  Pris, Tal og Størrelse, om hvert Vers, hvert Digt, der blev skrevet
+  til hende, om hver Udtalelse af Manden, som har imponeret hende; men
+  fremforalt – med en Nøiagtighed, der er ligesaa foragtelig, som den
+  virker uhyggelig – om enhver Kompliment uden Undtagelse, som er hende
+  sagt i Livet.
+    </p>
+    <p>
+     Det er alt hvad Kvinden erindrer af sit Liv.»
+    </p>
+    <p>
+     Dette læste jeg hos Weininger og naturligvis blev jeg sint og
+  raabte:
+     Nei
+     , i al Evighed nei! Og
+  jeg sagde som Festus til Paulus: den megen Lærdom gjør dig rasende!
+  Dette er Løgn og Bagvaskelse. Og for 99de Gang slog jeg fast, at han
+  intet ved, og intet kan vide om Kvinden. Men det arbeidede i mig. Og
+  jeg dæmpede min Vrede og tænkte igjen: prøv nu at være sand. Tænk vel
+  efter.
+    </p>
+    <p>
+     Ja –
+     noget
+     Ret har han; vi
+  husker
+     godt
+     alt denslags. Jo, han
+  har
+     meget
+     Ret,
+     bedst
+     husker vi alt fra vort
+  Kjærlighedsliv. [116] Men længer
+     kan
+     jeg ikke gaa i mine
+  Indrømmelser. Det
+     er
+     ikke alt, hvad
+  vi husker. Der
+     er
+     Grader i
+  Sandheden. Tusinder af Kvinder husker ligesom Mændene en Livskamp i
+  Slid og Arbeide, fuld af Skuffelser og Haab, og med alle Evner spændt
+  til det høieste.
+    </p>
+    <p>
+     Men alle, som skriver om Kvinden, tænker kun paa de store Byers
+  ørkesløse, overkultiverede Damer – Drivhusplanterne og Ballernes
+  Dukker, eller ogsaa paa de opagiterede, ensidig udviklede
+  Emancipationsstræbere.
+    </p>
+    <p>
+     Hos Bondestandens og de næringsdrivende Klassers mange Kvinder,
+  vilde Psychologen komme til andre Resultater, dersom han vilde nedlade
+  sig til at studere dem. Der er en Mangfoldighed af Kvinder, som
+  udfører større og vanskeligere Hverv i Livet, end nogen Stuelærd eller
+  Kavaler fra den høiere Selskabsverden drømmer om.
+    </p>
+    <p>
+     Og da først og fremst de mange direkte eller indirekte jorddyrkende
+  Kvinder i de store Bondesamfund – Gaardmandskonerne.
+    </p>
+    <p>
+     Den, som har mistet al Tro paa Kvinden, dette famlende Væsen, som
+  søger ud over sig selv i evig Misfornøielse, vil blive beroliget og
+  atter faa Haab om en naturlig [117] Løsning, naar han i et Bondeland
+  som Norge reiser rundt og ser, hvad Landets Flertal af Kvinder yder i
+  Retning af Arbeide og Omtanke. Ofte ser man i Virkeligheden her, at
+  Patriarkatet ganske rolig og uden Vrøvl er gaaet over til et
+  fornuftigt og vakkert Matriarkat, og alle Mennesker bøier sig i
+  Respekt for «ho sjøl» (
+     mater
+  familias
+     ) ligesaavel som for «han sjøl»
+  (
+     pater familias
+     ). Og ingen vil
+  kunne negte, at mangfoldige af disse Kvinder eier en Evne til at drage
+  Slutninger og handle efter dem, med andre Ord, Evnen til at tænke og
+  handle logisk, en Evne, der af Psychologerne altid fraskrives
+  Kvinden.
+    </p>
+    <p>
+     Og spørg nu disse Kvinder, hvad de mindes, naar de ser tilbage paa
+  sit Liv. Først og fremst vil ogsaa de, ligesom vi fra andre
+  Samfundslag, huske alt det, som hænger sammen med hendes specielle Liv
+  som Kvinde – Manden og Børnene og alt, hvad der dreier sig om dem, det
+  er sandt; men uden Undtagelse skal man ved Siden deraf faa høre om et
+  bevidst Liv som Samfundsmenneske, om en tappert og udholdende
+  gjennemkjæmpet Livskamp med dens Sorger og Glæder, Seire og Nederlag.
+  – Om et værdigt Menneskeliv, som Mandens Raadgiver [118] og
+  Medarbeider, der har sin Hædersplads i Høisædet ved hans Side, og for
+  hvem de voksne Sønner bøier sig i Ærbødighed. Husets Hjerte, men ogsaa
+  Hjerne.
+    </p>
+    <p>
+     Det giver noget at tænke paa. Kanske er det alligevel sandt, at
+  Menneskene er paa farlige Veie – Veiene bort fra Naturen, og kanske er
+  den eneste Løsning paa alle Spørgsmaal og alle Forviklinger den enkle,
+  at Mand og Kvinde skal tage hverandre i Haanden og tillidsfuldt og
+  ydmygt vandre tilbage – kortere eller længere – de samme Veie, paa
+  hvilke de nys hæsblæsende kapløb i Mistro og Had – den ene altid
+  jagende forbi den anden. Men alt gaar jo i Ring, og derfor er det
+  egentlig galt, naar man taler om at gaa tilbage. Det største af alle
+  Fremskridt er jo dog gjennem det komplicerede at naa det enkle. Og
+  selv det enkleste vil altid tage nye Former.
+    </p>
+    <p>
+     – Men, selv om der ingen Grader var i Sandheden, og Kvinderne
+     kun
+     huskede alle de Ting, Weininger
+  regner op, og som er ham saa foragtelige, saa er det sikkert, at alle
+  de Ting, Mænd – Massen af Mænd – husker, forekommer mig mindre
+  værdifulde. Kvindens Erindring dreier sig altsaa altid om det ene
+  store, selv om enkelte Ting kan [119] synes smaa, og om man kan sige,
+  det er latterligt og barnagtigt – ja foragteligt at huske dem, saa har
+  det sin Mening og sin dybe Grund i hendes Helhed som Natur. Det hænger
+  sammen med det store. Det er Udslag af den Ensidighed, som er hendes
+  Styrke, og saasandt det er denne Kvindens Styrke, som bærer
+  Menneskeslægten, saa er ogsaa denne Last i Virkeligheden en Dyd. Men
+  ogsaa Dyd kan antage Former, som er mindre tiltalende. En Mand burde
+  dog i det høieste smile af disse smaa kvindelige Svagheder. Og føle
+  sig smigret. Thi selv idet mindste og latterligste er det altsaa ham,
+  vi husker.
+    </p>
+    <p>
+     Men hvad er det nu, Massen af Mænd erindrer, naar de tænker tilbage
+  paa sit Liv? (Man maa engang komme til det, at «Massen af Kvinder»
+  sammenlignes med «Massen af Mænd» – ikke med Undtagelserne.) Det er
+  Jagt, Kort og Schakpartier, problematiske Valghistorier, Væddeløb,
+  erotiske Streiftog, der ikke altid er sobre eller synderlig værdige,
+  Jag efter Embeder og Stillinger, Titelsyge og politiske
+  Kandestøberier, «Sager» og Trætter og Smaaærgjerrighed. I Samfundslag,
+  hvor der ligefrem kjæmpes for det daglige Brød, kjæmper Kvinden med –
+  og husker det.
+    </p>
+    <p>
+     [120] Eller er jeg uretfærdig?
+    </p>
+    <p>
+     Men intet er mig mer imod end disse evige Opregninger af hverandres
+  «Skyld», da kunde man holde paa til Dommedag. Det er ogsaa alle
+  Ægteskabers hæsligste Sygdom.
+    </p>
+    <p>
+     Jeg vil tænke større paa det hele og ikke lade mig hidse – selv
+  ikke af Weininger, men kun tvinge mig til at se, hvad jeg inderst inde
+  føler som Sandhed.
+    </p>
+    <p>
+     Og Sandheden er for mig den, at Kvinden er, har været og maa
+  vedblive at være ensidig, thi det er hendes Styrke. Hun har sin
+  Begrænsning, og saasandt hun for Alvor ønsker at regnes for et
+  tænkende Menneske, med hvem man kan snakke nøgternt om Tingene, saa
+  maa hun lære at kjende og erkjende denne sin Begrænsning, respektere
+  den, og se dens inderste, virkelige Storhed. Men inden sin Begrænsning
+  kan hun dog naa ligesaa langt i Udvikling og Menneskeværd som Manden.
+  Hos os omsættes kun Værdierne anderledes. Alt uvæsentligt maa
+  tilsidesættes for det ene – vort Liv som Slægtens Opretholdere. Vi maa
+  have Udvikling, fordi Slægten gjennem vor Udvikling forædles. Vi skal
+  og maa have Udvikling, ikke for at «frigjøre os fra Kvinden og blive
+  Mænd», som Weininger og [121] Kvindesagskvinderne vil, «men for at
+  blive mere «Kvinde», aandelig og legemlig stærke Mødre for en aandelig
+  og legemlig stærk Slægt».
+    </p>
+    <p>
+     Thi
+     Høiden
+     af vort Værd som
+  Menneske naar vi som Mødre. Men er det mindre end at naa det som
+  Dommer, Politiker, Lensmand, Foged eller lignende? Det, som nu er
+  lukket for os, er jo nemlig i Virkeligheden kun de aller
+  kjedsommeligste af Mændenes Arbeidsfelter – Retten til den tvilsomme
+  Fornøielse sin Livsdag lang at staa i Kø foran den trange Port til
+  alt, som Embeder heder. Misunde dem, hvem som kan! Alt «frit» Arbeide,
+  alle Omraader, al Kunst, alt, som er noget at misunde, staar os jo i
+  Virkeligheden aabent – og maa saa gjøre.
+    </p>
+    <p>
+     Vor Vei er nu ikke trangere, end den har været for mangfoldige af
+  Verdens største mandlige Aander, de ydre – kunstige Hindringer – er
+  ikke større for os, end de har været for mangfoldige fattige og
+  vanskeligt stillede Kunstnere og Videnskabsmænd, der har naaet de
+  høieste Høider af menneskelig Ydelse. Adgang til Lærdom og Uddannelse
+  staar os aaben, og maa saa gjøre; men ikke en af tusind Kvinder vil
+  endnu [122] være saa meget «Mand», at hun hele sit Liv kan hævde sin
+  Plads i de mange opslidende og ansvarsfulde Samfundsstillinger, som
+  kræver et
+     helt
+     og
+     udelt
+     Menneske. Det er et uendeligt
+  haabløst og unyttigt Arbeide, og fortvilet meget bortkastet Tid at
+  diskutere den Ting i det uendelige – Naturen vil dog tilslut afgjøre
+  det. Det vil regulere sig selv. Thi den største Hindring for fuld ydre
+  Ligestilling er ikke Manden, men Kvinden selv.
+    </p>
+    <p>
+     I Aarenes Løb har jeg kjendt mange Kvinder, og naar jeg nu tænker
+  tilbage paa de høiest udviklede, jeg har truffet, de aandeligt
+  frieste, klogeste og klareste, de dygtigste, og de, som har naaet
+  længst som Borgere, Samfundsmennesker og Kunstnere, ved jeg ikke en,
+  som modbeviser, hvad jeg ovenfor har sagt. Tvertimod, de har alle
+  været interessante og lærerige Bekræftelser derpaa, og selv er jeg mig
+  endelig den sidste Bekræftelse. Idealet var visselig, om vi kunde
+  sige: «Alt er os tilladt, men ikke alt er os nyttigt,» og dersom vi
+  var overlegne nok, burde ogsaa de sidste Skranker væk, det vilde være
+  skjønnere; men det er farligt for de unge. Det vil forvirre deres
+  Begreber, og skaffe dem tusind Skuffelser senere i Livet. [123] Vi er
+  ikke modne til fuld Frihed, før vi har lært at erkjende vor
+  Begrænsning. Og det har vi ikke endnu.
+    </p>
+    <p>
+     «– – Kvinden vil kunne være ukysk, og hun vil Sanselighed af
+  Manden, ikke Dyd. – – Selv Mandens høiere platoniske Kjærlighed er
+  hende i Grunden ikke velkommen; den smigrer og behager hende, men den
+  siger hende intet. Og dersom Tilbedelsen paa Knæ foran hende vilde
+  vare for længe, blev
+     Beatrice
+     ligesaa utaalmodig som
+     Messalina
+     ,»
+  siger Weininger.
+    </p>
+    <p>
+     Ja, uden Tvil. Naturen taaler ikke Sygdom. Den vil have Sundhed og
+  levende Liv.
+    </p>
+    <p>
+     Platonisk Kjærlighed er en Fornærmelse mod Naturen.
+    </p>
+    <p>
+     Og ingen Forsmædelse er større for en sund og ufordærvet Kvinde,
+  end den ikke at blive set paa og attraaet som Kvinde.
+    </p>
+    <p>
+     Naturen taaler det ikke. Og den bruger alt hos os, vor Stolthed,
+  vor Forfængelighed, vore bedste og sletteste Egenskaber, som sine
+  Vaaben. Den forlanger os
+     helt
+     . Og
+  forat dens Vilje skal fuldkommes, maa vi være ensidige og stærke.
+    </p>
+    <p>
+     «– – Efter Kjendsgjerningerne at dømme, synes kun to Ting muligt
+  for Kvinderne. [124] Enten den løgnagtige Akceptering af det af Manden
+  skabte, idet de selv tror at ville det, som modsiger deres
+     hele
+     , endnu
+     usvækkede
+     Natur, den ubevidst
+  løgnagtige Harme over Usædeligheden,
+     som
+  om de var sædelige
+     , over Sanseligheden, som
+     om de vilde usanselig Kjærlighed
+     .
+  Eller den aabne Tilstaaelse, at Kvindens Indhold er Manden og Barnet,
+  uden den ringeste Bevidsthed om
+     hvad
+     de dermed tilstaar, hvilken
+  Skamløshed, hvilket Nederlag der ligger i denne Erklæring.»
+    </p>
+    <p>
+     Jeg kan ikke fatte med min Forstand eller føle med min Følelse,
+  hvori denne Skamløshed bestaar. Og hvor faa Procent af «M» maa der
+  altsaa ikke være i mig! Ja saa uhyggelig nærmer jeg mig det «rene Q»,
+  at jeg synes det skjønneste Livshaab og den herligste Evighedstanke
+  ligger i denne Tilstaaelse – baade for Kvinden og Manden!
+    </p>
+    <p>
+     «At Kvinden virkelig nogensinde vil Kyskhed af Manden, kan man
+  aldrig tro, skjønt det af og til paastaaes,» siger Weininger videre, –
+  «thi en Kvinde, som forlanger Mandens Kyskhed, er, bortseet fra hendes
+  Hysteri, saa dum og saa uden al Evne til Sandhed, at hun ikke engang
+  dunkelt føler, [125] at hun dermed tilintetgjør sig selv, uden Redning
+  gjør sig værdløs, eksistensløs.»
+    </p>
+    <p>
+     Det er i Sandhed ikke greit at være Kvinde! Af de to Muligheder,
+  hun har, er den ene afskylig, den anden endnu afskyligere, den ene
+  lastværdig, den anden endnu værre. Intet Under derfor, at «Kvinden maa
+  gaa under som saadan, før kan ikke Guds Rige oprettes paa Jorden. Ved
+  egen Kraft kan hun vanskelig naa det Maal. Den Funke, som saa svagt
+  brænder i hende, maatte altid paany tændes ved Mandens Ild.
+     Eksemplet
+     maatte gives. Før Kvinden
+  ophører at eksistere som Kvinde for Manden, kan hun selv ikke ophøre
+  at være Kvinde. Da Kvindens Eksistens som Kvinde afhænger af Mandens
+  Sexualitet, vil Kvinden vedblive at være Kvinde, indtil Manden har
+  overvundet denne».
+    </p>
+    <p>
+     – Maa vi saa ikke frygte for, at Guds Rige paa Jorden vil lade
+  vente paa sig?
+    </p>
+    <p>
+     Naar et Træ ikke længer bærer Frugt, hugges det om og kastes paa
+  Ilden, og Naturen skaffer sig af med alt, som ikke har Livskraft og
+  Livsglæde i sig, alt, som er tørt og vissent. Men det sunde lever
+  evigt. Saa er det, og saa tror og haaber vi dog, det vil vedblive at
+  være.
+    </p>
+    <p>
+     – «Forholdet mellem Mand og Kvinde er intet andet end Forholdet
+  mellem
+     Subjekt
+     [126] og
+     Objekt
+     .
+     Kvinden søger sin Fuldending som
+  Objekt.
+     »
+    </p>
+    <p>
+     Ja,
+     søger
+     , men naar den sjelden.
+  Maaske fordi Subjektet selv ikke er «fuldendt». Sin Fuldending kan man
+  først finde i noget
+     fast
+     og
+     færdigt
+     ; har Nutidens Mænd for
+  meget af Kvinde i sig?
+    </p>
+    <p>
+     Er de naaet for langt paa Veien mod den ideale Fællestype, siden vi
+  mere og mere vanker paa vilde Veie og søger vor Fuldending udenom dem
+  – i os selv? – For heller ikke der at finde den.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Jeg husker, da jeg var ganske ung, neppe voksen. «Manden»,
+  «Mysteriet» beskjæftigede altid min Fantasi; men ved Siden af drømte
+  jeg om et Livsværk. Jeg grebes af Tidens Tanker, efterhvert som de
+  naadde mig, og ofte trodde jeg at have fundet mit Livskald. Mellem
+  Kunstnerdrømmene kom andre. Snart var jeg besat af politisk Iver,
+  agiterede som en Rigsdagskandidat før Valgene, drømte at blive en ny
+  Jeanne d'Arc. Snart var det Religionen, snart Afholdssagen, snart
+  Sygepleien. Saa blev jeg Stuart Millgal. Kvindens Frigjørelse var det
+  høie Maal, [127] jeg skulde vie mit Livsarbeide. Og jeg læste mange
+  Bøger, klippede mit Haar kort og kjøbte en Ridepisk.
+    </p>
+    <p>
+     Tiltrods for alle mine Naragtigheder havde jeg mange Friere. Det
+  kan ikke være ubeskedent at sige det; thi det er jo ikke altid for
+  sine Dyders Skyld, man gjør Lykke hos Mændene. Men jeg forelskede mig
+  dødelig i en, som gjorde langvarig Kur uden at mene det alvorlig,
+  medens to af mine andre Venner elskede mig alvorligere, end jeg
+  fortjente, og tog Mén af det for Levetiden. Saa sørgede vi hver paa
+  vor Kant. Efter fem Aars Sorg forelskede jeg mig igjen og blev gift.
+  Og saa begyndte min anden Periode. Naar jeg nu ser tilbage paa det
+  altsammen, faar jeg Mistanke om, at der sidder en stor Humorist et
+  eller andet Sted og laver Komedie med Menneskene.
+    </p>
+    <p>
+     Helt fra Barndommen har jeg af og til havt Anfald af en forfærdelig
+  Ensomhedsfølelse. Jeg græd som en besat over at «ingen holdt af mig,
+  ingen vilde have mig, ikke engang Gud!» Og Natten og Mørket var min
+  Rædsel.
+    </p>
+    <p>
+     Rædslen for Ensomheden, for Nat og Mørke melder sig nu igjen,
+  stærkere og stærkere, og jeg ligger de vaagne Nætter og [128] føler
+  mig som den eneste levende paa en endeløs Kirkegaard. Og intet andet
+  kan dulme denne Rædsel, det ved jeg, end at føle et andet levende
+  Menneske nær mig. Men jeg er alene.
+    </p>
+    <p>
+     Før min Reise var disse Nætter sammen med de lange forfærdelige
+  Dage nær ved at tage min Forstand. Nu er alt roligere. Men endnu er
+  der mange vaagne Nætter, og jeg græder over mit Arbeide, og jeg græder
+  over mig selv.
+    </p>
+    <p>
+     Vil det blive anderledes, før Alderdommen lægger Slør over mine
+  Sanser, og Glemsel over mit Sind? Jeg tør ikke haabe det. Hvor jeg
+  søger, i mig selv eller udenom mig, finder jeg ikke min
+  Fuldendelse.
+    </p>
+    <p>
+     «Erst Mann und Weib zusammen machen den Menschen aus,» siger Kant.
+  Ja, men hvorledes skal den ene finde sin Fuldendelse i den anden? Jo
+  mere de gaar fremad, jo større bliver jo tilsyneladende Afstanden
+  mellem dem. Eller er det, som Weininger har fundet ud, at det, som ser
+  ud til at fjerne dem fra hverandre, netop er det, som i dybeste
+  Forstand skal føre dem sammen – i Fællestypen? Mangt og meget tyder
+  paa det; men fæl er Tanken.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     [129] Mer end nogensinde gjælder det om saa dybtsøgende Arbeider
+  som Weiningers, at det egentlig er forbrydersk at tage enkelte
+  Slutninger ud af sin Sammenhæng og angribe dem. Det er altfor let. De
+  grundige Undersøgelser, som har ført ham til disse brutale Slutninger,
+  maa ikke overspringes. Jo mere samvittighedsfuldt man læser ham, jo
+  vanskeligere bliver det at sige noget. Man overvældes, og en
+  udisciplineret Hjerne gaar mange Gange træt. Først tænker man kun paa
+  at forsvare sig, væbne sig. Men man mærker snart, at her kan der ikke
+  være Tale om Forsvar. Det er bare latterligt. Thi det er jo intet
+  «Angreb» i almindelig Forstand, det er dybere end som saa. Mangt og
+  meget kan en ulærd heller ikke forstaa paa Grund af manglende
+  Sprogkundskaber. Latin og Græsk forekommer f. Eks. ofte.
+    </p>
+    <p>
+     Men Hovedsagen er klar, og hvor meget eller hvor lidet Ret
+  Weininger har i den, hvor megen eller liden Sandhed der er i hans Bog,
+  saa er min Konklusion i alle Tilfælde den modsatte af hans:
+    </p>
+    <p>
+     Kvinden skal ikke frigjøres fra sig selv og blive Mand, men hjælpes
+  til at blive endnu helere, stærkere og ensidigere, end hun nu er,
+  saasandt Kjærligheden er Livets [130] Sol og Dug, og saasandt
+     al Frugtbarhed er skjøn og al Sygdom og
+  Unatur hæslig
+     .
+    </p>
+    <p>
+     Men intet sundt og normalt Menneske kan tænke sig Jorden uden «das
+  Gekribbel und das Gewimmel der Menschen» eller den «Fællestype»,
+  hvorom der forresten ogsaa profeteres i
+  Bibelen,
+      <ref target="#NOR0102_backn9">
+      n9
+     </ref>
+     uden at fyldes med Gru.
+    </p>
+    <p>
+     Alle, som er sunde, vil raabe:
+     Lad
+  Solen faa Lov at skinne paa Menneskene og lære dem at le mod den
+  gryende Dag!
+    </p>
+    <p>
+     Feigt er det at flygte for
+  Livet!
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Endnu hænder det mig af og til, at jeg tvinges til at tænke paa
+  ham. Da forhærdes mit Hjerte, og jeg ler. Endelig, endelig ler
+  jeg!
+    </p>
+    <p>
+     Hevn? Hvem taler om Hevn! Du var et Trin paa den Stige, jeg maatte
+  opad, en Tilfældighed paa min Vei i et Øieblik, [131] da min Sjæl var
+  syg af Ensomhed. Hvorleds skulde du have Skyld? Alt var jo mig, bare
+  mig. Selv skabte jeg mig den Mand af dig, som jeg i Øieblikket havde
+  Brug for; du var ikke Menneske nok til at kunne have Skyld. Og skulde
+  jeg saa hade dig, eller tale om Hevn!
+    </p>
+    <p>
+     Dit Ansigt er udslettet af min Erindring – jeg husker dig ikke!
+  Amen.
+    </p>
+    <p>
+     – – – Men hvorfor skjælver min Haand –!
+    </p>
+    <p>
+     Jeg ser et Øie, som stirrer paa mig – langt borte fra, og pludselig
+  staar der skrevet foran mig:
+    </p>
+    <p>
+     «
+     Die Verlogenheit der Frau!
+     »
+    </p>
+   </div>
+</body>
+  <back>
+    <div type="notes">
+
+
+  
+     <note xml:id="NOR0102_backn1">
+       Forfatternote:
+       Han var bl. a. stærkt
+       erotisk, men levede i det sidste – sin nye Livsanskuelse tro –
+       fuldkommen kysk.
+    </note>
+
+
+ 
+     <note xml:id="NOR0102_backn2">
+       Forfatternote:
+       Tanken i Weiningers
+       Theori har ellers nok i sin Spire været fremsat før, saavidt jeg husker
+       af en tysk Forfatterinde for nogle Aar tilbage. Hun talte ogsaa om det
+       saakaldte «tredie Kjøn» som den første Begyndelse til en ny og bedre
+       Mennesketype.
+    </note>
+
+
+
+     <note xml:id="NOR0102_backn3">
+       .
+       Forfatternote:
+       Da Tolstoj skrev
+       «Kreutzer-Sonaten», var han en gammel Mand, som havde et halvt Snes
+       Børn, og da har man vel for en Del glemt Livet i Manddommens fulde
+       Kraft. Og Weininger var syg, og Paulus, som gjerne vilde, at alle
+       Mennesker skulde «være som han», d. e. kyske, var vel ogsaa syg. Maaske
+       som Weininger Epileptiker. «Der er givet mig en Torn i Kjødet, en Satans
+       Engel, forat han skal slaa mig paa Munden, forat jeg ikke skal hovmode
+       mig,» siger han. Og han var jo af og til «udenfor Legemet».
+     </note>
+
+   
+
+     <note xml:id="NOR0102_backn4">
+       Forfatternote:
+       Her taler ikke Forf.
+       om «das Weib», men om «die Weiber», «sämmtliche Weiber».
+     </note>
+
+
+ 
+     <note xml:id="NOR0102_backn5">
+       Forfatternote:
+       «Naar en Kvinde
+       «forstaar» en Mand,» siger Weininger, «– om Muligheden og Umuligheden af
+       en saadan Forstaaelse bliver endnu at forhandle – saa smager hun saa at
+       sige – saa smagløst dette Udtryk end maa være – efter hvad han har
+       foretænkt hende.» Maaske. Ialfald ofte.
+     </note>
+
+ 
+ 
+     <note xml:id="NOR0102_backn6">
+       .
+       Forfatternote:
+       «Geschlecht u.
+       Charakter», S. 243.
+     </note>
+ 
+
+     <note xml:id="NOR0102_backn7">
+       Forfatternote:
+       Der Mann fürchte sich
+       vor dem Weibe, wenn es liebt: da bringt es jedes Opfer, und jedes andere
+       Ding gilt ihm ohne Werth (Zarathustra).
+     </note>
+ 
+     <note xml:id="NOR0102_backn8">
+       .
+       Forfatternote:
+       «En Kvinde konverserer
+       (koketterer) eller snadrer, men hun taler ikke,» siger Weininger. «Men
+       aller farligst er hun, naar hun tier, thi Manden er kun altfor
+       tilbøielig til at tage Stumhed for Taushed.»
+     </note>
+  
+ 
+     <note xml:id="NOR0102_backn9">
+       .
+       Forfatternote:
+       «Og Herren blev spurgt
+       af en: Naar kommer dit Rige? Da svarede Herren: Naar to bliver et og det
+       ydre som det indre, og det kvindelige staar sammen med det mandlige, og
+       der bliver hverken Mand eller Kvinde, men begge tilsammen.»
+     </note>
+ 
+ </div>
+ <trailer>
+    Hulda Garborgs
+    Kvinden skabt af
+Manden
+    er lastet ned gratis fra
+    <ref target="http://bokselskap.no/">
+     bokselskap.no
+    </ref>
+ </trailer>
+  </back>
+ </text>
+</TEI>
