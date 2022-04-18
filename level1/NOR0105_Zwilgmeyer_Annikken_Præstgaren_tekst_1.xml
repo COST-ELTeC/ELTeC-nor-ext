@@ -1,0 +1,5823 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="NOR0105" xml:lang="nb" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     Annikken Præstgaren ELTeC-utgaven
+    </title>
+    <author ref="13235352 https://www.wikidata.org/wiki/Q1783000">
+     Zwilgmeyer, Dikken (1846-1905)
+    </author>
+    <respStmt>
+     <resp>
+      ELTeC encoding
+     </resp>
+     <name>
+      Michael Preminger
+     </name>
+    </respStmt>
+   </titleStmt>
+   <extent>
+    <measure unit="words">
+     27968
+    </measure>
+    <measure unit="pages">
+     0
+    </measure>
+   </extent>
+   <publicationStmt>
+    <p>
+     Incorporated into the ELTeC
+     <date>
+      2022-04-18
+     </date>
+    </p>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="digitalSource">
+     <ref target="https://www.bokselskap.no/boker/forraadt/tittelside">
+      eksten i bokselskap.no følger 1. utgave, 1900 (Kristiania/Det norske aktieforlag). 
+Digitaliseringen er basert på fil mottatt fra Nasjonalbiblioteket (nb.no).
+Teksten er lastet ned fra
+ 
+     </ref>
+     <author>
+      D. Zwilgmeyer
+     </author>
+     <title>
+      Annikken Præstgaren
+     </title>
+     <pubPlace>
+      Kristiania
+     </pubPlace>
+     <publisher>
+      Det norske Aktieforlag
+     </publisher>
+     <date>
+      1900
+     </date>
+    </bibl>
+    <bibl type="digitalSource">
+     <ref target="https://www.nb.no/items/URN:NBN:no-nb_digibok_2013111824001">
+      Faksimilie i Bokhylla
+     </ref>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc n="eltec-1">
+   <p/>
+  </encodingDesc>
+  <profileDesc xmlns:e="http://distantreading.net/eltec/ns">
+   <langUsage>
+    <language ident="nb" usage="100"/>
+   </langUsage>
+   <textDesc>
+    <e:authorGender key="F"/>
+    <e:size key="short"/>
+    <reprintCount key="high" xmlns="http://distantreading.net/eltec/ns"/>
+    <e:timeSlot key="T4"/>
+   </textDesc>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2022-04-18"/>
+  </revisionDesc>
+ </teiHeader>
+ <text type="novel" xml:id="BS_Zwilgmeyer_AnnikkenPraestgaren_text_xml_text">
+  <front>
+    <div type="titlepage">
+   <p>
+    bokselskap.no, Oslo 2021
+    Dikken Zwilgmeyer:
+
+   </p>
+   <p>
+    Dikken Zwilgmeyer
+   </p>
+   <p>
+    Annikken Præstgaren
+   </p>
+   <p>
+    bokselskap.no
+    Oslo 2021
+   </p>
+ 
+    </div>
+  </front>
+
+   <body>
+   <div type="chapter" xml:id="annikkens-hjem">
+    <head>
+     <ref target="#contents_1" xml:id="chapter_1">
+      Annikkens
+  hjem
+     </ref>
+    </head>
+    <p>
+     [1] Der gled en liden sjægte med storseil og fok oppe sagtelig ind
+  gjennem gabet, der førte ret tilhavs. Det hed egentlig Grønsundsgabet,
+  men spor af grønt var der rigtignok ikke at se.
+    </p>
+    <p>
+     Heiene, de runde lave heier, vaskede og slitne af bølgernes slag,
+  var graa, bare graa, med sprækker og furer. Ikke var der mose, og ikke
+  var der lav, bare den glatte, nøgne sten. Men tangen, der laa i store
+  vaser indmed holmerne og gyngede saa sagte i dønningerne ude fra
+  havet, var gyldengul, og himmelen underlig dæmrende blaa i den tidlige
+  junidags aften.
+    </p>
+    <p>
+     Og sjøen, den stolte, friske sjø, der klukkede under den
+  tjærebredde sjægte og plaskede med et lidet, kjælent slag om igjen og
+  om igjen opefter de nøgne holmer, den var grønlig klar, spillende
+  frisk, skiftende i blaat og i sort. Og længst ude ved den yderste
+  holme var der i den stille aften en fin liden perlende krans af
+  sjøskum.
+    </p>
+    <p>
+     Langt derinde laa byen, den lille by, tæt opunder [2] de høie
+  heier. Endog langt herude fra sjøen saa man husene, hvide og skarpe, i
+  en runding rundt havnen, men opover heiene laa smaahusene strøede
+  udover, røde og gule og graa, med røgen ret tilveirs i den stille,
+  lyse luft. Indved bryggerne saa man masterne af sjægter og smaaskuder,
+  en hel liden skov af master der inderst inde.
+    </p>
+    <p>
+     Og alting var saa klart og dog saa blødt og saa stille.
+    </p>
+    <p>
+     Oppe i sjægten sad der fire barn og en større, ung pige. Det var en
+  bredvokset, ung skikkelse med et stort, lyst ansigt og en bred næse
+  med fregner. Hun passede roret og seilet paa samme tid, det tynde,
+  lysegule haar viftede hende om kinderne. Hænderne var brede og røde
+  med kraftige haandled.
+    </p>
+    <p>
+     Ret overfor hende paa toften sad søsteren Magna. Rødgul i haaret,
+  bred som søsteren med bitte smaa musetænder, stort tandkjød, og leende
+  med sine tolv aar, det var Magna.
+    </p>
+    <p>
+     Brødrene Svend, Erik og Nils var ogsaa brede, fregnede og
+  lysegule.
+    </p>
+    <p>
+     Svend sad midt i baaden. For øieblikket underholdt han sig med at
+  gribe efter alle de rødblaa, slimede manetstraaler, der kom indenfor
+  hans rækkevidde, medens Erik og Nils spillede femkort om knapper i
+  forenden af baaden.
+    </p>
+    <p>
+     For at undgaa, at Erik skulde se hans kort, havde Nils, som var
+  otte aar, indrettet sig paa en, som han selv syntes, overmaade
+  praktisk maade. Han havde nemlig lagt alle sine kort opslagne bag
+  [3] seilet i forenden af baaden. Hver gang, han saa skulde spille ud
+  et kort, maatte han klyve over en tofte, krybe bag seilet, og hente
+  det frem.
+    </p>
+    <p>
+     «Det var da en besværlig maade at spille kort paa,» sagde Magna
+  voksent.
+    </p>
+    <p>
+     Nils dukkede frem under seilet med en hjerterto.
+    </p>
+    <p>
+     «Langtifra,» sagde han, «det er saa letvindt saa, – Erik er saa
+  grov til at kikke i kortene mine, men nu skal han være blaa for at se
+  –»
+    </p>
+    <p>
+     Han var øiensynlig stolt over denne sin nye opfindelse at spille
+  kort paa.
+    </p>
+    <p>
+     To snehvide maager, kredsede, flaksede og kastede sig lynsnart over
+  deres hoveder.
+    </p>
+    <p>
+     «Aa se maagerne, Annikken,» raabte Magna.
+    </p>
+    <p>
+     «Nei for en diger manet,» raabte Svend, «se der sjømand Røst.»
+    </p>
+    <p>
+     Det lod til, at søsteren ogsaa lød dette navn, hun saa interesseret
+  efter maneten.
+    </p>
+    <p>
+     «Ja den var stor.»
+    </p>
+    <p>
+     «Han er lumpen, han fusker,» raabte Nils «–
+  han
+      <ref target="#NOR0105_ton1" xml:id="NOR0105_backn1">
+      n1
+     </ref>
+     fusker, sjømand Røst.»
+    </p>
+    <p>
+     «Det er skam at fuske,» sagde sjømand Røst alvorlig.
+    </p>
+    <p>
+     «Hvis jeg var dig, vilde jeg ikke hede sjømand Røst længere,» sa
+  Magna og viste tandkjød.
+    </p>
+    <p>
+     «Det er jo bare gutterne, der gjør det,» sa Annikken.
+    </p>
+    <p>
+     «Nei de kalder dig det i byen ogsaa –»
+    </p>
+    <p>
+     «Jo hun skal hede sjømand Røst,» sagde Svend, [4] «for hun er saa
+  flink i baaden og saa grov til at raabe.»
+    </p>
+    <p>
+     «Aa gid, ja, slig røst som Annikken har,» sagde Erik og trumfede i
+  toften.
+    </p>
+    <p>
+     Annikken, alias sjømand Røst, sad aldeles uanfægtet, som det hele
+  slet ikke angik hende.
+    </p>
+    <p>
+     «Bare vi ikke kommer forsent til andagten,» sagde hun
+  pludselig.
+    </p>
+    <p>
+     «Gid det var saa vel,» sagde Svend.
+    </p>
+    <p>
+     «Fy at snakke saadan,» sagde Annikken.
+    </p>
+    <p>
+     De havde ulovendes været en sving udenfor øerne. Egentlig havde de
+  ikke lov at seile andetsteds end inde paa havnen.
+    </p>
+    <p>
+     Men iaften havde det været saa altfor fristende, uden at de næsten
+  vidste af det, var sjægten gledet udenfor paa de lange, blanke
+  dønninger.
+    </p>
+    <p>
+     Det kneb nu at komme tidsnok hjem. Ingen af dem havde uhr, saa
+  tiden var aldeles i det blaa.
+    </p>
+    <p>
+     «Even Flisvika roede hjem, da vi seilede udover,» sagde Erik. Det
+  var øiensynlig en gjængs tidsregning.
+    </p>
+    <p>
+     «Da kommer vi forsent,» sagde Annikken betænkelig, «vi maa ta til
+  aarerne.»
+    </p>
+    <p>
+     Erik og Nils snakkede bag seilet om nytten af at holde andagt.
+    </p>
+    <p>
+     «Det er nok pent,» sagde Erik med sine ti aar, «men det er saa
+  kjedeligt saa.»
+    </p>
+    <p>
+     «Nu snakker du stygt,» sagde Annikken.
+    </p>
+    <p>
+     «Ja synes du, det er gjildt da kanske at ha denne andagten over sig
+  bestandig,» sagde Erik.
+    </p>
+    <p>
+     «Ja jeg liker det,» sagde hun kort.
+    </p>
+    <p>
+     [5] «Hvorfor liker du det da,» sagde Erik.
+    </p>
+    <p>
+     Først intet svar. Erik spurgte igjen.
+    </p>
+    <p>
+     «Aa – jeg liker at tænke paa, at det er nogen, der er større end
+  menneskene». Annikken saa langt ud for sig, vilde ikke møde nogen af
+  søskendernes blik, som om hun blev generet for det, hun sagde.
+    </p>
+    <p>
+     Der blev en dyb taushed. De var ikke vant til at snakke om
+  religiøse ting sig imellem. Det var ligesom saa rart, at Annikken
+  havde sagt det. Magna skvalpede med hænderne i sjøen. Det er sandt
+  det, som Annikken sagde, tænkte hun. Men hun sagde ingenting, hun
+  heller.
+    </p>
+    <p>
+     Men lille Nils kunde ikke længe vedligeholde den religiøse
+  taushed.
+    </p>
+    <p>
+     «Nei igaar julede jeg Peder Even grundig op,» brast det aldeles
+  umotiveret ud af ham.
+    </p>
+    <p>
+     «Du da,» sagde Svend.
+    </p>
+    <p>
+     «Ja du kan lægge beg paa, at jeg julede ham,» sagde Nils, «kjend
+  hvor stærke muskler, jeg har, akkurat som en rund bue, saadan skal
+  ægte muskler være, gut –»
+    </p>
+    <p>
+     «Nei, kjend paa mine muskler,» sagde Erik.
+    </p>
+    <p>
+     «Nei, kjend her,» sagde Svend.
+    </p>
+    <p>
+     Der blev en almindelig muskelundersøgelse.
+    </p>
+    <p>
+     «Jeg har da muskler jeg ogsaa,» sagde Magna og spændte sin brede,
+  lille arm.
+    </p>
+    <p>
+     «De er ikke værst,» sagde Svend overlegent, «men det er nu bare
+  jentemuskler da,» sagde han henvendt til de øvrige.
+    </p>
+    <p>
+     «Ja naturligvis forholdsvis,» sagde Erik.
+    </p>
+    <p>
+     [6] Naa endelig, der var de ved land. Baaden blev fortøiet i en
+  fart, og allesammen tog paa sprang opigjennem de smaa, stille gader.
+  Smaabarn spillede jeppe og slog bal midt i gaderne, og længere oppe i
+  byen hang store violette syrenklaser udover fortouget gjennem
+  havestakitterne.
+    </p>
+    <p>
+     «Kjend, hvor de dufter,» sagde Annikken.
+    </p>
+    <p>
+     De andre fire unge næser snufsede.
+    </p>
+    <p>
+     «Ja her lugtede vist noget.»
+    </p>
+    <p>
+     Saa tænkte de ikke mere paa det.
+    </p>
+    <p>
+     – Pastoren sad alt ved det runde bord midt i den store sal, med
+  salmebog og testamente og ventede paa sine barn.
+    </p>
+    <p>
+     Det var et langt, roligt, alvorligt ansigt, der han sad med foldede
+  hænder og stirrede ud for sig. Han bar sit hoved høit og stirrede ud
+  som efter noget fjernt langt borte.
+    </p>
+    <p>
+     Hans kone sad paa en rørstol med den mindste lille gut paa sit
+  skjød. Borte ved døren sad de to tjenestepiger paa rad.
+    </p>
+    <p>
+     «Du mor, det er dog for galt, at børnene aldrig passer
+  andagten.»
+    </p>
+    <p>
+     «Ja.»
+    </p>
+    <p>
+     Et øiebliks taushed.
+    </p>
+    <p>
+     «Aa ja, der kommer nok den tid, da de ogsaa trænger Guds ord,»
+  sagde faderen. Han saa fremdeles langt ud.
+    </p>
+    <p>
+     «Ja du kan være vis.»
+    </p>
+    <p>
+     Der var et slags bred tryghed over moderen, [7] rødgule farver,
+  lidt sammensunken i figuren, men en kraftig ro over det hele.
+    </p>
+    <p>
+     Der fløi en humle surrende ind af det ene vindu, svirrede rundt i
+  den store sal med de blaablomstrede vægge og de gule døre.
+    </p>
+    <p>
+     Naa endelig, der hørte de høie guttestemmer ude i gaarden. Annikken
+  var alt i døren.
+    </p>
+    <p>
+     «Der hører jeg lyden til Erik,» sa lille Kristoffer paa moderens
+  skjød.
+    </p>
+    <p>
+     Der kom de allesammen, satte sig paa det yderste af stolekanterne
+  og foldede de brune hænder. De lignede alle moderen, rødgule, brede og
+  kraftige.
+    </p>
+    <p>
+     «Ja saa er vi jo samlet,» sagde præsten
+    </p>
+    <p>
+     «Nei – Tilda.»
+    </p>
+    <p>
+     «Aa Annikken, find Tilda.»
+    </p>
+    <p>
+     Atter sank stilhed over den store sal med de blaablomstrede vægge,
+  over den stille fader der midt ved bordet med det løftede aandfulde
+  hoved, og de stærke, fregnede gutter.
+    </p>
+    <p>
+     Annikken sprang gjennem en række værelser i det lange hus. Der traf
+  hun endelig den ældste søster. Hun krøllede sig, havde en tændt lampe
+  med en krøltang sat op i lampeglasset.
+    </p>
+    <p>
+     «Tilda, far skal holde andagt.»
+    </p>
+    <p>
+     «Alt nu,» sagde den slanke, unge pige med uforstyrrelig ro.
+    </p>
+    <p>
+     «Du maa skynde dig.»
+    </p>
+    <p>
+     «Ja jeg maa jo først bli færdig, du, er ikke [8] denne haarfaçonen
+  nydelig saadan bredt ved ørene.»
+    </p>
+    <p>
+     «Aa, jeg ved ikke, jeg.»
+    </p>
+    <p>
+     «Du skjønner dig ikke paa nogen ting, ja jeg er jo nødt til at være
+  færdig vel.»
+    </p>
+    <p>
+     –«Vi synger den gamle salme,» sagde faderen: Hav tak for idag, Gud
+  fader i himlen, der fremmed min sag!»
+    </p>
+    <p>
+     Præstens høie stemme lød ud i stilheden, de andre stemte lidt efter
+  lidt i med. Tilda høit og klart, Annikken dybt og alvorlig, medens
+  pigerne borte ved døren slængte i med nogen skarpe toner. Gutterne
+  brummede ogsaa lidt, men det var ikke noget at tale om netop.
+    </p>
+    <p>
+     Faderen læste dæmpet, men naar noget greb ham, særlig da noget
+  lyrisk skjønt, hævede han stemmen, og røsten skalv som i rørelse.
+    </p>
+    <p>
+     Gutternes jernskoede hæler klampede atter ud af gangen.
+    </p>
+    <p>
+     «Du, mor, skal vi ikke gaa op paa heien i denne deilige aften.»
+    </p>
+    <p>
+     «Jo gjerne, naar jeg har faat lille Kristoffer i seng.»
+    </p>
+    <p>
+     Gutterne vilde ogsaa være med, og Annikken og Magna.
+    </p>
+    <p>
+     Men Tilda maatte til byen – havde lovet nogen veninder – «du
+  Annikken, laan mig hanskerne dine.»
+    </p>
+    <p>
+     «Hvorfor det.»
+    </p>
+    <p>
+     «Jo mine er saa stygge.»
+    </p>
+    <p>
+     «Nei,» sagde Annikken alvorlig.
+    </p>
+    <p>
+     [9] «Tusind tak, du er forfærdelig sød, tusind tak.»
+    </p>
+    <p>
+     Tilda tog paa sprang nedover mod byen.
+    </p>
+    <p>
+     Veien opover heien gik paa kryds og tvers. Store, løse stene laa
+  ligesom kastet hen af en kjæmpemæssig haand hist og her. Hele smaa
+  stenras havde trængt sig nedigjennem de dybe kløfter, men midt oppe i
+  stenuren, hvor stenene stængte, og der ikke var sti at se, der voksede
+  de sirlige mørkeviolette makrelblomster, og blege nypetorne klyngede
+  sig fast i sprækkerne.
+    </p>
+    <p>
+     Lige i solvæggen mod syd, hvor solen stegte og stenene kjendtes
+  lunkne at føle paa, kunde saa en vældig berberisbusk brede sig. Her
+  var det sparsomme græs stivt og gult og svid af solen.
+    </p>
+    <p>
+     Helt op paa høiden begyndte saa lyngen, den blomstrende violette
+  røslyng, og tyttebærlyng, melbær og krækling, men ikke et træ, ikke en
+  busk engang. Man vassede blot i lyng.
+    </p>
+    <p>
+     Stupende brat, dybt dernede laa saa byen med de smaa gader, torvet
+  med bryggerne og skuderne. Seet høit deroppefra var det hele som en
+  lilleputby rystet ud af et dukkeskrin. I en runding rundt havnen laa
+  saa øerne, nøgne ud mod det store hav.
+    </p>
+    <p>
+     Vældigt, stille, blaat i sommerkvælden laa det der, langt, langt
+  derude var der seil i seil. En stor damper stævnede indover. Halvdelen
+  af horizonten var det frie hav, indover mod land paa den anden kant
+  var det blot lyng og fjernt borte fjeld over fjeld.
+    </p>
+    <p>
+     [10] Nede paa havnen drog en lystjagt med et hvidt skinnende seil
+  udover.
+    </p>
+    <p>
+     Pastoren havde sin visse bestemte plads deroppe med ryggen mod en
+  sten, fruen havde strikketøi med, og Annikken laa i lyngen ved siden.
+  Gutterne og Magna var alt i vildt løb bortover vidden.
+    </p>
+    <p>
+     «Det er vist Iversens baad, der seiler udover der,» sagde moderen,
+  «Tilda er vel med der.»
+    </p>
+    <p>
+     «Ja,» sagde Annikken, «hun sagde, at de ventede paa hende».
+    </p>
+    <p>
+     «Hvorfor er
+     du
+     ikke med da,
+  Annikken,» sagde faderen, «du er jo en stor pige nu, skal konfirmeres
+  om tre maaneder.»
+    </p>
+    <p>
+     «Jeg morer mig ikke ved det.»
+    </p>
+    <p>
+     «Morer du dig ikke ved at være sammen med andre unge;» faderen
+  vendte det stille, vemodige blik mod hende, «ja, men det er galt det,
+  barn.»
+    </p>
+    <p>
+     «Forresten er de lige glad, enten jeg er med eller ei,» Annikken
+  rev op lyngdotter, som hun straks igjen kastede.
+    </p>
+    <p>
+     «Det er galt dette,» gjentog faderen, «dine veninder er da med,
+  Annikken.»
+    </p>
+    <p>
+     Intet svar.
+    </p>
+    <p>
+     «Er de ikke vel, Annikken?»
+    </p>
+    <p>
+     «Jeg har ingen veninder,» Annikken skalv lidt i stemmen.
+    </p>
+    <p>
+     «Hvor kan du sige det,» sagde moderen, «Milly Lund da –»
+    </p>
+    <p>
+     «Pyt.»
+    </p>
+    <p>
+     «Ja dere har da længe været venner.»
+    </p>
+    <p>
+     [11] En lang stilhed, saa kom det langsomt:
+    </p>
+    <p>
+     «Hun vil heller gaa med de andre nu.»
+    </p>
+    <p>
+     «Ja men Tilda skal ta Annikken med, mor,» sagde faderen.
+    </p>
+    <p>
+     «Nei langtfra,» for Annikken op, «jeg vil slet ikke tages med paa
+  naade.»
+    </p>
+    <p>
+     Atter en lang pause deroppe mellem himmel og hav. Sommernatten
+  svøbte sig blød og stille om de to ældre og det unge saare sind.
+    </p>
+    <p>
+     «Jo du skal være mer mellem ungdom du, Annikken,» sagde faderen
+  igjen, «ungdommen kommer aldrig igjen – dina sjutton år igen får du
+  aldrig mera –»
+    </p>
+    <p>
+     «Jeg – jeg glæder mig ikke til livet,» kom det ligesom trodsig.
+    </p>
+    <p>
+     «Hvorfor det, barn,» sagde faderen.
+    </p>
+    <p>
+     «Aa – jeg tror ikke, det er noget moro –»
+    </p>
+    <p>
+     «Det er næsten leit at høre paa,» sagde moderen og flyttede paa
+  sig.
+    </p>
+    <p>
+     «Og du er seksten aar,» sagde faderen – «jo livet er rigt, Annikken
+  min, det gjælder bare at ha øine at se med, og Gud giver os saa meget
+  mer, end vi aner – saa underlig meget mer –»
+    </p>
+    <p>
+     Atter var der stilt deroppe. Gutternes og Magnas raab og latter
+  hørtes langt borte fra.
+    </p>
+    <p>
+     «Stakkars min pige,» sagde faderen og lagde sin haand kjærlig paa
+  det lyse hoved derborte i lyngen, «jeg kjender mig selv igjen fra
+  ungdommen, mismod og glædesløshed i de aar, livet skulde være lysest;
+  men du har et godt hjem, barn, du skal tænke paa det.»
+    </p>
+    <p>
+     [12] «Ja,» mumlede Annikken.
+    </p>
+    <p>
+     «Aa saadanne luner har alle unge piger,» kom det rolig fra moderens
+  sikre, brede skikkelse. Hun strikkede jevnt og sindig.
+    </p>
+    <p>
+     Faderen lod haanden ligge paa Annikkens hoved, strøg af og til
+  langsomt henover det.
+    </p>
+    <p>
+     Annikken kjendte en klump i halsen, ligesom hun vilde græde.
+    </p>
+    <p>
+     Hvor gjerne hun vilde været med paa den seilturen dernede, se nu –
+  krydsede det hvide seil udigjennem det søndre løb ret tilhavs. Hvor
+  deiligt at ligge derude og duve paa de lange dønninger.
+    </p>
+    <p>
+     Men aldrig bad nogen af herrerne hende om at være med, og ingen af
+  veninderne heller – og at være atpaaslæng af Tilda bestandig, nei,
+  nei, nei.
+    </p>
+    <p>
+     Og saa blev hun saa rørt over dette, at faderen strøg hende slig
+  over hovedet – nei hun vilde ikke græde, det var saa leit.
+    </p>
+    <p>
+     Hun reiste sig pludselig og gik henover vidden.
+    </p>
+    <p>
+     «Var der noget iveien med Annikken iaften,» spurgte faderen.
+    </p>
+    <p>
+     «Nei da, men det er saa kjedeligt, at hun holder sig saa for sig
+  selv bestandig.»
+    </p>
+    <p>
+     «Det er en mimosenatur,» sagde faderen.
+    </p>
+    <p>
+     «Ja, men denslags skal ikke tages under armene,» sagde moderen,
+  «det gjælder jo netop at hærde og staalsætte saadanne naturer.»
+    </p>
+    <p>
+     «Annikken mangler ikke kraft,» sagde faderen.
+    </p>
+    <p>
+     «Nei hun gjør ikke det heller,» sa moderen, «hun er al ting paa en
+  gang, sky og saar og villiestærk [13] ogsaa, trodsig kan hun være og
+  blød paa samme tid.»
+    </p>
+    <p>
+     Annikken havde igjen nærmet sig forældrene borte fra
+  lyngvidden.
+    </p>
+    <p>
+     «Annikken min,» begyndte faderen, «du skulde begynde at tegne
+  igjen, du har gode anlæg, jeg skal kjøbe dig en skitsebog.»
+    </p>
+    <p>
+     «Nei tak, nei jeg har ikke lyst at tegne mere.»
+    </p>
+    <p>
+     «Jovist, sig nu ikke nei til alt da,» sagde moderen.
+    </p>
+    <p>
+     Det var begyndt at lufte op, friske vindpust for henover lyngen,
+  saa hele vidden var i en eneste bølgende bevægelse, og blæste
+  præstefruens hattefjer ret tilveirs.
+    </p>
+    <p>
+     Der blev hujet og raabt efter gutterne og Magna, og de begyndte
+  nedstigningen. Annikken kastede et blik udover efter seilbaaden, det
+  hvide seil havde længe ligget nogenlunde stille udenfor øerne, men det
+  friske vindblaf saa ud til at sætte mere fart i det.
+    </p>
+    <p>
+     «Hvis jeg endda havde nogen bøger,» sagde Annikken pludselig, som
+  hun forfulgte sin egen tankegang.
+    </p>
+    <p>
+     «Bøger skal du faa hos mig,» sagde faderen.
+    </p>
+    <p>
+     «Aa jeg har læst alle de, du har, far, Oehlenschlægers tragedier og
+  alle de paa den øverste hylden din –»
+    </p>
+    <p>
+     «Ja, ja barn, jeg byr, hvad jeg har –»
+    </p>
+    <p>
+     – «Igrunden kan jeg nu ikke rigtig like,» sagde præstefruen, da hun
+  og hendes mand var blevet alene, «at Tilda er ude saa sent hver eneste
+  aften, det er jo [14] gammel skik her i byen, hører jeg, at ungdommen
+  er slig ude paa seilturer og baadturer, men –»
+    </p>
+    <p>
+     «Ungdommen er saa kort, mor –»
+    </p>
+    <p>
+     Serisserne peb ude i sommernatten. Det var mørkt og kjøligt ude
+  under alléens store lønnetræer. Annikken havde vinduet aabent, hun laa
+  vaagen og stirrede med aabne øine ud i lønnetræernes tætte kroner.
+    </p>
+    <p>
+     Nei, at ikke Tilda endda kom! Saa morsomt hun vist havde havt det
+  iaften! Og altid, altid havde hun det morsomt. Tænk at Tilda kunde le
+  og snakke saadan bestandig! At hun ikke generede sig! Men Tilda er jo
+  ogsaa saa nydelig, ja det var nogen, der havde sagt, at hun var en
+  skjønhed. Og naar man var en skjønhed, saa kunde man nok snakke og le.
+  –
+    </p>
+    <p>
+     Annikken laa længe i saare tanker. Nei, sagde hun tilslut halvhøit,
+  saadant er ikke noget for mig. Jeg, som er saa styg. Nei jeg vil
+  omvende mig og leve for Gud, gaa paa bedehuset ofte – hver eneste
+  aften vil jeg gjerne gaa did.
+    </p>
+    <p>
+     Og saa havde hun været saa tvær, at hun ikke engang havde villet
+  laane Tilda de stakkars hanskerne!
+    </p>
+    <p>
+     Og hun vilde leve for Gud, og saa vilde hun ikke engang gjøre det
+  lille offer!
+    </p>
+    <p>
+     Aa Gud, hvor lei jeg er, sukkede hun, Gud hjælp mig til at blive
+  snil og god –
+    </p>
+    <p>
+     Hun foldede hænderne, men i samme øieblik hørte hun langt nede i
+  alléen en trillende latter og Tildas stemme.
+    </p>
+    <p>
+     [15] «Nei, ved De hvad, Iversen –»
+    </p>
+    <p>
+     Saa en dyb stemme, der sagde noget dæmpet, som hun ikke opfattede,
+  saa igjen Tilda:
+    </p>
+    <p>
+     «Ha ha – er De gal De.»
+    </p>
+    <p>
+     Og saa en stund efter igjen:
+    </p>
+    <p>
+     «Godnat da.»
+    </p>
+    <p>
+     «Godnat.»
+    </p>
+    <p>
+     Der blev raabt mange gange godnat derude.
+    </p>
+    <p>
+     Annikken glemte bønnen, reiste sig op og lyttede.
+    </p>
+    <p>
+     Der kom saa Tilda stormende ind i soveværelset. Hele sommernattens
+  friskhed fulgte hende.
+    </p>
+    <p>
+     Annikken lod, som hun sov. Men det pinte hende endda, at hun ikke
+  havde laant Tilda de hanskerne, hun havde bedt om.
+    </p>
+    <p>
+     Gang paa gang holdt hun paa at sige, at hun angrede, at hun ikke
+  havde laant hende hanskerne. Men hun kunde ikke faa det til, det var
+  ligesom saa leit.
+    </p>
+    <p>
+     Tilda var hurtig i seng, og endda var ikke Annikken kommet sig til
+  at sige noget.
+    </p>
+    <p>
+     Endelig kom det med stor anstrengelse:
+    </p>
+    <p>
+     «Jeg er saa lei over, at jeg ikke laante dig hanskerne, du kunde
+  saa gjerne faat dem.»
+    </p>
+    <p>
+     «Kjære er du vaagen – ja det var ikke meget elskværdig gjort
+  just.»
+    </p>
+    <p>
+     I samme øieblik blev Annikken vred, fordi Tilda tog det paa den
+  maade og tiede bomstille.
+    </p>
+    <p>
+     «Var dere oppe paa heien,» spurgte Tilda.
+    </p>
+    <p>
+     [16] «Ja.»
+    </p>
+    <p>
+     «Uf, at du kan holde ud at gaa op paa den triste heien.»
+    </p>
+    <p>
+     Ikke et ord til svar.
+    </p>
+    <p>
+     Og serisserne peb igjen ude i den lyse sommernat.
+    </p>
+   </div>
+
+   <div type="chapter" xml:id="moro">
+    <head>
+     <ref target="#contents_2" xml:id="chapter_2">
+      Moro
+     </ref>
+    </head>
+    <p>
+     [17] Det var eftermiddag. Stærkt solskin over lønnetræerne, men
+  skygge bag huset paa den aabne, sandede plads.
+    </p>
+    <p>
+     Præstefruen sad bred og hyggelig ved det store stenbord og stoppede
+  alle sine guttestrømper, med brillerne saa langt som muligt ude paa
+  den lillebitte, tykke næse. Annikken havde ogsaa en lang strømpe
+  trukket opover den ene arm, men Tilda laa i hængekøien og viftede sig
+  med en Aftenpost.
+    </p>
+    <p>
+     «Jeg rører mig ikke i denne varme,» sagde Tilda, «aa gyng mig lidt
+  Magna.»
+    </p>
+    <p>
+     «Gyng dig selv,» sagde Magna og stoppede fingrene i ørene for at
+  kunne læse mere uforstyrret.
+    </p>
+    <p>
+     Myggene surrede i store flokke der høit oppe under det tætte løv,
+  og luften dirrede af varme over hustaget.
+    </p>
+    <p>
+     En frisk ung pigestemme spurgte bag hjørnet:
+    </p>
+    <p>
+     «Er Tilda hjemme.»
+    </p>
+    <p>
+     Der kom de op paa gaardspladsen. To unge piger med røde, friske
+  kinder, krøllet pandehaar og smaa næser.
+    </p>
+    <p>
+     [18] «Goddag, vil du være med paa en tur, Tilda, vi skulde spørge
+  fra Iversen.»
+    </p>
+    <p>
+     Tilda, der ikke havde giddet røre sig, var sprunget op i en
+  fart.
+    </p>
+    <p>
+     «Ja naturligvis, naar blev det bestemt?»
+    </p>
+    <p>
+     «Netop nu, vi traf Iversen, og saa er jo veiret saa
+  vidunderligt.»
+    </p>
+    <p>
+     «Gid, saa knagende moro, du altid har,» sagde Magna og tog fingrene
+  ud af ørene. «Vi maatte endelig skynde os, sa Iversen, – vi skal ro
+  til Langeland og kanske danse der.»
+    </p>
+    <p>
+     Præstefruen tog brillerne af:
+    </p>
+    <p>
+     «Kan ikke Annikken ogsaa være med?»
+    </p>
+    <p>
+     «Jo da –, det kan hun vist.»
+    </p>
+    <p>
+     «Nei, nei, jeg vil ikke,» sagde Annikken.
+    </p>
+    <p>
+     «Jovist vil du –»
+    </p>
+    <p>
+     «Men er Annikken buden da,» spurgte Tilda.
+    </p>
+    <p>
+     «Hun – kan naturligvis – godt være med,» Elly Thue drog paa
+  det.
+    </p>
+    <p>
+     «Hils fra mig dere,» sagde præstefruen afgjørende, «og spørg, om
+  ikke Annikken ogsaa maa være med.»
+    </p>
+    <p>
+     Annikken havde kastet strømpen og var løbet ind i huset, moderen
+  gik efter hende.
+    </p>
+    <p>
+     «Nei mor, jeg vil ikke være med paa naade,» sagde Annikken.
+    </p>
+    <p>
+     «Jo, Annikken, guldet,» sagde moderen, «nu skal du være med.»
+    </p>
+    <p>
+     «Ja men de har jo ikke bedt mig,» græd Annikken.
+    </p>
+    <p>
+     [19] «Puh, ja det er ogsaa noget at græde for, vær nu med, Annikken
+  min, og glæd dig med de andre.»
+    </p>
+    <p>
+     «Ingen bryr sig om at ha mig med, og jeg vil ikke være saadan en
+  atpaaslæng.»
+    </p>
+    <p>
+     Der kom Tilda, Elly og Milly; Annikken flygtede ud i kjøkkenet, for
+  at de ikke skulde se, at hun græd.
+    </p>
+    <p>
+     «Annikken blir med,» sagde moderen paa sin rolige uomstødelige
+  maade, «du skal ta dig af hende Tilda.»
+    </p>
+    <p>
+     «Jeg ved ikke, hvad du mener med, at jeg skal ta mig af hende,»
+  sagde Tilda.
+    </p>
+    <p>
+     «Det ved du godt, naar du bare har villien til det.»
+    </p>
+    <p>
+     Moderen satte selv hatten paa Annikkens hoved:
+    </p>
+    <p>
+     «Se saa, guldet.»
+    </p>
+    <p>
+     Der gik de med Annikken midt imellem sig.
+    </p>
+    <p>
+     – Sol over torvet og de lave hvidmalte, velstelte huse rundt
+  omkring, sol over de gamle haver, der laa lige ud i gaderne, hvor
+  buksbomhækkene var ganske hvide af gadestøv og tørke.
+    </p>
+    <p>
+     Sol over de gamle brygger, over jagter og prammer og sjægter, der
+  laa dernede i den lunkne, dovne sjø og svedede tjære.
+    </p>
+    <p>
+     Saalangt man saa opover laa gaderne folketomme i solstegen, husenes
+  skygger tegnede sig skarpt mod de sandede, stille gader.
+    </p>
+    <p>
+     Nede ved bryggerne var det lidt mere liv. En politibetjent i hvid
+  støvfrak og med stor mave, gamle mægler Tausen med rød næse og lang
+  pibe i munden [20] og nogen hundehvalper, som legede og boltrede sig
+  og holdt paa at gaa lige lukt paa vandet.
+    </p>
+    <p>
+     Student Rode og Iversen var alt ved bryggen og stelte med sjægten.
+  Student Rode var en høi, smal student med vakre øine, og et langt
+  dvælende blik, men hans underlæbe hang noget slapt ukontrolleret ned
+  paa hans hage. Iversen var en ældre kavaler, der altid optraadte i
+  selskab med det alleryngste kuld af ungdom, der voksede op i byen. Han
+  var lidt tunghørt og førladen; nu havde han taget plads nede i
+  bryggetrappen og geleidede damerne ombord med en stor, blød,
+  omhyggelig haand.
+    </p>
+    <p>
+     Elly, Milly og Tilda straalede og snakkede oppe paa bryggen. Karen
+  Jensen, en blegfed, ung pige med hvide øienbryn, var ogsaa kommet med.
+  De lo af alt. Først lo de af, at Mosling endda ikke var kommet, og da
+  de fik se hans lille skikkelse oppe i gaden lo de af, at han kom.
+  Mosling var en ven af Iversen, ogsaa en lidt ældre tørkomisk herre,
+  der uundgaaelig hørte med paa alslags turer.
+    </p>
+    <p>
+     Annikken stod for sig selv, flammende rød i ansigtet med rødkantede
+  øine, fordi hun havde grædt. Hatten sad lidt uklædelig paa skjæve paa
+  det lyse, brede hoved.
+    </p>
+    <p>
+     Iversen læspede og hviskede til damerne efterhvert, som de steg i
+  baaden.
+    </p>
+    <p>
+     «Jeg har tat min søster Annikken med, Iversen,» raabte Tilda lidt
+  bryd.
+    </p>
+    <p>
+     Iversen misforstod og fik det mærkelig nok til, at hun ikke havde
+  lyst paa denne tur.
+    </p>
+    <p>
+     [21] «Fy skam Dem,» læspede han hviskende.
+    </p>
+    <p>
+     Men Annikken havde hørt det, det flammede end stærkere op i hendes
+  ansigt.
+    </p>
+    <p>
+     «Nei, jeg sa, at jeg har tat Annikken med,» brølte Tilda.
+    </p>
+    <p>
+     Annikken vred sig af fortvilelse. Aa om hun kunde løbe sin vei! Men
+  kom hun hjem, saa blev bare mor vred –
+    </p>
+    <p>
+     «Glæder mig usigelig,» sagde Iversen, da han endelig forstod, «det
+  er mig en stor ære, jeg tror, det er første gang, frøkenen gjør mig
+  den fornøielse.»
+    </p>
+    <p>
+     Og den bløde haand trykkede Annikkens haand tæt.
+    </p>
+    <p>
+     «Alt andet end heldigt ydre,» tænkte Iversen, og smilede med store,
+  vandblaa øine til Annikken.
+    </p>
+    <p>
+     I sidste øieblik, de holdt netop paa at støde fra land, kom Per
+  Krafft løbende.
+    </p>
+    <p>
+     «Skal dere paa tur – og ingen har sagt mig til – jeg blir
+  naturligvis med –»
+    </p>
+    <p>
+     Det skarpe, lille ansigt lyste.
+    </p>
+    <p>
+     «Vi blir for mange, gut,» raabte Rode.
+    </p>
+    <p>
+     «Nei da,» raabte Tilda og Elly i kor. De andre unge piger stemte
+  ogsaa i med. «Vi er slet ikke for mange, Per kan godt være med.»
+    </p>
+    <p>
+     «Jeg repræsenterer ingen vægt at tale om i kilo,» sagde Per Krafft
+  og hoppede bardus ned i baaden.
+    </p>
+    <p>
+     «Paa denne maaden ser det nærmest ud til at vi gaar nedenom og hjem
+  hele kodiljen,» sagde Mosling.
+    </p>
+    <p>
+     [22] «Jeg skal gjøre nytte for mig og ro paa spræng,» sagde Per
+  Krafft – «hvor gaar turen hen?»
+    </p>
+    <p>
+     Det var en liden, sorthaaret student, der studerede theologi. Naar
+  de unge piger var alene sig imellem og kritiserede herrerne, sagde de
+  altid, at Per Krafft saa ud som han lugtede paa den gyseligste
+  gammelost. Forresten var det noget betydeligt og uberegneligt ved ham
+  paa samme tid. Og det var noget i hans ansigt, der trods
+  gammelostsnusingen ikke udelukkede muligheden af, at bispekorset
+  engang kunde komme til at lyse paa hans bryst.
+    </p>
+    <p>
+     «At være bikje og sidde i forenden, kan jeg da ialfald,» sagde Per
+  Krafft og satte sig paa baadripen.
+    </p>
+    <p>
+     «Nei her er udmærket rum,» raabte Tilda.
+    </p>
+    <p>
+     «All right,» sagde Iversen, og baaden gled udover i det blanke
+  vand.
+    </p>
+    <p>
+     De unge piger havde faat placeret Annikken længst agter ved roret,
+  indeklemt af alle de
+  andre.
+      <ref target="#NOR0105_ton2" xml:id="NOR0105_backn2">
+      n2
+     </ref>
+    </p>
+    <p>
+     Den mest eftertragtede plads var paa midttoften, hvor man var
+  herrerne nærmest. Der sad Iversen og Tilda.
+    </p>
+    <p>
+     «Ah, saa kan man igjen begynde at leve,» læspede Iversen, da
+  luftningen fra sjøen viftede om dem længere ude.
+    </p>
+    <p>
+     «Lever De ikke paa landjorden, De da, Iversen,» smilede Tilda.
+    </p>
+    <p>
+     «Nei, jeg forsmægter,» hviskede Iversen med et dvælende blik.
+    </p>
+    <p>
+     Han belønnedes med en trillende latter af alle de unge piger.
+    </p>
+    <p>
+     [23] Tænk, at de kan synes, at det var saa morsomt sagt, tænkte
+  Annikken og sad med et stort ubevægeligt ansigt.
+    </p>
+    <p>
+     Rode havde gjort forgjæves anstrengelser for at komme til at sidde
+  ved siden af Tilda, men da Iversen vilde have den plads, det var jo
+  hans baad, maatte han vige. Han sad nu bag hendes ryg og tilkjendegav
+  sin nærværelse ved smaa ryk i hendes lange flette.
+    </p>
+    <p>
+     «Rode, nu skal De la være,» Tilda vendte sig med et straalende
+  ansigt.
+    </p>
+    <p>
+     Det var rent en lettelse, naar Rode tog sin underlæbe op og
+  snakkede. Da blev han formelig vakker.
+    </p>
+    <p>
+     «Jeg er jo nødt til at tilkjendegive min eksistens, ellers er det
+  jo ingen, der tænker paa mig,» sagde Rode, og blev vakker.
+    </p>
+    <p>
+     «End jeg da,» sagde Mosling med en ynkelig stemme, «hvem tænker paa
+  mig.»
+    </p>
+    <p>
+     «End jeg her i min dystre ensomhed da,» raabte Per Krafft paa
+  baadripen.
+    </p>
+    <p>
+     «Du vilde jo selv sidde der,» raabte Tilda.
+    </p>
+    <p>
+     «Hur här är skönt,» læspede Iversen.
+    </p>
+    <p>
+     «Nei nu begynder han alt at tale svensk saa tidligt paa kvælden,»
+  raabte Mosling, «gjem det far, saa har du noget til maaneskinnet
+  ogsaa.»
+    </p>
+    <p>
+     Per Krafft saa ud, som han lugtede gammelost i høi grad.
+    </p>
+    <p>
+     «Forhindre da ikke manden i at bli elegisk,» raabte han.
+    </p>
+    <p>
+     [24] Iversen havde intet hørt og saa rundt med spør gende, vandblaa
+  øine. Saa lo de af det.
+    </p>
+    <p>
+     «Hvor har du kjøbt den flotte hat, Iversen,» sagde Mosling.
+    </p>
+    <p>
+     «Nei,» sagde Iversen raskt. Han havde igjen misforstaaet, men
+  troede, han dengang havde truffet det rigtige og saa sig veltilfreds
+  omkring. Saa lo de i kor.
+    </p>
+    <p>
+     Blev der et øiebliks stilhed, sagde Iversen: «Nei nu faar du til
+  Mosling.»
+    </p>
+    <p>
+     Og Mosling holdt det ene tøvede foredrag efter det andet, saa de
+  brølte af latter.
+    </p>
+    <p>
+     «Sandelig min hat gjør vi Mosling til storthingsmand til høsten,»
+  raabte Per Krafft, «et sligt herredømme over ordenes væld –»
+    </p>
+    <p>
+     «Pas dit eget væld, du far min,» sagde Mosling og gav Per Krafft et
+  puf, saa han holdt paa at gaa baglænds ud i sjøen.
+    </p>
+    <p>
+     Saa lo de igjen. Baaden gled henunder i skyggen af fjeldet, der
+  hvor vandet var klart og grønt, og den brune tang laa i store
+  vaser.
+    </p>
+    <p>
+     Nei, at de kan le saadan af al ting, tænkte Annikken. Hun havde
+  ikke opladt sin mund, siden de reiste fra bryggen.
+    </p>
+    <p>
+     «Lad os ro udenom skjærene,» raabte Tilda.
+    </p>
+    <p>
+     «Ro, ro til fiskeskjær,» sang Per Krafft.
+    </p>
+    <p>
+     Alle sang med, de friske unge stemmer bortover sjøen.
+    </p>
+    <p>
+     «Hvad er det, du sidder og funderer paa, Rode,» raabte Per – «slaa
+  paa dine strenge og sjung med –»
+    </p>
+    <p>
+     [25] Rode hentede sin underlæbe dybt dernedenfra og smilede.
+    </p>
+    <p>
+     «Jeg synes, vi har det saa koselig.»
+    </p>
+    <p>
+     «Ja manden har ret, vi har det netop koselig,» læspede Iversen.
+    </p>
+    <p>
+     Derborte laa Langeland. En rødmalet gaard paa en stump grønt jorde,
+  smaaheier og løvskov omkring, en stensat brygge ud i sjøen og et par
+  baader.
+    </p>
+    <p>
+     Sjøen gik saa spillende frisk ind mod stranden, hævede den brune
+  blæretang op og ned, op og ned og vaskede de rundslidte smaa
+  heier.
+    </p>
+    <p>
+     Aarene blev lagt ind, og den hele baad fuld af ungdom skurede mod
+  den primitive brygge. Oppe fra den rødmalte gaard drog en gammel kal
+  sig langsomt nedover.
+    </p>
+    <p>
+     «Naa der har vi jo gamlingen i egen person,» raabte Mosling.
+    </p>
+    <p>
+     «Goddag Even Langeland, her er pent folk ude og reiser, ser
+  De.»
+    </p>
+    <p>
+     Gamle Even var i buksesæler og blaa toplue med graa skjeggestubber
+  og buskede øienbryn.
+    </p>
+    <p>
+     «Jeg ser det,» sagde gamle Even.
+    </p>
+    <p>
+     «Vi kan vel faa ligge oppe paa jordet dit en stund, komme ind i
+  stuen din ogsaa kanske og hvile os lidt?»
+    </p>
+    <p>
+     «Jo det var vel raad til det, naar de vilde tækkes med bondestel
+  saa.»
+    </p>
+    <p>
+     «Du din gamle lurifas,» sagde Mosling og slog ham paa skulderen,
+  «du har flere penge paa kistebunden end hele skokken af os
+  tilsammen.»
+    </p>
+    <p>
+     [26] «He, he,» lo Even i sine graa skjeggestubber.
+    </p>
+    <p>
+     Even Langelands søn var skipper og for tilsjøs, sønnekonen og gamle
+  Even styrede saa gaarden hjemme.
+    </p>
+    <p>
+     «Her slaar vi os ned,» raabte Per Krafft oppe i et lidet bakkeheld,
+  hvor græsset var lyst som en dag i mai.
+    </p>
+    <p>
+     «Kan vi faa bragt melk hidop, Even.
+    </p>
+    <p>
+     «Ja det var vel raad til det,» sagde Even og stabbede ivei opover
+  mod huset.
+    </p>
+    <p>
+     Der slog de sig ned.
+    </p>
+    <p>
+     Tildas lyse kjole laa bortover græsset. Per Krafft støttede
+  albuerne paa den med hagen i hænderne og laa og stirrede paa
+  Tilda.
+    </p>
+    <p>
+     Han havde det i rykkevis med alting. Nu saa han ikke andre end
+  Tilda. Hele verden var bare luft forresten. Tilda straalede og
+  snakkede og var vakker. Mosling vilde have hans plads, men Per Krafft
+  protesterede:
+    </p>
+    <p>
+     «Jeg kjæmper som en løve,» raabte han.
+    </p>
+    <p>
+     Tilda rødmede, men smilede endda mere. Per er forelsket i Tilda,
+  tænkte Annikken, det kan jeg godt se.
+    </p>
+    <p>
+     Elly laa med hænderne under hovedet og blev viftet af Iversen med
+  en tom kagepose. Karen Jensen knyttede lykkestraa med Mosling. Ingen
+  tog notits af Annikken, men hendes øine lyste.
+    </p>
+    <p>
+     For dette var igrunden snodigt, saa friskt og saa deiligt.
+    </p>
+    <p>
+     [27] Pludselig vendte Per Krafft sig helt om mod Annikken.
+    </p>
+    <p>
+     «Du er saa stille du –,» sagde han skjælmsk.
+    </p>
+    <p>
+     «Ja.» Annikken blev lidt rød.
+    </p>
+    <p>
+     «Hvorfor er du nu egentlig det.
+    </p>
+    <p>
+     «Jo for jeg er saadan,» sagde Annikken alvorlig.
+    </p>
+    <p>
+     Han saa hende ind i øinene:
+    </p>
+    <p>
+     «Jeg er ogsaa saadan,» sagde han, øinene smilede fremdeles.
+    </p>
+    <p>
+     «Nei det er du slet ikke,» sagde Annikken. Hun huskede ham nok fra
+  kjelkebakkerne for en to tre aar siden, da Annikkens fader flyttede
+  til byen. Siden havde han fordetmeste været i Kristiania.
+    </p>
+    <p>
+     «Jeg taler blot med den største overvindelse,» fortsatte det
+  smilende ansigt.
+    </p>
+    <p>
+     Han gjør bare nar af mig, tænkte Annikken og saa alvorlig paa
+  ham.
+    </p>
+    <p>
+     «Tror du ikke, jeg mener, hvad jeg siger.»
+    </p>
+    <p>
+     «Nei,» sagde Annikken kort.
+    </p>
+    <p>
+     Han stirrede hende et par sekunder ind i øinene.
+    </p>
+    <p>
+     «Du er noget for dig selv, du,» sagde han let.
+    </p>
+    <p>
+     Straks efter vendte han sig rundt til de andre, talte og lo,
+  vrængede med ord og holdt latteren oppe.
+    </p>
+    <p>
+     Gamle Even kom stabbende nedover med en stor bolle melk. Den ene
+  skidne tommelfinger holdt han troværdig dybt nede i melken.
+    </p>
+    <p>
+     «Nektar og Ambrosia,» raabte Per Krafft, «serveret paa den
+  delikateste maade, du Even, du Even du perle blandt mandkjøn –»
+    </p>
+    <p>
+     «Nei lad os ikke ligge her og være saa træge,» [28] raabte Milly,
+  som ingen for øieblikket tog nogen videre notis af – «lad os lege:
+  Enkemand sidste par ud.»
+    </p>
+    <p>
+     Mosling var enkemand, og Annikken og tykke Karen Jensen blev et
+  par. Da der blev raabt: Sidste par ud løb Annikken alt, hvad hun
+  orkede, hun tænkte sig ikke andet, end at Karen ogsaa skulde løbe; men
+  denne havde ladt sig meget letvindt fange af Mosling, og langt nede
+  paa jordet stod Annikken mutters alene.
+    </p>
+    <p>
+     «Det var fusk det,» sagde hun alvorlig til Karen, da hun kom op til
+  de andre igjen.
+    </p>
+    <p>
+     «Fusk, ha, ha,» de storlo allesammen.
+    </p>
+    <p>
+     Næste gang Annikken skulde løbe, var Annikken og Tilda kommet
+  sammen. Rode var enkemand. Han lagde end ikke det ringeste skjul paa,
+  at det var Tilda, han vilde fange, og kastede ikke et blik efter
+  Annikken engang.
+    </p>
+    <p>
+     Tilda og Rode sprang nedover paa kryds og tvers, lo og braastansed,
+  sprang igjen, hiksted af bare latter.
+    </p>
+    <p>
+     Annikken stod som en støtte langt oppe ved siden af de andre.
+    </p>
+    <p>
+     «Men saa løb da, Annikken og mød hende,» raabte de andre.
+    </p>
+    <p>
+     «Nei.»
+    </p>
+    <p>
+     «Kjære, hvorfor vil du ikke?»
+    </p>
+    <p>
+     «Hun vil jo netop, at han skal fange hende,» sagde Annikken, «dere
+  kan da vel se det.»
+    </p>
+    <p>
+     De lo allesammen.
+    </p>
+    <p>
+     [29] «De er rar, De,» hviskede Iversen.
+    </p>
+    <p>
+     Per Krafft var enkemand. Det var atter Annikken og Tilda.
+    </p>
+    <p>
+     Ingen bryr sig om at løbe efter mig, tænkte Annikken, sandelig min
+  hat, om jeg vil løbe heller.
+    </p>
+    <p>
+     Der var Per Krafft lige efter hende. Annikken vendte sig forbauset
+  om. «Nei Tilda løber jo der,» sagde hun med det alvorlige ansigt.
+    </p>
+    <p>
+     «Tænker du ikke, jeg har øine i hovedet du, nei, det er dig, jeg
+  vil fange.»
+    </p>
+    <p>
+     Annikken sprang som for livet. Det var da mærkeligt, at han vilde
+  løbe efter hende. Men det var lidt morsomt ogsaa. Og hun løb.
+    </p>
+    <p>
+     Men Per Krafft var lige i hælene paa hende.
+    </p>
+    <p>
+     «Du løber jo, som jeg vilde myrde dig,» sagde han.
+    </p>
+    <p>
+     «Ja det skal man jo,» sagde hun, da han havde fanget hende.
+    </p>
+    <p>
+     «Skal man det,» sagde han igjen med sine skjælmske øine.
+    </p>
+    <p>
+     «Ja,» sagde Annikken troskyldig.
+    </p>
+    <p>
+     Men det var alligevel morsomt, at han havde løbet saadan efter
+  hende.
+    </p>
+    <p>
+     Siden blev der drukket kaffe inde i Even Langelands lave stue, hvor
+  der hang skuder for fulde seil langs alle vægge, og rare konkylier,
+  der var hjemført fra de varme lande, laa til stas allevegne.
+    </p>
+    <p>
+     Saa kom maanen op gyldengul bag furutræerne ind mod land.
+    </p>
+    <p>
+     De maatte tænke paa hjemturen. Og sjøen laa saa blød og saa stille,
+  men tæt indved land, hvor [30] furutræerne skyggede, var sjøen sort og
+  hemmelighedsfuld, og alle omrids var saa dunkle og udviskede. Men
+  midtfjords glimtede maanestriben.
+    </p>
+    <p>
+     Og de havde punsch, og der blev drukket og leet. Saa var der en,
+  der sagde:
+    </p>
+    <p>
+     «Aa for en aften –»
+    </p>
+    <p>
+     «Ja har dere seet noget saa vidunderligt – vi er i
+  eventyrland.»
+    </p>
+    <p>
+     «Vast roet der forud,» læspede Iversen, «slig en aften faar vi
+  aldrig igjen.»
+    </p>
+    <p>
+     Aarene blev dyppet stille og blødt, og saa sang de:
+    </p>
+    <p>
+     «Vi skilles ved en planke fra vor grav –»
+    </p>
+    <p>
+     Men ikke en eneste en af dem alle tænkte hverken paa planken eller
+  graven.
+    </p>
+    <p>
+     Det blev kjøligere. Sjøen skvulpede saa let under baaden.
+    </p>
+    <p>
+     «Vast lidt der forud,» raabte Iversen igjen, «vi vil ikke iland
+  ikvæld.»
+    </p>
+    <p>
+     Annikken havde sin gamle plads agter, indeklemt mellem alle de
+  andre. Tilda havde ligesom tabt humøret, sad og stirrede ret ned i
+  sjøen. Per Krafft laa i forenden og nynnede noget uforstaaeligt dæmpet
+  noget.
+    </p>
+    <p>
+     Den vidunderlige bløde sommernat derude mellem skjærene.
+    </p>
+    <p>
+     Endelig kom de til land. I skyggen af træerne opigjennem de smaa
+  gader var der dobbelt stille, som noget lønligt, forhekset.
+    </p>
+    <p>
+     Men bag de smaa vinduer med de nedrullede [31] gardiner vendte folk
+  sig i sine senge, naar de hørte de friske, unge stemmer derude i
+  nattestilheden.
+    </p>
+    <p>
+     «Nogen af de fine, der har været paa tur igjen, det er maade paa
+  ogsaa, slig er de ude hver eneste kvæld.»
+    </p>
+    <p>
+     Og saa sov byen igjen under de store lønnetræer.
+    </p>
+    <p>
+     Men idetsamme, de skulde lægge sig, sagde Tilda saadan løst
+  henkastet:
+    </p>
+    <p>
+     «Uf den Per Krafft. Han løb efter dig i enkemandslegen bare for at
+  ærte mig, det var noget, vi havde væddet om.»
+    </p>
+    <p>
+     «Jasaa,» sagde Annikken.
+    </p>
+   </div>
+ 
+   <div type="chapter" xml:id="annikken-og-brødrene">
+    <head>
+     <ref target="#contents_3" xml:id="chapter_3">
+      Annikken og
+  brødrene
+     </ref>
+    </head>
+    <p>
+     [32] Nei!
+    </p>
+    <p>
+     En ting var Annikken vis paa. Være med paa saadanne ture mere, det
+  vilde hun ikke.
+    </p>
+    <p>
+     Nu havde hun ikke sagt et ord paa hele hjemveien fra Langeland,
+  ingen havde talt til hende heller. Havde det ikke været det, at hun
+  passede roret, saa havde det været akkurat det samme, om hun havde
+  siddet der i agterenden eller ei.
+    </p>
+    <p>
+     Kanske hun var saa dum, at det var det, der gjorde det. Om det
+  havde gjældt hendes liv, havde hun ikke kunnet tale saa let eller havt
+  saadan en overflod af ord. Den mindste lille sætning kunde de jo vride
+  og vende i det uendelige.
+    </p>
+    <p>
+     Og saa var det jo igrunden ingenting det, de talte om heller.
+    </p>
+    <p>
+     Bare noget tøv altsammen, tænkte Annikken og stirrede uhyre
+  alvorlig frem for sig.
+    </p>
+    <p>
+     Den eneste, som ligesom havde givet sig lidt af med hende var jo
+  Per Krafft. Men Annikken var ikke ganske vis paa, om han ikke havde
+  gjort lidt nar af hende.
+    </p>
+    <p>
+     [33] Jo mere hun tænkte paa det, des vissere blev hun paa, at han
+  bare havde gjort nar af hende.
+    </p>
+    <p>
+     Det havde ikke netop føltes saa, da han talte til hende og løb
+  efter hende i enkemandslegen, men det var bare, fordi hun var saa
+  enfoldig og ikke forstod sig paa herrer.
+    </p>
+    <p>
+     Nei hun brydde sig ikke det pluk om at være sammen med alle dem,
+  som de kaldte hendes veninder mere.
+    </p>
+    <p>
+     Jo det var nogen deilige veninder! De brydde sig jo ikke det spor
+  om hende, nogen af dem.
+    </p>
+    <p>
+     Annikken forstod sig ikke selv mere. Hun havde faat saadan længsel
+  i sig efter at folk skulde være snilde mod hende og være lidt glad i
+  hende.
+    </p>
+    <p>
+     Saadan havde hun aldrig havt det før. Da havde hun været ligeglad
+  med alt saadant noget, bare løbet med de yngre brødrene den hele dag,
+  fisket og roet som en kar, og kommanderet og regjeret i baaden. For
+  det kunde hun.
+    </p>
+    <p>
+     Derfor var det ogsaa, at hun var blevet hedende sjømand Røst.
+    </p>
+    <p>
+     Men nu var det rare skeet, at sjømand Røst helt var forsvundet.
+    </p>
+    <p>
+     Det var med en eneste gang blevet saa saart og leit, at hun ingen
+  veninder havde, og at ingen brydde sig om hende.
+    </p>
+    <p>
+     Aa – og saa forfærdelig leit, det var at bli voksen.
+    </p>
+    <p>
+     Ligesom en stor uafvendelig ulykke, som nærmede sig – og nærmede
+  sig og som hun maatte op i.
+    </p>
+    <p>
+     [34] At voksne, gamle folk kunde holde ud at leve!
+    </p>
+    <p>
+     Nu var hun sytten aar om tre maaneder, du store alverden hvor
+  gammel, hun var.
+    </p>
+    <p>
+     Tænk, at Iversen, som var saa gruelig gammel, vist over tredive
+  aar, kunde holde leven og le saadan af ingen ting.
+    </p>
+    <p>
+     Og at Elly og Milly og Karen, ja Tilda ogsaa kunde gjøre sig saa
+  til for den gamle Iversen!
+    </p>
+    <p>
+     For de
+     gjorde
+     sig til!
+    </p>
+    <p>
+     De lo ikke saadan af al ting, naar de var alene sammen med de andre
+  unge piger.
+    </p>
+    <p>
+     Nei det var saa ufatteligt, altsammen. Bag deres ryg lo de jo
+  forfærdelig og gjorde nar baade af Iversen og Mosling og Rode og Per
+  Krafft ogsaa. Og, naar de var sammen med dem, saa likte de det, bare
+  nogen af herrerne saa paa dem.
+    </p>
+    <p>
+     Annikken funderede stærkt med det lyse, brede ansigt.
+    </p>
+    <p>
+     Ja jeg vil ikke være saadan, tænkte hun. Ikke vil jeg være saadan,
+  og ikke kunde jeg heller, om jeg end vilde.
+    </p>
+    <p>
+     Nei hun vilde følge med gutterne op i heien og lave fos! Det vilde
+  hun, det var da moro, det.
+    </p>
+    <p>
+     Grave kanaler og lede alt vandet fra myrene deroppe ned i det
+  basin, de havde gravet ud, bygge dæmninger, og saa, naar hele basinet
+  var fuldt, lade fossen buldre og styrte nedover den stupbratte
+  hei.
+    </p>
+    <p>
+     Svend, Erik og Nils forsynede sig med hver sit bogstavelig
+  tommetykke smørrebrød, indpakket i papir og tog paa sprang opover
+  heien.
+    </p>
+    <p>
+     [35] Idag skulde det rigtignok blive en storartet fos. Regnet havde
+  det gjort, myrene var søkvaade, og ordentlig spade havde de med sig.
+  Opover heien var det den ivrigste diskussion om den bedste maade at
+  tage sagen paa.
+    </p>
+    <p>
+     Annikken var grei og kort. Saadan skulde det være og saadan og
+  saadan.
+    </p>
+    <p>
+     Gutterne bøiede sig for hende, alle tre. Ja naturligvis, det, som
+  sjømand Røst sagde, var det rigtigste.
+    </p>
+    <p>
+     Himlen var saa lys, og luften var saa let, og alle de fire deroppe
+  arbeidede i sit ansigts sved. Myren var saa vaad, at traadte man feil,
+  sank man i over støvlerne. Det gjaldt at være rask paa foden og let i
+  vendingen. Annikken var ikke egentlig nogen af delene, men hun
+  arbeidede som en kar sammen med de tre hvidhaarede, sveddryppende
+  gutter.
+    </p>
+    <p>
+     Dette var moro, det, det var noget andet end turen igaar.
+    </p>
+    <p>
+     Kjolekanten og strømper og sko var dyngvaade, hatten laa langt
+  borte i lyngen, det var et spørgsmaal, om gutterne idetheletaget havde
+  havt hatte paa, da de kom herop. lalfald var det lille Nils umuligt at
+  huske det. De tommetykke smørrebrød laa paa stene, hvor det kunde
+  falde sig og blev bidt af nu og da.
+    </p>
+    <p>
+     Sandelig var dette godt gjort, om hun selv skulde sige det, tænkte
+  Annikken, at faa hele basinet fuldt bare af de myrene.
+    </p>
+    <p>
+     [36] Hun stod som en feltherre og lænede sig paa spaden, det tynde
+  haar viftede om hende.
+    </p>
+    <p>
+     «Det er ikke tale om, at vi lar fossen gaa idag, gutter!»
+    </p>
+    <p>
+     «Aa jo da.»
+    </p>
+    <p>
+     «Nei vi kan faa meget mer vand, hvis vi graver en rende
+  derbortenfra, skal dere bare se.»
+    </p>
+    <p>
+     Ja sandelig havde ikke sjømand Røst ret denne gang ogsaa. Der kom
+  en pige gaaende borte fra stien, der kom nedefra byen.
+    </p>
+    <p>
+     «Hvem er nu det da,» sagde Annikken, «aldrig kan man nu faa være i
+  fred heller.»
+    </p>
+    <p>
+     Hun vridde lidt vand af sit kjoleskjørt, og tog sin hat paa, andet
+  toilette var det jo egentlig ikke anledning til at gjøre paa grund af
+  den kommende.
+    </p>
+    <p>
+     Da hun kom nærmere saa de, at det var Lina Græsvig. En ung pige,
+  som Annikken gik til konfirmation med. De havde gaat paa skole sammen
+  ogsaa, men Lina Græsvig var blevet tat ud af skolen for et aars tid
+  siden, da moderen, som var enke, ikke havde havt raad til at betale
+  skolepengene. Faderen, der havde været theologisk kandidat, var
+  sygelig hele sit Liv, havde saa giftet sig med en tjenestepige, men
+  var død efter et par aars forløb.
+    </p>
+    <p>
+     Moderen syede linsøm for folk, og forsøgte saa godt, hun kunde
+  efter ringe evne, at give datteren en opdragelse, der var den
+  studerede fader værdig.
+    </p>
+    <p>
+     Det var en høi, lys, spædlemmet skikkelse, den lille Lina Græsvig,
+  der havde denslags helt blaa øine, [37] som bringer tanken hen paa
+  violer. Hun mindede forresten om en blomst heltigjennem. En rank,
+  spæd, uskyldig blomst. Det blev sagt, at Lina Græsvig havde arvet
+  faderens daarlige helbred. Hun hostede ofte.
+    </p>
+    <p>
+     Pyt var det bare Lina Græsvig, der kom!
+    </p>
+    <p>
+     «Vi leder vandet i kanaler, kom her skal du se,» raabte
+  Annikken.
+    </p>
+    <p>
+     Lina Græsvig kom nærmere med de yndefulde blaa øine i det stille
+  ansigt. Hun havde en sort straahat med blaat baand.
+    </p>
+    <p>
+     «Hvor vaad du er,» sagde hun til Annikken.
+    </p>
+    <p>
+     «Ja pyt.»
+    </p>
+    <p>
+     «Du kan blive forkjølet.»
+    </p>
+    <p>
+     «Puh,» med den dybeste ringeagt – «synes du ikke, det ser morsomt
+  ud?» Annikken pegede udover sit eftermiddagsarbeide, de dyngvaade
+  myrer og de smale, sorte gravede render.
+    </p>
+    <p>
+     «Aa jeg ved ikke rigtig.»
+    </p>
+    <p>
+     «Ingen jenter skjønner sig paa sligt uden sjømand Røst,» sagde Erik
+  med sorte svedperler i panden.
+    </p>
+    <p>
+     «Gaar du tur,» spurgte Annikken.
+    </p>
+    <p>
+     «Ja mor vil, at jeg skal ud i luften.»
+    </p>
+    <p>
+     «Er du syg?»
+    </p>
+    <p>
+     «Aa nei da, jeg er bare ligesom lidt træt.»
+    </p>
+    <p>
+     De snakkede videre. Lina Græsvig slog sig ned i lyngen. Hun
+  fortalte, at hun havde vaaget inat hos en morbror af sig, som var
+  lods, han var død udpaa morgenstunden.
+    </p>
+    <p>
+     «Var du der, da han døde?»
+    </p>
+    <p>
+     [38] «Ja jeg holdt ham i haanden.»
+    </p>
+    <p>
+     «Var det ikke rart?»
+    </p>
+    <p>
+     «Jo det er ligesom, verden er ingenting, naar man har seet en
+  dø.»
+    </p>
+    <p>
+     Det blev en liden pause. «Jeg tror, jeg gjerne vilde være tilstede,
+  naar en skulde dø,» sagde Annikken og saa langt ud for sig.
+    </p>
+    <p>
+     «Ja en har godt af det, siger mor.»
+    </p>
+    <p>
+     «Kan du skjønne, at menneskene kan le og snakke saa forfærdelig
+  meget og ligesom være saa letsindige, Lina –» sagde Annikken.
+    </p>
+    <p>
+     «Tænker du ogsaa saadan?» Lina Græsvigs violøine lyste.
+    </p>
+    <p>
+     «Ja bestandig.»
+    </p>
+    <p>
+     «Tænk, saadan tænker jeg ogsaa.»
+    </p>
+    <p>
+     De slog følge sammen nedover. «Jeg har faat piano,» sagde Lina
+  Græsvig pludselig, «vi har kjøbt madam Rørvigs gamle
+  taffelformede.»
+    </p>
+    <p>
+     «Var det dyrt?»
+    </p>
+    <p>
+     «Ja svært,» sagde Lina Græsvig alvorlig, «det kostede fyrretyve
+  kroner. Mor har sparet penge sammen saa længe.»
+    </p>
+    <p>
+     «Er det pene toner i det da?»
+    </p>
+    <p>
+     «Ja det er da en lyd,» sagde Lina Græsvig paa sin stille maade,
+  «jeg spiller salmer paa det.»
+    </p>
+    <p>
+     «Gaar du ofte opover her,» spurgte Annikken.
+    </p>
+    <p>
+     «Ja mor siger, det er saa sundt for mig at gaa i høiden.»
+    </p>
+    <p>
+     «Skal vi mødes her imorgen igjen, saa kan vi snakke mere.»
+    </p>
+    <p>
+     [39] De aftalte, at de skulde mødes og sprang hver til sit.
+    </p>
+    <p>
+     Men Annikken var ligesom saa glad, da hun kom hjem. Hun kunde ikke
+  komme fra nogen blaa øine, der lignede violer, under en sort straahat
+  og en liden sørgmodig stemme, der talte om døden.
+    </p>
+    <p>
+     «Nei ved du hvad, Annikken,» det var moderen, der talte, «det er
+  dog maade med alt.»
+    </p>
+    <p>
+     Hun holdt Annikkens dyngvaade kjole og de bogstavelig gjennemblødte
+  sko og strømper fra Annikkens ingeniørarbeide op i veiret.
+    </p>
+    <p>
+     «Var du ti aar, havde du fortjent ris; blir du da aldrig voksen
+  barn.»
+    </p>
+    <p>
+     Annikken saa alvorlig paa sin vaade garderobe.
+    </p>
+    <p>
+     «Det tørrer saa fort – mor.»
+    </p>
+    <p>
+     En times tid efter gik moderen hen og strøg hende over det tynde
+  haar:
+    </p>
+    <p>
+     «Stakkars min rare unge.»
+    </p>
+   </div>
+ 
+   <div type="chapter" xml:id="lina-græsvig">
+    <head>
+     <ref target="#contents_4" xml:id="chapter_4">
+      Lina
+  Græsvig
+     </ref>
+    </head>
+    <p>
+     [40] Efter hin eftermiddag kom Annikken og Lina Græsvig ofte
+  sammen. De mødtes oppe i heiene, og sad og saa udover havet, eller
+  spadserede oppe i skoven. Helst gik de veie, hvor de vidste, at de
+  ingen mødte.
+    </p>
+    <p>
+     De talte mest om Gud og grundede paa livets store spørgsmaal. Lina
+  Græsvig havde læst meget i faderens efterladte theologiske bøger.
+  Annikken havde ikke befattet sig med denslags, hun havde ført et
+  friskere barndomsliv end Lina, men der var næsten ikke gaat en dag i
+  hele hendes liv, uden at hun havde hørt faderen paa en eller anden
+  maade tale om sin længsel efter det andet liv og frigjørelse fra alt
+  hernede.
+    </p>
+    <p>
+     Det var især et bibelsprog, han elskede: Borte fra legemet, hjemme
+  hos Herren! Hun havde hørt ham citere det, atter og atter, inde paa
+  sit kontor, naar han troede sig alene, og ude i haven de lange
+  sommerkvælder.
+    </p>
+    <p>
+     Borte fra legemet, hjemme hos Herren –
+    </p>
+    <p>
+     [41] Denne dybe længsel rørte ved noget i hendes hjerte, hun ikke
+  kunde forklare sig selv. Og hun mødte Lina Græsvigs stærke religiøse
+  trang i stor forstaaelse.
+    </p>
+    <p>
+     «Undertiden sidder jeg paa bedehuset og venter paa, at jeg skal bli
+  vakt,» sagde Lina uskyldig, «jeg tror ligesom, at det er noget, der
+  skal falde ned over mig.»
+    </p>
+    <p>
+     Annikken var mere nøgtern. «Nei, det er noget vi maa oparbeide selv
+  i vor egen sjæl,» sagde hun stille.
+    </p>
+    <p>
+     Lina Græsvigs moder var et orakel for datteren i smaat og stort.
+  Datteren lignede hende paafaldende, men hvad der hos Lina var
+  yndefuldt og slankt, var haardt og tarveligt hos moderen. Hun talte
+  lidet, og der var et stort alvor over hende. Øinene var store og
+  lysende, men munden streng og kinderne indhule. Hun hørte til en
+  frimenighed, men hun vilde, at datteren skulde konfirmeres i
+  statskirken, saa kunde hun siden selv vælge. Mange tause, alvorlige
+  mennesker mødtes stadig i de lave stuer hos Lina Græsvigs moder.
+  Udefra gaden hørte man ofte salmesang derindefra.
+    </p>
+    <p>
+     Det var noget nyt for Annikken at komme derned, og hun følte sig
+  til en begyndelse ligesom beklemt, men snart vænnede hun sig til det
+  og likte at komme der.
+    </p>
+    <p>
+     Men altid var hun ligesom lidt ræd for Linas moder med det
+  alvorlige sørgelige ansigt. Det var, som Gud altid sad oppe i himlen
+  med et stort ris. Den Gud, hendes fader længtes til, var ikke saadan.
+  [42] Han gik der altid lys og glad, ofte i rørelse med vakre ord om
+  Guds deilighed og vidunderlighed.
+    </p>
+    <p>
+     Naar hun kom fra den lave stue nede hos Græsvigs, hvor solen tidlig
+  gik bort og kom hjem i den lune, gammeldagse have mellem de
+  høistammede, mørkerøde roser, hvor reseda og abrod duftede i de lyse
+  sommerkvælder, og faderen gik med sin lange pibe op og ned ved
+  spereahækken og citerede digte halvhøit for sig selv – der var noget
+  saa lyst over det hele – da maatte hun altid tænke paa Lina Græsvig,
+  der sad aften efter aften i det mørke bagværelse op mod heien. Eller
+  ogsaa paa bedehuset – tætpakket, varmt med tunge bønner!
+    </p>
+    <p>
+     Hun blev saa saar om hjertet, ligesom saa beklemt og vemodig.
+    </p>
+    <p>
+     Men den næste dag, naar hun traf Lina Græsvig, kunde denne komme
+  saa glædesstraalende mod hende:
+    </p>
+    <p>
+     «Aa, men igaar læste jeg vel noget deiligt i Davids salmer, du maa
+  læse det du ogsaa – er det ikke deiligt?»
+    </p>
+    <p>
+     Hvor glad hun ser ud, tænkte Annikken
+    </p>
+    <p>
+     Og Lina talte, medens øinene lyste:
+    </p>
+    <p>
+     «Tænk undertiden, du, kan jeg bli saa jublende glad, saa jeg
+  formelig kjender, hvor det triller gjennem mig, fordi at – fordi at
+  –»
+    </p>
+    <p>
+     Med en eneste gang blev hun generet og vilde ikke fortsætte.
+    </p>
+    <p>
+     «Sig det da,» bad Annikken.
+    </p>
+    <p>
+     «Fordi jeg skal komme til Gud,» sagde Lina sagte og blev rød over
+  hele ansigtet, «tænk saadan [43] kunde jeg ikke tale til andre end
+  dig,» vedblev hun hurtig, «ingen andre vilde forstaa det» – –
+    </p>
+    <p>
+     Tilda og alle veninderne havde sin store moro af dette Annikkens
+  nye venskab.
+    </p>
+    <p>
+     «Er hun saa morsom,» spurgte Elly.
+    </p>
+    <p>
+     «Aa nei,» sagde Annikken.
+    </p>
+    <p>
+     «Nei hun ser ikke egentlig ud, som hun kan sige to ord,» sagde
+  Milly.
+    </p>
+    <p>
+     «Hun ligner Rafaels madonna,» sagde Tilda.
+    </p>
+    <p>
+     «Du mener, at hun er kjedelig, naar du siger, at hun ligner en
+  madonna,» sagde Annikken.
+    </p>
+    <p>
+     «Ha ha» lo de alle.
+    </p>
+    <p>
+     «Ja for madonnaer er altid ubevægelige og pene,» sagde Annikken,
+  «men hun er meget mere værdt end alle dere tilsammen, det skal jeg
+  bare fortælle dere.»
+    </p>
+    <p>
+     «Ha, ha, ha,» lo de alle igjen.
+    </p>
+    <p>
+     En dag Lina Græsvig og Annikken sad oppe i smaaskoven kom Per
+  Krafft byksende nedover oppe fra heiene.
+    </p>
+    <p>
+     «Skal jeg træffe folk her?»
+    </p>
+    <p>
+     «Ja vi gaar her ofte,» sagde Annikken, «her er saa hyggeligt.»
+    </p>
+    <p>
+     Han slog sig ned paa en sten lige ved. «Ja jeg gaar ogsaa her, naar
+  jeg er træt af mennesker,» lo han.
+    </p>
+    <p>
+     En liden pause.
+    </p>
+    <p>
+     «Hvorfor lyver du saadan?» sagde Annikken pludselig.
+    </p>
+    <p>
+     «Lyver,» hans øine spillede.
+    </p>
+    <p>
+     [44] «Ja du lyver, naar du siger du er træt af mennesker, for det
+  er du slet ikke.»
+    </p>
+    <p>
+     Han lo, lo saa han trillede ned i lyngen.
+    </p>
+    <p>
+     «Men hvorledes kan nu egentlig du vide, om jeg er træt eller
+  ei.»
+    </p>
+    <p>
+     «Aa,» Annikken saa ikke paa ham, «du snakker og ler jo
+  bestandig.»
+    </p>
+    <p>
+     «Ha ha, du er ingen menneskekjender.»
+    </p>
+    <p>
+     «Nei det kan godt hænde – skjønt» hun gjorde en liden pause,
+  «igrunden ved jeg ogsaa godt, hvad folk tænker.»
+    </p>
+    <p>
+     «Hvad tænker jeg i dette øieblik da?»
+    </p>
+    <p>
+     «Aa du tænker: Hvor dum hun er.»
+    </p>
+    <p>
+     «Ha, ha – ikke mere da,» han stirrede hende ind i ansigtet.
+    </p>
+    <p>
+     Annikken saa granskende paa ham igjen: «Og saa tænker du – nei jeg
+  vil ikke sige det –» brød hun af.
+    </p>
+    <p>
+     «Jo sig det nu –»
+    </p>
+    <p>
+     «Nei jeg vil ikke –»
+    </p>
+    <p>
+     Han tog hende i begge armene, ligesom for at tvinge hende: «Nu skal
+  du sige det.»
+    </p>
+    <p>
+     Men der havde han gjort regning uden Annikkens brede arm. I en to
+  tre havde hun ham under sig i lyngen.
+    </p>
+    <p>
+     «Kan du tvinge mig nu,» sagde hun over ham.
+    </p>
+    <p>
+     Han lo, saa han hiksted: «Skal jeg sige, hvad jeg tænkte?» «Hun er
+  en raring, men hun er ikke værst alligevel.»
+    </p>
+    <p>
+     Annikken slap ham øieblikkelig.
+    </p>
+    <p>
+     [45] «Gaar dere ofte opover her,» sagde han.
+    </p>
+    <p>
+     «Nei langtfra,» sagde Annikken.
+    </p>
+    <p>
+     «Du sagde jo netop, at dere gik her ofte.»
+    </p>
+    <p>
+     «Ja men vi kommer vist aldrig til at gaa her mere,» sagde Annikken
+  og stirrede ud over hans hoved.
+    </p>
+    <p>
+     «Hvorfor det da?»
+    </p>
+    <p>
+     «Det er græsseligt, som du spør om alt,» sagde Annikken.
+    </p>
+    <p>
+     «Jeg anbefaler mig,» sagde Per Krafft og bukkede ironisk med sin
+  gammelostnæse.
+    </p>
+    <p>
+     Lina Græsvig havde ikke sagt et ord, før han var vel borte.
+    </p>
+    <p>
+     «Han er sød,» sagde hun pludselig.
+    </p>
+    <p>
+     «Han er ækkel,» sagde Annikken alvorlig.
+    </p>
+    <p>
+     «Du – han liker dig svært godt,» vedblev Lina Græsvig.
+    </p>
+    <p>
+     «For noget tøv.»
+    </p>
+    <p>
+     «Dere faar vist hverandre,» sagde Lina Græsvig grundende, hun
+  ligesom stirrede ud i fremtiden – «ja tænk, jeg tror det,» blev hun
+  ved.
+    </p>
+    <p>
+     «Uf saadant vaas, han synes netop, jeg er saa fæl –»
+    </p>
+    <p>
+     «Nei han liker dig –»
+    </p>
+    <p>
+     «Uf.»
+    </p>
+    <p>
+     Siden begyndte Lina Græsvig altid at tale om Per Krafft, naar de
+  var sammen.
+    </p>
+    <p>
+     «Han har saadanne nydelige smilende øine,» sagde hun, «gid vi mødte
+  ham igjen.»
+    </p>
+    <p>
+     «Nei det vil jeg ikke ønske,» sagde Annikken, «jeg kan ikke udstaa
+  folk, der ler og gjør nar af alt.»
+    </p>
+   </div>
+ 
+   <div type="chapter" xml:id="maren-anne-og-ebba">
+    <head>
+     <ref target="#contents_5" xml:id="chapter_5">
+      Maren Anne og
+  Ebba
+     </ref>
+    </head>
+    <p>
+     [46] Det hele hus var i en forventning.
+    </p>
+    <p>
+     Der var kommet brev, at to kusiner vilde komme og bade der nogle
+  uger. Maren Anne, hvis fader var embedsmand inde i Kristiania og
+  kusine Ebba fra Stockholm.
+    </p>
+    <p>
+     Annikken var den eneste, der kjendte dem. For to–tre aar siden
+  havde hun været sammen med dem begge paa Blommedal hos gamle
+  bedstemor. Det var dengang bedstemor døde, og alt det hændte, som
+  Annikken saa ofte havde fortalt om.
+    </p>
+    <p>
+     «Er de frygtelig fine,» spurgte Tilda.
+    </p>
+    <p>
+     «Ja forfærdelig,» sagde Annikken, «især Ebba.»
+    </p>
+    <p>
+     «Og Maren Anne er jo et vidunder af flinkhed, du store alverden,
+  hvor jeg gruer.»
+    </p>
+    <p>
+     «Nei de er ikke det pluk at grue for,» sagde Annikken.
+    </p>
+    <p>
+     «Du sjømand Røst,» sagde Svend, «er de noget kjække, Maren Anne og
+  Ebba?»
+    </p>
+    <p>
+     Sjømand Røst tænkte sig om:
+    </p>
+    <p>
+     «Aa – nei.»
+    </p>
+    <p>
+     [47] «Det skal du faa mig til at tro,» sagde Svend «det er vist
+  nogen gode sippernipper.»
+    </p>
+    <p>
+     «Nei det er de ikke,» sagde Annikken.
+    </p>
+    <p>
+     «Uf, Annikken, forklar hvorledes de er da,» sagde Magna.
+    </p>
+    <p>
+     «Maren Anne er alvorlig med krum næse og forfærdelig skikkelig,»
+  begyndte Annikken.
+    </p>
+    <p>
+     «Isch,» raabte alle gutterne og Magna.
+    </p>
+    <p>
+     «Dere kan tro, hun er vist bra ækkel,» sagde Tilda og saa rundt paa
+  de andre.
+    </p>
+    <p>
+     «Afskyelig naturligvis,» sagde Magna, «jeg hader folk som er
+  skrækkelig skikkelige.»
+    </p>
+    <p>
+     «Men Ebba er ikke saa skikkelig,» sagde Annikken, «for hun er en
+  flyfille og svært pyntet.»
+    </p>
+    <p>
+     «Ak,» sagde Tilda, «det er deiligt at høre.»
+    </p>
+    <p>
+     «Bedstemor var vond paa hende mange gange,» sagde Annikken.
+    </p>
+    <p>
+     «Uf ja – gamle vonde bedstemødre,» begyndte Tilda.
+    </p>
+    <p>
+     «Bedstemor var ikke vond,» sagde Annikken med lynende øine.
+    </p>
+    <p>
+     «Nei naturligvis, for du skal jo ligne hende saa op ad dage,» sagde
+  Tilda.
+    </p>
+    <p>
+     Straks Annikken hørte, at kusinerne skulde komme, havde hun med en
+  gang tænkt paa Lina Græsvig.
+    </p>
+    <p>
+     At hun kanske ikke kunde være saa meget sammen med hende da, og om
+  Lina Græsvig vilde synes, at det var leit. Maren Anne og Ebba vilde
+  vist ikke like den lille, stille Lina Græsvig heller. Og jeg er vis
+  paa, at Ebba vil synes, at hun er tarvelig –
+    </p>
+    <p>
+     [48] Men det er det samme, tænkte Annikken og kneb munden tæt
+  sammen, jeg bryder mig ikke det pluk om Ebbas mening. For Lina er saa
+  usigelig snild.
+    </p>
+    <p>
+     – Dampskibet med de to kusiner skulde komme tidligt paa morgenen.
+  Tidligere end folk ellers var oppe.
+    </p>
+    <p>
+     Alle vinduer i det lange, hvide hus under de gamle lønnetræer stod
+  aabne. Solen var endda ikke kommet ind i værelserne, men den glitrede
+  og lyste paa heiene rundt om og paa toppene af de store lubne
+  træer.
+    </p>
+    <p>
+     De hvide gardiner viftede i morgenbrisen og udefra kom denne
+  vidunderlige duft af frisk muld, af nattedug og løvtræer. Indimellem
+  kunde der saa komme en pludselig tanke om reseda. Maren Kokke havde
+  skuret de afslidte gulve, og i forværelset prangede alle moders
+  blomster. Der var som et drivhus, hele borde fulde af blomstrende
+  geranier og heliotroper, der duftede tvers gjennem det gamle hus, helt
+  ud af den brunmalede snirklede indgangsdør paa bagsiden mod
+  gaardspladsen, der var nyraket og endnu vaad af duggen. Inde i
+  hønsehuset galede hanen, og hønsene kaglede i morgenstilheden.
+    </p>
+    <p>
+     Tilda, Annikken og alle børnene havde endelig villet paa bryggen.
+  Men i den stille sommerdags morgen, var dampskibet kommet før ruten,
+  og pludselig før nogen ventede det, stod der to slanke, unge piger og
+  Kristen Brygga med et læs af kufferter i den gamle gang.
+    </p>
+    <p>
+     [49] De kom styrtende fra alle kanter, Annikken først, bred og
+  tung, rutschende nedigjennem den gamle loftstrap.
+    </p>
+    <p>
+     «Annikken Præstgaren – der har vi jo Annikken Præstgaren,» raabte
+  en høi, stilig, ung pige. Det mørke haar var kjæmmet glat ned paa
+  begge sider af hovedet, og ansigtet bar dette umiskjendelige rolige
+  præg af gammel kultur og dannelse slægtled opigjennem. Hun var
+  lysklædt med læderbelte og en enkel hvid hat.
+    </p>
+    <p>
+     «Aa Maren Anne, velkommen,» raabte Annikken, «aa hvor morsomt, du
+  er akkurat den samme, bare høiere».
+    </p>
+    <p>
+     Der blev Annikken omfavnet bagfra af den anden unge pige.
+    </p>
+    <p>
+     «Goddag, sødeste Annikken Præstgaren –»
+    </p>
+    <p>
+     «Velkommen Ebba, du verden hvor du er blevet høi –»
+    </p>
+    <p>
+     «Du er da blevet stor, du ogsaa, Annikken,» sagde Maren Anne
+  muntert, «men øinene er de samme, akkurat lige troskyldige.»
+    </p>
+    <p>
+     Der kom Tilda ogsaa, lidt generet og rød, men forventningsfuld i
+  ansigtet. Hun stirrede især paa Ebba. Og moderen endnu i
+  morgentoilette maatte ind og omfavne begge søsterdøtrene.
+    </p>
+    <p>
+     Ebba var blevet rent ud nydelig, ung pige, skjær og fin, men stolt
+  og statelig paa samme tid. Dragten var efter sidste mode og udsøgt
+  kostbar.
+    </p>
+    <p>
+     Moderen stod der bred og god i nattrøie med [50] det pjuskede,
+  rødgule haar og fandt ligheder med søstrene hos de to unge
+  søsterdøtre.
+    </p>
+    <p>
+     «Du er søster Adelheid op ad dage,» til Ebba – «og du Maren Anne,
+  ja du er nu bedstemor paa Blommedal, som hun stod og gik.»
+    </p>
+    <p>
+     «Nei Annikken Præstgaren er lig bedstemor,» sagde Maren Anne.
+    </p>
+    <p>
+     «Hun heder ikke Annikken Præstgaren, hun heder sjømand Røst,» sagde
+  Erik.
+    </p>
+    <p>
+     «Hvad er det du siger, lille fætter Erik,» sagde Maren Anne
+  forbauset.
+    </p>
+    <p>
+     «Jo hun er saa flink i baad, og saa er hun saa grov til at raabe,»
+  sagde Erik.
+    </p>
+    <p>
+     «Kjært barn har mange navne,» sagde Maren Anne smilende.
+    </p>
+    <p>
+     «Nei det er ikke saa at forstaa,» sagde Annikken bryd, «det er bare
+  gutterne, der kalder mig det dumme navn.»
+    </p>
+    <p>
+     «For et deiligt hjem, du har, Annikken,» sagde Maren Anne, «her er
+  ligesom saa frit og fortryllende gammeldags.»
+    </p>
+    <p>
+     «Ja her er kanske det,» sagde Annikken troskyldig.
+    </p>
+    <p>
+     Kusinerne havde ikke sovet om natten og var trætte. Annikken og
+  Tilda fulgte dem op paa kvistværelset, hvor de skulde ligge.
+    </p>
+    <p>
+     Der var den samme friskhed og renhed, hvide broderede omhæng paa
+  toiletbordet, og et stort blomsterglas ved hver seng. De fine lagen
+  paa de opbrettede senge laa der med de skarpe, snorlige bretter
+  [51] efter rullingen. Og udigjennem det store kvistvindu saa man ret
+  tilhavs, derude hvor morgensolen glitrede.
+    </p>
+    <p>
+     Maren Anne var i en begeistring.
+    </p>
+    <p>
+     «Aa dette er noget andet end Kristianiaværelser,» sagde Maren Anne,
+  «hvad siger du Ebba?»
+    </p>
+    <p>
+     Ebba var noget kjøligere i sin ros og passede paa at faa den bedste
+  seng for sin part.
+    </p>
+    <p>
+     De forsikrede begge to, at de ikke kunde tale ti ord af bare
+  træthed, og saa blev dog Tilda og Annikken siddende deroppe under
+  ustanselig passiar i to timer.
+    </p>
+    <p>
+     Men gutterne og Magna var udenfor nøglehullet og kikkede og
+  lyttede, da det varede saa altfor evig længe, inden de mærkelige
+  kusiner igjen kom ned.
+    </p>
+    <p>
+     Det viste sig temmelig fort, at Tilda og Ebba passede udmærket
+  sammen. Der var ogsaa en umiskjendelig familielighed mellem dem. Tilda
+  følte sig smigret, naar det blev sagt, at de lignede hinanden.
+    </p>
+    <p>
+     Der begyndte nogle herlige dage.
+    </p>
+    <p>
+     Annikken straalede, travede om med lange skridt, slængte med armene
+  og var henrykt over Maren Anne. De fiskede og badede, laa i lyngen og
+  sov middagssøvn med himmelens skinnende hvælving til loft og var
+  ellevilde.
+    </p>
+    <p>
+     Pastoren saa paa dem paa sin stille maade:
+    </p>
+    <p>
+     «Det er deiligt at se paa de unge, mor.»
+    </p>
+    <p>
+     Og moderen frydede sig, kanske var det ogsaa nogen forfængelighed
+  over de to vakre søsterdøtre, der gjorde saadan opsigt i byen.
+    </p>
+    <p>
+     Men efter nogle dages forløb blev det Ebba vel [52] langsomt og
+  trivielt, det hele. Hun maatte have noget mere.
+    </p>
+    <p>
+     «Findes der ikke en eneste ung herre her i byen,» spurgte hun.
+    </p>
+    <p>
+     «Jo naturligvis,» lo Tilda, «det er flere ekstra hyggelige.»
+    </p>
+    <p>
+     «De fører en usynlig eksistens ialfald,» gabede Ebba.
+    </p>
+    <p>
+     Det var en søndagseftermiddag. Den lille by havde været som uddøet
+  og sov i solstegen helt siden kirketid. Ikke et liv at se paa gaderne,
+  selv børnene havde tyet udenfor byen paa de aabne jorder, eller paa
+  kirkegaarden. Mændene sad i skjorteærmer paa dørhellen udenfor sine
+  smaa huse og røgte snadde, og der var ikke en lyd i luften.
+    </p>
+    <p>
+     Oppe hos præsten havde de unge piger ligget ude i haven paa de
+  grønne havebænke den hele eftermiddag. Myggene surrede i store flokke
+  og tykke, brungule hvepser fløi ud og krøb ind i lupinernes aabne
+  blomsterbægre i de varme, sandede blomsterbed. Der var en ubeskrivelig
+  fred over det hele.
+    </p>
+    <p>
+     «Aa for en lang deilig søndagseftermiddag,» sagde Maren Anne og
+  strakte sig med en af Dickens' romaner i haanden.
+    </p>
+    <p>
+     «Ja kjedelig og deilig,» sagde Ebba – «nei jeg maa spille en
+  vals.»
+    </p>
+    <p>
+     Udigjennem de aabne vinduer bruste der en vals – men saa øieblikket
+  efter kom Ebbas hoved i salsvinduet.
+    </p>
+    <p>
+     «Nei – vi vil gaa en tur.»
+    </p>
+    <p>
+     [53] «Vi maa vente,» sagde Tilda, «det er ikke et menneske ude
+  endnu.»
+    </p>
+    <p>
+     «Er hele byen ligesom forhekset, fortroldet hver
+  søndagseftermiddag,» vedblev Ebba i vinduet, «jeg maa ha liv – jeg –
+  maa – ha – liv.»
+    </p>
+    <p>
+     «Ingenting er saa morsomt som at gaa alene i skogen,» sagde
+  Annikken.
+    </p>
+    <p>
+     «Jeg hader ensomhed, og jeg hader skog,» sagde det krøllede hoved i
+  vinduet, «hvad moro er der i skogen forresten?»
+    </p>
+    <p>
+     «Jeg tænker saa godt i skogen,» sagde Annikken.
+    </p>
+    <p>
+     «Isch – tænker –» sagde Ebba.
+    </p>
+    <p>
+     Endelig var tidspunktet kommet, da Tilda fandt det passende at
+  spadsere ud. Solen var paa nedgang, og byens folk var ude i flok og
+  følge. Adstadige borgermænd med sine pyntede madamer gik pent og
+  værdig og stirrede ret ud for sig. Hele rader af unge piger arm i arm
+  spærrede gaden og lukkede bare øinene, naar folk hilste paa dem. Ud
+  fra bedehuset strømmede netop massevis af mennesker, hele gaden blev
+  sort i et øieblik, men om to–tre minutter var de alle igjen spredt
+  ad.
+    </p>
+    <p>
+     De fire unge piger spadserede videre og tog plads paa en bænk ud
+  mod sjøen. Det var lige i spadserveien, folk gik ofte forbi.
+    </p>
+    <p>
+     «Nu skal jeg gjøre et eksperiment,» sagde Ebba og kastede sin
+  hanske ligesom tilfeldig ned foran bænken.
+    </p>
+    <p>
+     To pyntede handelsbetjente med brogede slips og svingende stokke
+  nærmede sig. «Nu skal vi se, om de tager hansken op,» hviskede
+  Ebba.
+    </p>
+    <p>
+     [54] Handelsbetjentene stirrede ud under sine hatteskygger,
+  svingede flot sine stokke og gik forbi.
+    </p>
+    <p>
+     «Nei ikke gjør det,» sagde Annikken.
+    </p>
+    <p>
+     «Dette vil jeg rigtignok ikke være med paa,» sagde Maren Anne, «jeg
+  vilde holde mig for god.»
+    </p>
+    <p>
+     Maren Anne og Annikken reiste sig og satte sig i en bryggetrap
+  længere ude.
+    </p>
+    <p>
+     Der kom Tidemandsen paa Samlaget. Rødnæset med stort baghoved.
+  Hansken laa der fremdeles. Tidemandsen hilste stivt og gik forbi.
+    </p>
+    <p>
+     «Kan du tænke dig noget saa nedværdigende, som den Ebbas opførsel,»
+  fnyste Maren Anne i bryggetrappen.
+    </p>
+    <p>
+     Der kom Iversen, hilste forbindtlig med store, vandblaa øine og gik
+  forbi.
+    </p>
+    <p>
+     Ebba og Tilda var i en latter.
+    </p>
+    <p>
+     Saa kom Per Krafft spadserende, liden og let. Han saa øieblikkelig
+  hansken.
+    </p>
+    <p>
+     «Tillad mig mine damer –» og tog hansken op.
+    </p>
+    <p>
+     Endnu førend Tilda havde faat presenteret, sagde Ebba:
+    </p>
+    <p>
+     «Jeg maa fortælle Dem, at fire herrer har gaaet forbi uden at ha
+  havt den opførsel at ta min hanske op.»
+    </p>
+    <p>
+     «Tilslut kom altsaa den barmhjertige samaritan, efter at præsten og
+  leviten var gaaet forbi,» sagde Per Krafft.
+    </p>
+    <p>
+     Tilda og Ebba saa lidt ubestemt paa ham.
+    </p>
+    <p>
+     Gjorde han nar?
+    </p>
+    <p>
+     [55] «Det havde de godt af,» sagde Maren Anne i bryggetrappen. Der
+  blev den livligste passiar oppe paa bænken.
+    </p>
+    <p>
+     «Han var pikant du,» sagde Ebba senere til Tilda.
+    </p>
+    <p>
+     «Ja, ikke sandt,» straalede Tilda, «vi har da herrer her i byen
+  ogsaa.»
+    </p>
+    <p>
+     «Ja han var simpelthen ikke værst,» udtrykte Ebba sig.
+    </p>
+    <p>
+     Men Annikken stod der høi og bred med sit tynde lyse haar:
+    </p>
+    <p>
+     «Det kompletteste fiskeri,» sagde hun stolt.
+    </p>
+    <p>
+     Efter den aften var det ligesom, at de delte sig i to partier,
+  Maren Anne og Annikken gik for sig, og Tilda og Ebba sine egne
+  veie.
+    </p>
+   </div>
+ 
+   <div type="chapter" xml:id="mod">
+    <head>
+     <ref target="#contents_6" xml:id="chapter_6">
+      Mod
+     </ref>
+    </head>
+    <p>
+     [56] Saa kunde Iversen og Mosling ikke længere holde sin
+  nysgjerrighed itømme med hensyn til de to nydelige unge damer, der var
+  kommet til byen, og som gik der saa sikre og vakre i al sin
+  hovedstadsoverlegenhed.
+    </p>
+    <p>
+     Per Krafft, der nu oftere var sammen med de unge piger, blev
+  herrernes talsmand. Om damerne vilde gjøre dem den store ære og
+  fornøielse at deltage i en kjøretur med paafølgende dans oppe paa en
+  bondegaard, hvor de oftere pleiede tage hen.
+    </p>
+    <p>
+     Ebba var saa naadig, at invitationen behagede hende. «Lad gaa,»
+  sagde Maren Anne. Og Tilda frydede sig over at vise frem de to fine,
+  nydelige kusiner.
+    </p>
+    <p>
+     Men Annikken drog paa det: «Jeg havde tænkt – det er en, jeg gjerne
+  vilde træffe – dere kan jo godt reise uden mig.»
+    </p>
+    <p>
+     Maren Anne nedlagde en bestemt protest mod, at Annikken skulde
+  blive hjemme.
+    </p>
+    <p>
+     «Uf Annikken ikke vær saa vri'en bestandig da,» [57] sagde Tilda.
+  Og Ebba ymtede om, at det simpelthen var uhøfligt at lade sine gjester
+  reise uden hende.
+    </p>
+    <p>
+     Annikken havde tænkt, at hun vilde gaa til Lina Græsvig, naar de
+  andre var reist.
+    </p>
+    <p>
+     «Det var saa ækkelt sidste gang, jeg var paa tur,» sagde Annikken,
+  «ingen snakkede til mig, og ikke et menneske bryr sig om, enten jeg er
+  med eller ei.»
+    </p>
+    <p>
+     «Jeg bryr mig om det,» sagde Maren Anne muntert.
+    </p>
+    <p>
+     Ja jeg kan jo gjerne være med, men nu skal dere bare se, at det er
+  akkurat det samme, enten jeg er med eller ei,» sagde Annikken.
+    </p>
+    <p>
+     Ebbas toilette tog meget lang tid deroppe paa kvistværelset. Maren
+  Anne tog det overordentlig rolig, men Tilda var lidt i en feber, for
+  at kusinerne rigtig skulde tage sig ud til sin fordel, for at Elly og
+  Milly rigtig kunde beundre den fine slægt.
+    </p>
+    <p>
+     Der var fire vogne i følge. De kjørte chausséen langsmed fjorden,
+  der skar sig ind i landet.
+    </p>
+    <p>
+     Dybt dernede det mørke stille vand, ret op for veien laa granskogen
+  og susede i havbrisen. Per Krafft kjørte i vogn med Ebba og Tilda.
+  Maren Anne og Annikken med nogen af de andre damer.
+    </p>
+    <p>
+     Der var latter og raab fra den ene vogn til den anden. Per Krafft
+  gik med punscheflaske og skjænkede, naar hestene skulde hvile.
+    </p>
+    <p>
+     Per Krafft og Ebba holdt det gaaende med moro og latter, saa Tilda
+  følte sig lidt tilsidesat, men hun vilde jo ikke egentlig lade sig
+  mærke med det heller. [58] Det var jo, frygtelig morsomt, at de
+  allesammen kunde faa se, hvilke rige, nydelige kusiner, hun havde. For
+  tænk Ebba havde virkeligt diamantarmbaand!
+    </p>
+    <p>
+     Annikken sad der alvorlig og angrede paa, at hun var blevet med paa
+  turen. Nu var det næsten fjorten dage siden, hun havde seet Lina
+  Græsvig. Mon hvad hun tænkte om hende!
+    </p>
+    <p>
+     Den lille rare Lina Græsvig, der sad i bedehuset og ventede paa at
+  blive vakt!
+    </p>
+    <p>
+     Annikken var blevet aldeles taus, selv Maren Anne kunde ikke mere
+  faa hende paa glid.
+    </p>
+    <p>
+     Der var de fremme paa den gaard, hvor de vilde tage ind. En stor,
+  hvid gaard paa et stort, grønt, aabent jorde.
+    </p>
+    <p>
+     De fire vogne svingede med en vis elegance op foran indgangsdøren,
+  og der blev liv og munterhed paa det stille tun.
+    </p>
+    <p>
+     Ebba og Maren Anne var gjenstand for den mest udsøgte opmærksomhed.
+  Ebba trillede og lo og Maren Anne var fornem og nydelig. Iversen,
+  lysegraa klædt og letvindt, læspede og hviskede, og Mosling forsikrede
+  i enrum til de andre herrer om Ebba og Maren Anne: «Super fin vare,
+  første sort, tre stjerner.»
+    </p>
+    <p>
+     Men det var nu maade ogsaa paa Ebbas koketteri, tænkte Tilda. Hun
+  lod jo hverken Per Krafft eller Rode i ro et øieblik!
+    </p>
+    <p>
+     Nei uf! Tilda likte sig ikke. Hvis det endda bare havde været Rode,
+  som saa saa dum ud med sin hængende underlæbe, men Per Krafft –
+    </p>
+    <p>
+     [59] Hun forsøgte et par gange at faa Per bort til sig, men det
+  lykkedes ikke.
+    </p>
+    <p>
+     Idag saa han blot Ebba. Aldeles aabenlyst, at der ikke eksisterede
+  andre end den guldhaarede, unge pige med diamantarmbaandet og de hvide
+  støvler.
+    </p>
+    <p>
+     Tilda huskede paa den sidste tur til Langeland og blev med en
+  eneste gang i det rædsomste humør.
+    </p>
+    <p>
+     Den afskyelige Ebba med sine hvide tænder og de hvide støvler. Tale
+  svensk, gjorde hun nu bare for at gjøre sig til.
+    </p>
+    <p>
+     Tilda slog efter en liden hundehvalp, der kom og vilde lege med
+  hende.
+    </p>
+    <p>
+     Og Ebba hviskede til Tilda: «Du har rätt, han är fortjusande.»
+    </p>
+    <p>
+     «Pyt,» sagde Tilda og kastede paa nakken, «du skulde bare vide, alt
+  det, jeg ved om ham saa –»
+    </p>
+    <p>
+     Annikken saa alvorlig paa Per Krafft. Han er væmmelig og lumpen,
+  tænkte hun, idag snakker han jo ikke et ord med Tilda.
+    </p>
+    <p>
+     Solen stegte paa den aabne bakke. «Kom saa løber vi op i skogen,»
+  raabte Ebba og saa paa Per.
+    </p>
+    <p>
+     Han for op som en raket. Alle de andre blev siddende i ro. Tilda
+  blev med en eneste gang distrait, stirrede ret ud for sig og lo ikke
+  engang af alle Moslings vittigheder.
+    </p>
+    <p>
+     Med engang skar et skrig gjennem skogen, oppe fra den kant Per og
+  Ebba var forsvundet.
+    </p>
+    <p>
+     «Det var Ebba,» Tilda for op.
+    </p>
+    <p>
+     De løb opover allesammen, men mødte straks Ebba i fuldt løb.
+    </p>
+    <p>
+     [60] «Hjælp, hjælp,» skreg hun, «han er bidt af en orm.»
+    </p>
+    <p>
+     Han havde ligget paa ryggen oppe i et bakkeheld og strakt armene
+  langt ud fra sig; før han vidste ordet af det, havde en hugorm bidt
+  ham i det ene haandled. Han laa sunket tilbage, da de kom derop, havde
+  forsøgt at suge saaret ud selv, men havde ikke magtet det.
+    </p>
+    <p>
+     De for om hinanden. «Saaret maa suges ud,» raabte en.
+    </p>
+    <p>
+     «Aa Gud tør nogen gjøre det,» raabte Milly.
+    </p>
+    <p>
+     «Jeg tør ikke,» raabte Ebba.
+    </p>
+    <p>
+     «Nei, nei,» raabte Tilda, «jeg tør ikke heller.
+    </p>
+    <p>
+     Herrerne saa raadvilde paa hinanden. Iversen snakkede om at hente
+  doktor.
+    </p>
+    <p>
+     «Jeg turde ikke suge ud et ormebid for aldrig det,» sagde Elly.
+    </p>
+    <p>
+     «Jeg tør,» sagde Annikken. Hun var blevet ganske bleg, men hun greb
+  Per Kraffts haand.
+    </p>
+    <p>
+     «Nei nei,» sagde han mat.
+    </p>
+    <p>
+     «Lig stille,» sagde hun myndig.
+    </p>
+    <p>
+     Og hun begyndte at suge saaret ud. Der blev dødsstille.
+    </p>
+    <p>
+     Per Krafft havde lukket øinene, Tilda hikstede, som hun vilde
+  græde.
+    </p>
+    <p>
+     Men Annikken holdt rolig ved. «Tak nu er det vist nok,» hviskede
+  Per Krafft.
+    </p>
+    <p>
+     «Annikken,» sagde Maren Anne uvilkaarlig ligesom i ængstelse.
+    </p>
+    <p>
+     [61] Men Annikken holdt paa endnu en stund. Da hun reiste sig op,
+  var hun blodrød i ansigtet.
+    </p>
+    <p>
+     «Nu kan du være tryg, Per,» sagde hun paa sin korte, troværdige
+  maade.
+    </p>
+    <p>
+     Per Krafft aabnede øinene og saa paa hende, men han sagde
+  intet.
+    </p>
+    <p>
+     Hele scenen var med et forandret. Ebba havde faat krampegraad, der
+  maatte løbes efter vand. Iversen stirrede med store, hjælpeløse,
+  vandblaa øine og vilde efter doktor hvert øieblik. Elly og Milly
+  sprang nedover jordet.
+    </p>
+    <p>
+     Snart efter kunde Per Krafft støttet af Rode gaa nedover.
+    </p>
+    <p>
+     Aa for en rædsom tur, tænkte Tilda, det er Ebbas skyld altsammen,
+  det var hende, der fik ham op i skogen ogsaa –
+    </p>
+    <p>
+     Per Krafft vilde kjøre hjem straks. «Hvor er Annikken,» spurgte
+  han.
+    </p>
+    <p>
+     Der kom hun med de lyse, alvorlige øine.
+    </p>
+    <p>
+     «Gud, hvor snild du var Annikken,» sagde han sagte.
+    </p>
+    <p>
+     «Du er vel ikke daarlig, Annikken,» sagde Maren Anne, hun syntes
+  pludselig, at hun blev saa bleg.
+    </p>
+    <p>
+     «Ikke spor.»
+    </p>
+    <p>
+     «Hvor kjæk du er,» vedblev Maren Anne.
+    </p>
+    <p>
+     «Puh – nei.»
+    </p>
+    <p>
+     «Vil du kjøre med nedover,» spurgte Per.
+    </p>
+    <p>
+     «Ja hvis Maren Anne ogsaa vil,» sagde Annikken. De tre kjørte
+  straks. Alle de andre vogne kom [62] straks efter, det var ikke to
+  timer siden, de havde kjørt opover under latter og moro.
+    </p>
+    <p>
+     Maren Anne sad stille, kastede bare af og til et blik paa
+  Annikken.
+    </p>
+    <p>
+     Aa du stille, alvorlige Annikken Præstgaren, tænkte hun, du er nu
+  basen alligevel du – du er ikke pen, det kan jeg godt se – men der
+  findes ikke svig i dig, tror jeg –
+    </p>
+    <p>
+     Per sad med lukkede øine. En gang saa han paa Annikken og smilte.
+  Men hun smilte ikke igjen, hun bare saa alvorlig paa ham.
+    </p>
+   </div>
+ 
+   <div type="chapter" xml:id="per-kraffts-hjem">
+    <head>
+     <ref target="#contents_7" xml:id="chapter_7">
+      Per Kraffts
+  hjem
+     </ref>
+    </head>
+    <p>
+     [63] Per Krafft var en brorsøn af gamle madame Tausen og havde
+  været som barn i hendes hus, siden han var ganske liden. Madame Tausen
+  havde rigtignok ogsaa en mand, som var mægler, men han tænkte aldrig
+  nogen noget videre paa. Det var ubetinget madame Tausen, der var
+  hovedpersonen.
+    </p>
+    <p>
+     Og det uagtet hun intetsomhelst gjorde for at stikke sig frem. Det
+  hele kom blot af, at hun var komplet sig selv og ikke bøiede af for
+  nogen eller noget.
+    </p>
+    <p>
+     Styg var hun. Tyk og bred, vagged i hofterne, naar hun gik, lidt
+  rødsprængt i kinderne og alt andet end propert paaklædt. Hun gik med
+  strikketørklæde paa gaden og helst uden hat, men med parasol.
+    </p>
+    <p>
+     «Hatten trykker,» sagde madame Tausen, «men parasollen lufter.»
+  Ikke fordi hun havde nok kisteklæder ogsaa og kunde optræde i plydses
+  kaabe og med blomster paa hatten.
+    </p>
+    <p>
+     Men det var ligesom ikke den rigtige madame Tausen.
+    </p>
+    <p>
+     [64] For den rigtige madame Tausen maatte helst staa og male sit
+  havestakit, eller spade op sin have, akkurat med en arbeidsmands lag.
+  Eller være politi i gaden ligeoverfor drukne sjøfolk og uskikkelige
+  unger.
+    </p>
+    <p>
+     De var ligesaa ræd for madame Tausen som for selve politibetjent
+  Weiby.
+    </p>
+    <p>
+     Mægleren gik med rød næse og tuslede med lang pibe. Han talte ikke
+  meget, og det behøvede han jo heller ikke.
+    </p>
+    <p>
+     «Han er snild og lydig,» sagde madame Tausen om sin mand, «naar jeg
+  siger noget, saa gjør han det straks – rød næse har han, men det er
+  mange bra folk, der har det.»
+    </p>
+    <p>
+     De boede i det gamle graa hus med karnapperne og den rare snirklede
+  indgangsdør oppe i byens hovedgade. Den gammeldagse have fulgte gaden
+  et stykke, der var et lysthus af tralleværk, og aurikler og abrod og
+  porcelænsblomster og mange andre gammeldagse urter.
+    </p>
+    <p>
+     Inde i huset var der filletepper gjennem gangene, et mægtigt
+  gammelt slaguhr i forstuen, og en vis frisk renslig duft af kamfer
+  over det hele hus.
+    </p>
+    <p>
+     I dette hjem var Per Krafft vokset op. Mægler Tausen og kone var
+  velstaaende, efter smaabyforhold rige folk. De havde selv ingen barn,
+  og da Per Krafft var blevet faderløs i to–tre aars alderen, var tanten
+  kommet reisende og havde taget ham uden videre.
+    </p>
+    <p>
+     Moderen havde gjort nogen indvendinger:
+    </p>
+    <p>
+     «Tag fornuften fangen,» sagde madame Tausen, [65] «kan du ønske ham
+  noget bedre end at komme til Tausen og mig.»
+    </p>
+    <p>
+     Og moderen havde taget fornuften fangen, hun havde ogsaa havt flere
+  barn, og Per Krafft var fulgt med tanten.
+    </p>
+    <p>
+     Her udviklede han sig aar efter aar under tantens stærke haand. De
+  lignede hinanden i meget, og der var et stærkt hengivenhedsbaand
+  mellem dem.
+    </p>
+    <p>
+     Bare det, at andre gutter vilde generet sig, naar de havde seet
+  tanten gribe haandfast ind i gadens ydre liv – ruske drukne sjøfolk i
+  skulderen – for den sags skyld var saamænd madame Tausen kone for at
+  følge dem lige paa raadstuen, om det kneb – bare heri lignede Per
+  Krafft ikke andre gutter.
+    </p>
+    <p>
+     Alt med tante Tausen morede ham. Han syntes, det var den største
+  komedie af verden, naar hun rigtig holdt en dommedagspræken fra sit
+  vindu over en eller anden synder ude paa gaden. Da sparede hun ikke
+  paa kraftudtrykkene, tante Tausen.
+    </p>
+    <p>
+     Sandt at sige remenerede hun ogsaa ofte over sin stilfærdige
+  mand.
+    </p>
+    <p>
+     «Han er møe bra, sagde jeg andet, saa løi jeg, her jeg sidder en
+  synder for Vorherre, men naar en mand ikke gjør andet end suger paa en
+  pibe aarelangs, saa er det ligesom en taber taalmodigheden – den som
+  skal se paa det – staar jeg ikke her for hele sulamitten udendørs og
+  indendørs, et stakkars kvindfolk –»
+    </p>
+    <p>
+     Og det stakkars kvindfolk tog sig en sviptur op [66] paa taget for
+  at gjennemhegle en blikkenslagersvend, der arbeidede paa
+  tagrenden:
+    </p>
+    <p>
+     «Saa'n skal det være, far min, og saa'n og saa'n – og gjør du ikke
+  likere arbeide, kan du gaa der, du kom ifra.»
+    </p>
+    <p>
+     Men naar hun saa kom ind i stuen, var hun henne og klappede Tausen
+  i sofahjørnet.
+    </p>
+    <p>
+     Da Per Krafft var smaagut, havde han en ligesaa stærk position
+  mellem kameraterne som tanten paa sin maade. Den lille, iltre gut med
+  det misfornøiede træk ved næsen og den lille, spænstige krop var ikke
+  grei at binde an med. Det, som de smaa brune næver ikke magtede, det
+  greiede den skarpe tunge. Kamerater havde han overalt og venner ogsaa,
+  men egentlig saadan en snild gut var han ikke. En vidste aldrig, hvor
+  man havde ham.
+    </p>
+    <p>
+     Det samme præg beholdt han nu, han var blevet voksen og nitten aar
+  gammel. Uvorren fremforalt, med stor lystighed, men ogsaa anfald af
+  melankoli og mistro, som gjorde ham vrang og skarp.
+    </p>
+    <p>
+     Og alligevel behøvede han bare at smile, saa likte folk ham. Han
+  havde gaat som en seiersgang de nitten aar, han havde levet, trods
+  det, at næsen saa ud som den lugtede gammelost.
+    </p>
+    <p>
+     Madame Tausen var stolt af sin brorsøn, aabenlys stolt, hun skjulte
+  det ikke for noget menneske. Artium og anden eksamen klarte han med
+  glans.
+    </p>
+    <p>
+     «Præst skal han bli, saasandt jeg heder Maren Tausen,» havde hun
+  sagt, da hun tog ham i to–tre aars alderen. Og dermed blev det. Det
+  stak maaske [67] heller en advokat eller en politiker i ham, men tante
+  Tausen havde sagt sit veto, og ingen satte sig op mod det.
+    </p>
+    <p>
+     Inde i Kristiania var han oppe i det med den mest moderne ungdom,
+  men hjemme hos tante Tausen spikkede han fliser, huggede ved og sad
+  paa kjøkkenbænken, spiste munker og fortalte skrøner og udmalede,
+  hvorledes kjæresten hans skulde være.
+    </p>
+    <p>
+     «Gyldenrødt haar skal hun ha, tante Tausen, som hænger fremfor hele
+  ansigtet næsten, slank som lillie –»
+    </p>
+    <p>
+     «Naa jasaa naa,» sagde tante Tausen tørt.
+    </p>
+    <p>
+     «Vild som skovkat,» vedblev Per Krafft.
+    </p>
+    <p>
+     «Jasaa naa – skal hun klore ogsaa?»
+    </p>
+    <p>
+     Per Krafft overhørte det sidste spørgsmaal.
+    </p>
+    <p>
+     «Sjøgrøn kjole og guldbelte,» forsatte Per.
+    </p>
+    <p>
+     «Ja det siger jeg Per,» afbrød tanten ham, «at kommer du hjem med
+  en af disse med haaret frem for ansigtet og smale som en tarm, ja saa
+  piskedød blir jeg saa slem saa –»
+    </p>
+    <p>
+     Det var om aftenen, samme dag Per var blevet bidt af hugormen. Han
+  var kommet hjem, og doktoren havde været der.
+    </p>
+    <p>
+     «Det var sgu kjækt gjort at suge ud det saaret,» sagde
+  doktoren.
+    </p>
+    <p>
+     «Hende vil jeg se,» befalede madame Tausen, «du skal faa hende hid
+  Per –»
+    </p>
+    <p>
+     «Du har seet hende hundrede gange,» sagde Per.
+    </p>
+    <p>
+     «Ja jeg ved godt, at hun er styg,» sagde tante [68] Tausen, «men
+  jeg vil ta hende i handa og takke hende Per – du takkede vel pent Per
+  –»
+    </p>
+    <p>
+     «Jeg ved ikke,» han stirred ud for sig, «kanske gjorde jeg det ikke
+  med ord.»
+    </p>
+    <p>
+     Det drog ud, inden madame Tausen fik tale med Annikken. Det var
+  ligesom Per var sky og ikke vilde bede hende. Saa kom der en dag et
+  brev op i præstegaarden til Annikken.
+    </p>
+    <quote>
+     <p>
+      «Kjære frøken.
+      Jeg er bare en gammel kone, men endda har jeg
+    ligesom et hjerte, og det hjertet siger mig, at du er guld fremfor
+    andre, og det var ikke andet, end at jeg vilde takke for Per, min
+    skyldige tak, og liker du munker, saa kom ieftermiddag.
+      Madame
+    Tausen.»
+     </p>
+    </quote>
+    <p>
+     Da Annikken fik dette brev blev hun saa generet, at hun ikke var at
+  formaa til at gaa derned alene.
+    </p>
+    <p>
+     Ja hvis Maren Anne vilde følge hende saa –.
+    </p>
+    <p>
+     Men Maren Anne fulgte hende blot til den gamle snirklede
+  indgangsdør og puffede hende ind, og der stod madame Tausen og tog
+  imod hende.
+    </p>
+    <p>
+     Der kom Per Krafft ogsaa. Annikken havde aldrig seet ham saa
+  underlig generet før.
+    </p>
+    <p>
+     «Og denne vesla er det, jeg kan takke for gutten min,» sagde madame
+  Tausen og lagde en bred haand paa hver af Annikkens skuldre, «du er en
+  grepa jente er du, der du staar, Vorherre sender slike imellem – her
+  har du handa til tak.»
+    </p>
+    <p>
+     [69] Saa maatte Annikken smile, og saa spiste de munker og
+  syltetøi. Men Annikken talte ikke stort, det var madame Tausen, der
+  holdt samtalen vedlige.
+    </p>
+    <p>
+     «Det var pige for dig det Per,» sagde tante Tausen, med det samme
+  Annikken var forsvundet gjennem døren.
+    </p>
+    <p>
+     «Ja synes du ikke, hun lignede mit ideal, tante Tausen,» sagde Per,
+  «du ved slanke lemmer i sjøgrøn silke –»
+    </p>
+    <p>
+     «Aa hold munden,» sagde tante Tausen.
+    </p>
+    <p>
+     De saa begge efter Annikken, der gik tvert over gaden. Hun havde en
+  storrudet kjole paa, der gjorde hende endda bredere.
+    </p>
+    <p>
+     «Det er natur der,» sagde madame Tausen.
+    </p>
+    <p>
+     Det var altid det største, madame Tausen kunde sige om et
+  menneske.
+    </p>
+   </div>
+ 
+   <div type="chapter" xml:id="da-lina-græsvig-døde">
+    <head>
+     <ref target="#contents_8" xml:id="chapter_8">
+      Da Lina Græsvig
+  døde
+     </ref>
+    </head>
+    <p>
+     [70] Der kom et bud springende op i præstehuset.
+    </p>
+    <p>
+     Om frøken Annikken vilde komme ned til Lina Græsvig, da hun var saa
+  syg.
+    </p>
+    <p>
+     Det var over fjorten dage siden, at Annikken havde seet Lina
+  Græsvig. Hver dag havde hun tænkt at gaa derned og hver dag var der
+  noget iveien, moro og turer hid og did. Hun havde stirret ind af
+  vinduerne, naar hun gik forbi Lina Græsvigs hjem. Men hun saa aldrig
+  nogen. En aften havde hun hørt salmesang derindefra, da fik hun næsten
+  som en ond samvittighed, fordi hun ikke var med derinde. Men hun havde
+  ikke egentlig lyst heller.
+    </p>
+    <p>
+     Det var meget morsommere at ro Maren Anne over til øerne, ligge og
+  vippe derude i dønningerne, mens Maren Anne fortalte om alt det, hun
+  havde læst, og alt det, hun havde tænkt, og alt det hun vilde blive i
+  verden.
+    </p>
+    <p>
+     Det var som et indblik i noget nyt denne Maren Annes tale for
+  Annikken. Det blev saa stort og saa morsomt al ting. Ligesom noget ude
+  i verden, som [71] man kunde naa, hvis man selv vilde, saa meget at
+  bruge sit liv til.
+    </p>
+    <p>
+     Det var ikke bare dette, som Elly, Milly og Tilda gik der og morede
+  sig ved, og havde saa forfærdelig mange hemmeligheder om. Enten Rode
+  gjorde kur til den eller den, eller Per Krafft bare havde stirret paa
+  Tilda, eller Iversen, som havde bandet paa, at Elly var den vakreste
+  unge dame langs kysten – nei det var ungdom ude i verden, som
+  arbeidede og vilde frem og gik med store tanker.
+    </p>
+    <p>
+     Og Maren Anne talte. Hun vilde naa saa langt som de første kvinder
+  i vor tid, blive noget stort, gjøre gavn, saa folk skulde pege paa det
+  og sige: «Se det har Maren Anne gjort.»
+    </p>
+    <p>
+     «Jeg vil ikke dø, før alle mennesker skal vide, at jeg har levet,»
+  havde Maren Anne sagt. Saa havde hun hævet det stolte hoved og seet
+  udover sjøen, saa modig, saa ungt.
+    </p>
+    <p>
+     Annikken havde stirret paa hende fuld af beundring. At være saa
+  modig og klog, det er det største i verden, tænkte Annikken, saadan
+  vilde jeg ønske, jeg kunde være.
+    </p>
+    <p>
+     Ligefra den første dag Maren Anne var kommet, havde Annikken glædet
+  sig til at fortælle hende om Lina Græsvig. Men saa havde hun ligesom
+  ikke faat det til. Især efter en dag, hun havde hørt Elly og Milly
+  fortælle Maren Anne om en «gyselig gudelig» veninde, som Annikken
+  havde lagt sig til i det sidste.
+    </p>
+    <p>
+     «De læser i bibelen sammen og sidder saadan,» sagde Milly og
+  vrængte øinene mod himmelen.
+    </p>
+    <p>
+     [72] Saa havde Maren Anne leet, og saa havde det været umuligt for
+  Annikken at sige et ord mere om Lina Græsvig. For det fandtes jo ikke
+  noget saa forfærdeligt i verden, som at blive leet af!
+    </p>
+    <p>
+     Siden havde hun ikke nævnt et ord om Lina Græsvig.
+    </p>
+    <p>
+     De sad ved aftensbordet i præstehuset, da budet kom, om Annikken
+  vilde se ned til Græsvigs straks. Budet skulde ogsaa bede, om præsten
+  vilde være saa snild at se nedom, men det maatte være lidt snart.
+    </p>
+    <p>
+     «Der maa feile barnet noget alvorligt,» sagde præstefruen.
+    </p>
+    <p>
+     Annikken løb afsted, før faderen, hun kunde ikke vente.
+    </p>
+    <p>
+     Noget alvorligt! Hvad kunde moder mene med det? Hun kunde da ikke
+  mene, at Lina Græsvig skulde dø.
+    </p>
+    <p>
+     Dø!
+    </p>
+    <p>
+     Nei døden var noget, der var saa umaadelig langt borte – alle
+  mennesker skulde jo dø naturligvis – men først, naar de var blevet
+  rigtig, rigtig gamle –
+    </p>
+    <p>
+     Lina Græsvig og hun havde talt saa ofte om døden, og hver dag hørte
+  hun jo faderen tale om de lyse lande, som vi alle reiste til.
+    </p>
+    <p>
+     Men det var noget langt, langt frem i tiden det.
+    </p>
+    <p>
+     For to–tre aar siden var jo bedstemor paa Blommedal død, men hun
+  var jo saa gammel. Ellers kjendte ikke Annikken et eneste menneske,
+  som hun havde kjendt rigtig godt, og som var død.
+    </p>
+    <p>
+     [73] Ingen af hendes nære bekjendte havde gaaet den underlige,
+  ukjendte vei.
+    </p>
+    <p>
+     Lina Græsvigs moder sad ikke i stuen, som hun pleiede ved den store
+  symaskine. Der var en lugt af eddikke over det hele hus, og dørene
+  stod aabne. Annikken gik ud i kjøkkenet, døren til kammeret stod
+  halvaaben. Der var halvmørkt derinde, og lugten af eddikke var end
+  stærkere.
+    </p>
+    <p>
+     Den store, graa kat med det bløde skind hoppede ned fra
+  kjøkkenbænken, hvor den useet havde delikateret sig i et fad melk. Den
+  strøg sig opad Annikkens kjole.
+    </p>
+    <p>
+     Hun hørte Linas stemme derindefra, hun talte hurtig, som hun var
+  ræd. Der kom moderen i døren, ansigtet var roligt, som det pleiede,
+  men hun havde to stærke, røde pletter paa de indhule kind.
+    </p>
+    <p>
+     Hun aabnede døren helt ind til kammeret.
+    </p>
+    <p>
+     «Her er hun, Lina,» sagde moderen.
+    </p>
+    <p>
+     Der laa Lina Græsvig i den store seng. Aa saa bleg, saa bleg! Og
+  ligesom saa liden!
+    </p>
+    <p>
+     «Er du syg,» sagde Annikken, saa tilføiede hun nølende: «jeg vidste
+  det jo ikke.»
+    </p>
+    <p>
+     «Hun har været syg i fem dage,» sagde moderen, «det er
+  lungerne.»
+    </p>
+    <p>
+     «Men du blir vel snart bra,» sagde Annikken.
+    </p>
+    <p>
+     «Det spørs, om hun staar det over,» sagde moderen, – «han troede
+  det knapt, doktoren.»
+    </p>
+    <p>
+     Lina Græsvigs øine, der syntes større end ellers, slap ikke
+  Annikkens blik. Det var noget angstfuldt [74] dybest inde i de blaa
+  øine, som Annikken aldrig før havde seet der.
+    </p>
+    <p>
+     «Aa, Annikken, tænk de siger, jeg skal dø – aa jeg er saa
+  forfærdelig ræd.»
+    </p>
+    <p>
+     «Nei, nei,» sagde Annikken, uden at vide, hvad hun selv sagde.
+    </p>
+    <p>
+     Hun saa forvildet fra det lille lyse hoved paa den brede hovedpude
+  og op paa moderens ubevægelige ansigt.
+    </p>
+    <p>
+     «Ja, han siger det doktoren,» gjentog moderen lavt, «men du ved jo
+  barnet mit, hvem du gaar til.»
+    </p>
+    <p>
+     «Ja, men jeg er saa bange mor, hjælp mig mor, hjælp mig Annikken –
+  aa vi kan nok snakke om det, naar vi er friske, men det er anderledes,
+  naar man virkelig, virkelig skal dø.»
+    </p>
+    <p>
+     «Aa bed for mig – bed for mig,» raabte lille Lina Græsvig.
+    </p>
+    <p>
+     «Aa Lina, Lina, og jeg som ikke vidste, du var syg,» græd
+  Annikken.
+    </p>
+    <p>
+     «Jeg troede, du havde glemt mig – men det er det samme med det, jeg
+  bryr mig ikke det gran om det mere – – for jeg skal jo dø – de siger
+  jo, at jeg skal dø, kommer ikke din far,» sagde hun pludselig næsten
+  vildt, «sig han maa komme straks, aa bed præsten komme!»
+    </p>
+    <p>
+     «Her er han, lille Lina Græsvig,» sagde pastorens stemme i døren,
+  «kjæmper du for din sjæl, du lille,» sagde han mildt.
+    </p>
+    <p>
+     «Ja, ja,» sagde Lina Græsvig.
+    </p>
+    <p>
+     Han satte sig ved sengen og tog hendes haand.
+    </p>
+    <p>
+     [75] Og saa begyndte han at tale sagte.
+    </p>
+    <p>
+     «Du tror paa Guds kjærlighed, du lille barn.»
+    </p>
+    <p>
+     «Ja, ja,» sagde Lina Græsvig igjen.
+    </p>
+    <p>
+     «Da har du intet at være bange for, du er i Guds haand, du ligger i
+  hans arm, du er en skat for ham, han ikke vil slippe –»
+    </p>
+    <p>
+     Lina Græsvigs øine hang ved hans ansigt.
+    </p>
+    <p>
+     Fra det øieblik, præsten var kommet derind, saa hun ikke moderen og
+  Annikken mere.
+    </p>
+    <p>
+     «Behøver jeg ikke at være ræd da, præst,» sagde Lina Græsvig
+  angstfuldt.
+    </p>
+    <p>
+     «Ikke mere ræd, end om du skulde lukke op døren til et andet
+  værelse, og du vidste, at din mor var derinde,» sagde pastoren.
+    </p>
+    <p>
+     Lina stirrede paa ham, men hun var roligere.
+    </p>
+    <p>
+     «Træk op gardinet og lad Guds sol faa komme herind,» sagde
+  pastoren.
+    </p>
+    <p>
+     Det blev gjort. Annikken saa nu først den store forandring, der var
+  foregaaet med lille Lina. Det var ikke mere den Lina, hun havde
+  kjendt, det var en underlig liden aandeskikkelse fra en anden verden,
+  der laa der.
+    </p>
+    <p>
+     Pastoren bad med Linas hænder i sine. Moderen og Annikken stod ved
+  fodenden af sengen. Der rørte sig ikke en muskel i moderens indhule,
+  alvorlige ansigt.
+    </p>
+    <p>
+     Lidt efter faldt Lina i en døs og blev liggende saadan længe.
+    </p>
+    <p>
+     «Det er synd, at pastoren og frøkenen skal sidde her,» hviskede
+  moderen, «tak for alt, dere maa gaa nu.»
+    </p>
+    <p>
+     [76] «Jeg blir her endnu en stund,» sagde pastoren, «og Annikken
+  ogsaa, de unge har godt af at se livets alvor – saavidt jeg kan se,
+  har ikke lille Lina langt igjen, før hun er over i de lyse lande.»
+    </p>
+    <p>
+     Annikken bed i sit lommetørklæde for ikke at hulke høit.
+    </p>
+    <p>
+     Pludselig begyndte Lina igjen at tale og stirrede op mod
+  loftet.
+    </p>
+    <p>
+     «Der er han jo,» sagde hun ganske høit, «ser dere ham ikke, der er
+  han jo – tag ham til mig –»
+    </p>
+    <p>
+     Hun strakte den tynde arm op i luften, som hun vilde gribe efter
+  noget.
+    </p>
+    <p>
+     «Kjære ser dere ham ikke – der er han jo –»
+    </p>
+    <p>
+     «Hvad billeder ser hun nu,» sagde pastoren.
+    </p>
+    <p>
+     Annikken stirrede op mod det gamle, graa loft.
+    </p>
+    <p>
+     Lina Græsvig blev ligesom gladere i stemmen: «Tænk der staar han
+  –»
+    </p>
+    <p>
+     Atter kom den tynde arm op i luften : «Jeg vilde saa gjerne – jeg
+  vilde saa gjerne –»
+    </p>
+    <p>
+     Hun strakte begge arme op: «Aa kjære –»
+    </p>
+    <p>
+     Saa pludselig reiste hun sig helt op: «Nu har jeg ham,» sagde hun
+  jublende.
+    </p>
+    <p>
+     I samme øieblik faldt lille Lina Græsvig tilbage og døde.
+    </p>
+    <p>
+     Annikken hulkede, som hendes hjerte skulde briste. «Det er ikke
+  muligt,» hulkede hun, «er Lina virkelig død.»
+    </p>
+    <p>
+     Men moderen græd ikke en taare. «Hun har aldrig gjort mig andet end
+  godt,» sagde hun stille, «nu er hun hjemme og fri for alt.»
+    </p>
+    <p>
+     [77] Saa bad pastoren en bøn over det lille legeme, der saa endda
+  mindre ud i den store gammeldagse seng.
+    </p>
+    <p>
+     «Vil De ikke ha nogen hos Dem inat,» spurgte pastoren moderen.
+    </p>
+    <p>
+     «Nei da,» og Lina Græsvigs moder smilte, «tror pastoren, jeg er ræd
+  for Lina.»
+    </p>
+    <p>
+     Annikken og hendes fader gik hjem i den dunkle sommernat. Der var
+  lydløst og stille under træerne opigjennem gaderne, og der var blot en
+  eneste stjerne, som blikkede og glitrede paa den underlig blaa, dybe
+  himmel.
+    </p>
+    <p>
+     Annikken stirrede paa den ene stjerne, hun tog ikke sine øine fra
+  den. Det var som den stjerne var Lina Græsvig nærmere nu end hun,
+  langt hernede paa jorden.
+    </p>
+    <p>
+     Saa begyndte faderen at tale og sagde noget, hun aldrig glemte.
+    </p>
+    <p>
+     «Se nu,» sagde han stille, «hvor rart dette liv er, se nu denne
+  lille, ubetydelige Lina Græsvig, som ikke et menneske ude i verden
+  kjender, og som blot har levet femten korte aar her paa jorden, nu har
+  hun naaet det høieste, som et menneske i dette liv kan naa.»
+    </p>
+    <p>
+     Annikken stirrede og stirrede paa stjernen, graaden vilde frem, men
+  hun betvang sig.
+    </p>
+    <p>
+     «For alt, hvad vi stræver efter her – Annikken – du vil se det
+  klarere og klarere, eftersom aarene gaar, det er dog intet altsammen.
+  Det holder ikke, [78] Annikken. Det vinker og lokker, du kan naa, hvad
+  du vil, men altid vil der mangle noget – altid – Du kan faa kundskab
+  og magt og menneskers ære her paa jorden – det giver dig dog ikke,
+  hvad din lille veninde Lina Græsvig havde i sin sidste stund.»
+    </p>
+    <p>
+     Annikken stirrede endda paa stjernen, og faderens ord brændte sig
+  ind i hende.
+    </p>
+    <p>
+     Der sagde Maren Anne, at kundskab, ære og berømmelse var det
+  største, at hun ikke vilde dø før alle skulde vide, at hun havde levet
+  – og her sagde far, at det altsammen var intet, – det vinker og
+  lokker, men altid vil der mangle noget, og intet her paa jorden
+  tilfredsstiller helt –
+    </p>
+    <p>
+     Og sommernatten var saa blød i tausheden under de smaa lubne
+  lindetræer opigjennem gaderne, og den eneste stjerne blikkede og
+  blikkede.
+    </p>
+    <p>
+     Hvor underlig rart, det var at leve.
+    </p>
+   </div>
+ 
+   <div type="chapter" xml:id="oppe-paa-movig">
+    <head>
+     <ref target="#contents_9" xml:id="chapter_9">
+      Oppe paa
+  Movig
+     </ref>
+    </head>
+    <p>
+     [79] Aften efter aften gik Annikken alene op paa heien, satte sig
+  med armene foldet om knæerne og saa udover.
+    </p>
+    <p>
+     Det var sandt, som Lina Græsvig havde sagt den første aften, hun
+  traf hende, at alting blev saa lidet i verden, naar man havde seet en
+  dø!
+    </p>
+    <p>
+     Og saadan som menneskene strævede og kavede og sørgede for alt. Om
+  en liden stund skulde vi jo dø allesammen!
+    </p>
+    <p>
+     Alt det Maren Anne fortalte om store mænd og kvinder ude i verden,
+  hvad de tænkte og gjorde – det var nok moro – men de skulde jo dø de
+  ogsaa!
+    </p>
+    <p>
+     Det gjælder bare, havde faderen engang sagt, at læse godt paa
+  leksen sin her paa jorden, saa vi kan blive flyttet op i en høiere
+  klasse!
+    </p>
+    <p>
+     Hvad er min lekse, tænkte Annikken med sine seksten aar.
+    </p>
+    <p>
+     Hun sad længe og saa udover, saa sagde hun næsten høit for sig selv
+  deroppe under himmelen: «Jeg tror, det er at være snild.»
+    </p>
+    <p>
+     [80] Hun nikkede paa hovedet flere gange: «Ja – at være god,» sagde
+  hun igjen.
+    </p>
+    <p>
+     Hun nævnte aldrig til nogen, ikke engang til Maren Anne, det hun
+  gik og tænkte paa om dagen. Men om Lina Græsvig talte hun ikke
+  mere.
+    </p>
+    <p>
+     Nei det var saa leit, at nogen skulde vide, hvad hun tænkte paa.
+  Det maatte aldrig, aldrig nogen vide, undtagen Lina Græsvig, og hun
+  havde jo gaaet den underlige ukjendte vei og kom aldrig igjen.
+    </p>
+    <p>
+     «Annikken overvandt snart sorgen over Lina Græsvig,» sagde
+  moderen.
+    </p>
+    <p>
+     «Ja hun er jo bare barnet,» sagde faderen.
+    </p>
+    <p>
+     – Men hver dag var alle de unge sammen, som de pleiede, spillede
+  kroket, roede og seilede. Annikken var altid med i sin storrudede
+  kjole.
+    </p>
+    <p>
+     Per Krafft var blevet saa underlig mod hende, siden den dag, hun
+  havde suget ud ormebiddet. Han talte ikke og spøgte med hende som før,
+  fordi hun var saa stille, men alligevel var det ligesom, han altid
+  vidste, at hun var tilstede.
+    </p>
+    <p>
+     Pyt, tænkte Annikken, han kan være, som han vil for mig. Da kom det
+  trodsige frem i hendes ansigt.
+    </p>
+    <p>
+     Ebba og Per Krafft var nu helt optaget af hinanden. To–tre gange
+  havde de listet sig ud og seilede alene i timevis, og naar de var ude
+  og spadserede i flok og følge, fik Ebba altid den pludseligste lyst
+  til at løbe op paa alle de udsigter og heier, hun kunde øine. Og Per
+  Krafft løb efter. Saadan holdt de det gaaende dag efter dag.
+    </p>
+    <p>
+     [81] Ude blandt veninderne var Tilda forceret lystig og gjorde nar
+  af de to, der skulde op paa alle udsigtspunkter; men hjemme var hun
+  stille, broderede paa spræng og spillede salmer. Men til noget
+  egentligt udbrud var det ikke kommet mellem Tilda og Ebba.
+    </p>
+    <p>
+     – Saa skulde der en dag gaa en skude af stabelen oppe paa Movig.
+  Der skulde gaa et dampskib derop om formiddagen, og hele ungdommen
+  havde aftalt, at de vilde være med.
+    </p>
+    <p>
+     Gjennem det speilglatte vand skar det lille dampskibs skarpe boug
+  henimod de grønne, skraanende jorder, hvor Movig laa. Der var fuldt af
+  parasoller ombord, røde og hvide, og skolebarn, der hang udover
+  rælingen og raabte hurra. Hele forenden af skibet var fuldpakket af
+  folk.
+    </p>
+    <p>
+     Et stykke oppe paa jordet laa gaarden. Rødmalet og gammel med
+  vinduer lige under tagkjægget. Udover tunet var der sat store borde
+  med hvide duge og kaffestel. Folk gik til og fra, det myldrede
+  opigjennem det store jorde. Længst nede ved fjorden laa saa
+  skibsværftet. Det høie, ferdige skrog stod der og lyste. De var alt
+  begyndt at hugge støtterne. De skarpe, høie hug klang udover; folk sad
+  i flisehaugene og rundt paa heierne.
+    </p>
+    <p>
+     Og vestenvinden vifted, og harelab og smørblomster nikkede i
+  vinden.
+    </p>
+    <p>
+     Mægler Tausen var en af rederne, han var i klædesfrak uden pibe og
+  saa generet og trykket ud. Madame Tausen var der ogsaa med parasol,
+  hatten [82] paa skjeve, og det ene øie knebet igjen. Det var hendes
+  vane, naar hun iagttog noget nøie.
+    </p>
+    <p>
+     «Ja saa, piskedød, kommer her ikke fler folk, end vi har kaffe og
+  søsterkage til,» tænkte madame Tausen med sit ene igjenknebne øie –
+  «forsyne mig, er ikke bager Halvorsen ogsaa her, jeg troede han laa
+  for døden, jeg, men naar det er noget at rende efter, stod folk gjerne
+  op af graven.»
+    </p>
+    <p>
+     «Tausen,» raabte hun høit, «du vil da vel ikke staa ombord, naar
+  skuta gaar.»
+    </p>
+    <p>
+     Han var begyndt at drage sig saa smaat nedover.
+    </p>
+    <p>
+     «Ja, det er jo skikken,» sagde Tausen paa sin betænkte maade.
+    </p>
+    <p>
+     «Skik mig hid og skik mig did,» sagde madame Tausen, «du er for
+  gammel og tyk Tausen, til at krybe op den bratte ledderen, og det kan
+  inte nytte at ville være ung, naar en inte er det Tausen –»
+    </p>
+    <p>
+     Tausen maatte sætte sig paa et schawl paa flade marken ved sin
+  kones side.
+    </p>
+    <p>
+     «Men sidder du her, Tausen,» sagde kjøbmand Tobiesen i forbifarten,
+  «skal du ikke staa ombord, naar skuta gaar?»
+    </p>
+    <p>
+     «Nei han skal inte det,» tog madame Tausen ordet, «og De skal inte
+  komme her og forlokke ham, jeg holdt inte ud at sidde her og se den
+  tykke manden klavre op ad det høie skibet det var bedre, jeg gik selv
+  da –»
+    </p>
+    <p>
+     «Ja, De som er saa ung og letvindt, madame Tausen,» sagde
+  Tobiesen.
+    </p>
+    <p>
+     [83] «Aa pas de skjeve bena Deres selv, De,» raabte madame Tausen
+  efter ham.
+    </p>
+    <p>
+     Der kom hele flokken af ungdom opover jordet. Lyse kjoler, snak og
+  latter.
+    </p>
+    <p>
+     Madame Tausen kneb det ene øie dygtig igjen:
+    </p>
+    <p>
+     «Har du seet saadan som de unge damerne steller haaret sit til nu
+  for tiden, Tausen, hvorfor greier de det ikke ligesaagodt frem for
+  hele fjæset, Tausen?»
+    </p>
+    <p>
+     Det var et vanskeligt spørgsmaal for Tausen at besvare, der han sad
+  paa schawlet.
+    </p>
+    <p>
+     «De kunde vel ikke se da,» sagde han tilslut.
+    </p>
+    <p>
+     «Aa du da – men jeg bare spør jeg, om inte Per er basen af dem alle
+  – Tausen?»
+    </p>
+    <p>
+     «Han er ikke værst,» sagde Tausen.
+    </p>
+    <p>
+     «Jeg skulde mene det,» sagde madame Tausen, «se hvor letvindt han
+  er, akkurat som jeg skulde se mig selv – og allesammen vil de ha fat
+  paa ham, kan du vel se, det er gut det, og ham kan du takke mig for,
+  Tausen –»
+    </p>
+    <p>
+     «Javel,» sagde Tausen.
+    </p>
+    <p>
+     «Der er Annikken ogsaa,» vedblev madame Tausen, «du ser den brede,
+  hun som gaar alene, Præst-Annikken, Tausen.»
+    </p>
+    <p>
+     «Jeg kjender a nok,» sagde Tausen.
+    </p>
+    <p>
+     «Det var hende, som reddet Per, da han blev bidt af hugormen.»
+    </p>
+    <p>
+     «Ja, det var jo det.»
+    </p>
+    <p>
+     «Hvis hun og Per kunde bli et par, skulde jeg lægge mig rolig i
+  graven, rigtig inderlig rolig skulde [84] jeg ligge, ellers kommer jeg
+  igjen og klyper dere allesammen,» sluttede madame Tausen.
+    </p>
+    <p>
+     Tausen spyttede i græsset, men sagde ingenting.
+    </p>
+    <p>
+     «Ja, du spytter du, men jeg har nu ret alligevel jeg. For naar du
+  spytter slig, ved jeg godt, hvad du mener – du mener, det er noget
+  tøv, det jeg sidder og siger, men jeg vil bare spørge dig om,
+  hvorledes det havde gaaet dig, hvis du ikke havde havt slig forstandig
+  kone –»
+    </p>
+    <p>
+     – Alle de unge herrer vilde staa ombord, de unge piger havde leiret
+  sig oppe paa en hei i flok og følge. Der var mange smaapiger ogsaa,
+  som syntes, det var kjækt at være med de ældre, allesammen lo og
+  snakkede.
+    </p>
+    <p>
+     Paa hele opturen med dampskibet havde Ebba holdt Per Krafft og Rode
+  borte i det alleryderste af forenden, medens alle de andre havde
+  opholdt sig agterud.
+    </p>
+    <p>
+     De unge piger havde skumlet sig imellem noget ganske enormt. De
+  havde igrunden ikke talt om andet hele turen.
+    </p>
+    <p>
+     «Det er det værste, jeg har oplevet.» havde Elly sagt.
+    </p>
+    <p>
+     «Ja det er i den grad,» sagde Milly.
+    </p>
+    <p>
+     «Tænk saadan er damerne ude i verden,» sagde Karen Jensen med hvide
+  øienbryn.
+    </p>
+    <p>
+     «Jeg anede ikke,» at der fandtes saadant koketteri, jeg dere,»
+  sagde Elly og saa rundt paa de andre, «gjorde dere?»
+    </p>
+    <p>
+     [85] «Tænk, jeg er virkelig skamfuld over, at hun er min kusine,»
+  sagde Tilda.
+    </p>
+    <p>
+     «Det forstaar jeg saa udmærket,» sagde Milly.
+    </p>
+    <p>
+     «Igrunden bryr ikke herrer sig om den slags damer,» sagde Elly,
+  «det har jeg altid hørt.»
+    </p>
+    <p>
+     «Ja – mon det?» sagde Tilda tvilende.
+    </p>
+    <p>
+     «De gifter sig ikke med saadanne ialfald,» sagde Elly
+  overlegent.
+    </p>
+    <p>
+     «Josaamænd gjør de saa,» sagde Karen Jensen.
+    </p>
+    <p>
+     – Nu sad de der allesammen, Ebba var ogsaa kommet til og skulde se
+  skibet gaa.
+    </p>
+    <p>
+     «I det øieblik, skibet begynder at glide, lukker jeg altid øinene,»
+  sagde Tilda, «saa igrunden har jeg aldrig rigtig seet et skib gaa af
+  stabelen.»
+    </p>
+    <p>
+     «Jeg troede ikke, du var saa ræd af dig,» sagde Ebba ligesom
+  spydig.
+    </p>
+    <p>
+     Det lille ord bragte Tildas indelukkede ærgrelse og vrede til at
+  flyde over.
+    </p>
+    <p>
+     «Aa nei, jeg er ikke saa ræd, at jeg skriger, naar jeg har faat en
+  fisk paa krogen, som visse andre,» sagde Tilda.
+    </p>
+    <p>
+     Ebba havde nemlig skreget i vilden sky ved den første fisk, hun
+  havde fisket.
+    </p>
+    <p>
+     «Isch kokette damer,» sagde Elly Thue halvhøit.
+    </p>
+    <p>
+     »Hvad var det, du sagde, Elly Thue,» spurgte Ebba skarpt.
+    </p>
+    <p>
+     «Jeg sagde, at kokette damer var til at faa kvalme af,» sagde Elly
+  modig.
+    </p>
+    <p>
+     «Er det mig, den er adresseret til,» spurgte Ebba overlegent.
+    </p>
+    <p>
+     [86] «Den for tage den, som føler sig truffet,» sagde Elly
+  kjapt.
+    </p>
+    <p>
+     «Ha, ha, hi, hi,» lo Milly og Karen og Tilda.
+    </p>
+    <p>
+     «Puh, dere skal ligesom være saa uskyldige,» sagde Ebba, «og saa er
+  dere akkurat ligedan allesammen.»
+    </p>
+    <p>
+     «Nei ved du hvad –»
+    </p>
+    <p>
+     «Nei ved du hvad –»
+    </p>
+    <p>
+     Nei den var god –»
+    </p>
+    <p>
+     «Nei tak, mor, dertil sætter vi os for høit selv,» sagde Karen
+  Jensen umaadelig ophøiet.
+    </p>
+    <p>
+     «Ha ha,» lo Ebba, «tror dere, det var andet end koketteri f. eks.,
+  at Annikken sugede ud det ormbid dengang?»
+    </p>
+    <p>
+     Annikken havde siddet lidt for sig selv. Hun saa forbauset op.
+    </p>
+    <p>
+     «Hvad sagde du Ebba,» spurgte hun.
+    </p>
+    <p>
+     «Jeg sagde bare, at du var indtaget i Per Krafft, og derfor sugede
+  du ud det ormbiddet.»
+    </p>
+    <p>
+     Det flammede op i Annikkens ansigt, men ikke et ord kom over hendes
+  læber.
+    </p>
+    <p>
+     «Ja jeg synes, det var ganske naturlig, om du var det,» vedblev
+  Ebba, «men du kan ligesaa gjerne indrømme, Annikken, at det var af den
+  grund.»
+    </p>
+    <p>
+     Ebba havde ikke engang talt ud, før et susende ørefig fra Annikkens
+  brede haand sad paa hendes fine kind.
+    </p>
+    <p>
+     «Det – det – det er skam,» stammede Annikken blodigrød i
+  ansigtet.
+    </p>
+    <p>
+     [87] «Fy, Ebba,» sagde Tilda, «det er rigtignok skam af dig at
+  sige.»
+    </p>
+    <p>
+     Ebba havde reist sig. «Det er skandaløst at blive behandlet saadan,
+  jeg vil reise straks –»
+    </p>
+    <p>
+     «Hurra,» brølte de rundtom. Der gik skibet, dukkede dybt, duvede op
+  igjen –
+    </p>
+    <p>
+     «Hurra,» rundt paa alle heier og ombord.
+    </p>
+    <p>
+     Flaget ombord viftede i vestenvinden.
+    </p>
+    <p>
+     Et eneste øieblik saa alle de unge piger paa skibet, saa var de
+  igjen optaget af sit. Maren Anne var kommet til, de fortalte i munden
+  paa hinanden alle. Maren Anne rettede sit hoved endnu høiere.
+    </p>
+    <p>
+     «Det var isandhed lumpent,» sagde hun stolt.
+    </p>
+    <p>
+     Ebba var løbet ned til stranden, for at faa fat paa Per Krafft,
+  straks han roede iland fra skibet.
+    </p>
+    <p>
+     Kaffescenen var begyndt, det var et rend og en trængsel oppe ved
+  bordet. Piger med store bretter balancerede sig frem, folk havde
+  leiret sig op igjennem trappen til huset og stængte veien, og rundt
+  omkring allevegne. Latter og snak, sommersol og vestenvind, stærk
+  kaffe og søsterkage –
+    </p>
+    <p>
+     «Skuta gik inderlig pent, men nu vil jeg ha kaffe,» sagde madame
+  Tausen.
+    </p>
+    <p>
+     Hun fik sig fat i en stol, tog hatten af og plantede sig lige ved
+  kaffekjedlen.
+    </p>
+   </div>
+  
+   <div type="chapter" xml:id="annikken-og-per-krafft">
+    <head>
+     <ref target="#contents_10" xml:id="chapter_10">
+      Annikken og Per
+  Krafft
+     </ref>
+    </head>
+    <p>
+     [88] Ebba var rasende. Dette gik over alle grænser. At give hende
+  et smeldende ørefig i alle de menneskers paasyn. Det gik aldeles rundt
+  i hendes hjerne ved tanken paa, hvad hun skulde foretage sig i denne
+  exceptionelle anledning.
+    </p>
+    <p>
+     Et øieblik tænkte hun paa at leie dampskibet og reise hjem igjen,
+  hun mutters alene. Denne flotte tanke gik dog snart over i den mindre
+  extravagante, om der maaske var en pram at faa laant. For saa vilde
+  hun ro alene tilbage til byen, hun vilde naturligvis faa blodblemmer i
+  hænderne af at ro, og maaske drukne, men det gjorde ingen ting.
+    </p>
+    <p>
+     Hun vilde ikke være her et sekund længere, det vilde hun ikke. Hun
+  syntes, folk kniste og lo allevegne, og her gik hun med den ildrøde
+  plet paa sit kind.
+    </p>
+    <p>
+     Og hun skulde gjerne lade sit hoved kappe af sig, hvis ikke
+  Annikken var indtaget i Per Krafft, tænkte Ebba.
+    </p>
+    <p>
+     Tænk den stygge trumfedeisen! Ha ha!
+    </p>
+    <p>
+     [89] Naturligvis var det bare den pure misundelse, at alle de andre
+  saaledes faldt over hende. Bare, fordi hun var saa meget mere chic end
+  dem, kunde konversere og føre sig – for ikke at tale om den
+  formfuldendte profil, hun havde. Hjemme i Stockholm var der en
+  billedhugger, der vilde modellere hendes buste, og hun maatte
+  rigtignok spørge, hvem var nogensinde blevet modelleret i denne
+  elendige by?
+    </p>
+    <p>
+     Denne tanke trøstede Ebba i høi grad. Ja og saa Per Kraffts
+  kurtise.
+    </p>
+    <p>
+     For enhver kunde jo se med et halvt øie, hvor han udmærkede hende
+  fremfor alle de øvrige smaastadstupper!
+    </p>
+    <p>
+     Tilda var jo ikke saa værst, fra begyndelsen af deres bekjendtskab
+  især, men naar man kom nærmere ind paa hende, var hun jo saa borneret
+  – aa saa snever – og om nogen egentlig skjønhed var det jo ikke tale.
+  Intet undtagen hendes teint, som jo var ganske upaaklagelig – men det
+  var saamænd ingenting at takke alle disse ubetydelige unge piger her i
+  byen for, at de saa godt ud. De havde jo hele friske havet at puste ud
+  over.
+    </p>
+    <p>
+     Maren Anne vilde Ebba jo ikke regne med engang, sammen med de
+  andre. Alle kunde jo se, at det var et nydeligt menneske, men uh –
+  Ebba trak paa skuldrene, høisindede mennesker er ikke netop altid
+  behagelige i omgang.
+    </p>
+    <p>
+     Saalangt var Ebba kommet i sine betragtninger, da herrerne kom
+  iland fra skibet, og Per Krafft straks kom hen til hende igjen. Der
+  var arrangeret dans [90] borte paa græsvolden, og Per Krafft og Ebba
+  dansede ud.
+    </p>
+    <p>
+     Blinde Tallak spillede harmonika, og ungdommen dansede, medens
+  vinden blæste hattene af damerne og ruskede frisuren i uorden, saa
+  haaret føg dem om ansigtet, og sjøgutter og handelsbetjenter valsede
+  og snublede og kurtiserede.
+    </p>
+    <p>
+     Og lo gjorde de alle.
+    </p>
+    <p>
+     Bager Halvorsen havde opdaget, at det var godt for gigten at danse.
+  Han slap den ene og tog den anden, og dansede paa liv og død,
+  kobberrød i ansigtet.
+    </p>
+    <p>
+     Og Blinde Tallak kilte paa og spillede, og Ebba morede sig
+  kostelig.
+    </p>
+    <p>
+     Alle vilde danse med hende; Per Krafft veg ikke fra hendes side, og
+  indtrykket af Annikkens ørefig svandt betydelig for hvert minut, der
+  gik.
+    </p>
+    <p>
+     Puh! Nei saa sandelig, om hun tog sig noget nær af, hvad en saadan
+  uopdragen, tilogmed ukonfirmeret, unge kunde finde paa at gjøre.
+    </p>
+    <p>
+     Hun blæste dem alle et stykke og vilde blive og ikke reise sin
+  vei!
+    </p>
+    <p>
+     Hendes papa havde altid sagt, at udannede mennesker var det, ved
+  Jupiter, aldrig værd at bryde sig om. Og ethvert menneske kunde da se,
+  at Annikken manglede de simpleste regler for selskabelig dannelse og
+  takt.
+    </p>
+    <p>
+     Og for hendes skyld skulde hun afbryde det virkelig overordentlig
+  behagelige bekjendtskab [91] med en saa, ja rent ud sagt, indtagende
+  ung herre, som Per Krafft.
+    </p>
+    <p>
+     For han var mærkelig indtagende og pikant til at opholde sig paa
+  dette lille sted i verden.
+    </p>
+    <p>
+     Et øieblik tænkte hun paa at fortælle ham om Annikkens ørefig. Men
+  saa lod hun det være, hun vidste ikke rigtig selv, hvorfor.
+    </p>
+    <p>
+     – Men Annikken var fortvilet. Aa for en skam, at nogen kunde tro
+  saadant om hende.
+    </p>
+    <p>
+     Tænk det var maaske ude over hele byen, at hun havde suget ud det
+  ormbid, fordi hun var indtaget i Per Krafft og vilde gjøre sig til for
+  ham.
+    </p>
+    <p>
+     Aa hvor rædsomt det var!
+    </p>
+    <p>
+     Nei, at Ebba kunde finde paa noget saadant. Tænk at menneskene var
+  saadan, aa hvor leit, det var at leve!
+    </p>
+    <p>
+     Og nu var det ikke længe til, saa skulde hun blive voksen, hun som
+  de andre og saa skulde hun ud i verden, havde mor sagt.
+    </p>
+    <p>
+     Ud mellem menneskene, som var saa leie!
+    </p>
+    <p>
+     Hun var indtaget i Per Krafft, havde Ebba sagt. Indtaget! Hvad var
+  det at være indtaget, tænkte Annikken.
+    </p>
+    <p>
+     Hun spekulerede med det brede, lyse ansigt. Ja ialfald var det
+  noget, som ikke et menneske nogensinde skulde faa vide.
+    </p>
+    <p>
+     Og nu talte de maaske om hende i hele byen paa den maade.
+    </p>
+    <p>
+     Jeg holder vist ikke ud at leve, tænkte Annikken.
+    </p>
+    <p>
+     [92] – Ikke et ord blev der nævnt om scenen oppe paa Movig, efter
+  de kom hjem. Ebba var bare liv. Vilde hjælpe tanten i huset, legede
+  med lille Kristoffer og holdt leven med gutterne. Sang i vilden sky og
+  akkompagnerede sig selv, for øieblikket efter at løbe gjennem alle
+  værelserne og svinge Magna rundt som en top.
+    </p>
+    <p>
+     Tilda og Annikken undgik hun, ikke netop paafaldende for de andre,
+  men dog saa de mærkede det selv. Men Maren Anne gjorde hun sig til
+  for.
+    </p>
+    <p>
+     «Hvor sød og original du er med det glatte haar, Maren Anne, du ser
+  saa betydelig ud.»
+    </p>
+    <p>
+     En aften hændte det, at Annikken hørte en mistænkelig lyd, ligesom
+  en undertrykt hulken borte fra Tildas seng.
+    </p>
+    <p>
+     Hun lyttede anspændt. Jo, Tilda græd virkelig.
+    </p>
+    <p>
+     Men ialverden, hvad gik der af Tilda? Det var jo et rent særsyn at
+  se Tilda græde. Hvad havde hun at være lei af sig for da. Det var jo
+  ingen som havde sagt noget saa skrækkeligt om hende, som at hun gjorde
+  sig til og sugede ud ormbid.
+    </p>
+    <p>
+     Hvor sørgeligt det var at høre Tilda græde.
+    </p>
+    <p>
+     «Er du syg Tilda?» spurgte Annikken. Et øiebliks taushed.
+    </p>
+    <p>
+     «Nei langtfra hvorfor spørger du om det?» kom det i en ligegyldig
+  tone fra Tildas seng.
+    </p>
+    <p>
+     «Jeg synes, du græder.»
+    </p>
+    <p>
+     «Er du gal, det var da latterligt.»
+    </p>
+    <p>
+     «Det var mærkeligt», tænkte Annikken og lagde [93] sig til at sove.
+  Men næste aften hørte hun akkurat det samme.
+    </p>
+    <p>
+     Først laa hun længe og spekulerede paa, om hun skulde tale til
+  Tilda iaften igjen. Men saa kom en aldeles tydelig hulk. Annikken
+  reiste sig op i sengen.
+    </p>
+    <p>
+     «Jo, Tilda, der feiler dig noget.»
+    </p>
+    <p>
+     «Uf ja, alting er saa leit,» Tilda græd nu aldeles uden sky.
+    </p>
+    <p>
+     «Hvad er leit,» spurgte Annikken.
+    </p>
+    <p>
+     «Aa alle mulige ting, ingen, ingen ting er morsomt mere, uh uh uh
+  –»
+    </p>
+    <p>
+     «Jeg troede ikke, du havde noget, der var leit,» sagde
+  Annikken.
+    </p>
+    <p>
+     «Jo Ebba er saa afskyelig, hvorfor skulde det afskyelige menneske
+  komme herned og ødelægge al ting, uh uh –»
+    </p>
+    <p>
+     Ja denne grusomme skjæbnetilskikkelse vidste Annikken ikke at
+  forklare.
+    </p>
+    <p>
+     «Jeg troede ikke, at Ebba havde været noget afskyelig mod dig,»
+  sagde Annikken igjen.
+    </p>
+    <p>
+     «Mod mig» – Tilda reiste sig nu ogsaa op i sengen, «kjære, hun er
+  jo simpelthen ufordragelig – det er jo mig, hun har været afskyelig
+  gyselig mod fra første stund – aa de hvide tænderne hendes og den
+  svenske snakken – jeg hader hende, ja det gjør jeg.»
+    </p>
+    <p>
+     «Jeg kan ikke skjønne det –» begyndte Annikken.
+    </p>
+    <p>
+     «Nei du skjønner ingen ting – men hvorledes [94] har hun ikke været
+  mod Per Krafft – og Rode ogsaa – afskyelig – det siger Milly og Elly
+  ogsaa – aa gid hun bare vilde
+  reise.»
+      <ref target="#NOR0105_ton3" xml:id="NOR0105_backn3">
+      n3
+     </ref>
+    </p>
+    <p>
+     «Ja, men hun er jo forfærdelig blid mod Per Krafft,» sagde Annikken
+  uskyldig.
+    </p>
+    <p>
+     «Ja blid ja – det er jo netop det – det er ikke at holde ud at se
+  paa og i sommer, som vi kunde havt det saa deilig, og saa kommer hun
+  og fordærver det
+  hele.»
+      <ref target="#NOR0105_ton4" xml:id="NOR0105_backn4">
+      n4
+     </ref>
+    </p>
+    <p>
+     «Kan du ikke sige det til hende,» sagde Annikken efter en lang
+  grunden. Det forekom altid Annikken, at naar man bare talte aabent om
+  en ting, saa maatte al ting greie sig.
+    </p>
+    <p>
+     «Sige det til hende, nei ved du hvad – jeg oplader ikke min mund
+  til det menneske mer, og ikke til Per Krafft heller, som er det
+  indbildskeste menneske paa Guds grønne jord.»
+    </p>
+    <p>
+     Saa var begge søstrene sovnet, og næste morgen begyndte ingen af
+  dem paa det samme thema.
+    </p>
+    <p>
+     Men Annikken tænkte og tænkte.
+    </p>
+    <p>
+     Det var saa mærkeligt altsammen. Tilda var jaloux, det var hun,
+  det. Saadan som det stod om i romaner om skinsyge fyrstinder. Tænk,
+  hvor rart, at Tilda virkelig var skinsyg! For Per Krafft havde jo før
+  bare bryd sig om Tilda, og nu var det ligesom, han ikke saa hende
+  mere.
+    </p>
+    <p>
+     Og Tilda, som havde sagt, at Per Krafft var det mest indbildske paa
+  jorden!
+    </p>
+    <p>
+     Tænk om han tror det, som Ebba sagde oppe [95] paa Movig. For det
+  kan jo godt hænde, at Ebba har sagt det til ham ogsaa.
+    </p>
+    <p>
+     Ja, det skal han være blaa for at tro, tænkte Annikken, og kneb
+  munden sammen; jeg vil sige det til ham i denne dag.
+    </p>
+    <p>
+     Efterat Annikken havde taget denne bestemmelse, gik hun bare og
+  lurede paa en leilighed til at gjøre op regnskab med Per Krafft.
+    </p>
+    <p>
+     Nei, aldrig kunde hun træffe ham alene. Hver dag saa hun ham
+  rigtignok paa dampskibsbryggen, hvor de unge pleiede at samles, mest
+  af den kompletteste mangel paa noget andet at foretage sig. Der var jo
+  altid nogen passagerer at kritisere og le ad, og de unge damer syntes
+  ogsaa, det var lidt morsomt at blive seet paa i kikkert af de flotte
+  handelsreisende ombord, der stod en to–tre meter fra dem.
+    </p>
+    <p>
+     Men Annikken kunde aldrig træffe Per Krafft alene.
+    </p>
+    <p>
+     Ja saa gaar jeg op til ham hjemme, tænkte Annikken.
+    </p>
+    <p>
+     Det var en morgen tidlig, hun gik derop. Hun havde ligget vaagen og
+  tænkt nøie over alt, hvad hun vilde sige. Først vil jeg sige det, og
+  saa vil jeg sige det og det.
+    </p>
+    <p>
+     Hun traf madame Tausen ude i haven.
+    </p>
+    <p>
+     «Nei, hvor inderlig hyggelig, at De ser indom da, frøken
+  Annikken.»
+    </p>
+    <p>
+     Annikken blev blodrød over hele det brede ansigt.
+    </p>
+    <p>
+     «Kan jeg faa tale med Per Krafft,» sagde hun generet.
+    </p>
+    <p>
+     [96] I samme øieblik angrede hun paa, at hun var gaat derind. Aa
+  hvor hun angrede. Madame Tausen gik ind i gangen, for at raabe paa
+  Per.
+    </p>
+    <p>
+     Jeg tror, jeg løber – tænkte Annikken – jeg løber, jeg løber – men
+  det vilde vist være flaut.
+    </p>
+    <p>
+     Der var Per alt i døren. Madame Tausen ogsaa, hun vilde øiensynlig
+  gjerne vide, hvad det var, der stod paa. Per Krafft saa generet ud,
+  næsen lugtede ikke det spor gammelost.
+    </p>
+    <p>
+     «Kan jeg faa tale med dig,» sagde Annikken blodrød.
+    </p>
+    <p>
+     «Det er mig en glæde» – Per Krafft bukkede.
+    </p>
+    <p>
+     Slig, som han kan finde ord, tænkte madame Tausen og saa beundrende
+  paa Per.
+    </p>
+    <p>
+     «Værsgod sæt dere her,» sagde hun høit og viste paa en
+  havebænk.
+    </p>
+    <p>
+     «Jeg tror, vi heller gaar ned i haven,» sagde Per efter et blik paa
+  Annikken.
+    </p>
+    <p>
+     «Ja,» sagde hun hurtig.
+    </p>
+    <p>
+     Hvis jeg ikke likte a saa godt, vilde jeg tro noget af hvert efter
+  det der, tænkte madam Tausen. Hun havde sat begge hænder i siden og
+  stod og saa efter dem.
+    </p>
+    <p>
+     Annikken og Per Krafft gik nedigjennem en smal gang med sperrea paa
+  begge sider. Det var ikke rum for mere end en i bredden. Annikken gik
+  først, Per efter. Pludselig vendte Annikken sig om.
+    </p>
+    <p>
+     «Nei det kan være det samme, det var igrunden ingenting, jeg
+  vilde,» sagde hun hurtig. Hun forsøgte at komme tilbage forbi Per i
+  den smale havegang.
+    </p>
+    <p>
+     [97] Med en eneste gang var Per igjen overlegen; de smilende øine
+  saa ret ind i hendes.
+    </p>
+    <p>
+     «Nei, nu slipper du ikke, hvad var det, du
+  vilde?»
+      <ref target="#NOR0105_ton5" xml:id="NOR0105_backn5">
+      n5
+     </ref>
+    </p>
+    <p>
+     «Nei, jeg vil ikke,» hun kjæmpede for at komme tilbage.
+    </p>
+    <p>
+     «Nei, ved du hvad, nu vil jeg vide det,» han saa smilende paa hende
+  hele tiden.
+    </p>
+    <p>
+     Annikken blev pludselig rolig. «Ja jeg kan godt sige det ogsaa,»
+  sagde hun alvorlig.
+    </p>
+    <p>
+     «Hvad er det da?»
+    </p>
+    <p>
+     «Aa, det er bare det, at hvis du tror, jeg er indtaget i dig, saa
+  tager du skammelig feil.»
+    </p>
+    <p>
+     «Hvad – hvorledes,» – han lo og saa paa hende.
+    </p>
+    <p>
+     Annikken saa paa ham et øieblik:
+    </p>
+    <p>
+     «Forresten er du lumpen helt igjennem,» sagde hun uhyre
+  alvorlig.
+    </p>
+    <p>
+     «Hvad er det, du siger,» nu var han ogsaa blevet alvorlig.
+    </p>
+    <p>
+     Annikken samlede sig og tænkte efter alt det, hun havde bestemt sig
+  til at sige. Hun huskede ikke en eneste af alle de sætninger, hun
+  havde lavet sammen i nattens stilhed. Hun stammede og blev endda
+  rødere.
+    </p>
+    <p>
+     «Jo, Ebba sagde, at jeg havde suget ud det ormbiddet, fordi jeg var
+  indtaget i dig, og det er ikke det spor sandt – jeg er ikke det pluk
+  indtaget i dig – nu ved du det – for kanske Ebba har sagt det til dig
+  ogsaa.»
+    </p>
+    <p>
+     [98] «Nei, du kan vist ikke udstaa mig, Annikken,» han saa hende
+  alvorlig ret ind i øinene, «desto mer taknemmelig maa jeg jo være
+  dig.» De mørke, graa øine slap ikke hendes et øieblik.
+    </p>
+    <p>
+     Annikken saa bort.
+    </p>
+    <p>
+     «Det er saa forfærdelig leit, at folk skal sige saadant – og – og
+  –»
+    </p>
+    <p>
+     «Annikken se paa mig, er det sandt, at du ikke kan udstaa mig?»
+    </p>
+    <p>
+     Annikken saa hastig paa ham, men saa straks bort igjen.
+    </p>
+    <p>
+     «Jeg synes du er ækkel mange gange,» sagde hun nølende.
+    </p>
+    <p>
+     «Hvorledes det?»
+    </p>
+    <p>
+     «Aa –»
+    </p>
+    <p>
+     «Hvorfor synes du, jeg er lumpen, Annikken?»
+    </p>
+    <p>
+     «Jo, fordi du gjør kur til alle – og saa tror allesammen, at du
+  bryr dig bare om den ene, men det er uærligt og lumpent det, Per
+  Krafft,» sluttede Annikken.
+    </p>
+    <p>
+     Per Krafft saa nu ogsaa bort. «Du dømmer mig for haardt Annikken,»
+  sagde han sagte.
+    </p>
+    <p>
+     «Langtifra det gjør jeg slet ikke, for du gjør mange mennesker
+  bedrøvet paa den maaden – og mange gange har jeg lyst at jule dig
+  op.»
+    </p>
+    <p>
+     Det lystige glimt kom igjen i Per Kraffts øine.
+    </p>
+    <p>
+     «Ja jul mig lidt faderlig op, Annikken,» sagde han, «jeg tror, jeg
+  havde godt af det.»
+    </p>
+    <p>
+     «Nu holder du bare leven igjen,» sagde Annikken, [99] «men jeg
+  mener det i alvor jeg – men nu har jeg sagt det, og nu vil jeg
+  gaa.»
+    </p>
+    <p>
+     Hun var kommet et par skridt op.over havegangen, da Per Krafft
+  raabte:
+    </p>
+    <p>
+     «Annikken.»
+    </p>
+    <p>
+     «Ja.»
+    </p>
+    <p>
+     «Ikke vær vond paa mig, Annikken.»
+    </p>
+    <p>
+     Hun saa paa ham en liden stund: «Det kommer akkurat an paa dig selv
+  det,» sagde hun med tyk stemme.
+    </p>
+    <p>
+     Dermed gik den brede, trauste Præst-Annikken langtsomt opover og ud
+  af haven.
+    </p>
+    <p>
+     «Hvad var det, hun vilde,» sagde madame Tausen til Per.
+    </p>
+    <p>
+     «Aa, hun holdt en præken for mig, tante Tausen.»
+    </p>
+    <p>
+     «En præken?»
+    </p>
+    <p>
+     «Ja, og det en, jeg kommer til at huske, tror jeg.»
+    </p>
+    <p>
+     Madame Tausen saa efter ham, da han sprang ind af gangdøren.
+    </p>
+    <p>
+     Hvad var nu det for noget da – piskedød – skal jeg ikke faa vide
+  det, saasandt jeg heder Maren Tausen.
+    </p>
+   </div>
+  
+   <div type="chapter" xml:id="branden">
+    <head>
+     <ref target="#contents_11" xml:id="chapter_11">
+      Branden
+     </ref>
+    </head>
+    <p>
+     [100] Da Annikken kom hjem fra hin visit hos Per Krafft, angrede
+  hun forfærdelig paa det hele.
+    </p>
+    <p>
+     Hvor kunde hun dog være saa dum, som at gjøre saadant noget.
+    </p>
+    <p>
+     Saadan gjorde vist aldrig nogen andre – og bare nu ikke Per Krafft
+  gik rundt og fortalte det. – Aa Gud, hvorfor skulde hun altid være saa
+  dum, aa, hvor Elly og Milly vilde le, og hvor de vilde have moro af
+  det i lange tider og aldrig glemme det.
+    </p>
+    <p>
+     Bare hun kunde betro sig til Maren Anne og fortælle hende det! Men
+  saa vilde formodentlig Maren Anne sige, at det ikke var ladylike, men
+  ufint gjort af hende; naar Maren fandt noget, der ikke var fornemt,
+  aandelig talt, slog hun stregen over det med en eneste gang – saa
+  hende turde hun slet ikke fortælle det.
+    </p>
+    <p>
+     Og ikke kunde hun tale om det til Tilda, for hun vilde blot
+  sige:
+    </p>
+    <p>
+     «Altid gjør du noget, der er rart, Annikken.»
+    </p>
+    <p>
+     Og nu var hun saa inderlig kjed og træt af det, at alle mennesker
+  sagde, at hun var saa rar.
+    </p>
+    <p>
+     [101] Naar jeg ingenting siger, saa behøver da ikke folk at sige,
+  jeg er rar, tænkte Annikken ofte.
+    </p>
+    <p>
+     I denne tid var hun endda stillere, end hun pleiede, sad og saa
+  langt ud for sig.
+    </p>
+    <p>
+     Men eftersom dagene gik, mærkede hun, at Per Krafft intet maatte
+  have sagt. Og hun fik en stor taknemmelighedsfølelse indi sig mod ham
+  derfor.
+    </p>
+    <p>
+     Det var snildt af ham det, at han intet sagde, endda han altid gik
+  paa jagt efter noget moro og noget at le ad.
+    </p>
+    <p>
+     Kanske han alligevel var at stole paa. –
+    </p>
+    <p>
+     Det var i hedeste middagsstunden. Aabne døre og vinduer over det
+  hele hus, ikke et træk i luften. Solen stegte paa heierne og gjorde
+  dem formelig glødende at kjende paa; ude i de smaa, opmurede haver med
+  den tørre sandjord hang blomsterne slappe og visne, men opover
+  husvæggen frydede den lille vinranke, der hver sommer bar to klaser
+  druer, sig i den varme sol.
+    </p>
+    <p>
+     Annikken laa paa en havebænk i det lille koghede syrenlysthus med
+  svedperler paa den brede næse. En humle surrede i det fjerne, kom
+  nærmere, fjernede sig igjen – al ting var saa underlig langt borte.
+  Annikken holdt paa at sove.
+    </p>
+    <p>
+     Med en gang var der nogen, der raabte noget nede i den smale gade,
+  Annikkens lyse øine aabnede sig hurtig – havde de ikke raabt:
+  «Varmeløs –»
+    </p>
+    <p>
+     Der raabte de igjen; Annikken var oppe og ud haveveien, før hun
+  egentlig havde tænkt sig om, da [102] hun kom ned i gaden, mærkede hun
+  først, at hun ikke havde hat paa.
+    </p>
+    <p>
+     «Brænder det,» spurgte hun en kone, der gløttede i et vindu.
+    </p>
+    <p>
+     «Ja, hos døve Kjerstine siger dem, altid skal naa uløkka være ude
+  ogsaa.»
+    </p>
+    <p>
+     Annikken tog paa sprang bortigjennem de smale gader. Døve Kjerstine
+  pleiede luge i haverne hjemme, hun havde ofte været inde i døve
+  Kjerstines bittelille hus, der det laa plat ned i gaden uden grundmur
+  og med det ældgamle tag. Der var fuldt af folk alt, der spærrede den
+  lille gade; selv oppe i døve Kjerstines lille, sandede have med de
+  eneste to stokroser stod der folk og kikkede ind af vinduerne. Men
+  oppe fra mønet paa den ene side af taget steg der en mørk, ulden røg
+  tilveirs og rundt den brøstfældige skorstenspibe, piblede der smaa
+  flammer frem mellem de gamle tagsten.
+    </p>
+    <p>
+     Og de raabte, barn græd, og der var et snak i munden paa hinanden
+  om hvem, der havde seet røgen først, og brandvognen, som ikke kom!
+    </p>
+    <p>
+     «Men, Jesse navn, hvor er døve Kjerstine henne,» var det en, der
+  sagde.
+    </p>
+    <p>
+     Ingen havde seet hende, og ingen vidste om nogen ting, før det
+  begyndte at ryge af taget.
+    </p>
+    <p>
+     Det var nogen, der havde været inde i kjøkkenet og det eneste
+  værelse nedenunder, men der havde ingen døve Kjerstine været.
+    </p>
+    <p>
+     «Kanske døve Kjerstine er paa loftet,» var det [103] en kone, der
+  sagde, «for hun sover paa loftet nu sommertiden.»
+    </p>
+    <p>
+     Der blev stilt et øieblik, saa stilt, at en hørte flammen oppe fra
+  piben knitre ganske svagt, saa skreg de og raabte:
+    </p>
+    <p>
+     «Herre Gud, hun brænder inde, hun er deroppe, hun sover og hører
+  ingenting.»
+    </p>
+    <p>
+     Et eneste øieblik for det rundt i Annikkens hoved. Saa banede hun
+  sig vei med de brede arme:
+    </p>
+    <p>
+     «Lad mig komme frem!»
+    </p>
+    <p>
+     Allesammen veg undaf, det var ligesom en magt i det brede, lyse
+  menneske.
+    </p>
+    <p>
+     Hun var alt inde i døren. «Hvad vil De, frøken,» det var en kone,
+  der holdt hende igjen.
+    </p>
+    <p>
+     «Jeg vil op paa loftet efter døve Kjerstine.»
+    </p>
+    <p>
+     «Nei, nei, nei – gjør det ikke – De kommer inte ned igjen.»
+    </p>
+    <p>
+     «Jo jeg vil, slip mig.»
+    </p>
+    <p>
+     Røgen slog imod hende tyk og kvælende opigjennem den smale trap.
+  Hun bøiede hovedet og gik paa. Det var nogen skridt hen til
+  loftskammerdøren, men hun vidste, hvor den var. Røgen var alt saa tæt,
+  at hun intet saa. Hun famlede efter klinken. Endelig der fik hun døren
+  op, der laa døve Kjerstine og sov paa sin seng.
+    </p>
+    <p>
+     I et nu havde de brede, stærke armene lille døve Kjerstine oppe af
+  sengen, men hun var aldeles fortumlet, kunde ikke staa paa benene og
+  ynkede sig høit. Annikken tog hende om livet og bar eller slæbte hende
+  de par skridt over loftet og trak hende [104] baglænds ned af trappen.
+  Altsammen uden et eneste ord. Trappen var lige ved døren; der tog folk
+  sig straks af hende og bar hende bort. Annikken skalv lidet gran,
+  ligesom noget i brystet, der rørte sig.
+    </p>
+    <p>
+     «Aa frøken, frøken,» en gammel kone storgraat og klappede hende paa
+  skuldrene og paa det bare hoved uden hat, «at Dere turde det – at Dere
+  kunde gaa ind i det brændendes hus.»
+    </p>
+    <p>
+     «Aa, se, se,» raabte folk. Der slog røgen tyk og sort ud af
+  loftsvinduet, hvor døve Kjerstine netop havde ligget.
+    </p>
+    <p>
+     «Det er stort at redde menneskeliv,» graat en kone.
+    </p>
+    <p>
+     «Det var tak værdt det,» sagde en rystende gammel mand.
+    </p>
+    <p>
+     Pludselig saa Annikken Per Kraffts ansigt indimellem alle de
+  andre.
+    </p>
+    <p>
+     «Du er gjild jente, du,» sagde gamle Tallak vedhugger, rystede paa
+  hovedet og smilte til Annikken.
+    </p>
+    <p>
+     «Det var et sandt ord det, Tallak,» sagde Per Krafft.
+    </p>
+    <p>
+     «Nei,» sagde Annikken hastig, «kjære, det er da ingenting at tale
+  om, nei da!»
+    </p>
+    <p>
+     Der kom endelig brandvognen ramlende, unger og folk for
+  tilside.
+    </p>
+    <p>
+     «Afveien folk,» brandmajoren travede med, sprængrød i ansigtet.
+    </p>
+    <p>
+     «Det er vel ikke folk inde i huset,» raabte han.
+    </p>
+    <p>
+     «Præst-Annikken bar a ud,» raabte en gutunge.
+    </p>
+    <p>
+     [105] «Det maa siges at være efter omstændighederne godt gjort,»
+  udtrykte brandmajoren sig.
+    </p>
+    <p>
+     Alt mandfolk blev sat til at pumpe, Per Krafft var ogsaa med. Alle
+  konerne flokkede sig om Annikken og sagde om igjen og om igjen det
+  samme og undrede sig.
+    </p>
+    <p>
+     Inden de vidste ordet af det, gjorde Annikken helt om og løb hjem.
+  Svend havde alt været i forveien og berettet det hele.
+    </p>
+    <p>
+     «Aa gid, dere skulde seet sjømand Røst, da hun kom trækkendes med
+  døve Kjerstine – aa gid – hvor stærk du var, Annikken –»
+    </p>
+    <p>
+     «Kjære barn – fortæl,» sagde faderen.
+    </p>
+    <p>
+     «Det er ikke noget at fortælle,» sagde Annikken bryd, «hun sov
+  ovenpaa og hørte ingen ting, og saa gik jeg derop og fik hende
+  ned.»
+    </p>
+    <p>
+     «Medens det brændte i huset?»
+    </p>
+    <p>
+     «Ja lidt.»
+    </p>
+    <p>
+     «Var der ikke røg da?»
+    </p>
+    <p>
+     «Jo lidt.»
+    </p>
+    <p>
+     «Aa gid da, røgen var svart som beg,» sagde Svend, «og der var
+  varme i taget, da Annikken gik op.»
+    </p>
+    <p>
+     «Aa du Annikken, du Annikken,» sagde Maren Anne med lysende øine og
+  tog hende om halsen.
+    </p>
+    <p>
+     «Jeg forsikrer dere paa, at det var ingenting at tale om,» sagde
+  Annikken, «jeg gik bare ret op ad trappen –»
+    </p>
+    <p>
+     «Bare gaa ind i et brændende hus ja,» fortsatte Maren Anne – «aa
+  Annikken, jeg misunder dig – her læser og stræver og tænker og
+  arbeider jeg for [106] at naa noget i verden, gjøre noget gavn, blive
+  til noget stort og saa gaar du her ganske stilfærdig og gjør det store
+  uden tanke paa selv, at det er
+  noget.»
+      <ref target="#NOR0105_ton6" xml:id="NOR0105_backn6">
+      n6
+     </ref>
+    </p>
+    <p>
+     «Ikke sig saadant,» sagde Annikken bedende.
+    </p>
+    <p>
+     «Jo,» sagde Maren Anne, «at glemme sig helt selv, det er
+  stort.»
+    </p>
+    <p>
+     Nei, at folk kunde gjøre saadant væsen af det, tænkte Annikken.
+    </p>
+    <p>
+     Ude i byen ogsaa, hun kunde ikke gaa paa gaden de første dage, uden
+  at folk kom hen og vilde have greie paa, hvorledes det var gaaet for
+  sig. Det generede hende, saa hun gik baggaderne.
+    </p>
+    <p>
+     Uf, sagde Annikken og satte nyver i panden, jeg er saa kjed af det
+  saa.
+    </p>
+    <p>
+     Det var en aften nogle 'dage efter. Solen stod gyldengul over
+  heierne længst i vest, solgangsvinden var løiet af, og sjøen laa
+  blank, speilende i gult og og rødt mod de mørke heier.
+    </p>
+    <p>
+     Annikken havde taget en pram og roet udover. Hun roede hurtig,
+  prammen skar en hvid stribe i det speilglatte vand.
+    </p>
+    <p>
+     Hun havde ofte trang til at være alene, og da var sjøen den bedste.
+  Der kom en seilbaad udenfra med topseil og fokken spilt, som en stor
+  snehvid fugl med spilte vinger paa det skinnende vand. Annikken strøg
+  lige tæt forbi den i sin pram. Da hun skulde se til, sad Per Krafft
+  alene ved roret. Han var i skjorteærmer, og hatten langt bag i
+  nakken.
+    </p>
+    <p>
+     «Nei er det dig,» raabte han, «hvor skal du hen?»
+    </p>
+    <p>
+     [107] «Aa – ingensteder –»
+    </p>
+    <p>
+     «Skal jeg tage dig paa slæb –»
+    </p>
+    <p>
+     «Det var bedre, jeg tog dig da,» sagde Annikken, «du kommer jo ikke
+  af flækken.»
+    </p>
+    <p>
+     «Kom op her, saa tager vi prammen paa slæb,» sagde han igjen.
+    </p>
+    <p>
+     Annikken tænkte sig om. «Aa nei, sagde hun tilslut.»
+    </p>
+    <p>
+     Han bad hende igjen. «Nei jeg har roet ud for at være alene,» sagde
+  hun langsomt. I samme øieblik hun havde sagt det, angrede hun det, det
+  var vist uhøfligt.
+    </p>
+    <p>
+     «Aa pyt,» han lo – «jeg er da næsten ingen jeg.»
+    </p>
+    <p>
+     Uf nei, tænkte Annikken, jeg vil ikke op i baaden hans, for jeg ved
+  ikke, hvad jeg skal snakke om. «Farvel da,» sagde hun høit.
+    </p>
+    <p>
+     «Du Annikken,» han lænede sig udover rælingen «er du vond paa
+  mig?»
+    </p>
+    <p>
+     «Nei.»
+    </p>
+    <p>
+     «Du – har du syntes, jeg har været lumpen i den sidste tid
+  ogsaa?»
+    </p>
+    <p>
+     «Nei, hun skaatede og vilde ikke se paa ham, saa saa hun hurtig
+  bort paa det brune, ivrige ansigt mod det hvide seil, «jeg har angret
+  forferdelig paa, at jeg gik op til dig dengang,» sagde hun stille.
+    </p>
+    <p>
+     «Det skal du ikke angre paa,» sagde han. Saa vilde ikke han se paa
+  hende heller. Baadene fjernede sig mere og mere fra hinanden.
+    </p>
+    <p>
+     «Du Annikken,» sagde han igjen –
+    </p>
+    <p>
+     «Ja –»
+    </p>
+    <p>
+     [108] «Nei, det kan være det samme –»
+    </p>
+    <p>
+     Annikken saa paa ham, al hendes generthed var et øieblik ligesom
+  strøget af hende ligeoverfor ham. Hun smilte og saa ham helt ind i
+  øinene, hvad hun ellers ikke kunde.
+    </p>
+    <p>
+     «Skal jeg hilse i byen,» sagde hun muntert, «du kommer ikke ind før
+  midnat du paa denne maaden.»
+    </p>
+    <p>
+     Han svarede ikke, bare saa paa hende. Annikken tog spændtag mod
+  prammens bund og roede, saa det fossede indover. Hun blev saa glad med
+  en gang. Du, hvor godt, hun likte Per Krafft – næsten bedst af alle
+  mennesker – men det maatte ingen i hele verden vide.
+    </p>
+   </div>
+  
+   <div type="chapter" xml:id="brev-fra-ebba-til-tilda">
+    <head>
+     <ref target="#contents_12" xml:id="chapter_12">
+      Brev fra Ebba til
+  Tilda
+     </ref>
+    </head>
+    <quote>
+     <p>
+      [109] Kjæreste Tilda!
+     </p>
+     <p>
+      Du har maaske ventet paa brev – tænk naar jeg tænker efter, er
+    det snart en maaned siden jeg reiste fra dit yndige hjem ved havet.
+    Men jeg skal sige dig, at jeg har været, er, og vil blive umaadelig
+    optaget i lange tider – og at skrive breve er og forbliver min pest.
+    Jeg skulde altsaa takke for mig, siger min mama, min bedste tak
+    sender jeg onkel og tante og alle børnene. Og – elskede Tilda – du
+    forstod mig vist ikke i det sidste. Det var ligesom en sky mellem os
+    – men nu er skyen borte. For du troede kanske, at jeg var indtaget i
+    den afskyelige student Krafft. Ikke mer end som saa – forsikrer jeg
+    paa mit æresord. For paa jernbanen hjemover, nei – der traf jeg mit
+    ideal! Aa hvad det er for en følelse Tilda! Altfortærende vil jeg
+    kalde den! Han er lys som en gud og tilogmed officer! Og han kjender
+    min tante her i Stockholm, saa vi vil mødes ofte! Døm saa om hvilken
+    vinter, jeg gaar [110] imøde! Jeg saa ham alt paa perronen i
+    Kristiania, og han saa paa mig ja du gjør dig ikke idé om hvorledes
+    – idetheletaget ved du vist slet ikke, hvorledes en officer kan se!
+    Studenter er intet, kjæreste Tilda, det ved jeg nu. En gang aabnede
+    han døren for mig ind til ventesalen, og saa mig dybt ind i øinene.
+    Det var begyndelsen. Siden havde jeg en himmelsk, rent ud himmelsk
+    jernbanetur!
+     </p>
+     <p>
+      Student Krafft er visket ud, som med et viskelær, af mit hjerte –
+    aldeles – forsikrer jeg dig. Jeg tænker aldrig paa ham mere, og jeg
+    har aldeles ikke isinde at sende ham mit fotografi. Han er ikke
+    pikant engang! Nei
+      han
+      er pikant
+    du! Han snor sine moustacher overvældende. Elskede, kjæreste Tilda,
+    jeg skriver snart til dig igjen og fortæller dig videre, hvorledes
+    dette henrivende bekjendtskab udvikler sig. Tænk han har seet mig i
+    vinter engang – i theatret – og han har siden den tid ikke kunnet
+    glemme min profil. Jeg lignede en græsk gudinde, sagde han, men
+    navnet sagde han saa tort, at jeg ikke opfattede det – sandt at sige
+    har jeg aldrig hørt det gudindenavn før heller – men jeg blottede
+    mig ikke – men hvad synes du om den tanke, at jeg ligner en gudinde!
+    Kjæreste Tilda – aa hvor jeg likte dig godt. Kjæm altid dit haar
+    nedover ørene, for da er du mildest talt henrivende.
+     </p>
+     <p>
+      Næste gang, du skriver, er du maaske forlovet med student Krafft.
+    Han beundrede dig – men o – hvor min officer er millioner gange
+    stateligere. For hos Per Krafft var det jo ikke tale om figur.
+    [111] Hils Iversen og bed ham snarest mulig gjennemgaa et
+    stammekursus, og bed ogsaa Rode huske paa, at han har en underlæbe!
+    Hils den prægtige Annikken og dine yndige brødre, og den søde Magna.
+    Jeg skal faa lys blaa silkekjole, og min papa overraskede mig igaar
+    med et vidunder af en vifte! Jeg har fotograferet mig ogsaa, jeg
+    kommer ligesom ud af en sky – jeg er deilig der – men det er vistnok
+    en smule flatteret. Tænk om jeg kunde blive gift med
+      ham!
+      De, der er gifte, har vist
+    ingen sorger mer, tror du vel Tilda.
+     </p>
+     <p>
+      Din altid elskede kusine som fortiden er i den syvende himmel tra
+    la tra la.
+     </p>
+     <p>
+      Din
+      umaadelig hengivne
+      Ebba
+     </p>
+    </quote>
+   </div>
+  
+   <div type="chapter" xml:id="brev-fra-annikken-til-maren-anne">
+    <head>
+     <ref target="#contents_13" xml:id="chapter_13">
+      Brev fra Annikken
+  til Maren Anne
+     </ref>
+    </head>
+    <quote>
+     <p>
+      [112] Kjære Maren Anne!
+     </p>
+     <p>
+      Mange tak for dit brev. Du spørger, hvorledes jeg har det. Jo jeg
+    har det bra, men nu er her stille. Jeg gaar lange turer alene og
+    tænker paa meget. Mest paa det, at jeg gjerne vil gjøre noget
+    nyttigt i verden, ja jeg mener at hjælpe andre.
+     </p>
+     <p>
+      Det er nu ikke mere end fjorten dage til min konfirmation, og det
+    er meget alvorligt efter min mening. Mest gruer jeg for at gaa til
+    alters, fordi om jeg ikke er beredt. Og jeg har ogsaa meget at sy.
+    Men jeg maa dog fortælle dig noget rart. En dag kom Svend løbende
+    ind og sagde, at det var en ustyrtelig fin dame ude i gangen, som
+    spurgte efter mig. Du kan tro, jeg blev forbauset over, at en fin
+    dame skulde spørge efter mig. Og da jeg kom ud i gangen, stod der en
+    liden tyk udenlandsk dame, som smilte til begge ørene. Vil du tro,
+    jeg kjendte hende ikke. Og tænk, saa var det Hilleborg, som vi var
+    sammen med paa Blommedal. Hun kom lige fra [113] Paris, hvor hun har
+    været for at synge, ved du jo. Hun var i følge med en musiker, som
+    saa elendig ud med sort langt haar, og de vilde have koncert i byen.
+    Og tænk saa havde de koncert paa Raadstusalen. Musikeren dundrede
+    paa pianoet, og Hilleborg sang forfærdelig høit og klart og nydelig
+    – det rislede mig ned ad ryggen som koldt vand, saa deiligt var det,
+    hun sang baade fransk og italiensk, og de smaa øinene sine kastede
+    hun til alle kanter. Men hun var lige snild som paa Blommedal. Og
+    hun sagde, at hun skyldte dig sin lykke! Og hun sagde ogsaa, at hun
+    skulde blive en stjerne – det synes jeg for mit vedkommende maatte
+    være grusomt – men hun straalede forfærdelig i øinene. Hun boede hos
+    os, og hun sang salmer for papa, saa han græd. Tænk hun havde en
+    virkelig diamantnaal, som hun havde faat af en grevinde, og hun
+    sagde, at hun vist fik forfærdelig mange diamanter til i sit liv. Er
+    det ikke rart. Tænk jeg vilde ikke bryde mig det mindste om at faa
+    en diamantnaal, men alle mennesker siger jo ogsaa, at jeg er saa
+    rar. Du spørger efter Per Krafft. Han er reist, han ogsaa. Du
+    spørger, om jeg traf ham siden. Ja en gang. Da sagde han bare, at
+    han kom hjem til jul. Du kan tro, her er stille nu, og ingen gaar
+    noget videre paa gaden, og aldrig er jeg paa dampskibsbryggen mere.
+    Ingen er der. Du spørger ogsaa, om jeg tænker paa Per Krafft. Og det
+    maa jeg svare ja til, for du ved, at der kan komme mange tanker
+    gjennem ens hoved. Du læser vel og studerer, og jeg gaar her og gjør
+    [114] ingen ting, og det er ondt. Men jeg har bestemt mig til, at
+    jeg vil læse hele det nye testamente igjennem, inden jeg blir
+    konfirmeret. For det tror jeg, kanske vil hjælpe mig til at blive
+    mere forberedt. Tænk, du kan tro, Tilda er snild, hun syr en nydelig
+    toiletpude til mig. Og mor giver mig meget pent, nydelige
+    knapstøvler fik jeg igaar. Ellers har jeg bare havt snøresko. Til de
+    andre herrer ser jeg ingen ting, og ikke bryder jeg mig om det
+    heller. Elly og Milly spadserer med Tilda hver dag, men jeg gaar
+    meget alene, for du ved, jeg er ikke som de andre. Kjære Maren Anne,
+    du maa ikke glemme mig, fordi om jeg er rar og ingenting lærer.
+     </p>
+     <p>
+      Din
+      Annikken.
+     </p>
+     <p>
+      Es.
+      Du maa ikke fortælle nogen, at jeg sagde, at jeg tænker
+    lidt paa Per Krafft undertiden.
+     </p>
+    </quote>
+   </div>
+  
+   <div type="chapter" xml:id="annikkens-konfirmationsdag">
+    <head>
+     <ref target="#contents_14" xml:id="chapter_14">
+      Annikkens
+  konfirmationsdag
+     </ref>
+    </head>
+    <p>
+     [115] Konfirmationsdagen nærmede sig, og Annikken gruede ikke
+  længere saa meget, som hun før havde gjort.
+    </p>
+    <p>
+     Det var jo ikke noget leit, at hun skulde love at holde sig til
+  Gud. For det vilde hun gjøre hele sit liv, ja hele sit liv. Fra hun
+  var liden pige havde hun altid villet det, men nu siden Lina Græsvigs
+  død, vidste hun det saa soleklart, at hun vilde det. Det er da bedre
+  at vælge det, som er noget, end det som intet er, tænkte Annikken.
+    </p>
+    <p>
+     Og Maren Anne havde sagt, at hun nok skulde greie for hende, saa
+  hun kunde komme ud og lære noget i verden og blive til gavn for
+  andre.
+    </p>
+    <p>
+     Men hvad det skulde være, spekulerede Annikken paa hver eneste
+  dag.
+    </p>
+    <p>
+     Jeg passer ikke til at lave mad, tænkte hun, for jeg er saa
+  slumset, at jeg vilde slaa itu alt det stentøi og glas, jeg fik fat i.
+  Og ikke passer jeg til at lave saucer eller crémer heller, for saadan
+  fin mad kan
+  jeg
+      <ref target="#NOR0105_ton7" xml:id="NOR0105_backn7">
+      n7
+     </ref>
+     ikke like.
+    </p>
+    <p>
+     [116] Og ikke passer jeg til at sidde og skrive paa et kontor, for
+  da er jeg sikker paa, jeg ikke kunde puste tilslut. Og læse med
+  smaabarn er jeg ikke taalmodig nok til, jeg kom til at jule dem op
+  fort væk allesammen.
+    </p>
+    <p>
+     Og blive student som Maren Anne er komplet umuligt, for jeg har jo
+  ikke hoved.
+    </p>
+    <p>
+     Nei Annikken vidste ingen ting, hun passede til.
+    </p>
+    <p>
+     Havde jeg været gut, tænkte Annikken mismodig, saa vilde jeg blevet
+  sjømand. Ja enten sjømand eller præst. For det maatte være deiligt
+  ligesom far, at gaa rundt og trøste og hjælpe alle dem, der var syge
+  og rædde og skulde dø. Forresten maatte det være noksaa gjildt at staa
+  og præke paa prædikestolen ogsaa, tænkte Annikken.
+    </p>
+    <p>
+     Men det er jo noget tøv, for jeg er jo bare en pige. Og Annikken
+  tænkte efter, hvad det var, hun kunde bedst i verden, og det var at
+  ro, sage ved og lære digte udenad.
+    </p>
+    <p>
+     Men ingen af de tre ting, kunde jo hjælpe hende til at blive noget
+  i verden.
+    </p>
+    <p>
+     Det var lørdagen før konfirmationsdagen. Alle de yngre søskenderne
+  var umaadelig interesserede i alle de buketter og presenter, der lidt
+  efter lidt arriverede. Alle gutterne havde sin faste udkigsplads paa
+  hjørnet af huset, hvis de saa nede i gaden, saa en buket i det fjerne,
+  løb de hovedkuls over hinanden ind for at melde dens ankomst.
+    </p>
+    <p>
+     «Buket fra Svendsens, Annikken.»
+    </p>
+    <p>
+     «Du, en diger buket fra fru Holm, Annikken.»
+    </p>
+    <p>
+     [117] «En pige med en hvid pakke, Annikken, present kan du
+  vide.»
+    </p>
+    <p>
+     Og Magna holdt alle veninderne nedigjennem gaderne à jour med, hvor
+  mange broscher Annikken havde faat.
+    </p>
+    <p>
+     «Nu har hun faat tre,» meldte Magna.
+    </p>
+    <p>
+     «Nu har hun faat fem.»
+    </p>
+    <p>
+     Tilslut laa hun flad nedover gaden for at melde, at nu var den
+  ottende brosche ankommet.
+    </p>
+    <p>
+     «Aa gid,» sagde alle Magnas veninder.
+    </p>
+    <p>
+     Der var kommet guldarmbaand fra Ebbas forældre og koraller fra
+  Maren Anne.
+    </p>
+    <p>
+     «Det er saa altfor fint, hvad skal jeg med denslags,» sagde
+  Annikken.
+    </p>
+    <p>
+     Der blev bagt og stegt i kjøkkenet, og der lugtede rent og festligt
+  over det hele hus med rene gardiner og blankpudsede ovne. Og Tilda
+  lukkede sig inde paa sit værelse for at sy paa spræng paa den nydelige
+  toiletpude til Annikken.
+    </p>
+    <p>
+     Annikken følte sig saa besynderlig rar, ligesom det slet ikke var
+  hende, der gik omkring og var hovedpersonen, men et andet ufølsomt
+  menneske, der idag var stukket i den storrudede kjole. Ikke gruede hun
+  mere, ikke var hun glad, og ikke bedrøvet heller, det var ligesom det
+  hele slet ikke angik hende. Men skulde hun valgt, saa vilde hun
+  igrunden nødig have undværet det ogsaa.
+    </p>
+    <p>
+     Om aftenen ved husandagten bad faderen særskilt for hende, som
+  imorgen skulde aflægge det alvorlige løfte. Og det likte hun nok godt,
+  men det var saa [118] leit, at alle brødrene og Magna stirrede paa
+  hende for at se, hvorledes hun tog det.
+    </p>
+    <p>
+     Og faderen klappede hende paa hovedet, da hun sagde godnat og
+  sagde: «Gud velsigne dig» – og det var ogsaa saa rart.
+    </p>
+    <p>
+     Den næste dag var det stygt veir, graa, drivende skyer, regnslabs
+  og søle og gule nedfaldne blade. En for en kom konfirmanderne gaaende
+  til kirken. Smaa gutter i altfor store klæder med hansker paa
+  hænderne, som de aldrig før havde havt. Smaapigerne var gjennemgaaende
+  større med sorte kjoler og hvide skjørter, som bragede, naar de gik,
+  krøllet og mærkelig udpyntet paa hovedet. Havde de baade fader og
+  moder gik de midt imellern begge forældrene. Var faderen tilsjøs, kom
+  moderen alene pyntet i schawl og forkavet, men høitidens præg var der
+  dog. Alle saa paa konfirmanderne, naar de kom ind i den tætpakkede
+  kirke. Men konfirmanderne saa straks ned i sine nye salmebøger.
+    </p>
+    <p>
+     Annikken havde ikke faat ny salmebog. Moderen fandt nemlig, at
+  Tildas fra ifjor sandelig var akkurat som ny. Tilda havde rigtignok
+  revet spænden af den og sat den paa igjen med en knappenaal, men det
+  var næsten umuligt at se. Ikkedestomindre plagede den knappenaal
+  Annikken. Hun vilde ikke tænke paa den, men naar hun aabnede
+  salmebogen, var tanken paa knappenaalen der straks igjen.
+    </p>
+    <p>
+     Og salmerne bruste henover de tætpakkede hoveder.
+    </p>
+    <p>
+     [119] Og de sang: Engang de ud fra fædrebo skal om i verden vanke
+  –
+    </p>
+    <p>
+     Da græd alle forældrene, men konfirmanderne græd ikke, for de
+  vidste jo endda ikke, hvad det var at vanke om i verden.
+    </p>
+    <p>
+     Og Annikken sad der med de troskyldige øine og det brede ansigt og
+  bad: Hjælp mig Gud – hjælp mig! For hun syntes, hun var saa uværdig og
+  saa liden.
+    </p>
+    <p>
+     Hun sad øverst af konfirmanderne, og allesammen saa paa hende, og
+  de fleste tænkte: Hun er lidet pen – men det var dog ogsaa nogle, der
+  tænkte: Hun er ikke værst den der, hun reddede døve Kjerstine fra at
+  brænde inde her nylig. Og pastoren talte. Og han talte om det, som han
+  havde sagt til Annikken hin aften, Lina Græsvig døde.
+    </p>
+    <p>
+     «Hold eder til Gud, for alt andet svinder!»
+    </p>
+    <p>
+     Han havde evne til at gribe og røre sindene, det var som en
+  bevægelse i kirken af graad, af suk, af betagethed.
+    </p>
+    <p>
+     Men oppe paa koret sad Magna med en jevnaldrende veninde; da der
+  engang var en liden pause i faderens præken, hviskede hun hastig:
+    </p>
+    <p>
+     «Hun har faat uhr.»
+    </p>
+    <p>
+     Det havde nemlig været et meget omtvistet spørgsmaal, om hvorvidt
+  Annikken skulde faa uhr eller ei til konfirmationen.
+    </p>
+    <p>
+     Først da de kom op til alteret, begyndte konfirmanderne [120] at
+  græde, tætpakkede, opløste af varme og graad og øieblikkets
+  stemning.
+    </p>
+    <p>
+     «Saa giv nu da Gud dit hjerte og mig din haand,» sagde faderen, og
+  Annikken bøiede knæ ved alteret, saa underlig betaget. Alting var saa
+  stort og saa rart og saa deiligt. Da hun reiste sig op, saa hun glad
+  henover alle de andre.
+    </p>
+    <p>
+     Tænk, at hun havde gruet for dette, som var det deiligste, hun
+  endda havde oplevet!
+    </p>
+    <p>
+     Hjemme var der saa stille og saa høitideligt og alle tog hende i
+  haanden, pigerne ogsaa. Hun sad ved siden af faderen ved bordenden, og
+  smaasøskenderne talte sagte ved bordet, af bare høitidelighed.
+    </p>
+    <p>
+     Om eftermiddagen kom visitterne. Den halve by kom der. Annikken var
+  fortvilet over at være hovedpersonen og stod flammende rød og generet
+  midt paa gulvet. Folk trykkede og trængte, pigerne svingede sig frem
+  med store chokoladebretter, og der var et sur og et snak og en latter
+  –
+    </p>
+    <p>
+     Udenfor silede regnen ned, men vinduerne var duggede indenfor af
+  varmen, hele den store gang var fuld af drivvaade paraplyer, af vaade
+  ben og galoscher.
+    </p>
+    <p>
+     I sofaerne tronede byens fineste fruer i visithatte og hansker.
+  Pludselig saa Annikken madame Tausen i døren. Hatten sad paa skjeve,
+  og det ene øie knebet igjen.
+    </p>
+    <p>
+     Hun vakte en del forbauselse, hun var ellers sjelden at se ved
+  denslags anledninger.
+    </p>
+    <p>
+     «Hvor er konfirmanden, hvor er min egen jente,» raabte madame
+  Tausen.
+    </p>
+    <p>
+     [121] Passiaren tystnede af, for at de bedre kunde høre, hvad
+  madame Tausen sagde.
+    </p>
+    <p>
+     «Gratulerer med handlingen,» sagde madame Tausen, «og Guds
+  velsignelse paa veien, kraft og mod og hjertelag har Han givet dig paa
+  vuggen – hvad vil du saa mer?»
+    </p>
+    <p>
+     Madame Tausen klappede Annikken paa skulderen:
+    </p>
+    <p>
+     «Og hilsen fra Per! Han skriver til mig: Tante, skriver han, kjøb
+  en ting til Annikken, det peneste, du finder, skriver han. Og jeg har
+  været i begge guldsmedbuerne – og her har du det fineste, jeg
+  fandt!»
+    </p>
+    <p>
+     Annikken var blevet blodrød under denne madame Tausens tale, og saa
+  for sine øine en tyk guldring med en blaa sten. Den var smagløs, men
+  Annikken fandt den nydelig.
+    </p>
+    <p>
+     «Sæt den paa dig straks,» sagde madame Tausen, «jeg tog den stor,»
+  vedblev hun, «for jeg ved, du har store hænder, ikke noget
+  pjankeri.»
+    </p>
+    <p>
+     Saa kom madame Tausen tilsæde mellem fruerne og blev med en eneste
+  gang dame.
+    </p>
+    <p>
+     Det kunde stikke hende undertiden, og der sad hun og talte fint.
+  Men ret, som det var, dumpede hun uforvarende tilbage igjen.
+    </p>
+    <p>
+     Hun fortalte den lyttende kreds af damer, to konsulsfruer med
+  stanglorgnetter om et barn, der nylig var død meget pludselig.
+    </p>
+    <p>
+     «Barnet lagde sig friskt og raskt om aftenen,» fortalte madame
+  Tausen meget pyntelig, men her blev hun grebet af sit emne – «aa om
+  maaraen, [122] saa laa ungen dau,» fortsatte madame Tausen med den
+  største freidighed. Stanglorgnetterne viftede sig nervøst og borte i
+  krogen knisede gutterne.
+    </p>
+    <p>
+     Svend, Erik og Nils havde væddet om, hvor mange kopper chokolade og
+  glas vin, de kunde drikke, de havde sine egne private oplag af
+  kransekage bag blomsterpotterne i vinduskarmene og syntes, at
+  konfirmation var den største moro, som fandtes i verden.
+    </p>
+    <p>
+     «Skynd dig og konfirmer dig, du ogsaa snart,» sagde Svend til
+  Magna.
+    </p>
+    <p>
+     «Ja, gid det var saa vel,» sagde Magna. Hun eiede aldeles ikke
+  Annikkens sky for at blive voksen. «Aa gid, tænk at faa uhr og egen
+  paraply!» sagde Magna.
+    </p>
+    <p>
+     Og lidt efter lidt tømtes værelserne for de fremmaede, der blev
+  ikke andre igjen end gamle frøken Weyergang med falskt pandehaar og
+  strikkepose, hun skulde være til aftens.
+    </p>
+    <p>
+     «Ja nu er du voksen, barn,» sagde gamle frøken Weyergang til
+  Annikken, «og nu begynder moroen, men nu begynder ogsaa sorgerne, og
+  jo ældre du blir, blir det mere af det sidste og mindre af det første
+  – men endda vilde jeg ikke være paa din alder, barn,» frøken Weyergang
+  slog fra sig med begge hænder:
+    </p>
+    <p>
+     «Bevare mig vel – nei nei –»
+    </p>
+    <p>
+     Saa var Annikken konfirmeret og gik ud i livet.
+    </p>
+   </div>
+ 
+   <div type="chapter" xml:id="slutning">
+    <head>
+     <ref target="#contents_15" xml:id="chapter_15">
+      Slutning
+     </ref>
+    </head>
+    <p>
+     [123] Tiden var gaaet sin gang dernede i den lille by mellem de
+  graa heier. Havet havde dundret i vinterstormene, kastet taarnhøie
+  skumsprøit over de yderste skjær og stormen revet i de store
+  lønnetræer rundt Annikkens hjem, saa de klagede og vred sig, medens de
+  smaa gader var endda tommere for folk end ellers, og alle
+  skipperkonerne, og de, der havde nogen paa havet, vandrede oppe om
+  nætterne og saa paa sjøen, naar den rasede som værst.
+    </p>
+    <p>
+     Naar vestenvinden blæste, og solen skinnede, vandrede Elly og Milly
+  og Karen og alle de andre unge piger arm i arm rundt i de smaa gader,
+  stængte veien, saa mange gik de i bredden og lukkede bare øienlaagene
+  igjen, naar nogen hilste paa dem. Men sig imellem havde de megen moro
+  med hvisk og tisk og store hemmeligheder, og mange kokette øiekast
+  blev kastet ind til handelsbetjentene, der kikkede efter dem mellem de
+  sirlig foldede tøier og bundter af skinnende galoscher i
+  butiksvinduerne.
+    </p>
+    <p>
+     Tilda var kommet til Kristiania for at lære noget [124] og se sig
+  om ude i verden. Svend var ogsaa kommet derind paa skole. Præsten
+  havde ondt for at klare de store udgifter, sukkede ofte og stirrede
+  langt ud for sig med det lange, vemodige ansigt.
+    </p>
+    <p>
+     Moderen gik bred og tryg: «Det klarer sig nok, far, tag dig ikke
+  nær af det.»
+    </p>
+    <p>
+     Der var stille og lyst i de store stuer, gutterne og Magna tegnede
+  hoveder i de gamle, afslidte vinduskarmer i barneværelserne og
+  spikkede i dem ogsaa – bare for at prøve knivene – og sloges i
+  spisestuen, luggede hinanden, og var lige gode venner to sekunder
+  efter.
+    </p>
+    <p>
+     Men aldrig i faderens nærværelse. Der var der altid ro. Det var som
+  en luftning af noget stille, godt, der altid fulgte ham. Inderst inde
+  i de viltre, vilde barn var der altid et saart punkt for faderen. De
+  stod paa vagt som en mur, naar det var noget, der gjaldt ham, naar
+  nogen havde smilet af hans underlige væsen, eller bare trukket paa
+  skuldrene.
+    </p>
+    <p>
+     Annikken især, da kunde det flamme op i de lyse øine, og der rørte
+  sig noget for hendes bryst, som noget levende.
+    </p>
+    <p>
+     Hun var endda hjemme, turen til at komme ud, var endda ikke rukket
+  saa langt som til hende. Annikken spekulerede undertiden paa, om den
+  ogsaa nogengang vilde komme.
+    </p>
+    <p>
+     Erik og Nils voksede til og maatte jo ud og lære noget. Og mor
+  trængte ogsaa nogen til at være hjemme og hjælpe hende i det store
+  hus.
+    </p>
+    <p>
+     [125] Maren Anne havde skrevet og skrevet om, at Annikken maatte
+  faa komme ud, se livet og lære.
+    </p>
+    <p>
+     Da havde faderen klappet hende paa hovedet:
+    </p>
+    <p>
+     «Ja ja, Annikken, det blir nok en raad –»
+    </p>
+    <p>
+     Annikken svælgte noget tykt i halsen, og kunde ikke se op.
+    </p>
+    <p>
+     Igrunden var det jo skam af hende, at hun gik saadan og længtes ud.
+  Hun havde jo et deiligt hjem. I og for sig var det ikke egentlig det
+  at komme ud heller, Annikken længtes efter. Det var blot for at lære
+  og blive nyttig.
+    </p>
+    <p>
+     Naar saa moderen en dag kunde sige: «Hvorledes skulde jeg hjælpe
+  mig uden dig, Annikken.»
+    </p>
+    <p>
+     Saa følte Annikken sig lykkelig, til atter de saare tanker kom
+  tilbage.
+    </p>
+    <p>
+     Per Krafft havde blot en gang været hjemme siden hin sommer.
+  Annikken havde glædet sig til, han skulde komme. Hun regnede: Nu er
+  det fire og tre og to uger, til han kommer. Saa blev det bare en dag,
+  og saa kom han.
+    </p>
+    <p>
+     Den første gang Annikken saa ham, vendte hun lynsnart om og pilede
+  opover en anden gade. For det var saa forferdelig leit at møde
+  ham.
+    </p>
+    <p>
+     Den næste gang, hun traf ham, kunde hun ikke se sikkert paa ham.
+  For han var saa smilende i øinene og saa længe paa hende.
+    </p>
+    <p>
+     «Saadan er det altsaa, du ser ud,» sagde han, «jeg kunde ikke faa
+  fat paa dit ansigt, naar jeg tænkte paa dig.»
+    </p>
+    <p>
+     [126] Aa, at han havde tænkt paa hende, og tænk, at han havde sagt
+  det!
+    </p>
+    <p>
+     Annikken straalede. Om aftenen havde hun fremme den store ring med
+  den blaa sten. Hun satte den paa fingeren og havde den paa, medens hun
+  klædte sig af. Hun brugte den ellers aldrig. En gang, hun havde den
+  paa, havde Elly og Milly og Tilda leet og ærtet hende.
+    </p>
+    <p>
+     Dagen efter kom den ikke paa, men blev lagt i rød bomuld inderst i
+  hendes skuffe.
+    </p>
+    <p>
+     «Hvorfor bruger du ikke ringen, Annikken,» sagde saa Per Krafft en
+  dag.
+    </p>
+    <p>
+     «Aa –»
+    </p>
+    <p>
+     Han gjentog sit spørgsmaal, ivrig, han vilde vide det.
+    </p>
+    <p>
+     «Det passer mig ikke at gaa med ring.»
+    </p>
+    <p>
+     «For noget tøv, skal jeg tage den igjen kanske?»
+    </p>
+    <p>
+     «Nei,» sagde hun og smilte. Saa kunde hun igjen se ham lige ind i
+  øinene.
+    </p>
+    <p>
+     Han var anderledes mod hende end mod de andre unge piger. Han holdt
+  aldrig skøi med hende.
+    </p>
+    <p>
+     «Det er blot, fordi jeg ikke er morsom,» tænkte Annikken
+  mismodig.
+    </p>
+    <p>
+     Men han søgte hendes selskab alligevel, laante hende bøger, og da
+  han reiste den gang, bad han om hendes billede.
+    </p>
+    <p>
+     Annikken blev blodrød. Aa – hun havde bare et grusomt et, fra før
+  hun blev konfirmeret, med stramt haar og en liden flette.
+    </p>
+    <p>
+     «Lad mig bare faa det, sagde Per Krafft. Da [127] Annikken saa, at
+  han lagde det gamle barnebillede i sin tegnebog, kom der en saadan
+  underlig tryg følelse over hende.
+    </p>
+    <p>
+     «Tænk, jeg tror, han liker mig,» hviskede hun sagte til sig selv,
+  naar hun gik alene oppe i heien.
+    </p>
+    <p>
+     Men da maatte hun være rigtig, rigtig langt fra folk.
+    </p>
+    <p>
+     En stund efter han var reist, sendte han hende sit billede igjen
+  med sit skarpe, kloge ansigt og de smilende øine.
+    </p>
+    <p>
+     Det blev lagt inderst i Annikkens skuffe sammen med ringen i den
+  røde bomuld.
+    </p>
+    <p>
+     Men naar de unge piger var sammen og spillede femkort om herrer, og
+  det var Annikkens tur, raabte de alle i kor:
+    </p>
+    <p>
+     «Per Krafft – Per Krafft.»
+    </p>
+    <p>
+     Men altid med latter, ligesom de undrede sig og gjorde nar.
+    </p>
+    <p>
+     Annikken blev rød og saa saa underlig generet paa dem alle.
+    </p>
+    <p>
+     – Saa var det en dag i slutten af september. Det havde sat ind med
+  regn, den ene dag efter den anden det samme tungsindige veir, skyerne
+  hang lavt og regnet silede ned i skraa strømme.
+    </p>
+    <p>
+     Der skulde bestilles nogen æbler paa en gaard, der laa lidt op i
+  fjorden. Men naar man gik over heierne, var det kun et ganske kort
+  stykke at ro.
+    </p>
+    <p>
+     Annikken bad om at faa ro afsted. «Jeg længes efter at komme ud og
+  røre armene mine,» sagde hun.
+    </p>
+    <p>
+     [128] «Ja, ja da,» sagde moderen, «men kom hjem, før det
+  mørkner.»
+    </p>
+    <p>
+     – Men den aften mørknede aldrig for Annikken Præstgaren.
+    </p>
+    <p>
+     Hun blev borte paa sjøen paa det lille stykke vei over til
+  Vasviggaardene. Det var sjø, men ikke noget at tale om. Omtrent
+  midtfjords fik hun se en liden fillepram, der arbeidede sig op mod
+  sjøerne længer ude. Der var en kone og et barn i prammen, og det saa
+  ud, som de ikke godt kunde klare sig. Annikken holdt ned mod dem. De
+  raabte, da hun kom nærmere. Prammen var halvfuld af vand, og de havde
+  en stor bør med flis agter, og konen orkede ikke at ro længer.
+    </p>
+    <p>
+     Før Annikken naaede dem, gik prammen rundt, og konen og barnet laa
+  begge i vandet. Hun fik forholdsvis fort gutten trukket op, men konen
+  var det hende ikke mulig at faa tag i.
+    </p>
+    <p>
+     «Ro efter mig,» sagde hun til gutten. Og saa sprang Annikken paa
+  sjøen.
+    </p>
+    <p>
+     Hvorledes det gik for sig ved ingen, men Annikken og konen blev
+  begge
+  borte.
+      <ref target="#NOR0105_ton8" xml:id="NOR0105_backn8">
+      n8
+     </ref>
+    </p>
+    <p>
+     Gutten i baaden blev seet fra Vasviggaardene og fik hiælp der. Han
+  fortalte.
+    </p>
+    <p>
+     «Hun sprang lige lukt paa sjøen og svømmede efter a mor,» græd
+  gutten, «siden saa jeg bare fletten paa hende Annikken en gang.»
+    </p>
+    <p>
+     Manden paa Vasvig kom med budskabet op paa præstens kontor. Han
+  stod saa stilt indfor døren.
+    </p>
+    <p>
+     «Jeg har nok en ting at melde,» sagde han lavt.
+    </p>
+    <p>
+     [129] «Sid ned, sid ned Anton Vasvig,» sagde præsten venlig.
+    </p>
+    <p>
+     «Præsten faar tage det rolig, for en ved jo, hvem der sender
+  døden.»
+    </p>
+    <p>
+     «Hvem er det, Anton Vasvig?» Præstens stemme var klar, men den
+  skalv.
+    </p>
+    <p>
+     «Det er dattera Deres, hende Annikken, dem kalder.»
+    </p>
+    <p>
+     «Er hun død?»
+    </p>
+    <p>
+     «Ja – hun ligger i sjøen ret ud for Vasviggaardene.
+    </p>
+    <p>
+     Det var akkurat to timer efter, hun var roet afsted for at røre paa
+  de kraftige armene sine.
+    </p>
+    <p>
+     Det hele hus var i en jammer. Gutterne og Magna græd ikke, de
+  hylte, kastede sig over moderen og faderen:
+    </p>
+    <p>
+     «Det er ikke sandt, sig at det ikke er sandt, Annikken som var saa
+  græsselig snild.»
+    </p>
+    <p>
+     Faderen strøg dem stilt over haaret, men indi sig tænkte han:
+    </p>
+    <p>
+     Og altid skal man ofre det kjæreste.
+    </p>
+    <p>
+     Der blev soknet efter hende, og hun blev straks fundet. Hun stod
+  næsten ret op og ned i vandet indved et lidet skjær med fast foldede
+  hænder. Konen, hun havde ofret sit liv for at redde, fandt de ikke.
+  Hun var taget af strømmen og ført tilhavs.
+    </p>
+    <p>
+     Det var et stort følge, der fulgte Annikken Præstgaren. Koner og
+  barn og sjøfolk, og foran kisten blev der baaret to store flag.
+    </p>
+    <p>
+     [130] Det var ikke netop saa mange, der havde kjendt hende, men det
+  var jo det, hun havde ofret sit liv.
+    </p>
+    <p>
+     Faderen og moderen og alle søskenderne gik lige efter kisten, de
+  kunde ikke fatte, at det var deres stærke Annikken, der blev baaret
+  foran dem i den trange kiste.
+    </p>
+    <p>
+     Langt bag i følget blev folk forbauset over at se Per Krafft. Var
+  da han hjemme paa denne tid af aaret. Han talte ikke med nogen, og
+  natten efter reiste han igjen.
+    </p>
+    <p>
+     Nede paa den dybe, bortgjemte kirkegaard, hvor det susede saa stilt
+  i de store, afbladede træer, der blev Annikken sænket ned.
+    </p>
+    <p>
+     Og faderen stod der med det vemodige blik og talte: «Hun har altsaa
+  alt gjort sin gjerning her paa jorden og er gaaet bort til de lyse
+  lande. Det store ord skal siges om hende, der fandtes ikke svig i
+  hendes sjæl! I døden var hænderne foldet til bøn – nu seiren er vunden
+  – og himlen i eie.»
+    </p>
+    <p>
+     De gule aspeblade dalede saa blødt og sagte, medens salmen blev
+  sunget.
+    </p>
+    <p>
+     – Det var Annikken Præstgarens korte livs saga.
+    </p>
+   </div>
+   </body>
+   <back>
+     <div type="notes">
+   <p>
+    Noter:
+   </p>
+   
+     <note target="#NOR0105_backn1" xml:id="NOR0105_ton1">
+     n1. «– han]
+    rettet fra:
+    – han
+    (trykkfeil)
+    </note>
+   
+     <note target="#NOR0105_backn2" xml:id="NOR0105_ton2">
+     n2. andre.]
+    rettet fra:
+    andre
+    (trykkfeil)
+    </note>
+    
+   
+   
+     <note target="#NOR0105_backn3" xml:id="NOR0105_ton3">
+     n3. reise.»]
+    rettet fra:
+    reise.«
+    (trykkfeil)
+    </note>
+    
+   
+   
+     <note target="#NOR0105_backn4" xml:id="NOR0105_ton4">
+     n4. hele.»]
+    rettet fra:
+    hele.«
+    (trykkfeil)
+    </note>
+    
+   
+  
+     <note target="#NOR0105_backn5" xml:id="NOR0105_ton5">
+     n5. vilde?»]
+    rettet fra:
+    vilde?
+    (trykkfeil)
+    </note>
+    
+   
+ 
+     <note target="#NOR0105_backn6" xml:id="NOR0105_ton6">
+     n6. noget.»]
+    rettet fra:
+    noget.«
+    (trykkfeil)
+    </note>
+    
+   
+   
+     <note target="#NOR0105_backn7" xml:id="NOR0105_ton7">
+     n7. jeg]
+    rettet fra:
+    eg
+    (trykkfeil)
+    </note>
+    
+   
+  
+     <note target="#NOR0105_backn8" xml:id="NOR0105_ton8">
+     n8. borte]
+    rettet fra:
+    horte
+    (trykkfeil)
+    </note>
+    
+   
+     </div>
+   <div type="liminal">
+     <p>
+    Dikken Zwilgmeyers
+    Annikken
+Præstgaren
+    er lastet ned gratis fra
+    <ref target="http://bokselskap.no/">
+     bokselskap.no
+    </ref>
+   </p>
+   </div>
+   </back>
+ </text>
+</TEI>
