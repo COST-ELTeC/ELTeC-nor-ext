@@ -6,7 +6,7 @@
     <title>
      Angsten ELTeC-utgaven
     </title>
-    <author ref="47005668 https://www.wikidata.org/wiki/Q3498167">
+     <author ref="https://viaf.org/viaf/47005668/ https://www.wikidata.org/wiki/Q3498167">
      Elvestad, Sven (1884-1934)
     </author>
     <respStmt>
@@ -36,7 +36,7 @@
    </publicationStmt>
    <sourceDesc>
     <bibl type="digitalSource">
-     <ref target="Bokselskapet.no">
+      <ref target="https://www.bokselskap.no/boker/angsten/tittelside">
       Teksten i bokselskap.no følger 1. utgave, 1910 (Kristiania/Aschehoug) 
 og er basert på digital tekstversjon ved Øystein Tvede.
      </ref>

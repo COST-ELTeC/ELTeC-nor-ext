@@ -6,7 +6,7 @@
     <title>
      Kvinden Skabt af Manden ELTeC-utgaven
     </title>
-    <author ref="Q3143008 https://www.wikidata.org/wiki/Q334200">
+     <author ref="https://viaf.org/viaf/79414014/ https://www.wikidata.org/wiki/Q3143008">
      Garborg, Hulda (1862-1934)
     </author>
     <respStmt>
@@ -36,7 +36,7 @@
    </publicationStmt>
    <sourceDesc>
     <bibl type="digitalSource">
-     <ref target="https://www.bokselskap.no/boker/albertine/tittelside">
+      <ref target="https://www.bokselskap.no/boker/kvindenskabtafmanden/tittelside">
       Digitaliseringen er basert på fil mottatt fra Nasjonalbiblioteket.
 Korrekturlest og tilrettelagt av OsloMet-studentene Ole-Jørgen Haugen, Alexandra Emilie Lindh og Erik Silkoset, høsten 2021.
      </ref>

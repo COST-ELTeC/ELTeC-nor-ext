@@ -6,7 +6,7 @@
     <title>
      Albertine ELTeC-utgaven
     </title>
-    <author ref="14858502 https://www.wikidata.org/wiki/Q334200">
+     <author ref="https://viaf.org/viaf/14858502/ https://www.wikidata.org/wiki/Q334200">
      Krogh, Christian (1852-1925)
     </author>
     <respStmt>
@@ -6320,14 +6320,14 @@ mottatt fra Nasjonalbiblioteket (nb.no)
   </body>
    <back>
      <div type="notes">
-   <p>
+   
      <note xml:id="NOR0101_backn1">
        rettet fra:
        kun
     </note>
-    .
+   </div>
 
-   </p>
+   <div>
    <p>
     Christian Krohgs
     Albertine
@@ -6337,7 +6337,7 @@ lastet ned gratis fra
      bokselskap.no
     </ref>
    </p>
-     </div>
+   </div>
    </back>
  </text>
 </TEI>
